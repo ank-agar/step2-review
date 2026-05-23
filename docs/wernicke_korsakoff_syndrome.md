@@ -1,4 +1,4 @@
-## Wernicke-Korsakoff syndrome
+# Wernicke-Korsakoff syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK537192/bin/Mammillary__Figure__1.jpg)
 

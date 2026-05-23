@@ -1,4 +1,4 @@
-## Microscopic colitis
+# Microscopic colitis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/40/ds00104_-ds00598_-ds00705_-ds00736_-ds00797_-ds00824_-ds00825_-ds01195_-my00141_-my00312_im00235_d7_colonrectalthu_jpg.jpg)
 

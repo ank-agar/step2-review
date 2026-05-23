@@ -1,4 +1,4 @@
-## Otitis externa
+# Otitis externa
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19697.jpg)
 

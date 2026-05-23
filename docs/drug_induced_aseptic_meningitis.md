@@ -1,4 +1,4 @@
-## Drug-induced aseptic meningitis
+# Drug-induced aseptic meningitis
 
 ![Image](https://training.seer.cancer.gov/images/brain/meninges.jpg)
 

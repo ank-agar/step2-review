@@ -1,4 +1,4 @@
-## Tinea corporis
+# Tinea corporis
 
 ![Image](https://images.medicinenet.com/images/featured/detail_ringworm1.jpg)
 

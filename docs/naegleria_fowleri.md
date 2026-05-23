@@ -1,4 +1,4 @@
-## Naegleria fowleri
+# Naegleria fowleri
 
 ![Image](https://www.cdc.gov/dpdx/freelivingamebic/modules/Nfowleri_LifeCycle_19.jpg?_=72757)
 

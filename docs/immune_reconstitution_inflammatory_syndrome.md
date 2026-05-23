@@ -1,4 +1,4 @@
-## Immune reconstitution inflammatory syndrome
+# Immune reconstitution inflammatory syndrome
 
 ![Image](https://img.grepmed.com/uploads/14309/hiv-iris-62-original.png)
 

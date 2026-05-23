@@ -1,4 +1,4 @@
-## Group A Streptococcus
+# Group A Streptococcus
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK606314/bin/sequelae-Image016.jpg)
 

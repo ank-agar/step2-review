@@ -1,4 +1,4 @@
-## Bell palsy
+# Bell palsy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bells_palsy_diagram.svg/330px-Bells_palsy_diagram.svg.png)
 

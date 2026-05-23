@@ -1,4 +1,4 @@
-## High-output heart failure
+# High-output heart failure
 
 ![Image](https://www.ccjm.org/content/ccjom/92/6/362/F1.large.jpg)
 

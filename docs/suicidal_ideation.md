@@ -1,4 +1,4 @@
-## Suicidal ideation
+# Suicidal ideation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/68/Suicide-risk_factors-protective_factors.PNG)
 

@@ -1,4 +1,4 @@
-## Thermal injury
+# Thermal injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bd/Burn_Degree_Diagram.png)
 

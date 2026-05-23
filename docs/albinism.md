@@ -1,4 +1,4 @@
-## Albinism
+# Albinism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK590568/bin/oca-oa-ov-Image001.jpg)
 

@@ -1,4 +1,4 @@
-## Dyspepsia
+# Dyspepsia
 
 ![Image](https://anatomytool.org/sites/default/files/16795-307.jpg)
 

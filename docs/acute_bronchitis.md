@@ -1,4 +1,4 @@
-## Acute bronchitis
+# Acute bronchitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3c/Acute-bronchitis.jpg)
 

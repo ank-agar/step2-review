@@ -1,4 +1,4 @@
-## Granulomatous enterocolitis
+# Granulomatous enterocolitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d8/Crohn%27s_Disease_Mechanism.png)
 

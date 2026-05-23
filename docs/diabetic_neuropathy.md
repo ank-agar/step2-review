@@ -1,4 +1,4 @@
-## Diabetic neuropathy
+# Diabetic neuropathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/04/Blausen_0311_DiabeticNeuropathy.png)
 

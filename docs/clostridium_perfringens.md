@@ -1,4 +1,4 @@
-## Clostridium perfringens
+# Clostridium perfringens
 
 ![Image](https://mdpi-res.com/microorganisms/microorganisms-12-01610/article_deploy/html/images/microorganisms-12-01610-g004-550.jpg)
 

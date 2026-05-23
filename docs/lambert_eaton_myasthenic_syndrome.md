@@ -1,4 +1,4 @@
-## Lambert-Eaton myasthenic syndrome
+# Lambert-Eaton myasthenic syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Neuromuscular_junction_detailed_view.svg/1280px-Neuromuscular_junction_detailed_view.svg.png)
 

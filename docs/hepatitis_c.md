@@ -1,4 +1,4 @@
-## Hepatitis C
+# Hepatitis C
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/96/HCV_structure.png)
 

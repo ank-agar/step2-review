@@ -1,4 +1,4 @@
-## Gas exchange
+# Gas exchange
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cross_section_of_an_alveolus_and_capillaries_showing_diffusion_of_gases.svg/1280px-Cross_section_of_an_alveolus_and_capillaries_showing_diffusion_of_gases.svg.png)
 

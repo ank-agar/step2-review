@@ -1,4 +1,4 @@
-## Eastern equine encephalitis virus
+# Eastern equine encephalitis virus
 
 ![Image](https://www.cdc.gov/eastern-equine-encephalitis/media/images/EEETransmissionCycle16.9.png)
 

@@ -1,4 +1,4 @@
-## Retinitis pigmentosa
+# Retinitis pigmentosa
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e8/1414_Rods_and_Cones.jpg)
 

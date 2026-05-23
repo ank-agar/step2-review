@@ -1,4 +1,4 @@
-## Pituitary apoplexy
+# Pituitary apoplexy
 
 ![Image](https://freesvg.org/img/Pituitary-gland.png)
 

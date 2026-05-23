@@ -1,4 +1,4 @@
-## Myocardial rupture
+# Myocardial rupture
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Heart_diagram-en.svg)
 

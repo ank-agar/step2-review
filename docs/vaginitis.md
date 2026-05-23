@@ -1,4 +1,4 @@
-## Vaginitis
+# Vaginitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8b/Vaginitis.png)
 

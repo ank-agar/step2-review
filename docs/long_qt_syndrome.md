@@ -1,4 +1,4 @@
-## Long QT syndrome
+# Long QT syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Electrocardiograph_complex.svg/1280px-Electrocardiograph_complex.svg.png)
 

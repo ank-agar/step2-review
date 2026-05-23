@@ -1,4 +1,4 @@
-## Carpal tunnel syndrome in pregnancy
+# Carpal tunnel syndrome in pregnancy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Carpal-Tunnel.svg/960px-Carpal-Tunnel.svg.png)
 

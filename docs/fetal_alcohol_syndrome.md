@@ -1,4 +1,4 @@
-## Fetal alcohol syndrome
+# Fetal alcohol syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/21723.jpg)
 

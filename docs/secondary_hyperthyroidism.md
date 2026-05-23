@@ -1,4 +1,4 @@
-## Secondary hyperthyroidism
+# Secondary hyperthyroidism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Thyroid_system.svg/960px-Thyroid_system.svg.png)
 

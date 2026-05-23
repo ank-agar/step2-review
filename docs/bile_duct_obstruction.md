@@ -1,4 +1,4 @@
-## Bile duct obstruction
+# Bile duct obstruction
 
 ![Image](https://www.niddk.nih.gov/media-assets/18270/N01676-H_thumbnail.jpg)
 

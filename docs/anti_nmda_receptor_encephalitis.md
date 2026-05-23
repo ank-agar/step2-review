@@ -1,4 +1,4 @@
-## Anti-NMDA receptor encephalitis
+# Anti-NMDA receptor encephalitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/N1_N2_NMDA_receptor.svg/1280px-N1_N2_NMDA_receptor.svg.png)
 

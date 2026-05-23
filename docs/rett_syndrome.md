@@ -1,4 +1,4 @@
-## Rett syndrome
+# Rett syndrome
 
 ![Image](https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fsj.ejhg.5201580/MediaObjects/41431_2006_Article_BF5201580_Fig1_HTML.gif)
 

@@ -1,4 +1,4 @@
-## Verruca vulgaris
+# Verruca vulgaris
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19709.jpg)
 

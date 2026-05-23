@@ -1,4 +1,4 @@
-## Intestinal impaction
+# Intestinal impaction
 
 ![Image](https://d16qt3wv6xm098.cloudfront.net/1wvyRIpkSsqOVRITyzm9Cpq3T-CJ-oEh/_.png)
 

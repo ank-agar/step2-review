@@ -1,4 +1,4 @@
-## Postconcussion syndrome
+# Postconcussion syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17143.jpg)
 

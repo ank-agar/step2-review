@@ -1,4 +1,4 @@
-## Speech sound disorder
+# Speech sound disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/VocalTract_withNumbers.svg/1280px-VocalTract_withNumbers.svg.png)
 

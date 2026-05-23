@@ -1,4 +1,4 @@
-## Carotid sinus hypersensitivity
+# Carotid sinus hypersensitivity
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559059/bin/CHS.jpg)
 

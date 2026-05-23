@@ -1,4 +1,4 @@
-## Hydrocele
+# Hydrocele
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19667.jpg)
 

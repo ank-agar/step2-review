@@ -1,4 +1,4 @@
-## Toxic megacolon
+# Toxic megacolon
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17189.jpg)
 

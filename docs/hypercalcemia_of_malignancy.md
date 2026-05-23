@@ -1,4 +1,4 @@
-## Hypercalcemia of malignancy
+# Hypercalcemia of malignancy
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK279129/bin/approach-hypercalcem-Image006.jpg)
 

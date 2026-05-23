@@ -1,4 +1,4 @@
-## Selective IgE deficiency
+# Selective IgE deficiency
 
 ![Image](https://mastcellaware.com/images/mastcell-img-labels-2x-2.jpg)
 

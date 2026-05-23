@@ -1,4 +1,4 @@
-## Pneumocystis jirovecii pneumonia
+# Pneumocystis jirovecii pneumonia
 
 ![Image](https://www.cdc.gov/dpdx/pneumocystis/modules/Pneumocystis_LifeCycle.gif)
 

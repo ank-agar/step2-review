@@ -1,4 +1,4 @@
-## Atherosclerosis
+# Atherosclerosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Atherosclerosis_diagram.png)
 

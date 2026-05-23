@@ -1,4 +1,4 @@
-## Enthesopathy
+# Enthesopathy
 
 ![Image](https://www.enthesis.info/images/foot.png)
 

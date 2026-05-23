@@ -1,4 +1,4 @@
-## Atrophic vaginitis
+# Atrophic vaginitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/85/Vaginal_Mucosa_Normal_vs_Menopause.png)
 

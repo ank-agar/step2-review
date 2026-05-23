@@ -1,4 +1,4 @@
-## Urticaria
+# Urticaria
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Allergy_degranulation_processes_01.svg/960px-Allergy_degranulation_processes_01.svg.png)
 

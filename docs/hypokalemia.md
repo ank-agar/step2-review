@@ -1,4 +1,4 @@
-## Hypokalemia
+# Hypokalemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/65/Sodium-potassium_pump.svg)
 

@@ -1,4 +1,4 @@
-## Central retinal artery occlusion
+# Central retinal artery occlusion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Gray869.png)
 

@@ -1,4 +1,4 @@
-## Burkholderia pseudomallei
+# Burkholderia pseudomallei
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pathogenesis_of_melioidosis.svg/960px-Pathogenesis_of_melioidosis.svg.png)
 

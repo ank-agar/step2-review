@@ -1,4 +1,4 @@
-## Osteopenia
+# Osteopenia
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/0001cebbd65627c55352091e49b87501445628c3)
 

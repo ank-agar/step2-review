@@ -1,4 +1,4 @@
-## Gastric ulcer
+# Gastric ulcer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8a/Gastric_Ulcer.png)
 

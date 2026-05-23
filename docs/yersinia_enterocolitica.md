@@ -1,4 +1,4 @@
-## Yersinia enterocolitica
+# Yersinia enterocolitica
 
 ![Image](https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1001147.g001&size=large)
 

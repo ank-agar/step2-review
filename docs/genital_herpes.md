@@ -1,4 +1,4 @@
-## Genital herpes
+# Genital herpes
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK47449/bin/9780521827140c32_fig001.gif)
 

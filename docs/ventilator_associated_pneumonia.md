@@ -1,4 +1,4 @@
-## Ventilator-associated pneumonia
+# Ventilator-associated pneumonia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4de7/7126692/f293a5fe951e/gr2_lrg.jpg)
 

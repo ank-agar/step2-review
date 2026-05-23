@@ -1,4 +1,4 @@
-## Induced abortion
+# Induced abortion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/15/Vacuum-aspiration.svg)
 

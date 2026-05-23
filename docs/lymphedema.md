@@ -1,4 +1,4 @@
-## Lymphedema
+# Lymphedema
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Diagram_of_the_lymphatic_system_CRUK_041.svg/960px-Diagram_of_the_lymphatic_system_CRUK_041.svg.png)
 

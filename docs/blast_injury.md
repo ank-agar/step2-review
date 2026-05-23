@@ -1,4 +1,4 @@
-## Blast injury
+# Blast injury
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK202251/bin/p38.jpg)
 

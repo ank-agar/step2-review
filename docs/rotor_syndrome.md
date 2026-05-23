@@ -1,4 +1,4 @@
-## Rotor syndrome
+# Rotor syndrome
 
 ![Image](https://themedicalbiochemistrypage.org/wp-content/uploads/2020/05/Rotor-syndrome-defect.jpg)
 

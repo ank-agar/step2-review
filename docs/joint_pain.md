@@ -1,4 +1,4 @@
-## Joint pain
+# Joint pain
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK507893/bin/joint.jpg)
 

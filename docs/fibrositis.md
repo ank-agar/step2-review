@@ -1,4 +1,4 @@
-## Fibrositis
+# Fibrositis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_points_fibromyalgia.svg/1920px-Tender_points_fibromyalgia.svg.png)
 

@@ -1,4 +1,4 @@
-## Xanthoma
+# Xanthoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/db/LDLR_pathway.png)
 

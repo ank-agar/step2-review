@@ -1,4 +1,4 @@
-## Torticollis
+# Torticollis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19090.jpg)
 

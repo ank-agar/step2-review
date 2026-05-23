@@ -1,4 +1,4 @@
-## Schizoaffective disorder
+# Schizoaffective disorder
 
 ![Image](https://quickchart.io/graphviz?graph=digraph%20G%20%7B%20rankdir%3DLR%3B%20graph%20%5Bbgcolor%3Dwhite%5D%3B%20node%20%5Bshape%3Dbox%2C%20style%3Drounded%2C%20fontname%3DArial%5D%3B%20A%20%5Blabel%3D%22Psychotic%20symptoms%0A(delusions%20or%20hallucinations)%22%5D%3B%20B%20%5Blabel%3D%22Mood%20episode%0A(mania%20or%20depression)%22%5D%3B%20C%20%5Blabel%3D%22Schizoaffective%20disorder%0A%3D%20BOTH%20together%22%2C%20style%3D%22rounded%2Cfilled%22%2C%20fillcolor%3D%22%23e7f3ff%22%5D%3B%20D%20%5Blabel%3D%22Key%20diagnostic%20clue%3A%0A%3E%3D%202%20weeks%20psychosis%20WITHOUT%20mood%20symptoms%22%2C%20style%3D%22rounded%2Cfilled%22%2C%20fillcolor%3D%22%23fff2cc%22%5D%3B%20A%20-%3E%20C%3B%20B%20-%3E%20C%3B%20C%20-%3E%20D%3B%20%7D)
 

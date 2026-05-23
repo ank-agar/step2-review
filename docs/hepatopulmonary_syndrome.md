@@ -1,4 +1,4 @@
-## Hepatopulmonary syndrome
+# Hepatopulmonary syndrome
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c68b/9403489/f197fa32742c/gr3.jpg)
 

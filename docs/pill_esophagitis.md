@@ -1,4 +1,4 @@
-## Pill esophagitis
+# Pill esophagitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tractus_intestinalis_esophagus.svg/960px-Tractus_intestinalis_esophagus.svg.png)
 

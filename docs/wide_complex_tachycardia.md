@@ -1,4 +1,4 @@
-## Wide complex tachycardia
+# Wide complex tachycardia
 
 ![Image](https://litfl.com/wp-content/uploads/2018/08/ECG-Strip-QRS-narrow-and-wide.jpg)
 

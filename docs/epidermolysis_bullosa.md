@@ -1,4 +1,4 @@
-## Epidermolysis bullosa
+# Epidermolysis bullosa
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/s/k/n/skn-epidermolysis-bullosa-cleavage-v3.gif?mw=1200&sc_lang=en-us)
 

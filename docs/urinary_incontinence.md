@@ -1,4 +1,4 @@
-## Urinary incontinence
+# Urinary incontinence
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1122.jpg)
 

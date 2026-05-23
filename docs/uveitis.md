@@ -1,4 +1,4 @@
-## Uveitis
+# Uveitis
 
 ![Image](https://uveitis.org/wp-content/uploads/2019/09/Uveitis-Anatomy-of-the-Eye-600x439.png)
 

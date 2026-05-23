@@ -1,4 +1,4 @@
-## Spondylosis
+# Spondylosis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9852.jpg)
 

@@ -1,4 +1,4 @@
-## Varicose veins
+# Varicose veins
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/varicose%20veins%20leg%20illustration_Nucleus_9.2023.jpg)
 

@@ -1,4 +1,4 @@
-## Autism spectrum disorder
+# Autism spectrum disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Autism_Spectrum_Disorder.svg/1280px-Autism_Spectrum_Disorder.svg.png)
 

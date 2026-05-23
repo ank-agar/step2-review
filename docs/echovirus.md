@@ -1,4 +1,4 @@
-## Echovirus
+# Echovirus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/6a/Viruses-11-00460-g002.png)
 

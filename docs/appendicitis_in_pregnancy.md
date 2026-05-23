@@ -1,4 +1,4 @@
-## Appendicitis in pregnancy
+# Appendicitis in pregnancy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0dcf/11215032/a26f075b388a/cureus-0016-00000061463-i01.jpg)
 

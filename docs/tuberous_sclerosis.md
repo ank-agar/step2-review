@@ -1,4 +1,4 @@
-## Tuberous sclerosis
+# Tuberous sclerosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9c/Symptoms_and_signs_of_tuberous_sclerosis.png)
 

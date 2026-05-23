@@ -1,4 +1,4 @@
-## Molluscum contagiosum
+# Molluscum contagiosum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/85/An_introduction_to_dermatology_%281905%29_Molluscum_Contagiosum_section.png)
 

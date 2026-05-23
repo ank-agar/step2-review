@@ -1,4 +1,4 @@
-## Gardner syndrome
+# Gardner syndrome
 
 ![Image](https://www.niddk.nih.gov/media-assets/18292/N01705-H_thumbnail.jpg)
 

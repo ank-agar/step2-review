@@ -1,4 +1,4 @@
-## Lymphocytic colitis
+# Lymphocytic colitis
 
 ![Image](https://www.niddk.nih.gov/media-assets/18248/N01651-H_thumbnail.jpg)
 

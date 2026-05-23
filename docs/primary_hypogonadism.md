@@ -1,4 +1,4 @@
-## Primary hypogonadism
+# Primary hypogonadism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e5/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis_in_males.png)
 

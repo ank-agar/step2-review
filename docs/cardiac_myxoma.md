@@ -1,4 +1,4 @@
-## Cardiac myxoma
+# Cardiac myxoma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18078.jpg)
 

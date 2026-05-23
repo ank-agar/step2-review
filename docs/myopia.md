@@ -1,4 +1,4 @@
-## Myopia
+# Myopia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f3/Myopia_Diagram.jpg)
 

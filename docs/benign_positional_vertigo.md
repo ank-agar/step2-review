@@ -1,4 +1,4 @@
-## Benign positional vertigo
+# Benign positional vertigo
 
 ![Image](https://vestibular.org/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2012/03/inner-ear-anatomy_graphic-only.jpg.webp)
 

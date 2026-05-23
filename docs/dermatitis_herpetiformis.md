@@ -1,4 +1,4 @@
-## Dermatitis herpetiformis
+# Dermatitis herpetiformis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/74/Inflammed_mucous_layer_of_the_intestinal_villi_depicting_Celiac_disease.jpg)
 

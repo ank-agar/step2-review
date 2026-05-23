@@ -1,4 +1,4 @@
-## Herpes simplex virus
+# Herpes simplex virus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Herpesvirales_virion_diagram.jpg/960px-Herpesvirales_virion_diagram.jpg)
 

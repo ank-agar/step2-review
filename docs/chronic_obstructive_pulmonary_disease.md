@@ -1,4 +1,4 @@
-## Chronic obstructive pulmonary disease
+# Chronic obstructive pulmonary disease
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/Normal%20Lungs%20and%20Lungs%20With%20COPD.jpg)
 

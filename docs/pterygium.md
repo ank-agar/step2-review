@@ -1,4 +1,4 @@
-## Pterygium
+# Pterygium
 
 ![Image](https://assets.clevelandclinic.org/transform/ff6e19a5-79e4-4015-bb07-6be38d2dea08/pinguecula-pterygium-1372441755?io=transform%3Afit%2Cwidth%3A780)
 

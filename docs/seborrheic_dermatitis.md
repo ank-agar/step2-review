@@ -1,4 +1,4 @@
-## Seborrheic dermatitis
+# Seborrheic dermatitis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK532846/bin/en_haut_seborrhoisches_ekzem_gegenueberstellung_weisse-und-dunkle-haut.jpg)
 

@@ -1,4 +1,4 @@
-## Atrial fibrillation
+# Atrial fibrillation
 
 ![Image](https://magazine.medlineplus.gov/images/uploads/multimedia/heart_diagram.JPG)
 

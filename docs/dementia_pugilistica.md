@@ -1,4 +1,4 @@
-## Dementia pugilistica
+# Dementia pugilistica
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK566126/bin/chapter1_f2.jpg)
 

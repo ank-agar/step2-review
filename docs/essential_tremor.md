@@ -1,4 +1,4 @@
-## Essential tremor
+# Essential tremor
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cerebello-dentato-thalamo-cortical_pathway.png/960px-Cerebello-dentato-thalamo-cortical_pathway.png)
 

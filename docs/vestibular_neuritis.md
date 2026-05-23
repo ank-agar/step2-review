@@ -1,4 +1,4 @@
-## Vestibular neuritis
+# Vestibular neuritis
 
 ![Image](https://content.healthwise.net/resources/14.6/en-ca/media/medical/hw/acm5574_460x300.jpg)
 

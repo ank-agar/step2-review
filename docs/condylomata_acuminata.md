@@ -1,4 +1,4 @@
-## Condylomata acuminata
+# Condylomata acuminata
 
 ![Image](https://www.medicalgraphics.de/wp-content/uploads/2018/06/feigwarzen-kondylome-gross.jpg)
 

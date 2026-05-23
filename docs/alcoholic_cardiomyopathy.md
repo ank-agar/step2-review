@@ -1,4 +1,4 @@
-## Alcoholic cardiomyopathy
+# Alcoholic cardiomyopathy
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18070.jpg)
 

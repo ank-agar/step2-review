@@ -1,4 +1,4 @@
-## Lower gastrointestinal bleeding
+# Lower gastrointestinal bleeding
 
 ![Image](https://www.niddk.nih.gov/media-assets/17454/N00001-H_thumbnail.jpg)
 

@@ -1,4 +1,4 @@
-## Epidermal cyst
+# Epidermal cyst
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/44/ds00979_im02567_r7_epidermoidcystthu_jpg.jpg)
 

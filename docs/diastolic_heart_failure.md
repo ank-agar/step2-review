@@ -1,4 +1,4 @@
-## Diastolic heart failure
+# Diastolic heart failure
 
 ![Image](https://cvphysiology.com/s9v2f-3r4p7/share/midsize/hfpef-cardiac-pressures-and-volumes.png)
 

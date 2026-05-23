@@ -1,4 +1,4 @@
-## Takotsubo cardiomyopathy
+# Takotsubo cardiomyopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e7/TakoTsubo_scheme.png)
 

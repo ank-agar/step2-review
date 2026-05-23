@@ -1,4 +1,4 @@
-## Cardiac tamponade
+# Cardiac tamponade
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18123.jpg)
 

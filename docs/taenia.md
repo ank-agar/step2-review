@@ -1,4 +1,4 @@
-## Taenia
+# Taenia
 
 ![Image](https://www.cdc.gov/dpdx/taeniasis/modules/Taenia_LifeCycle.gif)
 

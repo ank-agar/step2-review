@@ -1,4 +1,4 @@
-## Laryngomalacia
+# Laryngomalacia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2c/LaryngomalaciaDrawing.jpg)
 

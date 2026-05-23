@@ -1,4 +1,4 @@
-## Thrombocytopenia
+# Thrombocytopenia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blood_clot_formation.svg/960px-Blood_clot_formation.svg.png)
 

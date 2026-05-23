@@ -1,4 +1,4 @@
-## Methanol poisoning
+# Methanol poisoning
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Metabolismo_del_alcohol.svg/1280px-Metabolismo_del_alcohol.svg.png)
 

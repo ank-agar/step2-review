@@ -1,4 +1,4 @@
-## Lymphocytic choriomeningitis virus
+# Lymphocytic choriomeningitis virus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Viruses-04-02973-g002.webp/960px-Viruses-04-02973-g002.webp.png)
 

@@ -1,4 +1,4 @@
-## Primary CNS lymphoma
+# Primary CNS lymphoma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24519.jpg)
 

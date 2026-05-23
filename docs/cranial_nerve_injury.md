@@ -1,4 +1,4 @@
-## Cranial nerve injury
+# Cranial nerve injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brain_human_cranial_nerves.svg/1920px-Brain_human_cranial_nerves.svg.png)
 

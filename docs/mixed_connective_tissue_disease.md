@@ -1,4 +1,4 @@
-## Mixed connective tissue disease
+# Mixed connective tissue disease
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/mixed-connective-tissue-disease)
 

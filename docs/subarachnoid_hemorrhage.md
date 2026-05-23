@@ -1,4 +1,4 @@
-## Subarachnoid hemorrhage
+# Subarachnoid hemorrhage
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/960px-Meninges-en.svg.png)
 

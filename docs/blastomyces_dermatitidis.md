@@ -1,4 +1,4 @@
-## Blastomyces dermatitidis
+# Blastomyces dermatitidis
 
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit4/fungi/images/blastomyces%20life%20cycle_CDC.png)
 

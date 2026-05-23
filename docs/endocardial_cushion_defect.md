@@ -1,4 +1,4 @@
-## Endocardial cushion defect
+# Endocardial cushion defect
 
 ![Image](https://www.cdc.gov/heart-defects/media/images/avsd.jpg)
 

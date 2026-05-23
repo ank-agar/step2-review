@@ -1,4 +1,4 @@
-## Meningococcemia
+# Meningococcemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/da/Meningococcal_infection_diagram.webp)
 

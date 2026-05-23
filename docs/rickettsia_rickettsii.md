@@ -1,4 +1,4 @@
-## Rickettsia rickettsii
+# Rickettsia rickettsii
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK7624/bin/ch38f1.gif)
 

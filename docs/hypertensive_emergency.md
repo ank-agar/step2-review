@@ -1,4 +1,4 @@
-## Hypertensive emergency
+# Hypertensive emergency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Main_complications_of_persistent_high_blood_pressure.svg/1280px-Main_complications_of_persistent_high_blood_pressure.svg.png)
 

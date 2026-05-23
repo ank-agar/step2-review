@@ -1,4 +1,4 @@
-## Normal grief
+# Normal grief
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/K%C3%BCbler_Ross%27s_stages_of_grief.svg/960px-K%C3%BCbler_Ross%27s_stages_of_grief.svg.png)
 

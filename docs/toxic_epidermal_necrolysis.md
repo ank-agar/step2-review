@@ -1,4 +1,4 @@
-## Toxic epidermal necrolysis
+# Toxic epidermal necrolysis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6043/4879934/c0c43adb4861/f1000research-5-8156-g0002.jpg)
 

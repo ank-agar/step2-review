@@ -1,4 +1,4 @@
-## Illness anxiety disorder
+# Illness anxiety disorder
 
 ![Image](https://www.anxietycentre.com/wp-content/uploads/2025/05/IAD.png)
 

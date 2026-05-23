@@ -1,4 +1,4 @@
-## Polymyositis
+# Polymyositis
 
 ![Image](https://d16qt3wv6xm098.cloudfront.net/hMmP13boTW2vYx9E_YyWUO1hRCe5AT2C/_.jpg)
 

@@ -1,4 +1,4 @@
-## Anaplasmosis
+# Anaplasmosis
 
 ![Image](https://stacks.cdc.gov/view/cdc/57992/cdc_57992_DS1.jpeg)
 

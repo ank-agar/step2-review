@@ -1,4 +1,4 @@
-## Metabolic encephalopathy
+# Metabolic encephalopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Symptoms_of_hyperammonemia.svg/960px-Symptoms_of_hyperammonemia.svg.png)
 

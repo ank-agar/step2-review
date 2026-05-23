@@ -1,4 +1,4 @@
-## Botulism
+# Botulism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BoNt-Schnittstellen.svg/960px-BoNt-Schnittstellen.svg.png)
 

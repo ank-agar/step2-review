@@ -1,4 +1,4 @@
-## Traumatic aortic dissection
+# Traumatic aortic dissection
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c4d3/10495757/f4c3d2322174/BJC-30-01-bjc.2023.009-Figure_2.jpg)
 

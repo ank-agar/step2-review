@@ -1,4 +1,4 @@
-## Sprain
+# Sprain
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bf/Ankle_sprain_1_--_Smart-Servier.png)
 

@@ -1,4 +1,4 @@
-## Baylisascaris procyonis
+# Baylisascaris procyonis
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/3381/3381_lores.jpg)
 

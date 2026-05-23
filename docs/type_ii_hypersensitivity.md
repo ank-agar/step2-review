@@ -1,4 +1,4 @@
-## Type II hypersensitivity
+# Type II hypersensitivity
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Type_II_hypersensitivity.webm/960px--Type_II_hypersensitivity.webm.jpg)
 

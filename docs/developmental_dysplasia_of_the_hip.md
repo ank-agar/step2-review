@@ -1,4 +1,4 @@
-## Developmental dysplasia of the hip
+# Developmental dysplasia of the hip
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9216.jpg)
 

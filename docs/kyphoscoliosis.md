@@ -1,4 +1,4 @@
-## Kyphoscoliosis
+# Kyphoscoliosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/06/Meyers_b13_s0296_b1.png)
 

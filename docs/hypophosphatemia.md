@@ -1,4 +1,4 @@
-## Hypophosphatemia
+# Hypophosphatemia
 
 ![Image](https://www.frontiersin.org/files/Articles/576110/xml-images/fcell-08-576110-g001.webp)
 

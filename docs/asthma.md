@@ -1,4 +1,4 @@
-## Asthma
+# Asthma
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/NHLBI_Fig04_final02%20English.jpg)
 

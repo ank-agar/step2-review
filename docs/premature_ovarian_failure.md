@@ -1,4 +1,4 @@
-## Premature ovarian failure
+# Premature ovarian failure
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/66/Follicle_development_stages.jpg)
 

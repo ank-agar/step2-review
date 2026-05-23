@@ -1,4 +1,4 @@
-## Hip dislocation
+# Hip dislocation
 
 ![Image](https://upload.orthobullets.com/topic/1035/images/dislocate1.jpg)
 

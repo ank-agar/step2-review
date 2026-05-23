@@ -1,4 +1,4 @@
-## Coxsackievirus A
+# Coxsackievirus A
 
 ![Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-07531-0/MediaObjects/41467_2018_7531_Fig1_HTML.png)
 

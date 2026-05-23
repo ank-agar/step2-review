@@ -1,4 +1,4 @@
-## Varicocele
+# Varicocele
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Varicocele.png/500px-Varicocele.png)
 

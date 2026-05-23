@@ -1,4 +1,4 @@
-## Breath-holding spells
+# Breath-holding spells
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nervous_system_diagram_numbered.svg/960px-Nervous_system_diagram_numbered.svg.png)
 

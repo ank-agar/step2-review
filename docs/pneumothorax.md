@@ -1,4 +1,4 @@
-## Pneumothorax
+# Pneumothorax
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/Picture1.jpg)
 

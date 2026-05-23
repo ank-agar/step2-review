@@ -1,4 +1,4 @@
-## Zollinger-Ellison syndrome
+# Zollinger-Ellison syndrome
 
 ![Image](https://www.niddk.nih.gov/-/media/Images/Health-Information/Digestive-Diseases/pancreas-anatomy_1586x1534.jpg)
 

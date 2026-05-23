@@ -1,4 +1,4 @@
-## Churg-Strauss syndrome
+# Churg-Strauss syndrome
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/churg-strauss-syndrome-egpa-infographic)
 

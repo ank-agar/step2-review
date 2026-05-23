@@ -1,4 +1,4 @@
-## Onychomycosis
+# Onychomycosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Human_nail_anatomy.jpg/500px-Human_nail_anatomy.jpg)
 

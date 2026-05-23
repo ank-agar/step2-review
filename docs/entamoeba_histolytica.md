@@ -1,4 +1,4 @@
-## Entamoeba histolytica
+# Entamoeba histolytica
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Entamoeba_histolytica_life_cycle.svg/3840px-Entamoeba_histolytica_life_cycle.svg.png?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org)
 

@@ -1,4 +1,4 @@
-## Polycystic ovary syndrome
+# Polycystic ovary syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5b/Polycystic_Ovaries.jpg)
 

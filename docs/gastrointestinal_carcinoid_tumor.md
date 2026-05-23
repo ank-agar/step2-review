@@ -1,4 +1,4 @@
-## Gastrointestinal carcinoid tumor
+# Gastrointestinal carcinoid tumor
 
 ![Image](https://www.niddk.nih.gov/media-assets/18319/N01737-H.jpg)
 

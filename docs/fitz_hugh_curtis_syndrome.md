@@ -1,4 +1,4 @@
-## Fitz-Hugh-Curtis syndrome
+# Fitz-Hugh-Curtis syndrome
 
 ![Image](https://cdn.std.uw.edu/clinical-images/574/1851-web.jpg?rev=1-44)
 

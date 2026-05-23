@@ -1,4 +1,4 @@
-## Psychogenic nonepileptic seizures
+# Psychogenic nonepileptic seizures
 
 ![Image](https://www.ccjm.org/content/ccjom/89/5/252/F1.large.jpg)
 

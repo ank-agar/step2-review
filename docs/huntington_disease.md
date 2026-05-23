@@ -1,4 +1,4 @@
-## Huntington disease
+# Huntington disease
 
 ![Image](https://www.nist.gov/sites/default/files/images/photogallery/huntington_s_disease.jpg)
 

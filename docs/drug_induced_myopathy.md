@@ -1,4 +1,4 @@
-## Drug-induced myopathy
+# Drug-induced myopathy
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/079419aef68b615feb19ec1d7a05d558e06b5adc)
 

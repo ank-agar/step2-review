@@ -1,4 +1,4 @@
-## Aldosteronoma
+# Aldosteronoma
 
 ![Image](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/edrv/45/1/10.1210_endrev_bnad024/1/bnad024f1.jpeg?Expires=1782525251&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&Signature=esiA0Ol~1VPn~t2wzoWGe6w5FVID39RlPK1GmtxJ9syBjEbkzJkLpN4VDw8ezfcgYa2AeOHgjAzzr4jUifVYRpVwfBRc5kjoWFQzZdOz4ZbHItqWuE4QDFaO2f5WSwlplkvthcebq2zkDl5Q79gkcTmp8HZeohyzO9yEv02uOz7dmOY~TPnDa3N03Apaspr05kG1uQfawJQVuVMpF~zmOVyb70YRFDBJU2J2lNOpzF7sgnqWtcP1KBAa8EDW~bazEYEBAI4tzhozkg4p-443uw0G~yCNShd4tQvFgXi5x4K27fCOcJMZMiserJSyCJ9I0gbs8g3ICH~1fGz4~hF-nw__)
 

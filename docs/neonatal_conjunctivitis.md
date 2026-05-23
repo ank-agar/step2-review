@@ -1,4 +1,4 @@
-## Neonatal conjunctivitis
+# Neonatal conjunctivitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Conjunctiva_anterior_view.svg/1280px-Conjunctiva_anterior_view.svg.png)
 

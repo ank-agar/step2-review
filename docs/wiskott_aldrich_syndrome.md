@@ -1,4 +1,4 @@
-## Wiskott-Aldrich syndrome
+# Wiskott-Aldrich syndrome
 
 ![Image](https://dermnetnz.org/assets/Uploads/Wiskott-Aldrich-Syndrome.png)
 

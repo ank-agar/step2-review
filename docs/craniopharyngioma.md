@@ -1,4 +1,4 @@
-## Craniopharyngioma
+# Craniopharyngioma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/08/Hypothalamus_and_Pituitary.svg)
 

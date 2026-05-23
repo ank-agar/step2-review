@@ -1,4 +1,4 @@
-## Hypernatremia
+# Hypernatremia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Osmotic_pressure_on_blood_cells_diagram.svg/960px-Osmotic_pressure_on_blood_cells_diagram.svg.png)
 

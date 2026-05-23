@@ -1,4 +1,4 @@
-## Cerebral venous sinus thrombosis
+# Cerebral venous sinus thrombosis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459315/bin/cerebral__venous__thrombosis.jpg)
 

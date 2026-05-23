@@ -1,4 +1,4 @@
-## Meckel diverticulum
+# Meckel diverticulum
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8766.jpg)
 

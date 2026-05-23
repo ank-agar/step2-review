@@ -1,4 +1,4 @@
-## Staphylococcal scalded skin syndrome
+# Staphylococcal scalded skin syndrome
 
 ![Image](https://dermnetnz.org/assets/Uploads/structure.jpg)
 

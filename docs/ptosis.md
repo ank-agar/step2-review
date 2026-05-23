@@ -1,4 +1,4 @@
-## Ptosis
+# Ptosis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK482304/bin/EyelidAnatomy.jpg)
 

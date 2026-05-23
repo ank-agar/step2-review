@@ -1,4 +1,4 @@
-## Rickets
+# Rickets
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/87/Child_with_rickets.svg)
 

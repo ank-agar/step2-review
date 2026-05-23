@@ -1,4 +1,4 @@
-## Obsessive-compulsive personality disorder
+# Obsessive-compulsive personality disorder
 
 ![Image](https://images.squarespace-cdn.com/content/v1/5fc68b231452f90b7f0c0924/266dfb35-0667-43a1-b6e9-e90ca12eb6c5/chart1.png)
 

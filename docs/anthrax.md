@@ -1,4 +1,4 @@
-## Anthrax
+# Anthrax
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/14/Anthraxtoxins_diagram_en.png)
 

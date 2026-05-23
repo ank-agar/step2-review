@@ -1,4 +1,4 @@
-## Postmenopausal bleeding
+# Postmenopausal bleeding
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/609921-750.jpg)
 

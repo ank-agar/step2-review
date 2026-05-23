@@ -1,4 +1,4 @@
-## Menorrhagia
+# Menorrhagia
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17087.jpg)
 

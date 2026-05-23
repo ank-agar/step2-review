@@ -1,4 +1,4 @@
-## IgA vasculitis
+# IgA vasculitis
 
 ![Image](https://pmc.ncbi.nlm.nih.gov/articles/instance/2874920/bin/GRP2010-597648.007.jpg)
 

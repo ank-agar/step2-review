@@ -1,4 +1,4 @@
-## Attention-deficit/hyperactivity disorder
+# Attention-deficit/hyperactivity disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b7/Proposed_Symptoms_of_ADHD.PNG)
 

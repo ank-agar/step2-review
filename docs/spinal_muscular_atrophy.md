@@ -1,4 +1,4 @@
-## Spinal muscular atrophy
+# Spinal muscular atrophy
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK22213/bin/SMA.jpg)
 

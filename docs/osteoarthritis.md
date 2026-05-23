@@ -1,4 +1,4 @@
-## Osteoarthritis
+# Osteoarthritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/83/Joint_with_severe_osteoathritis.png)
 

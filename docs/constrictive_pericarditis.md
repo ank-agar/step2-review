@@ -1,4 +1,4 @@
-## Constrictive pericarditis
+# Constrictive pericarditis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18151.jpg)
 

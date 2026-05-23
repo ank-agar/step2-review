@@ -1,4 +1,4 @@
-## Type I hypersensitivity
+# Type I hypersensitivity
 
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit6/hypersensitivity/type1/images/u3fg43d.jpg)
 

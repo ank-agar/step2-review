@@ -1,4 +1,4 @@
-## Missed abortion
+# Missed abortion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gestational_sac.svg/250px-Gestational_sac.svg.png)
 

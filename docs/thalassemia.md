@@ -1,4 +1,4 @@
-## Thalassemia
+# Thalassemia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK22200/bin/thal.jpg)
 

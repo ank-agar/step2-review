@@ -1,4 +1,4 @@
-## Chronic bronchitis
+# Chronic bronchitis
 
 ![Image](https://med.libretexts.org/@api/deki/files/37012/1.11.svg?revision=1)
 

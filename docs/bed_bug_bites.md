@@ -1,4 +1,4 @@
-## Bed bug bites
+# Bed bug bites
 
 ![Image](https://www.epa.gov/sites/default/files/2014-02/bed-bug-ctual-size.jpg)
 

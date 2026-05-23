@@ -1,4 +1,4 @@
-## Allergic bronchopulmonary aspergillosis
+# Allergic bronchopulmonary aspergillosis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c8eb/3182330/be7a89609589/JA2011-785983.001.jpg)
 

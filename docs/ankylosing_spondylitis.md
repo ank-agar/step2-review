@@ -1,4 +1,4 @@
-## Ankylosing spondylitis
+# Ankylosing spondylitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/53/SI_joint.png)
 

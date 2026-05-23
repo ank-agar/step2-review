@@ -1,4 +1,4 @@
-## Epistaxis
+# Epistaxis
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773059739/Journals/Automation/AFP/2018/0815/p240-f1-jpg.jpg)
 

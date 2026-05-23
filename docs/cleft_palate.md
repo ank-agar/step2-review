@@ -1,4 +1,4 @@
-## Cleft palate
+# Cleft palate
 
 ![Image](https://www.asha.org/siteassets/practice-portal/cleft-lip-and-palate/psi2012-782821.jpg)
 

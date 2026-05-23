@@ -1,4 +1,4 @@
-## Thalassemia in pregnancy
+# Thalassemia in pregnancy
 
 ![Image](https://sickle.bwh.harvard.edu/alpha_two.gif)
 

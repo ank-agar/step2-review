@@ -1,4 +1,4 @@
-## Chlamydial cystitis
+# Chlamydial cystitis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17736/N00670-H.jpg)
 

@@ -1,4 +1,4 @@
-## Dyslexia
+# Dyslexia
 
 ![Image](https://education.purdue.edu/wp-content/uploads/2025/11/networks-of-the-reading-brain.jpg)
 

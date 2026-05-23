@@ -1,4 +1,4 @@
-## Marfan syndrome
+# Marfan syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9611.jpg)
 

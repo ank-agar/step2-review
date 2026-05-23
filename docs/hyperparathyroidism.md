@@ -1,4 +1,4 @@
-## Hyperparathyroidism
+# Hyperparathyroidism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Michelle_Karam_Parathyroid_%282%29.svg/250px-Michelle_Karam_Parathyroid_%282%29.svg.png)
 

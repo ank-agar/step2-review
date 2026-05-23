@@ -1,4 +1,4 @@
-## Night blindness
+# Night blindness
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Structure_rods_cones.png/960px-Structure_rods_cones.png)
 

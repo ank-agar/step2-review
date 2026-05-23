@@ -1,4 +1,4 @@
-## Multiorgan dysfunction syndrome
+# Multiorgan dysfunction syndrome
 
 ![Image](https://med.libretexts.org/%40api/deki/files/68525/d563af71f38ad3245d8ec54c51a1d18b361bfe8d?revision=1)
 

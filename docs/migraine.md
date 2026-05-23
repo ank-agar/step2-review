@@ -1,4 +1,4 @@
-## Migraine
+# Migraine
 
 ![Image](https://neurotorium.org/wp-content/uploads/a-model-of-migraine-pathophysiology-2.png)
 

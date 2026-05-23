@@ -1,4 +1,4 @@
-## Suppurative otitis media
+# Suppurative otitis media
 
 ![Image](https://www.cdc.gov/ear-infection/media/images/ear-infection.jpg)
 

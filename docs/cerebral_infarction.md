@@ -1,4 +1,4 @@
-## Cerebral infarction
+# Cerebral infarction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ischemic_Stroke.svg/1280px-Ischemic_Stroke.svg.png)
 

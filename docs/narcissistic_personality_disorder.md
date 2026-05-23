@@ -1,4 +1,4 @@
-## Narcissistic personality disorder
+# Narcissistic personality disorder
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9742-narcissistic-personality-disorder)
 

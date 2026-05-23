@@ -1,4 +1,4 @@
-## Echovirus enteritis
+# Echovirus enteritis
 
 ![Image](https://viralzone.expasy.org/resources/Enterovirus%5Fvirion.svg)
 

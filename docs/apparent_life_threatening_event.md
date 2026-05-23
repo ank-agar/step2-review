@@ -1,4 +1,4 @@
-## Apparent life-threatening event
+# Apparent life-threatening event
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK470403/bin/CPR_Infant_Closed_vs_Open_Airway.jpg)
 

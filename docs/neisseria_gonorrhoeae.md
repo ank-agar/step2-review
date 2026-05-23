@@ -1,4 +1,4 @@
-## Neisseria gonorrhoeae
+# Neisseria gonorrhoeae
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/034f/5354566/1ccd4a4d0b4e/mic-03-371-g01.jpg)
 

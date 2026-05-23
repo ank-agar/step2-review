@@ -1,4 +1,4 @@
-## Anemia of chronic disease
+# Anemia of chronic disease
 
 ![Image](https://dm5migu4zj3pb.cloudfront.net/manuscripts/21000/21441/medium/JCI0421441.f1.jpg)
 

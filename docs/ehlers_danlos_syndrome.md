@@ -1,4 +1,4 @@
-## Ehlers-Danlos syndrome
+# Ehlers-Danlos syndrome
 
 ![Image](https://medlineplus.gov/images/PX00009C_PRESENTATION.jpeg)
 

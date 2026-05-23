@@ -1,4 +1,4 @@
-## Hirschsprung disease
+# Hirschsprung disease
 
 ![Image](https://www.nationwidechildrens.org/-/media/nch/family-resources/helping-hands/images/hhi139_photo1.png)
 

@@ -1,4 +1,4 @@
-## Tobacco use disorder and withdrawal
+# Tobacco use disorder and withdrawal
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cf/NicotineDopaminergic_WP1602.png)
 

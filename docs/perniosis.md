@@ -1,4 +1,4 @@
-## Perniosis
+# Perniosis
 
 ![Image](https://d16qt3wv6xm098.cloudfront.net/XqbuqBbJRaKrLW2gtl7Ps9BwQ2q4RGh5/_.png)
 

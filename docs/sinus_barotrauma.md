@@ -1,4 +1,4 @@
-## Sinus barotrauma
+# Sinus barotrauma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19315.jpg)
 

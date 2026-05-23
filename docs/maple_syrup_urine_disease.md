@@ -1,4 +1,4 @@
-## Maple syrup urine disease
+# Maple syrup urine disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK22214/bin/msud.jpg)
 

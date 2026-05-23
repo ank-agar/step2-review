@@ -1,4 +1,4 @@
-## Rotavirus enteritis
+# Rotavirus enteritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rotavirus_virion_image.svg/960px-Rotavirus_virion_image.svg.png)
 

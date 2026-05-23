@@ -1,4 +1,4 @@
-## Hemophilia B
+# Hemophilia B
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK580494/bin/Coagulation__Pathway__Frontiers.jpg)
 

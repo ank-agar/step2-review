@@ -1,4 +1,4 @@
-## Adrenal incidentaloma
+# Adrenal incidentaloma
 
 ![Image](https://www.niddk.nih.gov/media-assets/17784/N00739-H_thumbnail.jpg)
 

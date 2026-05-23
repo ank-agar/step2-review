@@ -1,4 +1,4 @@
-## Gonorrhea
+# Gonorrhea
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/55/ds00518_im04212_mcdc7_cervicitisthu_jpg.jpg)
 

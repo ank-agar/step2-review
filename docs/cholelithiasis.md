@@ -1,4 +1,4 @@
-## Cholelithiasis
+# Cholelithiasis
 
 ![Image](https://www.niddk.nih.gov/media-assets/18270/N01676-H.jpg)
 

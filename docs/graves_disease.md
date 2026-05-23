@@ -1,4 +1,4 @@
-## Graves disease
+# Graves disease
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17067.jpg)
 

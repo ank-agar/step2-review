@@ -1,4 +1,4 @@
-## Legionella
+# Legionella
 
 ![Image](https://www.cdc.gov/legionella/media/images/LD-transmission.png)
 

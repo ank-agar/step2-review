@@ -1,4 +1,4 @@
-## Usual interstitial pneumonia
+# Usual interstitial pneumonia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/ce/Ipf_NIH.jpg)
 

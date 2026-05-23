@@ -1,4 +1,4 @@
-## Allergic rhinitis
+# Allergic rhinitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19319.jpg)
 

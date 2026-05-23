@@ -1,4 +1,4 @@
-## Anomalous left coronary artery
+# Anomalous left coronary artery
 
 ![Image](https://www.chop.edu/sites/default/files/styles/original_320x_2x/public/anomalous-left-coronary-artery-from-the-left-pulmonary-artery-illustration-773px_0.png?itok=Ll4HsQc1)
 

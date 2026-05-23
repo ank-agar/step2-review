@@ -1,4 +1,4 @@
-## Boerhaave syndrome
+# Boerhaave syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Digestive_system_diagram_numbered.svg/330px-Digestive_system_diagram_numbered.svg.png)
 

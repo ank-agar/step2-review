@@ -1,4 +1,4 @@
-## Lichen planus
+# Lichen planus
 
 ![Image](https://pmc.ncbi.nlm.nih.gov/articles/instance/12701911/bin/10.1177_00220345251385966-fig4.jpg)
 

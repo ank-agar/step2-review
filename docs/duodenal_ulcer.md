@@ -1,4 +1,4 @@
-## Duodenal ulcer
+# Duodenal ulcer
 
 ![Image](https://www.niddk.nih.gov/media-assets/17894/N01027-H_thumbnail.jpg)
 

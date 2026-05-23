@@ -1,4 +1,4 @@
-## Lofgren syndrome
+# Lofgren syndrome
 
 ![Image](https://training.seer.cancer.gov/images/lung/lung-illustration.jpg)
 

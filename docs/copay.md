@@ -1,4 +1,4 @@
-## Copay
+# Copay
 
 ![Image](https://cdn.outrank.so/2d595786-ea57-4ca1-bcd3-e7c69c5dc715/27261329-5f83-42b8-a9ed-60bb25d13e4a.jpg)
 

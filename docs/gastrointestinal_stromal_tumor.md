@@ -1,4 +1,4 @@
-## Gastrointestinal stromal tumor
+# Gastrointestinal stromal tumor
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/739733-750.jpg)
 

@@ -1,4 +1,4 @@
-## Pancreatic duct obstruction
+# Pancreatic duct obstruction
 
 ![Image](https://www.niddk.nih.gov/media-assets/17511/N00063-H_thumbnail.jpg)
 

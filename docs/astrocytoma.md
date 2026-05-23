@@ -1,4 +1,4 @@
-## Astrocytoma
+# Astrocytoma
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2019/01/11/10/47/astrocytoma-8col-3802786-001-0.jpg)
 

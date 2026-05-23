@@ -1,4 +1,4 @@
-## Herpetic gingivostomatitis
+# Herpetic gingivostomatitis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f32/2822239/84dce71d7620/IPID2010-262415.001.jpg)
 

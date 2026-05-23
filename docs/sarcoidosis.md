@@ -1,4 +1,4 @@
-## Sarcoidosis
+# Sarcoidosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fundamental_granuloma_types.png/1280px-Fundamental_granuloma_types.png)
 

@@ -1,4 +1,4 @@
-## Tracheal cancer
+# Tracheal cancer
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK448070/bin/Gray961.jpg)
 

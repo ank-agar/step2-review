@@ -1,4 +1,4 @@
-## Genu valgum
+# Genu valgum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e7/Genu_valgum_and_Genu_Varum.jpg)
 

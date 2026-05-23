@@ -1,4 +1,4 @@
-## Orchitis
+# Orchitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/73/Testicle-Revised.jpg)
 

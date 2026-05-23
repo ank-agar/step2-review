@@ -1,4 +1,4 @@
-## Hereditary spherocytosis
+# Hereditary spherocytosis
 
 ![Image](https://haematologica.org/article/download/4984/20466/21077)
 

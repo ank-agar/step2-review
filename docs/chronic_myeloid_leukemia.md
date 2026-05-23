@@ -1,4 +1,4 @@
-## Chronic myeloid leukemia
+# Chronic myeloid leukemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Schematic_of_the_Philadelphia_Chromosome.svg/960px-Schematic_of_the_Philadelphia_Chromosome.svg.png)
 

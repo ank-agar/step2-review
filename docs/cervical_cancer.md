@@ -1,4 +1,4 @@
-## Cervical cancer
+# Cervical cancer
 
 ![Image](https://www.cdc.gov/gynecologic-cancer/media/images/gyn-diagram-16x9-1.jpg)
 

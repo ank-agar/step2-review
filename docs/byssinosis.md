@@ -1,4 +1,4 @@
-## Byssinosis
+# Byssinosis
 
 ![Image](https://www.hse.gov.uk/asthma/assets/images/lungs.jpg)
 

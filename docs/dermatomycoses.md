@@ -1,4 +1,4 @@
-## Dermatomycoses
+# Dermatomycoses
 
 ![Image](https://www.cdc.gov/ringworm/media/images/347136-A_MDB_Clean_Slate_Images_ringworm_symptoms.jpg)
 

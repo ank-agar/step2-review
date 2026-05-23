@@ -1,4 +1,4 @@
-## Obsessive-compulsive disorder
+# Obsessive-compulsive disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/OCD_Cycle.svg/960px-OCD_Cycle.svg.png)
 

@@ -1,4 +1,4 @@
-## Eustachian tube dysfunction
+# Eustachian tube dysfunction
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9308.jpg)
 

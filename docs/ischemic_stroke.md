@@ -1,4 +1,4 @@
-## Ischemic stroke
+# Ischemic stroke
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Stroke_ischemic.jpg)
 

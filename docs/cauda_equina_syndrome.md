@@ -1,4 +1,4 @@
-## Cauda equina syndrome
+# Cauda equina syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f4/Gray662.png)
 

@@ -1,4 +1,4 @@
-## Osteoporosis
+# Osteoporosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Osteoporosis_Effect_and_Locations.jpg)
 

@@ -1,4 +1,4 @@
-## Absence seizure
+# Absence seizure
 
 ![Image](https://www.frontiersin.org/files/Articles/836255/fnmol-15-836255-HTML/image_m/fnmol-15-836255-g001.jpg)
 

@@ -1,4 +1,4 @@
-## Oral cancer
+# Oral cancer
 
 ![Image](https://www.niddk.nih.gov/media-assets/18332/N01752-H_thumbnail.jpg)
 

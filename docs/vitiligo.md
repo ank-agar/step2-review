@@ -1,4 +1,4 @@
-## Vitiligo
+# Vitiligo
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c1/Layers_of_the_skin.jpg)
 

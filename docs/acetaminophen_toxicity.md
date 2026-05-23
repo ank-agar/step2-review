@@ -1,4 +1,4 @@
-## Acetaminophen toxicity
+# Acetaminophen toxicity
 
 ![Image](https://www.frontiersin.org/files/Articles/369124/xml-images/fphar-09-00453-g001.webp)
 

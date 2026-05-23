@@ -1,4 +1,4 @@
-## Dysphagia
+# Dysphagia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK541071/bin/Swallowing-01.jpg)
 

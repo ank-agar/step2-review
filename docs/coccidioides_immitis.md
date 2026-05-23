@@ -1,4 +1,4 @@
-## Coccidioides immitis
+# Coccidioides immitis
 
 ![Image](https://wwwnc.cdc.gov/eid/images/96-0305-F1.jpg)
 

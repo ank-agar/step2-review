@@ -1,4 +1,4 @@
-## Deep venous thrombosis
+# Deep venous thrombosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/62/Blausen_0290_DeepVeinThrombosis.png)
 

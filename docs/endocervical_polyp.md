@@ -1,4 +1,4 @@
-## Endocervical polyp
+# Endocervical polyp
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/810405.jpg)
 

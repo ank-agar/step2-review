@@ -1,4 +1,4 @@
-## Cataplexy
+# Cataplexy
 
 ![Image](https://narcolepsy.sleep-disorders.net/wp-content/uploads/2021/02/SDn-symptoms-cataplexy.jpg)
 

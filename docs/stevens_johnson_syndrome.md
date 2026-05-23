@@ -1,4 +1,4 @@
-## Stevens-Johnson syndrome
+# Stevens-Johnson syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Stevens-Johnson_Syndrome_and_Toxic_Epidermal_Necrolysis.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org)
 

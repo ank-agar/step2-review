@@ -1,4 +1,4 @@
-## Cholesteatoma
+# Cholesteatoma
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cf31/4718166/cafd8148d0ce/JOA-228-338-g002.jpg)
 

@@ -1,4 +1,4 @@
-## Granulomatosis with polyangiitis
+# Granulomatosis with polyangiitis
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/granulomatosis-polyangiitis-infographic)
 

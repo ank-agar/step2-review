@@ -1,4 +1,4 @@
-## Appendicitis
+# Appendicitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19580.jpg)
 

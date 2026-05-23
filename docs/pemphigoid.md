@@ -1,4 +1,4 @@
-## Pemphigoid
+# Pemphigoid
 
 ![Image](https://mdpi-res.com/ijms/ijms-24-16786/article_deploy/html/images/ijms-24-16786-g001-550.jpg)
 

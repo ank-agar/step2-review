@@ -1,4 +1,4 @@
-## Multiple endocrine neoplasia type 1
+# Multiple endocrine neoplasia type 1
 
 ![Image](https://www.niddk.nih.gov/media-assets/17934/N01124-H.jpg)
 

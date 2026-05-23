@@ -1,4 +1,4 @@
-## AIDS
+# AIDS
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a2/HIV_life_cycle.svg)
 

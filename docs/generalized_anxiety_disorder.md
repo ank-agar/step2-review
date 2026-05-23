@@ -1,4 +1,4 @@
-## Generalized anxiety disorder
+# Generalized anxiety disorder
 
 ![Image](https://www.nimh.nih.gov/sites/default/files/images/outreach/social-media-graphics/2021_ImSoStressed_Infographic.jpg)
 

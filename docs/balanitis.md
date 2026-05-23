@@ -1,4 +1,4 @@
-## Balanitis
+# Balanitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anatomy_of_the_human_glans_penis.png/960px-Anatomy_of_the_human_glans_penis.png)
 

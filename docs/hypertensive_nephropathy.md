@@ -1,4 +1,4 @@
-## Hypertensive nephropathy
+# Hypertensive nephropathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KidneyAndNephron-v4_Antares42.svg/1280px-KidneyAndNephron-v4_Antares42.svg.png)
 

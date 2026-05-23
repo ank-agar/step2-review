@@ -1,4 +1,4 @@
-## Cerebral edema
+# Cerebral edema
 
 ![Image](https://pub.mdpi-res.com/ijms/ijms-22-05679/article_deploy/html/images/ijms-22-05679-g005.png)
 

@@ -1,4 +1,4 @@
-## Hiatal hernia
+# Hiatal hernia
 
 ![Image](https://www.niddk.nih.gov/media-assets/17889/N01020-H_thumbnail.jpg)
 

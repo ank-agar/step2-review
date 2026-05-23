@@ -1,4 +1,4 @@
-## Glucose-6-phosphate dehydrogenase deficiency
+# Glucose-6-phosphate dehydrogenase deficiency
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK470315/bin/G6PD_final.jpg)
 

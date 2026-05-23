@@ -1,4 +1,4 @@
-## Nystagmus
+# Nystagmus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vestibulo-ocular_reflex_EN.svg/500px-Vestibulo-ocular_reflex_EN.svg.png)
 

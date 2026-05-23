@@ -1,4 +1,4 @@
-## Rhabdomyolysis
+# Rhabdomyolysis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Renal_Tubules_of_Exertional_Rhabdomyolysis.png/960px-Renal_Tubules_of_Exertional_Rhabdomyolysis.png)
 

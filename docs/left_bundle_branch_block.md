@@ -1,4 +1,4 @@
-## Left bundle branch block
+# Left bundle branch block
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Left_bundle_branch_block_ECG_characteristics.svg/960px-Left_bundle_branch_block_ECG_characteristics.svg.png)
 

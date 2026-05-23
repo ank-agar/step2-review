@@ -1,4 +1,4 @@
-## Barrett esophagus
+# Barrett esophagus
 
 ![Image](https://www.medindia.net/images/common/infographics/950_400/Barretts-Esophagus.jpg)
 

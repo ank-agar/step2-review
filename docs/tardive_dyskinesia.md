@@ -1,4 +1,4 @@
-## Tardive dyskinesia
+# Tardive dyskinesia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basal_ganglia_circuits.svg/1280px-Basal_ganglia_circuits.svg.png)
 

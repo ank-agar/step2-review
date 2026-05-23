@@ -1,4 +1,4 @@
-## Schistosomiasis
+# Schistosomiasis
 
 ![Image](https://www.cdc.gov/dpdx/schistosomiasis/modules/Schistomes_LifeCycle_lg.jpg)
 

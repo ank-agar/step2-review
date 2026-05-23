@@ -1,4 +1,4 @@
-## Coma
+# Coma
 
 ![Image](https://rcweb.dartmouth.edu/CANlab/brainstemwiki/lib/exe/fetch.php/musacchio2012ras467a.png_%3B?tok=ed863b&w=600)
 

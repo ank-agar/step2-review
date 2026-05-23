@@ -1,4 +1,4 @@
-## Pheochromocytoma
+# Pheochromocytoma
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/739009.jpg)
 

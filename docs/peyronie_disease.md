@@ -1,4 +1,4 @@
-## Peyronie disease
+# Peyronie disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/81/Plaque_penis2.jpg)
 

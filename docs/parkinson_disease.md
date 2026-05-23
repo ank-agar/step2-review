@@ -1,4 +1,4 @@
-## Parkinson disease
+# Parkinson disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Basal_ganglia_in_Parkinson%27s_disease.png)
 

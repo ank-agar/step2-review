@@ -1,4 +1,4 @@
-## Coronary artery disease
+# Coronary artery disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b2/Atherosclerosis_2011.jpg)
 

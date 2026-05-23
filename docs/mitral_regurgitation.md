@@ -1,4 +1,4 @@
-## Mitral regurgitation
+# Mitral regurgitation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/54/Mitral_Regurgitation_scheme.png)
 

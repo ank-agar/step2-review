@@ -1,4 +1,4 @@
-## Small intestine cancer
+# Small intestine cancer
 
 ![Image](https://cdn.cancer.ca/-/media/cams/small-intestine/d2d8da00-b64f-11ea-bc3d-0242df4d59be-en.png?h=337&hash=C97D9F63F180D40BE646D7AC335FAC3C&iar=0&mw=543&rev=b0c95046eead476fa13b1a3f91af0c85&w=399)
 

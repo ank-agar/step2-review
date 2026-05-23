@@ -1,4 +1,4 @@
-## Tracheal stenosis
+# Tracheal stenosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2e/LarynxTracheaandbronchi.png)
 

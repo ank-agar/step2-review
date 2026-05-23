@@ -1,4 +1,4 @@
-## Acute fatty liver of pregnancy
+# Acute fatty liver of pregnancy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8da0/7037575/ee90409d808d/nihms-1561203-f0001.jpg)
 

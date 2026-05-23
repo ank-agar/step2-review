@@ -1,4 +1,4 @@
-## Bradycardia
+# Bradycardia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/43/Sinus_Bradycardia.jpg)
 

@@ -1,4 +1,4 @@
-## Acute stress disorder
+# Acute stress disorder
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK538239/bin/HPA__Axis.jpg)
 

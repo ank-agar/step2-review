@@ -1,4 +1,4 @@
-## Neonatal herpes simplex
+# Neonatal herpes simplex
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17145.jpg)
 

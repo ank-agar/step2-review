@@ -1,4 +1,4 @@
-## Malignant hyperthermia
+# Malignant hyperthermia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1146/bin/mhs-Image001.jpg)
 

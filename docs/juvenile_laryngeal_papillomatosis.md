@@ -1,4 +1,4 @@
-## Juvenile laryngeal papillomatosis
+# Juvenile laryngeal papillomatosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Diagram_of_the_larynx_CRUK_039.svg/500px-Diagram_of_the_larynx_CRUK_039.svg.png)
 

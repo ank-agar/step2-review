@@ -1,4 +1,4 @@
-## Leprosy
+# Leprosy
 
 ![Image](https://www.clker.com/cliparts/8/c/e/8/1513791304299107362mycobacterium-leprae-diagram.hi.png)
 

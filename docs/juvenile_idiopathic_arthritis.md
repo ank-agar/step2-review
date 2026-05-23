@@ -1,4 +1,4 @@
-## Juvenile idiopathic arthritis
+# Juvenile idiopathic arthritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/907_Synovial_Joints.jpg/1280px-907_Synovial_Joints.jpg)
 

@@ -1,4 +1,4 @@
-## Cyclospora
+# Cyclospora
 
 ![Image](https://www.cdc.gov/dpdx/cyclosporiasis/modules/Cyclosporiasis_LifeCycle_lg.jpg)
 

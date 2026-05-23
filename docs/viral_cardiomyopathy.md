@@ -1,4 +1,4 @@
-## Viral cardiomyopathy
+# Viral cardiomyopathy
 
 ![Image](https://www.wikidoc.org/images/5/5c/Pathophys_of_Viral_Myocarditis.png)
 

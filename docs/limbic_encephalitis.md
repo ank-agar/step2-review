@@ -1,4 +1,4 @@
-## Limbic encephalitis
+# Limbic encephalitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1511_The_Limbic_Lobe.svg/1280px-1511_The_Limbic_Lobe.svg.png)
 

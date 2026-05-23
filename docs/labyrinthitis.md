@@ -1,4 +1,4 @@
-## Labyrinthitis
+# Labyrinthitis
 
 ![Image](https://teachmeanatomy.info/wp-content/uploads/The-Membranous-Labyrinth.jpg)
 

@@ -1,4 +1,4 @@
-## Giardia
+# Giardia
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/3394/3394_lores.jpg)
 

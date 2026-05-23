@@ -1,4 +1,4 @@
-## Turcot syndrome
+# Turcot syndrome
 
 ![Image](https://www.cancer.gov/sites/www/files/styles/cgov_article/public/cgov_contextual_image/2021-08/PartsOfColonAnalCanal.jpg?itok=YKWzg-92)
 

@@ -1,4 +1,4 @@
-## Hyperinsulinism
+# Hyperinsulinism
 
 ![Image](https://media.gosh.nhs.uk/images/9ede3348-eb5ed1ff-d1aff9c1-18f96991-ae435b88-32.original.png)
 

@@ -1,4 +1,4 @@
-## CMV esophagitis
+# CMV esophagitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17113.jpg)
 

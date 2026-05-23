@@ -1,4 +1,4 @@
-## Compartment syndrome
+# Compartment syndrome
 
 ![Image](https://images.medicinenet.com/images/featured/detail-compartment-syndrome.jpg?output-quality=70&resize=350px%3A%2A)
 

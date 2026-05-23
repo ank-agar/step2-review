@@ -1,4 +1,4 @@
-## Measles virus
+# Measles virus
 
 ![Image](https://nigms.nih.gov/sites/nigms/files/image-and-video-gallery/measles.jpg)
 

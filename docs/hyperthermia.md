@@ -1,4 +1,4 @@
-## Hyperthermia
+# Hyperthermia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459311/bin/Cooling_Techniques_For_Hyperthermia_-01.jpg)
 

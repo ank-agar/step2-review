@@ -1,4 +1,4 @@
-## Pleuritis
+# Pleuritis
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/ab75c5732c0dd28d9862cebcc0ae5955d578f763)
 

@@ -1,4 +1,4 @@
-## Quadriplegia
+# Quadriplegia
 
 ![Image](https://www.sciontario.org/wp-content/uploads/SCI_SpinalCordDiagram.jpg)
 

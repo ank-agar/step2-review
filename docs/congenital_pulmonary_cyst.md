@@ -1,4 +1,4 @@
-## Congenital pulmonary cyst
+# Congenital pulmonary cyst
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK551664/bin/Types__of__CPAM.jpg)
 

@@ -1,4 +1,4 @@
-## Lymphogranuloma venereum
+# Lymphogranuloma venereum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4a/Chlamydae_Life_Cycle.svg)
 

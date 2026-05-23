@@ -1,4 +1,4 @@
-## Dizziness
+# Dizziness
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK557380/bin/Vestibulocochlear__System.jpg)
 

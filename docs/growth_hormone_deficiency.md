@@ -1,4 +1,4 @@
-## Growth hormone deficiency
+# Growth hormone deficiency
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/c103ed23e020805e4e23bea3706a582b3f5ce93e)
 

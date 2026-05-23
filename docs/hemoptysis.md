@@ -1,4 +1,4 @@
-## Hemoptysis
+# Hemoptysis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f0/Hemoptysis.png)
 

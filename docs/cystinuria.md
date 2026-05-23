@@ -1,4 +1,4 @@
-## Cystinuria
+# Cystinuria
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c50/9317473/bf96f611ddaa/tap-57-4-377_f003.jpg)
 

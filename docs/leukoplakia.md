@@ -1,4 +1,4 @@
-## Leukoplakia
+# Leukoplakia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/73/Mouth_and_tongue.jpg)
 

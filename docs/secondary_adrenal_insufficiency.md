@@ -1,4 +1,4 @@
-## Secondary adrenal insufficiency
+# Secondary adrenal insufficiency
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK278953/bin/congn-adren-hyprplsa-Image002.jpg)
 

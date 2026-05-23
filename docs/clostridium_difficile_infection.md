@@ -1,4 +1,4 @@
-## Clostridium difficile infection
+# Clostridium difficile infection
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK431054/bin/Clostridioides__difficile__Infections.jpg)
 

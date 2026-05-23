@@ -1,4 +1,4 @@
-## Graft-versus-host disease
+# Graft-versus-host disease
 
 ![Image](https://www.frontiersin.org/files/Articles/224274/xml-images/fimmu-08-00079-g002.webp)
 

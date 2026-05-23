@@ -1,4 +1,4 @@
-## Mumps virus
+# Mumps virus
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24397.jpg)
 

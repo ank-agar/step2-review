@@ -1,4 +1,4 @@
-## Epstein-Barr virus
+# Epstein-Barr virus
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK582491/bin/RM_07-Image003.jpg)
 

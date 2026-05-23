@@ -1,4 +1,4 @@
-## Lentigo
+# Lentigo
 
 ![Image](https://socialsci.libretexts.org/@api/deki/files/173047/06_melanin_640px-Illu_skin02.jpg?revision=1)
 

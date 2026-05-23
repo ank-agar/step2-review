@@ -1,4 +1,4 @@
-## Congenital chlamydia
+# Congenital chlamydia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chlamydae_Life_Cycle.svg/960px-Chlamydae_Life_Cycle.svg.png)
 

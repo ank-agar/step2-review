@@ -1,4 +1,4 @@
-## Angiostrongylus cantonensis
+# Angiostrongylus cantonensis
 
 ![Image](https://www.cdc.gov/dpdx/angiostrongyliasis/modules/Angiostrong_LifeCycle.gif?_=01481)
 

@@ -1,4 +1,4 @@
-## Temporal arteritis
+# Temporal arteritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gray508.png/250px-Gray508.png)
 

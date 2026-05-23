@@ -1,4 +1,4 @@
-## Methamphetamine use disorder
+# Methamphetamine use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/97/TAAR1_Amphetamine_Dopamine.png)
 

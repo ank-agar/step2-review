@@ -1,4 +1,4 @@
-## Second-degree AV block
+# Second-degree AV block
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Conductionsystemoftheheart.png/960px-Conductionsystemoftheheart.png)
 

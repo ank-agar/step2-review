@@ -1,4 +1,4 @@
-## Anal cancer
+# Anal cancer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diagram_showing_stage_1_anal_cancer_CRUK_189.svg/250px-Diagram_showing_stage_1_anal_cancer_CRUK_189.svg.png)
 

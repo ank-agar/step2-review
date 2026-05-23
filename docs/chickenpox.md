@@ -1,4 +1,4 @@
-## Chickenpox
+# Chickenpox
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK8157/bin/ch68f6.gif)
 

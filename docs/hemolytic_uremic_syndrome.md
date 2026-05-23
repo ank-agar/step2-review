@@ -1,4 +1,4 @@
-## Hemolytic uremic syndrome
+# Hemolytic uremic syndrome
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2018/04/fig4.png)
 

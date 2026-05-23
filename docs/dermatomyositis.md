@@ -1,4 +1,4 @@
-## Dermatomyositis
+# Dermatomyositis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c72c/11989767/da55fe98c9c0/ijms-26-03302-g001.jpg)
 

@@ -1,4 +1,4 @@
-## Osteoid osteoma
+# Osteoid osteoma
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fdd3/2747406/ea7615c2987b/IJRI-19-36-g011.jpg)
 

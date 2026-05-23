@@ -1,4 +1,4 @@
-## Optic neuritis
+# Optic neuritis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK562263/bin/Schematic_diagram_of_the_human_eye.jpg)
 

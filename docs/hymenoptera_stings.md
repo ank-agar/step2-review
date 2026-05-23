@@ -1,4 +1,4 @@
-## Hymenoptera stings
+# Hymenoptera stings
 
 ![Image](https://beeprofessor.com/wp-content/uploads/2023/09/Anatomy-of-a-bee-stinger.jpg)
 

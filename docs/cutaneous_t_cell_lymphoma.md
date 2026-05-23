@@ -1,4 +1,4 @@
-## Cutaneous T-cell lymphoma
+# Cutaneous T-cell lymphoma
 
 ![Image](https://d16qt3wv6xm098.cloudfront.net/NuY5oyoqS3maZt3xPlbYsRpuRKy6IzWu/_.png)
 

@@ -1,4 +1,4 @@
-## Congenital syphilis
+# Congenital syphilis
 
 ![Image](https://www.cdc.gov/syphilis/media/images/2025/05/pregnant-women-illustration.png)
 

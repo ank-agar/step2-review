@@ -1,4 +1,4 @@
-## Rosacea
+# Rosacea
 
 ![Image](https://www.medicpresents.com/infographicsimages/5s82_Rosacea_Infographic.jpg)
 

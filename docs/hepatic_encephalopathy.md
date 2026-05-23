@@ -1,4 +1,4 @@
-## Hepatic encephalopathy
+# Hepatic encephalopathy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7935/6490455/1c3360150cd8/CLD-5-59-g001.jpg)
 

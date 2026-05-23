@@ -1,4 +1,4 @@
-## Type III hypersensitivity
+# Type III hypersensitivity
 
 ![Image](https://open.oregonstate.education/app/uploads/sites/317/2026/01/Fig.-19.7.png)
 

@@ -1,4 +1,4 @@
-## Esophageal atresia
+# Esophageal atresia
 
 ![Image](https://www.chop.edu/sites/default/files/styles/landscape_167_5x3_960x576_2x/public/ea-type-c-16x9.jpg?itok=u-0PSz8C)
 

@@ -1,4 +1,4 @@
-## Marasmus
+# Marasmus
 
 ![Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2569/2017/10/23193721/1000000000000443000002EADFEAD129.png)
 

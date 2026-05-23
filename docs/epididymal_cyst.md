@@ -1,4 +1,4 @@
-## Epididymal cyst
+# Epididymal cyst
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19692.jpg)
 

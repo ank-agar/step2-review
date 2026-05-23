@@ -1,4 +1,4 @@
-## Transverse myelitis
+# Transverse myelitis
 
 ![Image](https://www.brainandlife.org/contentassets/f938a305cd8942c28e89ad2013dea073/Illustration-of-neurons-cell-fibers-and-myelini/)
 

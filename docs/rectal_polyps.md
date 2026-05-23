@@ -1,4 +1,4 @@
-## Rectal polyps
+# Rectal polyps
 
 ![Image](https://www.niddk.nih.gov/media-assets/18292/N01705-H.jpg)
 

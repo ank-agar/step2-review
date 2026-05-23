@@ -1,4 +1,4 @@
-## Silicosis
+# Silicosis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK592821/bin/ch2f12.jpg)
 

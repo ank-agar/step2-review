@@ -1,4 +1,4 @@
-## Unstable angina
+# Unstable angina
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK442000/bin/Angina.jpg)
 

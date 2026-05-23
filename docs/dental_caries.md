@@ -1,4 +1,4 @@
-## Dental caries
+# Dental caries
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/202402_Dental_Caries.svg/960px-202402_Dental_Caries.svg.png)
 

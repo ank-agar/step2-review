@@ -1,4 +1,4 @@
-## Scleroderma
+# Scleroderma
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/crest-syndrome)
 

@@ -1,4 +1,4 @@
-## Pulmonary embolism
+# Pulmonary embolism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/df/Pulmonary-embolism.png)
 

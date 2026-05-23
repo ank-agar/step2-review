@@ -1,4 +1,4 @@
-## Achalasia
+# Achalasia
 
 ![Image](https://www.niddk.nih.gov/media-assets/17881/N01011-H.jpg)
 

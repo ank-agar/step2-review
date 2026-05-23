@@ -1,4 +1,4 @@
-## Parvovirus
+# Parvovirus
 
 ![Image](https://viralzone.expasy.org/resources/Parvoviridae_virion.jpg)
 

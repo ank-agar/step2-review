@@ -1,4 +1,4 @@
-## Trigeminal neuralgia
+# Trigeminal neuralgia
 
 ![Image](https://anatomytool.org/sites/default/files/trigeminal-nerve-illustration-1.jpg)
 

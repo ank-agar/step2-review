@@ -1,4 +1,4 @@
-## Renal abscess
+# Renal abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/Illu_kidney.jpg)
 

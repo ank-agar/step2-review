@@ -1,4 +1,4 @@
-## Cough
+# Cough
 
 ![Image](https://www.frontiersin.org/files/Articles/501953/xml-images/fvets-06-00513-g0001.webp)
 

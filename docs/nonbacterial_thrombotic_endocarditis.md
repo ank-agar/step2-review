@@ -1,4 +1,4 @@
-## Nonbacterial thrombotic endocarditis
+# Nonbacterial thrombotic endocarditis
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/ff0ff7b063895b5e36b4b72f9c29a120c825578f)
 

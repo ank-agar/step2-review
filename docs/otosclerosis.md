@@ -1,4 +1,4 @@
-## Otosclerosis
+# Otosclerosis
 
 ![Image](https://med.uth.edu/orl/wp-content/uploads/sites/68/2017/10/Ch15diag5.jpg)
 

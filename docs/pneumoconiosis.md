@@ -1,4 +1,4 @@
-## Pneumoconiosis
+# Pneumoconiosis
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/How%20Lungs%20Work%20Illustration_edited.jpg)
 

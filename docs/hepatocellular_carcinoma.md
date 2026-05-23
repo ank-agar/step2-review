@@ -1,4 +1,4 @@
-## Hepatocellular carcinoma
+# Hepatocellular carcinoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8a/Progression_of_liver_disease.png)
 

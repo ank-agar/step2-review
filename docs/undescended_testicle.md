@@ -1,4 +1,4 @@
-## Undescended testicle
+# Undescended testicle
 
 ![Image](https://content.healthwise.net/resources/14.8/en-us/media/medical/hw/h9991609_001_2.jpg)
 

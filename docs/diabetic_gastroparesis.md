@@ -1,4 +1,4 @@
-## Diabetic gastroparesis
+# Diabetic gastroparesis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Stomach_emptying_into_duodenum.svg/960px-Stomach_emptying_into_duodenum.svg.png)
 

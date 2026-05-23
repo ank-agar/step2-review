@@ -1,4 +1,4 @@
-## Glioblastoma
+# Glioblastoma
 
 ![Image](https://cdn.sciencefigures.org/svg/color/brain_glioblastoma_t2_perilesional_edema.svg)
 

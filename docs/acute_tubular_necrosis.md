@@ -1,4 +1,4 @@
-## Acute tubular necrosis
+# Acute tubular necrosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Acute_Renal_Failure.svg/1280px-Acute_Renal_Failure.svg.png)
 

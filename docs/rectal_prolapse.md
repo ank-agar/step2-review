@@ -1,4 +1,4 @@
-## Rectal prolapse
+# Rectal prolapse
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9809.jpg)
 

@@ -1,4 +1,4 @@
-## Toxoplasmosis
+# Toxoplasmosis
 
 ![Image](https://www.cdc.gov/dpdx/toxoplasmosis/modules/Toxoplasma_LifeCycle_BAM1.gif)
 

@@ -1,4 +1,4 @@
-## Frontotemporal dementia
+# Frontotemporal dementia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bf/FTD_Frontal_Temporal_Lobes_Labeled.png)
 

@@ -1,4 +1,4 @@
-## Ventricular free wall rupture
+# Ventricular free wall rupture
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Blausen_0164_CardiacTamponade_02.png)
 

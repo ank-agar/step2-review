@@ -1,4 +1,4 @@
-## Erysipelas
+# Erysipelas
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Skin.svg/1280px-Skin.svg.png)
 

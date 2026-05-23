@@ -1,4 +1,4 @@
-## Rheumatic heart disease
+# Rheumatic heart disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mitr_Stenosis.svg/960px-Mitr_Stenosis.svg.png)
 

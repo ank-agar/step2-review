@@ -1,4 +1,4 @@
-## Subdural hematoma
+# Subdural hematoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4e/Types_of_Intracranial_hematoma.jpg)
 

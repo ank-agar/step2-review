@@ -1,4 +1,4 @@
-## Amblyopia
+# Amblyopia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4c/Diplopia_and_optical_confusion_-_journal.pone.0036611.g001.png)
 

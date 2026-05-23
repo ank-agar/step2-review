@@ -1,4 +1,4 @@
-## Mumps
+# Mumps
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Salivary_glands_labeled.svg/1280px-Salivary_glands_labeled.svg.png)
 

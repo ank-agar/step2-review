@@ -1,4 +1,4 @@
-## Drug-induced peripheral neuropathy
+# Drug-induced peripheral neuropathy
 
 ![Image](https://www.roswellpark.org/sites/default/files/styles/max_1300x1300/public/2020-01/adobestock_175250242-converted.jpg?itok=VUPNwCkc)
 

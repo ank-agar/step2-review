@@ -1,4 +1,4 @@
-## Blastomycosis
+# Blastomycosis
 
 ![Image](https://www.cdc.gov/blastomycosis/media/images/blastoplasmosislifecycle.jpg)
 

@@ -1,4 +1,4 @@
-## Tachycardia-induced cardiomyopathy
+# Tachycardia-induced cardiomyopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blausen_0165_Cardiomyopathy_Dilated-ca.svg/960px-Blausen_0165_Cardiomyopathy_Dilated-ca.svg.png)
 

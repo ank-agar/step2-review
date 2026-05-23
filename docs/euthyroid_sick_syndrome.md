@@ -1,4 +1,4 @@
-## Euthyroid sick syndrome
+# Euthyroid sick syndrome
 
 ![Image](https://dm5migu4zj3pb.cloudfront.net/manuscripts/60000/60047/medium/JCI60047.f1.jpg)
 

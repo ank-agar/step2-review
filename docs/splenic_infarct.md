@@ -1,4 +1,4 @@
-## Splenic infarct
+# Splenic infarct
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gray533.png/330px-Gray533.png)
 

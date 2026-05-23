@@ -1,4 +1,4 @@
-## Nasal foreign body
+# Nasal foreign body
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773106473/Journals/Automation/AFP/2007/1015/p1185-f2-gif.gif)
 

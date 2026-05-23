@@ -1,4 +1,4 @@
-## Lactose intolerance
+# Lactose intolerance
 
 ![Image](https://nigms.nih.gov/sites/nigms/files/wp_content_bio/2021/06/BioBeat-6.2.2021.jpg)
 

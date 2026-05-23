@@ -1,4 +1,4 @@
-## Genu varum
+# Genu varum
 
 ![Image](https://upload.orthobullets.com/topic/4050/images/Tibiofemoral%20angle_moved.png)
 

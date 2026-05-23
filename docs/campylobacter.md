@@ -1,4 +1,4 @@
-## Campylobacter
+# Campylobacter
 
 ![Image](https://mechpath.com/wp-content/uploads/2017/12/figure11.png?w=960)
 

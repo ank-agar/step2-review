@@ -1,4 +1,4 @@
-## Selective IgA deficiency
+# Selective IgA deficiency
 
 ![Image](https://www.immunology.org/sites/default/files/inline-images/Immunoglobulin-A-IgA-Figure-1.png)
 

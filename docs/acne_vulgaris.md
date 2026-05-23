@@ -1,4 +1,4 @@
-## Acne vulgaris
+# Acne vulgaris
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/34/515_Acne_formation.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org)
 

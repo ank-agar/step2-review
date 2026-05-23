@@ -1,4 +1,4 @@
-## Erectile dysfunction
+# Erectile dysfunction
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4450/3746402/c8d56c37f798/bjr-85-S69-g001.jpg)
 

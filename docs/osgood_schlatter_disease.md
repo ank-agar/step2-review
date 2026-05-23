@@ -1,4 +1,4 @@
-## Osgood-Schlatter disease
+# Osgood-Schlatter disease
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17240.jpg)
 

@@ -1,4 +1,4 @@
-## Temporomandibular joint disorders
+# Temporomandibular joint disorders
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK538486/bin/TMJ.jpg)
 

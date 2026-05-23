@@ -1,4 +1,4 @@
-## Pyruvate kinase deficiency
+# Pyruvate kinase deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pyruvate_kinase.png/330px-Pyruvate_kinase.png)
 

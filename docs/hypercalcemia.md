@@ -1,4 +1,4 @@
-## Hypercalcemia
+# Hypercalcemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0b/625_Calcium_Homeostasis.jpg)
 

@@ -1,4 +1,4 @@
-## Hypoventilation
+# Hypoventilation
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/723c765a7935305d30eab064e94812473d1a18ab)
 

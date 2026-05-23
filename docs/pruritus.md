@@ -1,4 +1,4 @@
-## Pruritus
+# Pruritus
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/dba7/7474262/dfcf2df9bcd0/z9j0022029390001.jpg)
 

@@ -1,4 +1,4 @@
-## Nonaccidental trauma
+# Nonaccidental trauma
 
 ![Image](https://www.luriechildrens.org/globalassets/stanley-manne-research-site/population-science/tricam/ten-4/lch-2698-ten-4-facesp_fb-post_1200x628.jpg)
 

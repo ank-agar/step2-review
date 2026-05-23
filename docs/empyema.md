@@ -1,4 +1,4 @@
-## Empyema
+# Empyema
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Diagram_showing_a_build_up_of_fluid_in_the_lining_of_the_lungs_%28pleural_effusion%29_CRUK_054.svg/960px-Diagram_showing_a_build_up_of_fluid_in_the_lining_of_the_lungs_%28pleural_effusion%29_CRUK_054.svg.png)
 

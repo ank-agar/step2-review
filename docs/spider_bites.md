@@ -1,4 +1,4 @@
-## Spider bites
+# Spider bites
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8912.jpg)
 

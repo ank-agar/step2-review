@@ -1,4 +1,4 @@
-## Hepatic abscess
+# Hepatic abscess
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24341.jpg)
 

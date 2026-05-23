@@ -1,4 +1,4 @@
-## Somatostatinoma
+# Somatostatinoma
 
 ![Image](https://images.ctfassets.net/g3mey2fqpv66/6iwgiQXqGfv3ms5P0Z3RUc/d387c3153437e6990d1fa32a1d1afcd3/01_Diagram_showing_the_position_of_the_pancreas.svg)
 

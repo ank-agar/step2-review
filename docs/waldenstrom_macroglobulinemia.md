@@ -1,4 +1,4 @@
-## Waldenstrom macroglobulinemia
+# Waldenstrom macroglobulinemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/IgM_scheme.svg/500px-IgM_scheme.svg.png)
 

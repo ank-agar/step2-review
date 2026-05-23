@@ -1,4 +1,4 @@
-## Intestinal malrotation
+# Intestinal malrotation
 
 ![Image](https://media.cuh.nhs.uk/images/37275_pic_2.width-840.png)
 

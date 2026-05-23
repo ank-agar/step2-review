@@ -1,4 +1,4 @@
-## Contracture
+# Contracture
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9218.jpg)
 

@@ -1,4 +1,4 @@
-## Medication overuse headache
+# Medication overuse headache
 
 ![Image](https://americanmigrainefoundation.org/wp-content/uploads/2018/01/AMF-Jan-Blog-1-1.webp)
 

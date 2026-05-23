@@ -1,4 +1,4 @@
-## Arnold-Chiari malformation
+# Arnold-Chiari malformation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chiari2.jpg/960px-Chiari2.jpg)
 

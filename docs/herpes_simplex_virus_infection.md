@@ -1,4 +1,4 @@
-## Herpes simplex virus infection
+# Herpes simplex virus infection
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Herpesvirales_virion.svg/960px-Herpesvirales_virion.svg.png)
 

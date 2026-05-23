@@ -1,4 +1,4 @@
-## Oral thrush
+# Oral thrush
 
 ![Image](https://icons.cdn.biorender.com/w550xh620/63079a5968db6300285f1b00/63079a1268db6300285f1afd.png)
 

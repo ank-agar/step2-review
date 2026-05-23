@@ -1,4 +1,4 @@
-## Rumination
+# Rumination
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fc1e/6492032/bfe590653a22/nihms-1022954-f0001.jpg)
 

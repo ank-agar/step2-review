@@ -1,4 +1,4 @@
-## Separation anxiety disorder
+# Separation anxiety disorder
 
 ![Image](https://www.pikpng.com/pngl/m/428-4287355_separation-anxiety-full-infographic-circle-clipart.png)
 

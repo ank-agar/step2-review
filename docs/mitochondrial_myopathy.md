@@ -1,4 +1,4 @@
-## Mitochondrial myopathy
+# Mitochondrial myopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mitochondrial_respiratory_chain.svg/960px-Mitochondrial_respiratory_chain.svg.png)
 

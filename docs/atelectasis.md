@@ -1,4 +1,4 @@
-## Atelectasis
+# Atelectasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/07/Atelectasis.png)
 

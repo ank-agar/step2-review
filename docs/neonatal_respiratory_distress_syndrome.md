@@ -1,4 +1,4 @@
-## Neonatal respiratory distress syndrome
+# Neonatal respiratory distress syndrome
 
 ![Image](https://clipart-library.com/2023/kisspng-pulmonary-alveolus-lung-pulmonary-compliance-surfa-naxin-5ae3df81b15361.9055492615248833297263.jpg)
 

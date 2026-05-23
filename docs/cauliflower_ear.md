@@ -1,4 +1,4 @@
-## Cauliflower ear
+# Cauliflower ear
 
 ![Image](https://my.clevelandclinic.org/-/scassets/Images/org/health/articles/cauliflower-ear)
 

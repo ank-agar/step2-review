@@ -1,4 +1,4 @@
-## Viral encephalitis
+# Viral encephalitis
 
 ![Image](https://journals.plos.org/plospathogens/article/figure/image?id=10.1371%2Fjournal.ppat.1002004.g001&size=large)
 

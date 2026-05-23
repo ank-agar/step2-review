@@ -1,4 +1,4 @@
-## Syphilis
+# Syphilis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/11aa/4952975/babe834dc567/184fig1.jpg)
 

@@ -1,4 +1,4 @@
-## Viral meningitis
+# Viral meningitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/250px-Meninges-en.svg.png)
 

@@ -1,4 +1,4 @@
-## Poststreptococcal glomerulonephritis
+# Poststreptococcal glomerulonephritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Acute_Glomerulonephritis_Pathology_Diagram.svg/1920px-Acute_Glomerulonephritis_Pathology_Diagram.svg.png)
 

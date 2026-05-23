@@ -1,4 +1,4 @@
-## Thyroid nodule
+# Thyroid nodule
 
 ![Image](https://visualsonline.cancer.gov/retrieve.cfm?dpi=72&fileformat=jpg&imageid=9268)
 

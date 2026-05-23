@@ -1,4 +1,4 @@
-## Prostatitis
+# Prostatitis
 
 ![Image](https://www.niddk.nih.gov/media-assets/11221/Digital-rectal-exam-with-labels_thumbnail.jpg)
 

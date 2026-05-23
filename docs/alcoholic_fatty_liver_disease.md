@@ -1,4 +1,4 @@
-## Alcoholic fatty liver disease
+# Alcoholic fatty liver disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Steatosis.svg/960px-Steatosis.svg.png?_=20211218202352)
 

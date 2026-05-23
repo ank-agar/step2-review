@@ -1,4 +1,4 @@
-## Vertebral artery dissection
+# Vertebral artery dissection
 
 ![Image](https://www.frontiersin.org/files/Articles/1055862/xml-images/fcvm-09-1055862-g004.webp)
 

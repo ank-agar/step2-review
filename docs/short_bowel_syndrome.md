@@ -1,4 +1,4 @@
-## Short bowel syndrome
+# Short bowel syndrome
 
 ![Image](https://www.shortbowelsyndrome.com/dist/images/digestive-system-2x.png)
 

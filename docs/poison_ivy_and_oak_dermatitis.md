@@ -1,4 +1,4 @@
-## Poison ivy and oak dermatitis
+# Poison ivy and oak dermatitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e2/Urushiol_Mechanism.png)
 

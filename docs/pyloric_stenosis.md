@@ -1,4 +1,4 @@
-## Pyloric stenosis
+# Pyloric stenosis
 
 ![Image](https://content.healthwise.net/resources/14.6/en-us/media/medical/hw/acl7771_460x300.jpg)
 

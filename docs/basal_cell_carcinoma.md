@@ -1,4 +1,4 @@
-## Basal cell carcinoma
+# Basal cell carcinoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Skin_Cancer_Diagram.svg/1280px-Skin_Cancer_Diagram.svg.png)
 

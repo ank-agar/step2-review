@@ -1,4 +1,4 @@
-## Urethritis
+# Urethritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Female_and_Male_Urethra.jpg/960px-Female_and_Male_Urethra.jpg)
 

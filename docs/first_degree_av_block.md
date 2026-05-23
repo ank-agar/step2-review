@@ -1,4 +1,4 @@
-## First-degree AV block
+# First-degree AV block
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/ba/FirstAVBlock.jpg)
 

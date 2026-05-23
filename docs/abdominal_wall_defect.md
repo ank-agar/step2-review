@@ -1,4 +1,4 @@
-## Abdominal wall defect
+# Abdominal wall defect
 
 ![Image](https://archive.cdc.gov/www_cdc_gov/ncbddd/birthdefects/surveillancemanual/quick-reference-handbook/gastroschisis_html_files/Fig.-51.-Distinguishing-omphalocele-from-gastroschisis.jpg)
 

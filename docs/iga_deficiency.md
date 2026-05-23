@@ -1,4 +1,4 @@
-## IgA deficiency
+# IgA deficiency
 
 ![Image](https://anatomynote.com/pictures/lymphatic-system/001/iga-immunity-diagram.jpg)
 

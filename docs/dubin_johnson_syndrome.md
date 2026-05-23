@@ -1,4 +1,4 @@
-## Dubin-Johnson syndrome
+# Dubin-Johnson syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Metabolismo_de_la_bilirrubina.svg/500px-Metabolismo_de_la_bilirrubina.svg.png)
 

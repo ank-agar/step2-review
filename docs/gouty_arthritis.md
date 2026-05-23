@@ -1,4 +1,4 @@
-## Gouty arthritis
+# Gouty arthritis
 
 ![Image](https://media-gout.newlifeoutlook.com/wp-content/uploads/2014/01/info_foot.jpg)
 

@@ -1,4 +1,4 @@
-## Febrile seizure
+# Febrile seizure
 
 ![Image](https://us-southeast-1.linodeobjects.com/wikem-images/images/Febrile_Seizure.png)
 

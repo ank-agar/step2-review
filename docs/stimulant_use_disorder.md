@@ -1,4 +1,4 @@
-## Stimulant use disorder
+# Stimulant use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mesolimbic_pathway.svg)
 

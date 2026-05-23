@@ -1,4 +1,4 @@
-## Epiglottitis
+# Epiglottitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19595.jpg)
 

@@ -1,4 +1,4 @@
-## Down syndrome
+# Down syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK526016/bin/Down_Syndrome_Karyotype.jpg)
 

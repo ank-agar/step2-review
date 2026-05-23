@@ -1,4 +1,4 @@
-## Progressive supranuclear palsy
+# Progressive supranuclear palsy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4670/3008928/b413b0b08222/fneur-01-00147-g001.jpg)
 

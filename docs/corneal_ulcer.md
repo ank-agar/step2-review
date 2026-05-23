@@ -1,4 +1,4 @@
-## Corneal ulcer
+# Corneal ulcer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cornea.png/330px-Cornea.png)
 

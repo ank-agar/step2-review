@@ -1,4 +1,4 @@
-## Trypanosomiasis
+# Trypanosomiasis
 
 ![Image](https://www.cdc.gov/dpdx/trypanosomiasisafrican/modules/SleepingSick_LifeCycle_19.jpg?_=41950)
 

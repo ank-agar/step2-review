@@ -1,4 +1,4 @@
-## Tension headache
+# Tension headache
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19247.jpg)
 

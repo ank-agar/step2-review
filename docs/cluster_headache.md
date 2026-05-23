@@ -1,4 +1,4 @@
-## Cluster headache
+# Cluster headache
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6d34/6446418/76908d11bb4e/10.1177_0271678X17733655-fig1.jpg)
 

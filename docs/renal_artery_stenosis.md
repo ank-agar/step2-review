@@ -1,4 +1,4 @@
-## Renal artery stenosis
+# Renal artery stenosis
 
 ![Image](https://www.niddk.nih.gov/media-assets/18103/N01399-H_thumbnail.jpg)
 

@@ -1,4 +1,4 @@
-## Fat embolism
+# Fat embolism
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c307/12679895/9221b68b3afd/cureus-0017-00000096136-i01.jpg)
 

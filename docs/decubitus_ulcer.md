@@ -1,4 +1,4 @@
-## Decubitus ulcer
+# Decubitus ulcer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/01/Wound_stage.jpg)
 

@@ -1,4 +1,4 @@
-## Goodpasture syndrome
+# Goodpasture syndrome
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/anti-gbm-basement-membrane.jpeg)
 

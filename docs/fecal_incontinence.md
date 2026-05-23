@@ -1,4 +1,4 @@
-## Fecal incontinence
+# Fecal incontinence
 
 ![Image](https://www.niddk.nih.gov/media-assets/17997/N01204-H_thumbnail.jpg)
 

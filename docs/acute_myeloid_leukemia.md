@@ -1,4 +1,4 @@
-## Acute myeloid leukemia
+# Acute myeloid leukemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/Hematopoiesis_%28human%29_diagram.png)
 

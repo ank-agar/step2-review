@@ -1,4 +1,4 @@
-## Disc degeneration
+# Disc degeneration
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Degenerated_disk.svg/960px-Degenerated_disk.svg.png)
 

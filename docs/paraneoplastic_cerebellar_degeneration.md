@@ -1,4 +1,4 @@
-## Paraneoplastic cerebellar degeneration
+# Paraneoplastic cerebellar degeneration
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Diagram_of_the_Microanatomy_of_Human_Cerebellar_Cortex.svg/1280px-Diagram_of_the_Microanatomy_of_Human_Cerebellar_Cortex.svg.png)
 

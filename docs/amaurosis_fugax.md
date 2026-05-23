@@ -1,4 +1,4 @@
-## Amaurosis fugax
+# Amaurosis fugax
 
 ![Image](https://www.stroke-manual.com/wp-content/uploads/2022/04/eye-arteries3.png)
 

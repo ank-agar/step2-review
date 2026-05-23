@@ -1,4 +1,4 @@
-## Duchenne muscular dystrophy
+# Duchenne muscular dystrophy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dystrophin_diagram.jpg/250px-Dystrophin_diagram.jpg)
 

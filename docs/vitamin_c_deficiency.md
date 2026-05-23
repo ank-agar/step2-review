@@ -1,4 +1,4 @@
-## Vitamin C deficiency
+# Vitamin C deficiency
 
 ![Image](https://med.libretexts.org/@api/deki/files/11831/clipboard_e2ed435a9f0ef260f3ba0dcd994c30207.png?height=330&revision=1&size=bestfit&width=536)
 

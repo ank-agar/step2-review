@@ -1,4 +1,4 @@
-## Cocaine intoxication
+# Cocaine intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/14/Cocaine_on_Serotonin_Dopamine_Noradrenaline_reuptake.jpg)
 

@@ -1,4 +1,4 @@
-## Polysubstance use disorder
+# Polysubstance use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/98/Mesocorticolimbic_Circuit.png)
 

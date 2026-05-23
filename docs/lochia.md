@@ -1,4 +1,4 @@
-## Lochia
+# Lochia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK615369/bin/ch11f2.jpg)
 

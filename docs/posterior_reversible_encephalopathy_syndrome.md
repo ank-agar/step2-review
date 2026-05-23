@@ -1,4 +1,4 @@
-## Posterior reversible encephalopathy syndrome
+# Posterior reversible encephalopathy syndrome
 
 ![Image](https://www.frontiersin.org/files/Articles/490386/fneur-11-00463-HTML/image_m/fneur-11-00463-g001.jpg)
 

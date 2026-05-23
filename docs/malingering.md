@@ -1,4 +1,4 @@
-## Malingering
+# Malingering
 
 ![Image](https://upload.wikimedia.org/wikiversity/en/4/45/Malingering%2C_Factitious_Disorder%2C_Somatization_chart.jpg)
 

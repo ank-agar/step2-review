@@ -1,4 +1,4 @@
-## Hyperventilation syndrome
+# Hyperventilation syndrome
 
 ![Image](https://imagedelivery.net/bfLWD0Qjtd593vL0tnvGqQ/9a07745d-c918-4847-72c8-479bd55fd500/public)
 

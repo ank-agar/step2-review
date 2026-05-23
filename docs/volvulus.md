@@ -1,4 +1,4 @@
-## Volvulus
+# Volvulus
 
 ![Image](https://www.niddk.nih.gov/media-assets/17462/N00012-H_thumbnail.jpg)
 

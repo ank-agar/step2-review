@@ -1,4 +1,4 @@
-## Coxsackievirus infection
+# Coxsackievirus infection
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17198.jpg)
 

@@ -1,4 +1,4 @@
-## Spina bifida
+# Spina bifida
 
 ![Image](https://www.cdc.gov/spina-bifida/media/images/typesofSpinabifida.jpg)
 

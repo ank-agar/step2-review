@@ -1,4 +1,4 @@
-## Cutaneous abscess
+# Cutaneous abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abscess_diag_02.svg/1280px-Abscess_diag_02.svg.png)
 

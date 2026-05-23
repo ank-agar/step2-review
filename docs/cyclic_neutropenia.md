@@ -1,4 +1,4 @@
-## Cyclic neutropenia
+# Cyclic neutropenia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Cycling_absolute_neutrophil_count_in_cyclic_neutropenia.jpg)
 

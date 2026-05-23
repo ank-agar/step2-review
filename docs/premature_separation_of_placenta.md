@@ -1,4 +1,4 @@
-## Premature separation of placenta
+# Premature separation of placenta
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK482335/bin/Placental__Abruption.jpg)
 

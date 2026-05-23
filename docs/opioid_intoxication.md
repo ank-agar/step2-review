@@ -1,4 +1,4 @@
-## Opioid intoxication
+# Opioid intoxication
 
 ![Image](https://sites.tufts.edu/opioidpeptides/files/2019/12/Screen-Shot-2019-12-14-at-9.11.22-PM-1024x885.png)
 

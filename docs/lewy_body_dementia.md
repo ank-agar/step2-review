@@ -1,4 +1,4 @@
-## Lewy body dementia
+# Lewy body dementia
 
 ![Image](https://neurotorium.org/wp-content/uploads/xx-synuclein.png)
 

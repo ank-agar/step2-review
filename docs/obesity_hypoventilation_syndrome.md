@@ -1,4 +1,4 @@
-## Obesity hypoventilation syndrome
+# Obesity hypoventilation syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK542216/bin/OHS1.jpg)
 

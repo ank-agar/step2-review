@@ -1,4 +1,4 @@
-## Renal infarction
+# Renal infarction
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8817.jpg)
 

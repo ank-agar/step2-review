@@ -1,4 +1,4 @@
-## Vitamin B1 deficiency
+# Vitamin B1 deficiency
 
 ![Image](https://pub.mdpi-res.com/jcm/jcm-12-06101/article_deploy/html/images/jcm-12-06101-g001.png)
 

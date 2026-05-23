@@ -1,4 +1,4 @@
-## Myocarditis
+# Myocarditis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/22714.jpg)
 

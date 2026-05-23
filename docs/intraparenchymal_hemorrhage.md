@@ -1,4 +1,4 @@
-## Intraparenchymal hemorrhage
+# Intraparenchymal hemorrhage
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8813.jpg)
 

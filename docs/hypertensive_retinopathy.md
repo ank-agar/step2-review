@@ -1,4 +1,4 @@
-## Hypertensive retinopathy
+# Hypertensive retinopathy
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19530.jpg)
 

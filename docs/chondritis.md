@@ -1,4 +1,4 @@
-## Chondritis
+# Chondritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/73/Costal_cartilages_frontal.png)
 

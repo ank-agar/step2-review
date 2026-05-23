@@ -1,4 +1,4 @@
-## Fungal meningitis
+# Fungal meningitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png)
 

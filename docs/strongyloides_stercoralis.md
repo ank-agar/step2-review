@@ -1,4 +1,4 @@
-## Strongyloides stercoralis
+# Strongyloides stercoralis
 
 ![Image](https://www.cdc.gov/dpdx/strongyloidiasis/modules/Strongyloides_LifeCycle_lg.jpg)
 

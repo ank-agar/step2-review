@@ -1,4 +1,4 @@
-## Sturge-Weber syndrome
+# Sturge-Weber syndrome
 
 ![Image](https://medlineplus.gov/images/PX0002M6_PRESENTATION.jpeg)
 

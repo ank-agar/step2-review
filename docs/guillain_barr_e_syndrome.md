@@ -1,4 +1,4 @@
-## Guillain-Barré syndrome
+# Guillain-Barré syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/40/Guillain_Barre_Patterns.png)
 

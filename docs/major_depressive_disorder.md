@@ -1,4 +1,4 @@
-## Major depressive disorder
+# Major depressive disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/79/Major_Depression_At-A-Glance.png)
 

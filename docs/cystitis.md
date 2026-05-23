@@ -1,4 +1,4 @@
-## Cystitis
+# Cystitis
 
 ![Image](https://www.cdc.gov/uti/media/images/uti.jpg)
 

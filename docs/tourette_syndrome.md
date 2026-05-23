@@ -1,4 +1,4 @@
-## Tourette syndrome
+# Tourette syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Brain_areas_implicated_in_Tourette_syndrom.svg/1280px-Brain_areas_implicated_in_Tourette_syndrom.svg.png)
 

@@ -1,4 +1,4 @@
-## Alcohol use disorder and withdrawal
+# Alcohol use disorder and withdrawal
 
 ![Image](https://www.niaaa.nih.gov/sites/default/files/styles/large/public/Three_Stages_Alcohol_Disorder_Cycle_Brain_Graphic_English.jpg?itok=kXZnXDYS)
 

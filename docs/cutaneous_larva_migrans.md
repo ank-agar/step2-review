@@ -1,4 +1,4 @@
-## Cutaneous larva migrans
+# Cutaneous larva migrans
 
 ![Image](https://www.cdc.gov/dpdx/zoonotichookworm/modules/CLM_LifeCycle_lg.jpg)
 

@@ -1,4 +1,4 @@
-## Stable angina
+# Stable angina
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559016/bin/Angina.jpg)
 

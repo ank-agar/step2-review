@@ -1,4 +1,4 @@
-## Panhypopituitarism
+# Panhypopituitarism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK551529/bin/StatePearls_Pituitary_ElSayed_2016_Kathi.jpg)
 

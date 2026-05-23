@@ -1,4 +1,4 @@
-## Psoriatic arthritis
+# Psoriatic arthritis
 
 ![Image](https://www.frontiersin.org/files/Articles/672515/xml-images/fphar-12-672515-g001.webp)
 

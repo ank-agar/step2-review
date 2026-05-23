@@ -1,4 +1,4 @@
-## Carpal tunnel syndrome
+# Carpal tunnel syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/CarpalTunnelSyndrome.png/250px-CarpalTunnelSyndrome.png)
 

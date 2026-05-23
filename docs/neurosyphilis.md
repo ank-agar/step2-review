@@ -1,4 +1,4 @@
-## Neurosyphilis
+# Neurosyphilis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Spinal_cord_tracts_-_English.svg/960px-Spinal_cord_tracts_-_English.svg.png)
 

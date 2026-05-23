@@ -1,4 +1,4 @@
-## Protein C deficiency
+# Protein C deficiency
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab10/11373610/78aafcefed50/nihms-2015419-f0001.jpg)
 

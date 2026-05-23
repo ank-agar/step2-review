@@ -1,4 +1,4 @@
-## Infectious mononucleosis
+# Infectious mononucleosis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559285/bin/1075px-Main_symptoms_of_Infectious_mononucleosis.jpg)
 

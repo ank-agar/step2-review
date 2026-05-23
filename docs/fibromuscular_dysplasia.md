@@ -1,4 +1,4 @@
-## Fibromuscular dysplasia
+# Fibromuscular dysplasia
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/17001-fibromuscular-dysplasia-illustration)
 

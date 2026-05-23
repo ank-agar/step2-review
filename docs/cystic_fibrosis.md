@@ -1,4 +1,4 @@
-## Cystic fibrosis
+# Cystic fibrosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CFTR_from_Gene_to_Channel_01.svg/960px-CFTR_from_Gene_to_Channel_01.svg.png)
 

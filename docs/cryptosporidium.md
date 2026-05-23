@@ -1,4 +1,4 @@
-## Cryptosporidium
+# Cryptosporidium
 
 ![Image](https://www.cdc.gov/dpdx/cryptosporidiosis/modules/Cryptosporidium_LifeCycle_19.jpg?_=71596)
 

@@ -1,4 +1,4 @@
-## Hypersplenism
+# Hypersplenism
 
 ![Image](https://www.thebloodproject.com/wp-content/uploads/2025/08/SPLEEN-3-1024x576.png)
 

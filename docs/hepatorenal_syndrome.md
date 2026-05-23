@@ -1,4 +1,4 @@
-## Hepatorenal syndrome
+# Hepatorenal syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HRS_and_ascites_pathophysiology.svg/960px-HRS_and_ascites_pathophysiology.svg.png)
 

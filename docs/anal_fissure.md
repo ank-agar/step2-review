@@ -1,4 +1,4 @@
-## Anal fissure
+# Anal fissure
 
 ![Image](https://www.niddk.nih.gov/media-assets/17882/N01012-H.jpg)
 

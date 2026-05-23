@@ -1,4 +1,4 @@
-## Impetigo
+# Impetigo
 
 ![Image](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/11/impetigo-8col-2500152-001.jpg)
 

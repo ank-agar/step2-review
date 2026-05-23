@@ -1,4 +1,4 @@
-## Hordeolum
+# Hordeolum
 
 ![Image](https://morancore.utah.edu/wp-content/uploads/2022/01/Patel_119308_Fig_2_meibomian-gland-300x212.jpg)
 

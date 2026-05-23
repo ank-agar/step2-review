@@ -1,4 +1,4 @@
-## Cataract
+# Cataract
 
 ![Image](https://www.nei.nih.gov/themes/custom/nei/images/eye-diagram-1.png)
 

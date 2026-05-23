@@ -1,4 +1,4 @@
-## Prolactinoma
+# Prolactinoma
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2020/05/26/18/18/3926890rentschlergbsmayoclinicorgprolactinoma8col39298250021.jpg)
 

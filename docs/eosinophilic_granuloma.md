@@ -1,4 +1,4 @@
-## Eosinophilic granuloma
+# Eosinophilic granuloma
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49c4/3781243/b2ead4c75aea/13244_2013_271_Fig2_HTML.jpg)
 

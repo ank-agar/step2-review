@@ -1,4 +1,4 @@
-## Esophageal varices
+# Esophageal varices
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Esophageal-varices-hariadhi.svg/960px-Esophageal-varices-hariadhi.svg.png)
 

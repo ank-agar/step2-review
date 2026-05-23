@@ -1,4 +1,4 @@
-## Microcephaly
+# Microcephaly
 
 ![Image](https://www.cdc.gov/birth-defects/media/images/severity_of_microcephaly.jpg)
 

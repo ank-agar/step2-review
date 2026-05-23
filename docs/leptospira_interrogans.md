@@ -1,4 +1,4 @@
-## Leptospira interrogans
+# Leptospira interrogans
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8204/3384523/88c5f971741e/nihms318803f1.jpg)
 

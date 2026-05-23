@@ -1,4 +1,4 @@
-## Neonatal tetanus
+# Neonatal tetanus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/fd/Mechanism_of_action_of_tetanospasmin.gif)
 

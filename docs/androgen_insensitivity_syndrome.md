@@ -1,4 +1,4 @@
-## Androgen insensitivity syndrome
+# Androgen insensitivity syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Quigley_scale_for_androgen_insensitivity_syndrome.jpg)
 

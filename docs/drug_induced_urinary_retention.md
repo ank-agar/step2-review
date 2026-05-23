@@ -1,4 +1,4 @@
-## Drug-induced urinary retention
+# Drug-induced urinary retention
 
 ![Image](https://www.training.seer.cancer.gov/images/anatomy/urinary/bladder.jpg)
 

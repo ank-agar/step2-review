@@ -1,4 +1,4 @@
-## Mirizzi syndrome
+# Mirizzi syndrome
 
 ![Image](https://mdpi-res.com/diagnostics/diagnostics-11-01660/article_deploy/html/images/diagnostics-11-01660-g001.png)
 

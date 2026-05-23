@@ -1,4 +1,4 @@
-## Thiamine deficiency
+# Thiamine deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/97/Gray1180.png)
 

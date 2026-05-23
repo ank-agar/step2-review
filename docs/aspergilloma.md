@@ -1,4 +1,4 @@
-## Aspergilloma
+# Aspergilloma
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/c0492183-aspergillosis-spl-sized.jpg?sc_lang=en-us&mw=1080)
 

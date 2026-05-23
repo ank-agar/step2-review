@@ -1,4 +1,4 @@
-## Uterine atony
+# Uterine atony
 
 ![Image](https://www.netterimages.com/images/vpv/000/000/009/9107-0550x0475.jpg)
 

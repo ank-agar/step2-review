@@ -1,4 +1,4 @@
-## Ventricular septal defect
+# Ventricular septal defect
 
 ![Image](https://www.cdc.gov/heart-defects/media/images/VSD.jpg)
 

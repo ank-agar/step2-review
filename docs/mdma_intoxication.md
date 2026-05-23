@@ -1,4 +1,4 @@
-## MDMA intoxication
+# MDMA intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/ee/Main_mechanisms_of_action_of_MDMA_in_humans.svg)
 

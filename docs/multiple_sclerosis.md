@@ -1,4 +1,4 @@
-## Multiple sclerosis
+# Multiple sclerosis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17089.jpg)
 

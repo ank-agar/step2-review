@@ -1,4 +1,4 @@
-## Miller Fisher syndrome
+# Miller Fisher syndrome
 
 ![Image](https://www.frontiersin.org/files/Articles/1763283/xml-images/fneur-17-1763283-g002.webp)
 

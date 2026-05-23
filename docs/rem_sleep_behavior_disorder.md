@@ -1,4 +1,4 @@
-## REM sleep behavior disorder
+# REM sleep behavior disorder
 
 ![Image](https://pub.mdpi-res.com/brainsci/brainsci-11-01588/article_deploy/html/images/brainsci-11-01588-g001.png)
 

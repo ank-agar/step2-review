@@ -1,4 +1,4 @@
-## Fasciitis
+# Fasciitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/ba/PF-PainAreas.jpg)
 

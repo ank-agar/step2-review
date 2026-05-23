@@ -1,4 +1,4 @@
-## Rubella
+# Rubella
 
 ![Image](https://stacks.cdc.gov/view/cdc/46432/cdc_46432_DS1.png)
 

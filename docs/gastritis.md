@@ -1,4 +1,4 @@
-## Gastritis
+# Gastritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/db/H_pylori_ulcer_diagram.png)
 

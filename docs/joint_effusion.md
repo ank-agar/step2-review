@@ -1,4 +1,4 @@
-## Joint effusion
+# Joint effusion
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21908-joint-effusion_knee)
 

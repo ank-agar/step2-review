@@ -1,4 +1,4 @@
-## Prothrombin G20210A mutation
+# Prothrombin G20210A mutation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coagulation_Cascade_Diagram.svg/960px-Coagulation_Cascade_Diagram.svg.png)
 

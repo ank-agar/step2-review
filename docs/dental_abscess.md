@@ -1,4 +1,4 @@
-## Dental abscess
+# Dental abscess
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9979.jpg)
 

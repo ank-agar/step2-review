@@ -1,4 +1,4 @@
-## Pertussis
+# Pertussis
 
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit3/bacpath/images/u1fig26a.jpg)
 

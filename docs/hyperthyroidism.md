@@ -1,4 +1,4 @@
-## Hyperthyroidism
+# Hyperthyroidism
 
 ![Image](https://www.niddk.nih.gov/media-assets/17772/N00726-H.jpg)
 

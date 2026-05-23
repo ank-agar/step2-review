@@ -1,4 +1,4 @@
-## Gastrointestinal foreign body
+# Gastrointestinal foreign body
 
 ![Image](https://www.niddk.nih.gov/media-assets/17817/N00852-H_thumbnail.jpg)
 

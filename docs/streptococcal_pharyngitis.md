@@ -1,4 +1,4 @@
-## Streptococcal pharyngitis
+# Streptococcal pharyngitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Throat_anatomy_diagram.svg/960px-Throat_anatomy_diagram.svg.png)
 

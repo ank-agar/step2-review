@@ -1,4 +1,4 @@
-## Disorders of sexual differentiation
+# Disorders of sexual differentiation
 
 ![Image](https://d33wubrfki0l68.cloudfront.net/fa4f182166add13e9aab783ed8c8a718d7bf1a61/46ec5/images/genital_development.jpg)
 

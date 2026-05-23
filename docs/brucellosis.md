@@ -1,4 +1,4 @@
-## Brucellosis
+# Brucellosis
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/26270/26270_lores.jpg)
 

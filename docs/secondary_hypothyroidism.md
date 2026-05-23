@@ -1,4 +1,4 @@
-## Secondary hypothyroidism
+# Secondary hypothyroidism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK499898/bin/Thyroid__Feedback.jpg)
 

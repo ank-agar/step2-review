@@ -1,4 +1,4 @@
-## Postdates labor
+# Postdates labor
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/2f60b70ecae5a0220b44cd1afaed4f71de73869a)
 

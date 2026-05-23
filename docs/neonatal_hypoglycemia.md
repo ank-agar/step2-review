@@ -1,4 +1,4 @@
-## Neonatal hypoglycemia
+# Neonatal hypoglycemia
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK594592/bin/diab-hypo-child-Image003.jpg)
 

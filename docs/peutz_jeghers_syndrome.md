@@ -1,4 +1,4 @@
-## Peutz-Jeghers syndrome
+# Peutz-Jeghers syndrome
 
 ![Image](https://dermnetnz.org/assets/Uploads/Peutz-Jeghers-syndrome.jpg)
 

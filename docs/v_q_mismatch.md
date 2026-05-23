@@ -1,4 +1,4 @@
-## V/Q mismatch
+# V/Q mismatch
 
 ![Image](https://upload.medbullets.com/topic/117021/images/vq-match.jpg)
 

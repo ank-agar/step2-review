@@ -1,4 +1,4 @@
-## Squamous cell lung cancer
+# Squamous cell lung cancer
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/466533.jpg)
 

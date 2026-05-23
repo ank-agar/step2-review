@@ -1,4 +1,4 @@
-## Tricuspid regurgitation
+# Tricuspid regurgitation
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2015/01/21/09/05/mcdc7_tricuspid_valve_regurgitation-8col.jpg)
 

@@ -1,4 +1,4 @@
-## Tinea capitis
+# Tinea capitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4d/Hair_follicle-en.svg)
 

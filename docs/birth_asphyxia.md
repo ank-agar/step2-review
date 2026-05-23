@@ -1,4 +1,4 @@
-## Birth asphyxia
+# Birth asphyxia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a1fa/13012887/e725bbafbd9c/cureus-0018-00000104079-i01.jpg)
 

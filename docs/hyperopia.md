@@ -1,4 +1,4 @@
-## Hyperopia
+# Hyperopia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hypermetropia.svg/500px-Hypermetropia.svg.png)
 

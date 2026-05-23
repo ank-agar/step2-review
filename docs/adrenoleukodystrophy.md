@@ -1,4 +1,4 @@
-## Adrenoleukodystrophy
+# Adrenoleukodystrophy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ea27/11271253/c83df88f2cf5/nihms-2005969-f0001.jpg)
 

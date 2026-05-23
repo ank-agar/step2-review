@@ -1,4 +1,4 @@
-## Malignant otitis externa
+# Malignant otitis externa
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1092.jpg)
 

@@ -1,4 +1,4 @@
-## Essential hypertension
+# Essential hypertension
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/92/Arterial_pressure_diagram.png)
 

@@ -1,4 +1,4 @@
-## Thoracic aortic aneurysm
+# Thoracic aortic aneurysm
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Thoracic_Aortic_Aneurysm.png)
 

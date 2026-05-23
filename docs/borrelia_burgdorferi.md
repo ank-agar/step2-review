@@ -1,4 +1,4 @@
-## Borrelia burgdorferi
+# Borrelia burgdorferi
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Borrelia_%28NIH_BioArt_57%29.png)
 

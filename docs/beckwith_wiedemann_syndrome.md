@@ -1,4 +1,4 @@
-## Beckwith-Wiedemann syndrome
+# Beckwith-Wiedemann syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17076.jpg)
 

@@ -1,4 +1,4 @@
-## Paroxysmal supraventricular tachycardia
+# Paroxysmal supraventricular tachycardia
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK441972/bin/ConductionsystemoftheheartwithouttheHeart-en.svg.jpg)
 

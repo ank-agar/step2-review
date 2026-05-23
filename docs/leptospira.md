@@ -1,4 +1,4 @@
-## Leptospira
+# Leptospira
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e825/12769562/57fdfde0758d/284_2026_4722_Fig3_HTML.jpg)
 

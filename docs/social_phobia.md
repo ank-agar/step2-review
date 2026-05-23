@@ -1,4 +1,4 @@
-## Social phobia
+# Social phobia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20220801_Introversion_-_Shyness_-_Social_anxiety_disorder_-_comparative_chart.svg/960px-20220801_Introversion_-_Shyness_-_Social_anxiety_disorder_-_comparative_chart.svg.png)
 

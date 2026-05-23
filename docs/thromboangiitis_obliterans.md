@@ -1,4 +1,4 @@
-## Thromboangiitis obliterans
+# Thromboangiitis obliterans
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18089.jpg)
 

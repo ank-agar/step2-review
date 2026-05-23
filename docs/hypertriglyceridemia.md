@@ -1,4 +1,4 @@
-## Hypertriglyceridemia
+# Hypertriglyceridemia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK395574/bin/sec-hypertryglycerid-Image002.jpg)
 

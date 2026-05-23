@@ -1,4 +1,4 @@
-## Hospital-acquired pneumonia
+# Hospital-acquired pneumonia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/23/Lobar_pneumonia_illustrated.jpg)
 

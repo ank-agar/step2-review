@@ -1,4 +1,4 @@
-## Pulmonic stenosis
+# Pulmonic stenosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pulmonary_valve_stenosis.svg/960px-Pulmonary_valve_stenosis.svg.png)
 

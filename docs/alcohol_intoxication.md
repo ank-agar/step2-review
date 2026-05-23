@@ -1,4 +1,4 @@
-## Alcohol intoxication
+# Alcohol intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/62/Ethanol_and_GABA_Receptor.png)
 

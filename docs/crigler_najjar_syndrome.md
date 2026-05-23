@@ -1,4 +1,4 @@
-## Crigler-Najjar syndrome
+# Crigler-Najjar syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK562171/bin/Kabir_Rotor__Syndrome.jpg)
 

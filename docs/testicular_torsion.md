@@ -1,4 +1,4 @@
-## Testicular torsion
+# Testicular torsion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Testicular_torsion.svg/960px-Testicular_torsion.svg.png?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org)
 

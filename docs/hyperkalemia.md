@@ -1,4 +1,4 @@
-## Hyperkalemia
+# Hyperkalemia
 
 ![Image](https://cdn.prod.website-files.com/621e95f9ac30687a56e4297e/665686b1569f2d63de60326e_V2_1716587983092_b1bb9f79-4c2a-4f8c-b0d9-8cfe5e26fd3f_HIGH_RES.png)
 

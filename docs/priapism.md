@@ -1,4 +1,4 @@
-## Priapism
+# Priapism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK535381/bin/Gray1155.jpg)
 

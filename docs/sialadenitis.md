@@ -1,4 +1,4 @@
-## Sialadenitis
+# Sialadenitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Salivary_glands_numbered.svg/960px-Salivary_glands_numbered.svg.png)
 

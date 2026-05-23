@@ -1,4 +1,4 @@
-## Takayasu arteritis
+# Takayasu arteritis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK499911/bin/aorticArch.jpg)
 

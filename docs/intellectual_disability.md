@@ -1,4 +1,4 @@
-## Intellectual disability
+# Intellectual disability
 
 ![Image](https://quickchart.io/graphviz?format=png&graph=digraph%20G%20%7B%20rankdir%3DLR%3B%20node%20%5Bshape%3Dbox%2C%20style%3D%22rounded%2Cfilled%22%2C%20fillcolor%3D%22%23E8F3FF%22%2C%20color%3D%22%2331688E%22%2C%20fontname%3D%22Arial%22%5D%3B%20ID%20%5Blabel%3D%22Intellectual%20disability%22%5D%3B%20A%20%5Blabel%3D%22Intellectual%20functioning%0A%28reasoning%2C%20learning%2C%20problem-solving%29%22%5D%3B%20B%20%5Blabel%3D%22Adaptive%20functioning%0A%28conceptual%2C%20social%2C%20practical%20skills%29%22%5D%3B%20C%20%5Blabel%3D%22Onset%20during%20development%0A%28before%20adulthood%29%22%5D%3B%20S%20%5Blabel%3D%22Severity%20is%20based%20mainly%20on%0Aadaptive%20functioning/support%20needs%22%2C%20fillcolor%3D%22%23FFF3D6%22%2C%20color%3D%22%23B37B00%22%5D%3B%20A%20-%3E%20ID%3B%20B%20-%3E%20ID%3B%20C%20-%3E%20ID%3B%20ID%20-%3E%20S%3B%20%7D)
 

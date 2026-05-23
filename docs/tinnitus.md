@@ -1,4 +1,4 @@
-## Tinnitus
+# Tinnitus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Structure_of_the_cochlea_and_organ_of_Corti.png)
 

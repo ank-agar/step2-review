@@ -1,4 +1,4 @@
-## Pancreatitis in pregnancy
+# Pancreatitis in pregnancy
 
 ![Image](https://www.niddk.nih.gov/media-assets/17492/N00042-H.jpg)
 

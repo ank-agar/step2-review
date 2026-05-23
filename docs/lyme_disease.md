@@ -1,4 +1,4 @@
-## Lyme disease
+# Lyme disease
 
 ![Image](https://www.cdc.gov/lyme/images/lifecycle-small.jpg)
 

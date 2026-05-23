@@ -1,4 +1,4 @@
-## Hepatitis D
+# Hepatitis D
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d4/Hepatitis-d-virion-Pathogens-04-00046-g001-1024.png)
 

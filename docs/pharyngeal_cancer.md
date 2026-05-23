@@ -1,4 +1,4 @@
-## Pharyngeal cancer
+# Pharyngeal cancer
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK65776/bin/CDR0000713970.jpg)
 

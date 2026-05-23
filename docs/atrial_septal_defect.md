@@ -1,4 +1,4 @@
-## Atrial septal defect
+# Atrial septal defect
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3b/Blausen_0069_AtrialSeptalDefect_02.png)
 

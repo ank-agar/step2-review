@@ -1,4 +1,4 @@
-## Sleep terror disorder
+# Sleep terror disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sleep_Hypnogram.svg)
 

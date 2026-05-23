@@ -1,4 +1,4 @@
-## Macular degeneration
+# Macular degeneration
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19532.jpg)
 

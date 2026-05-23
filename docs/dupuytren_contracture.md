@@ -1,4 +1,4 @@
-## Dupuytren contracture
+# Dupuytren contracture
 
 ![Image](https://orthopaedia.com/wp-content/uploads/2023/10/dc0e83f5-2ece-458b-bdbb-74a428765b1d-1533239004450.png)
 

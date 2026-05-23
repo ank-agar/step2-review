@@ -1,4 +1,4 @@
-## Brachial plexus palsy
+# Brachial plexus palsy
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK482174/bin/Images-AA-US_-figure.jpg)
 

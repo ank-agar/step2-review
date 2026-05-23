@@ -1,4 +1,4 @@
-## Restless legs syndrome
+# Restless legs syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RLS_sleep_patterns_diagram_-_en.svg/1280px-RLS_sleep_patterns_diagram_-_en.svg.png)
 

@@ -1,4 +1,4 @@
-## Mitral valve prolapse
+# Mitral valve prolapse
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK470288/bin/2000px-Heart_mitral_prolapse.svg.jpg)
 

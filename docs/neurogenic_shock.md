@@ -1,4 +1,4 @@
-## Neurogenic shock
+# Neurogenic shock
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/e48b1bb49fd9ced080e5aad56b1c7eaa02057377)
 

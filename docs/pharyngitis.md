@@ -1,4 +1,4 @@
-## Pharyngitis
+# Pharyngitis
 
 ![Image](https://www.cdc.gov/sore-throat/media/images/sore-throat.jpg)
 

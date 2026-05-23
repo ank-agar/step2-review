@@ -1,4 +1,4 @@
-## Chorioretinitis
+# Chorioretinitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schematic_diagram_of_the_eye_and_retina.svg/1280px-Schematic_diagram_of_the_eye_and_retina.svg.png)
 

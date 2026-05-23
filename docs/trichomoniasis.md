@@ -1,4 +1,4 @@
-## Trichomoniasis
+# Trichomoniasis
 
 ![Image](https://www.cdc.gov/dpdx/trichomoniasis/modules/Trichomonas_LifeCycle.gif?_=04928)
 

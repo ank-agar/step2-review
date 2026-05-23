@@ -1,4 +1,4 @@
-## Adhesive capsulitis
+# Adhesive capsulitis
 
 ![Image](https://www.orthoinfo.org/contentassets/7b0c0dbe2a2e458a93a25dbb70ae2735/shoulder-capsule.jpg)
 

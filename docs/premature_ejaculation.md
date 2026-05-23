@@ -1,4 +1,4 @@
-## Premature ejaculation
+# Premature ejaculation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ejaculation_anatomy_en.svg/1280px-Ejaculation_anatomy_en.svg.png)
 

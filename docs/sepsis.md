@@ -1,4 +1,4 @@
-## Sepsis
+# Sepsis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Sepsis_Steps.png)
 

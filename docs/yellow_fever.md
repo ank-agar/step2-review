@@ -1,4 +1,4 @@
-## Yellow fever
+# Yellow fever
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/14997/14997_lores.jpg)
 

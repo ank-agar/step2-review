@@ -1,4 +1,4 @@
-## Vitamin B3 deficiency
+# Vitamin B3 deficiency
 
 ![Image](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/2025-12/niacin-figure-1.svg)
 

@@ -1,4 +1,4 @@
-## Post-traumatic stress disorder
+# Post-traumatic stress disorder
 
 ![Image](https://www.brainline.org/sites/default/files/styles/full_view_image/public/migrated/6-23-2016%2011-41-24%20AM.jpg?itok=-nz7dtj5)
 

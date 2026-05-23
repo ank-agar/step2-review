@@ -1,4 +1,4 @@
-## Chlamydia trachomatis
+# Chlamydia trachomatis
 
 ![Image](https://www.immunology.org/sites/default/files/inline-images/Chlamydia-trachomatis-Figure-1.png)
 

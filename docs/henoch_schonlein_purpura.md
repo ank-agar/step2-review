@@ -1,4 +1,4 @@
-## Henoch-Schonlein purpura
+# Henoch-Schonlein purpura
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Proposed_pathogenesis_of_IgAN_and_novel_treatment_strategies.png/960px-Proposed_pathogenesis_of_IgAN_and_novel_treatment_strategies.png)
 

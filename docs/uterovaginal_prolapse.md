@@ -1,4 +1,4 @@
-## Uterovaginal prolapse
+# Uterovaginal prolapse
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b7/Uterine_Prolapse.png)
 

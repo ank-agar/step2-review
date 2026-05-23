@@ -1,4 +1,4 @@
-## Thyroid storm
+# Thyroid storm
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/0c75c57b179f6d45096268109e754fc2f4084022)
 

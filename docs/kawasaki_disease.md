@@ -1,4 +1,4 @@
-## Kawasaki disease
+# Kawasaki disease
 
 ![Image](https://www.pedscases.com/sites/default/files/Kawasaki%20Disease.png)
 

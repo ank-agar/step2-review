@@ -1,4 +1,4 @@
-## Rectal abscess
+# Rectal abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abscess_diag_02.svg/960px-Abscess_diag_02.svg.png)
 

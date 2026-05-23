@@ -1,4 +1,4 @@
-## Scorpion bites
+# Scorpion bites
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Scorpion_anatomy.svg/960px-Scorpion_anatomy.svg.png)
 

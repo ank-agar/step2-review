@@ -1,4 +1,4 @@
-## Salpingitis
+# Salpingitis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/24/mcdc7_pelvic_inflammatory_disease_jpg.jpg)
 

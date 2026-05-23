@@ -1,4 +1,4 @@
-## Ehrlichiosis
+# Ehrlichiosis
 
 ![Image](https://www.cdc.gov/ticks/images/surveillance/TickLifeCycle_I_scapularis_092118.jpg)
 

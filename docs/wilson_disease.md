@@ -1,4 +1,4 @@
-## Wilson disease
+# Wilson disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK6381/bin/ch321f1.gif)
 

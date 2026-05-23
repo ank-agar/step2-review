@@ -1,4 +1,4 @@
-## Right bundle branch block
+# Right bundle branch block
 
 ![Image](https://litfl.com/wp-content/uploads/2018/08/Sequence-of-conduction-in-RBBB.png)
 

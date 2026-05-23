@@ -1,4 +1,4 @@
-## Granulomatous enteritis
+# Granulomatous enteritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Crohn%27s_Disease_Mechanism.png/120px-Crohn%27s_Disease_Mechanism.png)
 

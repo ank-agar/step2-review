@@ -1,4 +1,4 @@
-## Cerebral aneurysm
+# Cerebral aneurysm
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/80/Cerebral_aneurysm_NIH.jpg)
 

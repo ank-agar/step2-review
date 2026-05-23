@@ -1,4 +1,4 @@
-## Mydriasis
+# Mydriasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/be/Pupillary_light_reflex_sympathetic_dilation_and_parasympathetic_constriction.png)
 

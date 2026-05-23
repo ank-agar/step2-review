@@ -1,4 +1,4 @@
-## Septic arthritis
+# Septic arthritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/09/Knee_diagram.svg)
 

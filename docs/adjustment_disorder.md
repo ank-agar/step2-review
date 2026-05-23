@@ -1,4 +1,4 @@
-## Adjustment disorder
+# Adjustment disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/55/HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.png)
 

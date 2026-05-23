@@ -1,4 +1,4 @@
-## Body dysmorphic disorder
+# Body dysmorphic disorder
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/33fd/11992381/a4bd9ea50520/gr1.jpg)
 

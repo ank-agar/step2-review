@@ -1,4 +1,4 @@
-## Aplastic anemia
+# Aplastic anemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3f/Hematopoiesis_%28human%29_diagram_en.png)
 

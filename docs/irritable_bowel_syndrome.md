@@ -1,4 +1,4 @@
-## Irritable bowel syndrome
+# Irritable bowel syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Diagram_showing_the_parts_of_the_large_bowel_CRUK_329.svg/1280px-Diagram_showing_the_parts_of_the_large_bowel_CRUK_329.svg.png)
 

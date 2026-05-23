@@ -1,4 +1,4 @@
-## Papillary thyroid cancer
+# Papillary thyroid cancer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/75/Thyroidgland-intl.png)
 

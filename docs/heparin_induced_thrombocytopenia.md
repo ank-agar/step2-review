@@ -1,4 +1,4 @@
-## Heparin-induced thrombocytopenia
+# Heparin-induced thrombocytopenia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/6b/Heparin-induced_Thrombocytopenia.png)
 

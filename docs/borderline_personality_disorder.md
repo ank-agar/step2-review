@@ -1,4 +1,4 @@
-## Borderline personality disorder
+# Borderline personality disorder
 
 ![Image](https://www.nimh.nih.gov/sites/default/files/images/get-involved/social-media-graphics/2025-borderlinepd-x.jpg)
 

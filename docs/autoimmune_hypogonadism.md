@@ -1,4 +1,4 @@
-## Autoimmune hypogonadism
+# Autoimmune hypogonadism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg/960px-Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg.png)
 

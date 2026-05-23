@@ -1,4 +1,4 @@
-## Adenovirus
+# Adenovirus
 
 ![Image](https://media.addgene.org/cms/filer_public/91/49/91490db0-091e-48df-9cab-364f839e044b/adv_fig_1.png)
 

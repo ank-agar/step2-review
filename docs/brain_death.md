@@ -1,4 +1,4 @@
-## Brain death
+# Brain death
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/6d/Brain_stem_normal_human.svg)
 

@@ -1,4 +1,4 @@
-## Hallucinogen use disorder
+# Hallucinogen use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/76/Biology-12-01380-g003.png)
 

@@ -1,4 +1,4 @@
-## Fever of unknown origin
+# Fever of unknown origin
 
 ![Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1094/2016/11/10194119/OSC_Microbio_17_06_Hypothal1-1024x524.jpg)
 

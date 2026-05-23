@@ -1,4 +1,4 @@
-## Rabies virus
+# Rabies virus
 
 ![Image](https://assets.microbeonline.com/blogs/Structure-of-Rabies-Virus.jpeg)
 

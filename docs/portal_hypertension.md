@@ -1,4 +1,4 @@
-## Portal hypertension
+# Portal hypertension
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2026/04/15/19/28/portal-hypertension-9124450-001-0-632px.jpg)
 

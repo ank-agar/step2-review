@@ -1,4 +1,4 @@
-## Agoraphobia
+# Agoraphobia
 
 ![Image](https://www.mindwell-leeds.org.uk/wp-content/uploads/2021/12/MindWell-Diagrams-Web_Vicious-cycle-of-panic-layout-2-964x1024.png)
 

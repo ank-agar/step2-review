@@ -1,4 +1,4 @@
-## Mycoplasma pneumoniae
+# Mycoplasma pneumoniae
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/22880/22880_lores.jpg)
 

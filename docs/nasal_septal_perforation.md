@@ -1,4 +1,4 @@
-## Nasal septal perforation
+# Nasal septal perforation
 
 ![Image](https://med.libretexts.org/@api/deki/files/28325/1.png?revision=1&size=bestfit&width=530&height=443)
 

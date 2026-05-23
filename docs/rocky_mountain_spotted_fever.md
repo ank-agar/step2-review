@@ -1,4 +1,4 @@
-## Rocky Mountain spotted fever
+# Rocky Mountain spotted fever
 
 ![Image](https://www.cdc.gov/ticks/images/Rhipicephalus-sanguineus-LifeCycle.jpg)
 

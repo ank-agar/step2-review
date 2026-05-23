@@ -1,4 +1,4 @@
-## AIDS dementia complex
+# AIDS dementia complex
 
 ![Image](https://nigms.nih.gov/sites/nigms/files/image-and-video-gallery/Life_of_an_AIDS_Virus_with_labels_and_stages.jpg)
 

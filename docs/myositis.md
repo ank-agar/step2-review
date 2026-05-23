@@ -1,4 +1,4 @@
-## Myositis
+# Myositis
 
 ![Image](https://training.seer.cancer.gov/images/anatomy/muscular/muscle_structure.jpg)
 

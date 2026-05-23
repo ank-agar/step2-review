@@ -1,4 +1,4 @@
-## Supraspinatus syndrome
+# Supraspinatus syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e9/Supraspinatus.PNG)
 

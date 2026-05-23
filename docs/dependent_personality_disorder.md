@@ -1,4 +1,4 @@
-## Dependent personality disorder
+# Dependent personality disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Signs_of_DPD_1.png)
 

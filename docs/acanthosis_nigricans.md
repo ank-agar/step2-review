@@ -1,4 +1,4 @@
-## Acanthosis nigricans
+# Acanthosis nigricans
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/49/Glucoregulatory_hyperbola.png)
 

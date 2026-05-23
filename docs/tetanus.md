@@ -1,4 +1,4 @@
-## Tetanus
+# Tetanus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mechanism_of_action_of_tetanospasmin.gif/500px-Mechanism_of_action_of_tetanospasmin.gif)
 

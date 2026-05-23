@@ -1,4 +1,4 @@
-## Postsurgical adhesions
+# Postsurgical adhesions
 
 ![Image](https://www.niddk.nih.gov/media-assets/18144/N01500-H_thumbnail.jpg)
 

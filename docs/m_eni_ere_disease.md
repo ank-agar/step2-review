@@ -1,4 +1,4 @@
-## Ménière disease
+# Ménière disease
 
 ![Image](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0111039.g001&type=large)
 

@@ -1,4 +1,4 @@
-## Pulmonic regurgitation
+# Pulmonic regurgitation
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23280-pulmonic-regurgitation?io=transform%3afit%2cwidth%3a1024)
 

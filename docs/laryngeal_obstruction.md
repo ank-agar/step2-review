@@ -1,4 +1,4 @@
-## Laryngeal obstruction
+# Laryngeal obstruction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Diagram_of_the_larynx_CRUK_039.svg/960px-Diagram_of_the_larynx_CRUK_039.svg.png)
 

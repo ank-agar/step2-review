@@ -1,4 +1,4 @@
-## Smoke inhalation
+# Smoke inhalation
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8794/5879861/9b3dbcdba680/IJCCM-22-180-g001.jpg)
 

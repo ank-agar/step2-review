@@ -1,4 +1,4 @@
-## Ichthyosis
+# Ichthyosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e4/Epidermal_layers.png)
 

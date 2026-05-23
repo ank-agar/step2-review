@@ -1,4 +1,4 @@
-## Pityriasis rosea
+# Pityriasis rosea
 
 ![Image](https://www.medcomic.com/images/comics/pityriasis-rosea.jpg)
 

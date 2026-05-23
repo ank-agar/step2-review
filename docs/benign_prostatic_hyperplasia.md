@@ -1,4 +1,4 @@
-## Benign prostatic hyperplasia
+# Benign prostatic hyperplasia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cd/Benign_Prostatic_Hyperplasia_nci-vol-7137-300.jpg)
 

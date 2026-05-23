@@ -1,4 +1,4 @@
-## Motion sickness
+# Motion sickness
 
 ![Image](https://www.nidcd.nih.gov/sites/default/files/Documents/health/balance/images/inner_ear_EN_2-28-18.jpg)
 

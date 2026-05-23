@@ -1,4 +1,4 @@
-## Familial Mediterranean fever
+# Familial Mediterranean fever
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Autosomal_recessive_inheritance_-_segregation.png/960px-Autosomal_recessive_inheritance_-_segregation.png)
 

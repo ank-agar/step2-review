@@ -1,4 +1,4 @@
-## Squamous cell carcinoma
+# Squamous cell carcinoma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9947.jpg)
 

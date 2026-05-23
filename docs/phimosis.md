@@ -1,4 +1,4 @@
-## Phimosis
+# Phimosis
 
 ![Image](https://www.wikihow.com/images/d/d6/Do-Phimosis-Stretching-Step-12.jpg)
 

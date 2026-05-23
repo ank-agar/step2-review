@@ -1,4 +1,4 @@
-## Arterial thrombosis
+# Arterial thrombosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blood_clot_diagram.png)
 

@@ -1,4 +1,4 @@
-## Hypovolemia
+# Hypovolemia
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/e08b3fa56ffe450c120fde3e7cbfe301d2fdc45b)
 

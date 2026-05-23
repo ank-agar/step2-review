@@ -1,4 +1,4 @@
-## Dislocated lens
+# Dislocated lens
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eye-diagram.svg/960px-Eye-diagram.svg.png)
 

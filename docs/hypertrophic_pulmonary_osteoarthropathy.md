@@ -1,4 +1,4 @@
-## Hypertrophic pulmonary osteoarthropathy
+# Hypertrophic pulmonary osteoarthropathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Clubbing.svg/250px-Clubbing.svg.png)
 

@@ -1,4 +1,4 @@
-## Bacteremia
+# Bacteremia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Antibiotics-11-00511-g001.jpg)
 

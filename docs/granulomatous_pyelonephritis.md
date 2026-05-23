@@ -1,4 +1,4 @@
-## Granulomatous pyelonephritis
+# Granulomatous pyelonephritis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459158/bin/kidney.jpg)
 

@@ -1,4 +1,4 @@
-## Hydatidiform mole
+# Hydatidiform mole
 
 ![Image](https://www.c-med.org/journal_e/OAP/Vol99-1/990101/img/02p02.gif)
 

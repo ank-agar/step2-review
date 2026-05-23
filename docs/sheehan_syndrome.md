@@ -1,4 +1,4 @@
-## Sheehan syndrome
+# Sheehan syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK568567/bin/trop_pituitary-Image001.jpg)
 

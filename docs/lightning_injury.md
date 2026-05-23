@@ -1,4 +1,4 @@
-## Lightning injury
+# Lightning injury
 
 ![Image](https://www.canada.ca/content/canadasite/en/environment-climate-change/services/lightning/safety/dangers/_jcr_content/par/img_0_0/image.img.png/1506360863754.png)
 

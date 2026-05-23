@@ -1,4 +1,4 @@
-## Blind loop syndrome
+# Blind loop syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK546609/bin/Afferent__loop__anatomy.jpg)
 

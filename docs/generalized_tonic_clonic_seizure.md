@@ -1,4 +1,4 @@
-## Generalized tonic-clonic seizure
+# Generalized tonic-clonic seizure
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK613069/bin/ch9nsa-Image033.jpg)
 

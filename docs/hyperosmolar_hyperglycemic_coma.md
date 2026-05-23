@@ -1,4 +1,4 @@
-## Hyperosmolar hyperglycemic coma
+# Hyperosmolar hyperglycemic coma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hyperosmolar_hyperglycemic_state_by_hariadhi.svg/960px-Hyperosmolar_hyperglycemic_state_by_hariadhi.svg.png)
 

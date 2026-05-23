@@ -1,4 +1,4 @@
-## Congenital hepatitis B
+# Congenital hepatitis B
 
 ![Image](https://www.cdc.gov/hepatitis-b/media/images/2025/03/hepatitis-b-perinatal-provider-tipsheet-tn.jpg)
 

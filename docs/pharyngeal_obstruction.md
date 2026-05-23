@@ -1,4 +1,4 @@
-## Pharyngeal obstruction
+# Pharyngeal obstruction
 
 ![Image](https://content.healthwise.net/resources/14.8/en-us/media/medical/hw/acl2702_460x300.jpg)
 

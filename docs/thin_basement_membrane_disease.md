@@ -1,4 +1,4 @@
-## Thin basement membrane disease
+# Thin basement membrane disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Renal_corpuscle.svg/1280px-Renal_corpuscle.svg.png)
 

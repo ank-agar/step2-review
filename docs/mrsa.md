@@ -1,4 +1,4 @@
-## MRSA
+# MRSA
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MecA_Resistance.svg/1280px-MecA_Resistance.svg.png)
 

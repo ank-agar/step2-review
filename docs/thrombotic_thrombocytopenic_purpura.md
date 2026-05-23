@@ -1,4 +1,4 @@
-## Thrombotic thrombocytopenic purpura
+# Thrombotic thrombocytopenic purpura
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b42e/7867179/972f74d1f63b/jcm-10-00536-g001.jpg)
 

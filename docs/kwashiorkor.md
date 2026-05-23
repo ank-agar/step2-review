@@ -1,4 +1,4 @@
-## Kwashiorkor
+# Kwashiorkor
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9563.jpg)
 

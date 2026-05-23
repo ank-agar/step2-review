@@ -1,4 +1,4 @@
-## Candidiasis
+# Candidiasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/df/Candida_pseudohyphae%2C_chlamydospores%2C_blastospores.png)
 

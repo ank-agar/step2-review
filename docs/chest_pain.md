@@ -1,4 +1,4 @@
-## Chest pain
+# Chest pain
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/18/Coronary_arteries.svg)
 

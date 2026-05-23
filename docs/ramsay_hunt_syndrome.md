@@ -1,4 +1,4 @@
-## Ramsay-Hunt syndrome
+# Ramsay-Hunt syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK557409/bin/RamsayH.jpg)
 

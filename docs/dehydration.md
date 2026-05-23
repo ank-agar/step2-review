@@ -1,4 +1,4 @@
-## Dehydration
+# Dehydration
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/051444feb07a538a338be9af217dbb3a5842db68)
 

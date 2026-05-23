@@ -1,4 +1,4 @@
-## Cardiac arrest
+# Cardiac arrest
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/03/CPR_Adult_Chest_Compression_Heart.png)
 

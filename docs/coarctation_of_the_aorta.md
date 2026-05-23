@@ -1,4 +1,4 @@
-## Coarctation of the aorta
+# Coarctation of the aorta
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18128.jpg)
 

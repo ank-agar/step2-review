@@ -1,4 +1,4 @@
-## Peritonitis
+# Peritonitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5b/2403_The_PeritoneumN.jpg)
 

@@ -1,4 +1,4 @@
-## Membrane attack complex deficiency
+# Membrane attack complex deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/60/Membrane_Attack_Complex_%28Terminal_Complement_Complex_C5b-9%29.png)
 

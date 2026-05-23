@@ -1,4 +1,4 @@
-## Brachial plexus injury
+# Brachial plexus injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brachialplexusdetaileddiagram.jpg/960px-Brachialplexusdetaileddiagram.jpg)
 

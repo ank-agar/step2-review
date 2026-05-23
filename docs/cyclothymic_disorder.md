@@ -1,4 +1,4 @@
-## Cyclothymic disorder
+# Cyclothymic disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/19/Bipolar_mood_shifts.png)
 

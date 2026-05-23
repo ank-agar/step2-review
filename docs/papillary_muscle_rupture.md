@@ -1,4 +1,4 @@
-## Papillary muscle rupture
+# Papillary muscle rupture
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK557802/bin/papillary__muscles.jpg)
 

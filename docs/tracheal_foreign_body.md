@@ -1,4 +1,4 @@
-## Tracheal foreign body
+# Tracheal foreign body
 
 ![Image](https://open.oregonstate.education/app/uploads/sites/309/2025/08/2308_The_Trachea.jpg)
 

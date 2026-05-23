@@ -1,4 +1,4 @@
-## Hypoglycemic shock
+# Hypoglycemic shock
 
 ![Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/3148/2018/03/29182108/1822_The_Homostatic_Regulation_of_Blood_Glucose_Levels.jpg)
 

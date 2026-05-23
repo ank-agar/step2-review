@@ -1,4 +1,4 @@
-## Third-degree AV block
+# Third-degree AV block
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/3rd_Degree_AV_Block.svg/960px-3rd_Degree_AV_Block.svg.png)
 

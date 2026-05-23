@@ -1,4 +1,4 @@
-## Bacterial endocarditis
+# Bacterial endocarditis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e7/Endocarditis.png)
 

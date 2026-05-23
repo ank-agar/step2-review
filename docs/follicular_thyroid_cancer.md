@@ -1,4 +1,4 @@
-## Follicular thyroid cancer
+# Follicular thyroid cancer
 
 ![Image](https://dccdn.de/www.doccheck.com/data/lp/ey/xz/hq/y8/gj/getpic-img-24_lg.jpg)
 

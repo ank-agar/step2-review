@@ -1,4 +1,4 @@
-## Aortic stenosis
+# Aortic stenosis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18075.jpg)
 

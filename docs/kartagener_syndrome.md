@@ -1,4 +1,4 @@
-## Kartagener syndrome
+# Kartagener syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19533.jpg)
 

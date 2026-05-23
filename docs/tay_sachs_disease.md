@@ -1,4 +1,4 @@
-## Tay-Sachs disease
+# Tay-Sachs disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f1/Autosomal_recessive_-_en.svg)
 

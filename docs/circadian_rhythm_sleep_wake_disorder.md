@@ -1,4 +1,4 @@
-## Circadian rhythm sleep-wake disorder
+# Circadian rhythm sleep-wake disorder
 
 ![Image](https://nigms.nih.gov/sites/nigms/files/image-and-video-gallery/CR_BrainSIZED.jpg)
 

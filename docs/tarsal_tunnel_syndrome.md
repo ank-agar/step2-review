@@ -1,4 +1,4 @@
-## Tarsal tunnel syndrome
+# Tarsal tunnel syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK513273/bin/tarsaltunnel.jpg)
 

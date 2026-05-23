@@ -1,4 +1,4 @@
-## Neurogenic bladder
+# Neurogenic bladder
 
 ![Image](https://www.rnoh.nhs.uk/application/files/7715/7235/9024/innervation_of_the_bladder.png)
 

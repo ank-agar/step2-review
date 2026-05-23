@@ -1,4 +1,4 @@
-## Vocal cord polyp
+# Vocal cord polyp
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/home/images/e/n/t/ent_vocal_cord_problems.gif?mw=1200&sc_lang=en-ca)
 

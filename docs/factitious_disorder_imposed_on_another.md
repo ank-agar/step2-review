@@ -1,4 +1,4 @@
-## Factitious disorder imposed on another
+# Factitious disorder imposed on another
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/factitious-disorder-imposed-on-another)
 

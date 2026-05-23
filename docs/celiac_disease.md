@@ -1,4 +1,4 @@
-## Celiac disease
+# Celiac disease
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24377.jpg)
 

@@ -1,4 +1,4 @@
-## Scarlet fever
+# Scarlet fever
 
 ![Image](https://www.cdc.gov/group-a-strep/media/images/SFrash1200675.png)
 

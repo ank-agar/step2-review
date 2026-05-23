@@ -1,4 +1,4 @@
-## Acute respiratory distress syndrome
+# Acute respiratory distress syndrome
 
 ![Image](https://pressbooks.lib.vt.edu/app/uploads/sites/72/2022/05/5.2.png)
 

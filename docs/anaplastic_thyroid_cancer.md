@@ -1,4 +1,4 @@
-## Anaplastic thyroid cancer
+# Anaplastic thyroid cancer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thyroid_gland_%26_thyroid_cartilage.svg/960px-Thyroid_gland_%26_thyroid_cartilage.svg.png)
 

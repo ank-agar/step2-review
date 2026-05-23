@@ -1,4 +1,4 @@
-## Enuresis
+# Enuresis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17534/N00114-H_thumbnail.jpg)
 

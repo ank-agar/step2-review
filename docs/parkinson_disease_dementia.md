@@ -1,4 +1,4 @@
-## Parkinson disease dementia
+# Parkinson disease dementia
 
 ![Image](https://www.brain.northwestern.edu/images/LBD-graphic.png)
 

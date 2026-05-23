@@ -1,4 +1,4 @@
-## Oral cavity cancer
+# Oral cavity cancer
 
 ![Image](https://www.barrowneuro.org/wp-content/uploads/8000_oralcavity_flat-copy.jpg)
 

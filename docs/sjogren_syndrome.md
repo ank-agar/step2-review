@@ -1,4 +1,4 @@
-## Sjogren syndrome
+# Sjogren syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/df/Blausen_0780_SalivaryGlands.png)
 

@@ -1,4 +1,4 @@
-## Alopecia
+# Alopecia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Alopecia_areata.svg/1280px-Alopecia_areata.svg.png)
 

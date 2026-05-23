@@ -1,4 +1,4 @@
-## Creutzfeldt-Jakob disease
+# Creutzfeldt-Jakob disease
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17146.jpg)
 

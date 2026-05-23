@@ -1,4 +1,4 @@
-## Hypocalcemia
+# Hypocalcemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Parathyroid_Cycle_and_Calcium_Levels.svg/1280px-Parathyroid_Cycle_and_Calcium_Levels.svg.png)
 

@@ -1,4 +1,4 @@
-## Syncope
+# Syncope
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6990/11292037/9badf63dfc83/nihms-1937979-f0004.jpg)
 

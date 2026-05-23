@@ -1,4 +1,4 @@
-## Carotid artery dissection
+# Carotid artery dissection
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18124.jpg)
 

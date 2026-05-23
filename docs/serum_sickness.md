@@ -1,4 +1,4 @@
-## Serum sickness
+# Serum sickness
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Immune22.gif/500px-Immune22.gif)
 

@@ -1,4 +1,4 @@
-## Schizoid personality disorder
+# Schizoid personality disorder
 
 ![Image](https://www.pngkey.com/png/detail/213-2136660_a-venn-diagram-of-the-three-clusters-and.png)
 

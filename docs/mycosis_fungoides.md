@@ -1,4 +1,4 @@
-## Mycosis fungoides
+# Mycosis fungoides
 
 ![Image](https://d16qt3wv6xm098.cloudfront.net/CbevfDUbQ5yWb-PVkjP6XXPnSI_FrLs7/_.png)
 

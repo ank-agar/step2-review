@@ -1,4 +1,4 @@
-## Iridocyclitis
+# Iridocyclitis
 
 ![Image](https://www.uveitis.net/images/anterior.png)
 

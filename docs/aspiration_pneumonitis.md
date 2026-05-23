@@ -1,4 +1,4 @@
-## Aspiration pneumonitis
+# Aspiration pneumonitis
 
 ![Image](https://med.libretexts.org/@api/deki/files/68642/79ee13abbfbe24458f38f5c1356e314cb5e59283?revision=1)
 

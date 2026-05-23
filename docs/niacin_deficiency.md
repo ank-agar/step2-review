@@ -1,4 +1,4 @@
-## Niacin deficiency
+# Niacin deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nicotinamide_highlighted_in_NAD%2B.svg/500px-Nicotinamide_highlighted_in_NAD%2B.svg.png)
 

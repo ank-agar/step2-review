@@ -1,4 +1,4 @@
-## Herpes simplex type 1
+# Herpes simplex type 1
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Herpesvirales_virion_diagram.jpg/250px-Herpesvirales_virion_diagram.jpg)
 

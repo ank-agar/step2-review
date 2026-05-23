@@ -1,4 +1,4 @@
-## Tracheitis
+# Tracheitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Blausen_0865_TracheaAnatomy.png/250px-Blausen_0865_TracheaAnatomy.png)
 

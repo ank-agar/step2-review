@@ -1,4 +1,4 @@
-## Hematochezia
+# Hematochezia
 
 ![Image](https://mycolondoc.com/assets/images/rectal-bleeding/rectal-bleeding.jpg)
 

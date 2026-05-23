@@ -1,4 +1,4 @@
-## Anoxic brain injury
+# Anoxic brain injury
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/357d/3171747/d9c856c9ecae/nihms310162f1.jpg)
 

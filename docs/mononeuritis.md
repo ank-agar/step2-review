@@ -1,4 +1,4 @@
-## Mononeuritis
+# Mononeuritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/1319_Nerve_StructureN.jpg)
 

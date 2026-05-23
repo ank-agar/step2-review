@@ -1,4 +1,4 @@
-## Tuberculous spondylitis
+# Tuberculous spondylitis
 
 ![Image](https://health.uct.ac.za/sites/default/files/content_migration/health_uct_ac_za/1065/images/potts_diagram_tb_diseased2_600.png)
 

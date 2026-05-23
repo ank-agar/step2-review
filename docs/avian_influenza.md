@@ -1,4 +1,4 @@
-## Avian influenza
+# Avian influenza
 
 ![Image](https://www.cdc.gov/bird-flu/media/images/2025/04/backyard-poultry-spread.png)
 

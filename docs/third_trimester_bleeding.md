@@ -1,4 +1,4 @@
-## Third-trimester bleeding
+# Third-trimester bleeding
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Placenta_previa.svg/1280px-Placenta_previa.svg.png)
 

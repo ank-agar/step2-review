@@ -1,4 +1,4 @@
-## Encopresis
+# Encopresis
 
 ![Image](https://med.virginia.edu/pediatrics/wp-content/uploads/sites/237/2015/12/copy_of_soiling1.gif)
 

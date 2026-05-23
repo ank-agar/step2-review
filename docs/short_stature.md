@@ -1,4 +1,4 @@
-## Short stature
+# Short stature
 
 ![Image](https://www.chartsgraphsdiagrams.com/HealthCharts/images/growth-2-20-boys.png)
 

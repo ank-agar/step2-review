@@ -1,4 +1,4 @@
-## Avoidant personality disorder
+# Avoidant personality disorder
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9761-avoidant-personality-disorder)
 

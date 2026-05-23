@@ -1,4 +1,4 @@
-## Francisella tularensis
+# Francisella tularensis
 
 ![Image](https://perspectivesinmedicine.cshlp.org/content/3/4/a010314/F1.large.jpg)
 

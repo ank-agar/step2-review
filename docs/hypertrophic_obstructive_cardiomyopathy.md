@@ -1,4 +1,4 @@
-## Hypertrophic obstructive cardiomyopathy
+# Hypertrophic obstructive cardiomyopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/af/Hypertrophic_obstructive_cardiomyopathy.png)
 

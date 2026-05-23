@@ -1,4 +1,4 @@
-## Mannose-binding lectin deficiency
+# Mannose-binding lectin deficiency
 
 ![Image](https://wikivet-dev.s3.amazonaws.com/d/d9/Complement_Mannose_Binding_Lectin_Pathway.png)
 

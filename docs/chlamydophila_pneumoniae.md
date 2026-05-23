@@ -1,4 +1,4 @@
-## Chlamydophila pneumoniae
+# Chlamydophila pneumoniae
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Chlamydophila_pneumoniae.jpg)
 

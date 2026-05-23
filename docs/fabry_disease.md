@@ -1,4 +1,4 @@
-## Fabry disease
+# Fabry disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK11608/bin/ch4f1.gif)
 

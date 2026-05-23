@@ -1,4 +1,4 @@
-## Traumatic intracranial hemorrhage
+# Traumatic intracranial hemorrhage
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/An_illustration_of_the_different_types_of_brain_hemorrhage.png/960px-An_illustration_of_the_different_types_of_brain_hemorrhage.png)
 

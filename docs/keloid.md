@@ -1,4 +1,4 @@
-## Keloid
+# Keloid
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ce44/7818137/40825d8e4afe/EXD-30-146-g001.jpg)
 

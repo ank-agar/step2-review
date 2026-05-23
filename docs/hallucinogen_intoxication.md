@@ -1,4 +1,4 @@
-## Hallucinogen intoxication
+# Hallucinogen intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/63/6wgt_5-HT2A-Rezeptorstruktur.png)
 

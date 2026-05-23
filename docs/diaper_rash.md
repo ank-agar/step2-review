@@ -1,4 +1,4 @@
-## Diaper rash
+# Diaper rash
 
 ![Image](https://img.medscapestatic.com/pi/meds/ckb/10/40710tn.jpg)
 

@@ -1,4 +1,4 @@
-## Orthostatic hypotension
+# Orthostatic hypotension
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5ac5/10024337/10f9de5f664f/nihms-1876342-f0001.jpg)
 

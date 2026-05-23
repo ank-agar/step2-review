@@ -1,4 +1,4 @@
-## California encephalitis virus
+# California encephalitis virus
 
 ![Image](https://www.cdc.gov/la-crosse-encephalitis/media/images/LACTransmission16.9.png)
 

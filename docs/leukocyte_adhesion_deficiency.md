@@ -1,4 +1,4 @@
-## Leukocyte adhesion deficiency
+# Leukocyte adhesion deficiency
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK53380/bin/fig7.1.gif)
 

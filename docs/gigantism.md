@@ -1,4 +1,4 @@
-## Gigantism
+# Gigantism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK279155/bin/gigantism-Image005.jpg)
 

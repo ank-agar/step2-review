@@ -1,4 +1,4 @@
-## Colon cancer
+# Colon cancer
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/415499-750.jpg)
 

@@ -1,4 +1,4 @@
-## Pseudomonas aeruginosa
+# Pseudomonas aeruginosa
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/201708_Pseudomonas_aeruginosa.svg/960px-201708_Pseudomonas_aeruginosa.svg.png)
 

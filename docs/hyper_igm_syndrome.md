@@ -1,4 +1,4 @@
-## Hyper IgM syndrome
+# Hyper IgM syndrome
 
 ![Image](https://upload.medbullets.com/topic/105012/images/bcellclassswitching.jpg)
 

@@ -1,6 +1,6 @@
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nigrostriatal_pathway.svg/1280px-Nigrostriatal_pathway.svg.png)
 
-## Akathisia
+# Akathisia
 
 Akathisia = **subjective inner restlessness + objective need to move**.
 

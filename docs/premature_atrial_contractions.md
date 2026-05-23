@@ -1,4 +1,4 @@
-## Premature atrial contractions
+# Premature atrial contractions
 
 ![Image](https://en.ecgpedia.org/images/thumb/5/55/AES.svg/600px-AES.svg.png)
 

@@ -1,4 +1,4 @@
-## Strabismus
+# Strabismus
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK11545/bin/space_perceptionf7.jpg)
 

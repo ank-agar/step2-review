@@ -1,4 +1,4 @@
-## Foreign body in respiratory tract
+# Foreign body in respiratory tract
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5e/Respiratory_system_complete_en.svg)
 

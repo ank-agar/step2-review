@@ -1,4 +1,4 @@
-## Postherpetic neuralgia
+# Postherpetic neuralgia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4d/A_Course_of_Shingles_diagram.png)
 

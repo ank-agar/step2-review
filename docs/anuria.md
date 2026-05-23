@@ -1,4 +1,4 @@
-## Anuria
+# Anuria
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/30/Urinary_system.svg)
 

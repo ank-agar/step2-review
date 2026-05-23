@@ -1,4 +1,4 @@
-## Severe combined immunodeficiency
+# Severe combined immunodeficiency
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/502e/7874439/b0ed8cfb8c20/nihms-1659521-f0001.jpg)
 

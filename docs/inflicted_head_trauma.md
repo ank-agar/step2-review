@@ -1,4 +1,4 @@
-## Inflicted head trauma
+# Inflicted head trauma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/23189.jpg)
 

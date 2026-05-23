@@ -1,4 +1,4 @@
-## Systemic inflammatory response syndrome
+# Systemic inflammatory response syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Sepsis_Steps.png)
 

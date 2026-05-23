@@ -1,4 +1,4 @@
-## Secondary hypertension
+# Secondary hypertension
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Renin-angiotensin-aldosterone_system.svg/960px-Renin-angiotensin-aldosterone_system.svg.png)
 

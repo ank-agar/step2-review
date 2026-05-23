@@ -1,4 +1,4 @@
-## Scoliosis
+# Scoliosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Vertebral_column_disorders_-_Scoliosis_--_Smart-Servier.png)
 

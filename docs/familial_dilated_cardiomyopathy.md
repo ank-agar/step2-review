@@ -1,4 +1,4 @@
-## Familial dilated cardiomyopathy
+# Familial dilated cardiomyopathy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Blausen_0165_Cardiomyopathy_Dilated.svg/960px-Blausen_0165_Cardiomyopathy_Dilated.svg.png)
 

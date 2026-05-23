@@ -1,4 +1,4 @@
-## Obstructive sleep apnea
+# Obstructive sleep apnea
 
 ![Image](https://nij.ojp.gov/sites/g/files/xyckuh171/files/images/2019-07/sleep-apnea-blocked-large.jpg)
 

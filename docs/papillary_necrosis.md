@@ -1,4 +1,4 @@
-## Papillary necrosis
+# Papillary necrosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KidneyStructures_PioM.svg/960px-KidneyStructures_PioM.svg.png)
 

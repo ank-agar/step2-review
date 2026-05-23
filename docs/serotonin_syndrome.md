@@ -1,4 +1,4 @@
-## Serotonin syndrome
+# Serotonin syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK534862/bin/serotoninSyndrome.jpg)
 

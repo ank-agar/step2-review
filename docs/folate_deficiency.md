@@ -1,4 +1,4 @@
-## Folate deficiency
+# Folate deficiency
 
 ![Image](https://assets.medlink.com/content/article-media/dlfo20.jpg)
 

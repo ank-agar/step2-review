@@ -1,4 +1,4 @@
-## Clostridial myonecrosis
+# Clostridial myonecrosis
 
 ![Image](https://modules.oc4d.org/en-medline_plus/ency/images/ency/fullsize/17190.jpg)
 

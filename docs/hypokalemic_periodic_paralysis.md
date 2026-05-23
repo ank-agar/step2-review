@@ -1,4 +1,4 @@
-## Hypokalemic periodic paralysis
+# Hypokalemic periodic paralysis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1338/bin/hpp-Image001.gif)
 

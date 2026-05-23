@@ -1,4 +1,4 @@
-## C1q deficiency
+# C1q deficiency
 
 ![Image](https://www.frontiersin.org/files/Articles/259880/xml-images/fimmu-08-00592-g001.webp)
 

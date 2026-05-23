@@ -1,4 +1,4 @@
-## Miosis
+# Miosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Iris-muscles.svg/3840px-Iris-muscles.svg.png)
 

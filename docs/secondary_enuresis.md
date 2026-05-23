@@ -1,4 +1,4 @@
-## Secondary enuresis
+# Secondary enuresis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17752/N00693-H_thumbnail.jpg)
 

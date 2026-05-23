@@ -1,4 +1,4 @@
-## Traumatic brain injury
+# Traumatic brain injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/09/Contrecoup.svg)
 

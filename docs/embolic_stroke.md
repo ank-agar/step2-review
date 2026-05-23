@@ -1,4 +1,4 @@
-## Embolic stroke
+# Embolic stroke
 
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/image.jpg)
 

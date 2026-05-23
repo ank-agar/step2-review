@@ -1,4 +1,4 @@
-## Ischemic colitis
+# Ischemic colitis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/27/ds00794_im00136_r7_ischemiccolitisthu_jpg.jpg)
 

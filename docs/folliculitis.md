@@ -1,4 +1,4 @@
-## Folliculitis
+# Folliculitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hair_follicle-en.svg/960px-Hair_follicle-en.svg.png)
 

@@ -1,4 +1,4 @@
-## Erythema multiforme
+# Erythema multiforme
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/e6f48dafa8ec810f4b5ffb432f8e6e21cacee048)
 

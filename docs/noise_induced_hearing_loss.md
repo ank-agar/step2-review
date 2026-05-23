@@ -1,4 +1,4 @@
-## Noise-induced hearing loss
+# Noise-induced hearing loss
 
 ![Image](https://www.nidcd.nih.gov/sites/default/files/styles/content_image_small/public/images/health/inner-ear-1.jpg?itok=i-Gsvwax)
 

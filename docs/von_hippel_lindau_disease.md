@@ -1,4 +1,4 @@
-## von Hippel-Lindau disease
+# von Hippel-Lindau disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HIF_and_pVHL.png/500px-HIF_and_pVHL.png)
 

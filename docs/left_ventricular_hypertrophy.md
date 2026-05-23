@@ -1,4 +1,4 @@
-## Left ventricular hypertrophy
+# Left ventricular hypertrophy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/ba/Heart_left_ventricular_hypertrophy_sa.jpg)
 

@@ -1,4 +1,4 @@
-## Right ventricular hypertrophy
+# Right ventricular hypertrophy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Right_Ventricular_hypertrophy.svg/960px-Right_Ventricular_hypertrophy.svg.png)
 

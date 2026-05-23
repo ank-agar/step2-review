@@ -1,4 +1,4 @@
-## McArdle disease
+# McArdle disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK560785/bin/McArdle.jpg)
 

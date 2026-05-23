@@ -1,4 +1,4 @@
-## Aspiration pneumonia
+# Aspiration pneumonia
 
 ![Image](https://openstax.org/apps/archive/20260407.195030/resources/79ee13abbfbe24458f38f5c1356e314cb5e59283)
 

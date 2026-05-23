@@ -1,4 +1,4 @@
-## Mediastinitis
+# Mediastinitis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3431/9390273/ba01fcf43bdf/fx2.jpg)
 

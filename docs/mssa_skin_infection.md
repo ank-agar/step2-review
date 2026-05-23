@@ -1,4 +1,4 @@
-## MSSA skin infection
+# MSSA skin infection
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/14586/14586_lores.jpg)
 

@@ -1,4 +1,4 @@
-## Isospora belli
+# Isospora belli
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/3398/3398_lores.jpg)
 

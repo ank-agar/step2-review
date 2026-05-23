@@ -1,4 +1,4 @@
-## Scurvy
+# Scurvy
 
 ![Image](https://bio.libretexts.org/@api/deki/files/48587/hydroxyPro_Lys.svg?revision=1)
 

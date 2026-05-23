@@ -1,4 +1,4 @@
-## Gastric polyps
+# Gastric polyps
 
 ![Image](https://www.medicalgraphics.de/wp-content/uploads/2023/01/gastric-polyp.jpg)
 

@@ -1,4 +1,4 @@
-## Inhalant use disorder
+# Inhalant use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Respiratory_system_complete_en.svg/960px-Respiratory_system_complete_en.svg.png)
 

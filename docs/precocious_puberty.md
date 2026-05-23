@@ -1,4 +1,4 @@
-## Precocious puberty
+# Precocious puberty
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK499898/bin/HPG__axis.jpg)
 

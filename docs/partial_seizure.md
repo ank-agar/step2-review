@@ -1,4 +1,4 @@
-## Partial seizure
+# Partial seizure
 
 ![Image](https://www.youngepilepsy.org.uk/sites/default/files/styles/media_block_inline_small/public/2025-07/brain-diagram-focal-seizures.png.webp?itok=6ME_udy4)
 

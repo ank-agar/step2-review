@@ -1,4 +1,4 @@
-## Coxiella burnetii
+# Coxiella burnetii
 
 ![Image](https://www.frontiersin.org/files/Articles/558481/fvets-07-558481-HTML/image_m/fvets-07-558481-g001.jpg)
 

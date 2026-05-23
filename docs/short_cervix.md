@@ -1,4 +1,4 @@
-## Short cervix
+# Short cervix
 
 ![Image](https://www.niddk.nih.gov/media-assets/18229/N01627-H.jpg)
 

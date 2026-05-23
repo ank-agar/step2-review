@@ -1,4 +1,4 @@
-## Enchondroma
+# Enchondroma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bone_cross-section.svg/960px-Bone_cross-section.svg.png)
 

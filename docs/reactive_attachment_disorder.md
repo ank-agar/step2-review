@@ -1,4 +1,4 @@
-## Reactive attachment disorder
+# Reactive attachment disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ways_of_attachment.svg/500px-Ways_of_attachment.svg.png)
 

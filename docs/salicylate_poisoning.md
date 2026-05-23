@@ -1,4 +1,4 @@
-## Salicylate poisoning
+# Salicylate poisoning
 
 ![Image](https://www.derangedphysiology.com/main/sites/default/files/php/Acid-Base-Disturbance/images/mechanism%20of%20lactic%20acidosis%20and%20ketoacidosis%20in%20salicylate%20poisoning.JPG)
 

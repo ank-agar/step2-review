@@ -1,4 +1,4 @@
-## Ulcerative colitis
+# Ulcerative colitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19308.jpg)
 

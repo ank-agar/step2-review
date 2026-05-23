@@ -1,4 +1,4 @@
-## Arthralgia
+# Arthralgia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8b/907_Synovial_Joints.jpg)
 

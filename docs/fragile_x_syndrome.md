@@ -1,4 +1,4 @@
-## Fragile X syndrome
+# Fragile X syndrome
 
 ![Image](https://www.frontiersin.org/files/Articles/884424/xml-images/fgene-13-884424-g001.webp)
 

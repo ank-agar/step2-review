@@ -1,4 +1,4 @@
-## Diverticulitis
+# Diverticulitis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17487/N00037-H_thumbnail.jpg)
 

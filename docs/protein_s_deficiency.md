@@ -1,4 +1,4 @@
-## Protein S deficiency
+# Protein S deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Protein_C_cs.svg/960px-Protein_C_cs.svg.png)
 

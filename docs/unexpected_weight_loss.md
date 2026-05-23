@@ -1,4 +1,4 @@
-## Unexpected weight loss
+# Unexpected weight loss
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Cancer-associated_cachexia_diagram.jpg)
 

@@ -1,4 +1,4 @@
-## Bulimia nervosa
+# Bulimia nervosa
 
 ![Image](https://med.libretexts.org/%40api/deki/files/34446/3-4.png?height=381&revision=1&size=bestfit&width=422)
 

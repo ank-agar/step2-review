@@ -1,4 +1,4 @@
-## Contusion
+# Contusion
 
 ![Image](https://content.healthwise.net/resources/14.8/en-us/media/medical/hw/h9991363_006.jpg)
 

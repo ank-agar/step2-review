@@ -1,4 +1,4 @@
-## Meconium aspiration syndrome
+# Meconium aspiration syndrome
 
 ![Image](https://mdpi-res.com/children/children-08-00230/article_deploy/html/images/children-08-00230-g001-550.jpg)
 

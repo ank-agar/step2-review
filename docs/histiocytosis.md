@@ -1,4 +1,4 @@
-## Histiocytosis
+# Histiocytosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9b/The_representation_of_Langerhans_cells_in_the_Cell_Ontology.jpg)
 

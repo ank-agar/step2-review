@@ -1,4 +1,4 @@
-## Benzodiazepine withdrawal
+# Benzodiazepine withdrawal
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/06/GABAA_receptor_schematic.png)
 

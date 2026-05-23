@@ -1,4 +1,4 @@
-## Prenatal radiation exposure
+# Prenatal radiation exposure
 
 ![Image](https://www.cdc.gov/radiation-emergencies/media/images/infographics-vector/radiation_pregnancy.png)
 

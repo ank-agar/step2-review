@@ -1,4 +1,4 @@
-## Hand-foot-and-mouth disease
+# Hand-foot-and-mouth disease
 
 ![Image](https://images.ctfassets.net/xxv4b9mbhlgd/img_9015/d450ea18ba68778e43ad213bc5eba496/c81ad38d-e3e7-4774-8164-208e08e3cee7.jpg)
 

@@ -1,4 +1,4 @@
-## Chronic rhinitis
+# Chronic rhinitis
 
 ![Image](https://www.getbodysmart.com/wp-content/uploads/2017/09/Nasal-Mucosa-Expanded-View-1024x732.png)
 

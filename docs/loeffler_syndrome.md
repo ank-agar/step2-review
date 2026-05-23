@@ -1,4 +1,4 @@
-## Loeffler syndrome
+# Loeffler syndrome
 
 ![Image](https://www.cdc.gov/dpdx/ascariasis/modules/Ascariasis_LifeCycle_lg.jpg)
 

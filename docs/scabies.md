@@ -1,4 +1,4 @@
-## Scabies
+# Scabies
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/64/Scabies_life_cycle.png)
 

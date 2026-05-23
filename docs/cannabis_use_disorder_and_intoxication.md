@@ -1,4 +1,4 @@
-## Cannabis use disorder and intoxication
+# Cannabis use disorder and intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cannabinoid_Receptors_With_THC-2.svg/1280px-Cannabinoid_Receptors_With_THC-2.svg.png)
 

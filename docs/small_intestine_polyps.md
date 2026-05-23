@@ -1,4 +1,4 @@
-## Small intestine polyps
+# Small intestine polyps
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3d/Illu_small_intestine.jpg)
 

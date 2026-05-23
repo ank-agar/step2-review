@@ -1,4 +1,4 @@
-## Essential mixed cryoglobulinemia
+# Essential mixed cryoglobulinemia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/04cf/2569912/284c2dc957f9/1750-1172-3-25-4.jpg)
 

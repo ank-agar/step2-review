@@ -1,4 +1,4 @@
-## Hyperphosphatemia
+# Hyperphosphatemia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8e0/4777331/bc1942aebb03/nihms737528f1.jpg)
 

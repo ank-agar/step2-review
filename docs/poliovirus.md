@@ -1,4 +1,4 @@
-## Poliovirus
+# Poliovirus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bc/Polio_spinal_diagram-en.svg)
 

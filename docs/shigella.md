@@ -1,4 +1,4 @@
-## Shigella
+# Shigella
 
 ![Image](https://www.frontiersin.org/files/Articles/141342/xml-images/fimmu-06-00219-g001.webp)
 

@@ -1,4 +1,4 @@
-## Impacted cerumen
+# Impacted cerumen
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/10033.jpg)
 

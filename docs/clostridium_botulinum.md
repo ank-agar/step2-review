@@ -1,4 +1,4 @@
-## Clostridium botulinum
+# Clostridium botulinum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/35/BoNt-Schnittstellen.svg)
 

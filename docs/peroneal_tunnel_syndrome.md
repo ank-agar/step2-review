@@ -1,4 +1,4 @@
-## Peroneal tunnel syndrome
+# Peroneal tunnel syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9211.jpg)
 

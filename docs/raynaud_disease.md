@@ -1,4 +1,4 @@
-## Raynaud disease
+# Raynaud disease
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17127.jpg)
 

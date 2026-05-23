@@ -1,4 +1,4 @@
-## Bone infarct
+# Bone infarct
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/6f/609_Body_Supply_to_the_Bone.jpg)
 

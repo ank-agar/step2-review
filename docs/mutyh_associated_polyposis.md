@@ -1,4 +1,4 @@
-## MUTYH-associated polyposis
+# MUTYH-associated polyposis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BER_basic_pathway.svg/960px-BER_basic_pathway.svg.png)
 

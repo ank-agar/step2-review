@@ -1,4 +1,4 @@
-## Measles
+# Measles
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Measles_Illustration_IMG.jpg/960px-Measles_Illustration_IMG.jpg)
 

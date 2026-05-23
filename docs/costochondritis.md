@@ -1,4 +1,4 @@
-## Costochondritis
+# Costochondritis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK532931/bin/thorax_ribcage.jpg)
 

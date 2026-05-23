@@ -1,4 +1,4 @@
-## MALT lymphoma
+# MALT lymphoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/71/MALT_and_mucosal_immune_response.png)
 

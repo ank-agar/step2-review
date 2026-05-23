@@ -1,4 +1,4 @@
-## Sialolithiasis
+# Sialolithiasis
 
 ![Image](https://med.libretexts.org/@api/deki/files/9825/clipboard_eb6a398930a8c8b83c020914b7a2b1956.png?revision=1)
 

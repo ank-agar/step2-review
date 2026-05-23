@@ -1,4 +1,4 @@
-## Interstitial cystitis
+# Interstitial cystitis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/43/ds00497_-ds00285_im03138_r7_interstitialcystitisthu_jpg.jpg)
 

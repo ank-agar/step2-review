@@ -1,4 +1,4 @@
-## Pleural effusion
+# Pleural effusion
 
 ![Image](https://images.medicinenet.com/images/illustrations/pleural-effusion.jpg)
 

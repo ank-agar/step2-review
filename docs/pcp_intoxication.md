@@ -1,4 +1,4 @@
-## PCP intoxication
+# PCP intoxication
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/35/NMDA_receptor_activation_and_antagonists.PNG)
 

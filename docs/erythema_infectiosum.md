@@ -1,4 +1,4 @@
-## Erythema infectiosum
+# Erythema infectiosum
 
 ![Image](https://www.frontiersin.org/files/Articles/916012/fcimb-12-916012-HTML/image_m/fcimb-12-916012-g001.jpg)
 

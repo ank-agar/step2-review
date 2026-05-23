@@ -1,4 +1,4 @@
-## Acromegaly
+# Acromegaly
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK279097/bin/acromegaly-Image003.jpg)
 

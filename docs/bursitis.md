@@ -1,4 +1,4 @@
-## Bursitis
+# Bursitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Elbow_-_Inflammation_of_the_bursa.svg/1280px-Elbow_-_Inflammation_of_the_bursa.svg.png)
 

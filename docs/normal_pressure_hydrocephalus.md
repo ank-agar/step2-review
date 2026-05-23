@@ -1,4 +1,4 @@
-## Normal-pressure hydrocephalus
+# Normal-pressure hydrocephalus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/17/Brain-ventricle-anatomy-diagram.jpg)
 

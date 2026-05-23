@@ -1,4 +1,4 @@
-## Fanconi anemia
+# Fanconi anemia
 
 ![Image](https://www.kegg.jp/kegg/pathway/map/map03460.png)
 

@@ -1,4 +1,4 @@
-## Nephrotic syndrome
+# Nephrotic syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Minimal_Change_Disease_Pathology_Diagram.svg)
 

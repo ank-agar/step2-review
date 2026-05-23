@@ -1,4 +1,4 @@
-## Secondary amenorrhea
+# Secondary amenorrhea
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hypothalamic%E2%80%93pituitary%E2%80%93ovarial_axis-La.svg/960px-Hypothalamic%E2%80%93pituitary%E2%80%93ovarial_axis-La.svg.png)
 

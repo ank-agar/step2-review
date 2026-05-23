@@ -1,4 +1,4 @@
-## Autoimmune hepatitis
+# Autoimmune hepatitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schematic_diagram_of_the_liver_structure.png)
 

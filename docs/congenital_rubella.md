@@ -1,4 +1,4 @@
-## Congenital rubella
+# Congenital rubella
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK430758/bin/1024px-Patent_ductus_arteriosus.svg.jpg)
 

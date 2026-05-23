@@ -1,4 +1,4 @@
-## Pancytopenia
+# Pancytopenia
 
 ![Image](https://kids.kiddle.co/images/thumb/f/f0/Hematopoiesis_simple.svg/800px-Hematopoiesis_simple.svg.png)
 

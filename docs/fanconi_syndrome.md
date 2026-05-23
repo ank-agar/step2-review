@@ -1,4 +1,4 @@
-## Fanconi syndrome
+# Fanconi syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Complex_proximal_tubule_with_acid_base.svg/960px-Complex_proximal_tubule_with_acid_base.svg.png)
 

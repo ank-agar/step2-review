@@ -1,4 +1,4 @@
-## Hypofibrinogenemia
+# Hypofibrinogenemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c0/Coagulation_Cascade_Diagram.svg)
 

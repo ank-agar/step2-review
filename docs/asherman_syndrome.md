@@ -1,4 +1,4 @@
-## Asherman syndrome
+# Asherman syndrome
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/16561-ashermans-syndrome)
 

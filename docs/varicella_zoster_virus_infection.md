@@ -1,4 +1,4 @@
-## Varicella-zoster virus infection
+# Varicella-zoster virus infection
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK8157/bin/ch68f6.jpg)
 

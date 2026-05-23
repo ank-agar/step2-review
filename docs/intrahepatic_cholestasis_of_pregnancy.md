@@ -1,4 +1,4 @@
-## Intrahepatic cholestasis of pregnancy
+# Intrahepatic cholestasis of pregnancy
 
 ![Image](https://medlineplus.gov/images/PX0001UT_PRESENTATION.jpeg)
 

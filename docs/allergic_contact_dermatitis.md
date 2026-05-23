@@ -1,4 +1,4 @@
-## Allergic contact dermatitis
+# Allergic contact dermatitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/19/Blausen_0014_AllergicDermatitis.png)
 

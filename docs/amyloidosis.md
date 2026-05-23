@@ -1,4 +1,4 @@
-## Amyloidosis
+# Amyloidosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/27/Mechanisms_of_amyloid_fibril_formation.jpg)
 

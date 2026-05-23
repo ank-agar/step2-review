@@ -1,4 +1,4 @@
-## Hypertensive encephalopathy
+# Hypertensive encephalopathy
 
 ![Image](https://www.frontiersin.org/files/Articles/490386/xml-images/fneur-11-00463-g0002.webp)
 

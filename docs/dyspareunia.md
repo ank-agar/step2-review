@@ -1,4 +1,4 @@
-## Dyspareunia
+# Dyspareunia
 
 ![Image](https://www.nva.org/wp-content/uploads/2015/01/vulvar_anatomy.jpg)
 

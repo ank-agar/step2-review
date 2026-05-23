@@ -1,4 +1,4 @@
-## Heroin use disorder
+# Heroin use disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mu_opioid_receptor.svg/1280px-Mu_opioid_receptor.svg.png)
 

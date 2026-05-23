@@ -1,4 +1,4 @@
-## Pseudomembranous colitis
+# Pseudomembranous colitis
 
 ![Image](https://assets.mayoclinic.org/content/dam/media/en/images/2023/02/09/colon-and-rectum.jpg)
 

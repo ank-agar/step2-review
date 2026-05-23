@@ -1,4 +1,4 @@
-## Obesity
+# Obesity
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Medical_Complications_of_Obesity.svg/500px-Medical_Complications_of_Obesity.svg.png)
 

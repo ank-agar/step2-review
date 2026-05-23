@@ -1,4 +1,4 @@
-## Desquamative interstitial pneumonia
+# Desquamative interstitial pneumonia
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK526079/bin/Approach__for__Evaluation.jpg)
 

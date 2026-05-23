@@ -1,4 +1,4 @@
-## Cord compression
+# Cord compression
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diagram_showing_a_tumour_causing_spinal_cord_compression_CRUK_081.svg/3840px-Diagram_showing_a_tumour_causing_spinal_cord_compression_CRUK_081.svg.png)
 

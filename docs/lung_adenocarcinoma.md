@@ -1,4 +1,4 @@
-## Lung adenocarcinoma
+# Lung adenocarcinoma
 
 ![Image](https://serc.carleton.edu/download/images/37789/labeled_diagram_lungsrespirato.v2.webp)
 

@@ -1,4 +1,4 @@
-## Neonatal abstinence syndrome
+# Neonatal abstinence syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/22707.jpg)
 

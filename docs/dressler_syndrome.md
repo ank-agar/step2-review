@@ -1,4 +1,4 @@
-## Dressler syndrome
+# Dressler syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18080.jpg)
 

@@ -1,4 +1,4 @@
-## Cor pulmonale
+# Cor pulmonale
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18131.jpg)
 

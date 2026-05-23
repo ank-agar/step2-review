@@ -1,4 +1,4 @@
-## Pulmonary hypertension
+# Pulmonary hypertension
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9596.jpg)
 

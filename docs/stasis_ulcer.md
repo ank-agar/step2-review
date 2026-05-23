@@ -1,4 +1,4 @@
-## Stasis ulcer
+# Stasis ulcer
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18094.jpg)
 

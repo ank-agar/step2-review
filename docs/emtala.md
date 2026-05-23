@@ -1,4 +1,4 @@
-## EMTALA
+# EMTALA
 
 ![Image](https://quickchart.io/graphviz?format=png&graph=digraph%20G%20%7B%20rankdir%3DTB%3B%20node%20%5Bshape%3Dbox%20style%3D%22rounded%2Cfilled%22%20fillcolor%3D%22%23eef6ff%22%20color%3D%22%232b5c8a%22%20fontname%3D%22Arial%22%5D%3B%20start%20%5Blabel%3D%22Patient%20comes%20to%20ED%0A%28requests%20emergency%20care%29%22%5D%3B%20mse%20%5Blabel%3D%22MSE%0Amedical%20screening%20exam%22%5D%3B%20decision%20%5Blabel%3D%22EMC%20found%3F%0Aemergency%20medical%20condition%22%20shape%3Ddiamond%20fillcolor%3D%22%23fff4d6%22%5D%3B%20no%20%5Blabel%3D%22No%20EMC%3A%0AEMTALA%20obligation%20ends%22%5D%3B%20stabilize%20%5Blabel%3D%22Stabilize%20within%20hospital%20capability%22%5D%3B%20transfer%20%5Blabel%3D%22If%20cannot%20stabilize%3A%0Aappropriate%20transfer%22%5D%3B%20start%20-%3E%20mse%20-%3E%20decision%3B%20decision%20-%3E%20no%20%5Blabel%3D%22no%22%5D%3B%20decision%20-%3E%20stabilize%20%5Blabel%3D%22yes%22%5D%3B%20stabilize%20-%3E%20transfer%20%5Blabel%3D%22if%20needed%22%5D%3B%20%7D)
 

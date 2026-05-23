@@ -1,4 +1,4 @@
-## Fibromyalgia
+# Fibromyalgia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK279092/bin/fibromyalgia-Image002.jpg)
 

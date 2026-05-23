@@ -1,4 +1,4 @@
-## Laryngeal foreign body
+# Laryngeal foreign body
 
 ![Image](https://www.getbodysmart.com/wp-content/uploads/2017/09/Location-and-Function-Larynx_1-1024x732.png)
 

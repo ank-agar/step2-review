@@ -1,4 +1,4 @@
-## Ampullary adenocarcinoma
+# Ampullary adenocarcinoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Biliary_system_new.svg)
 

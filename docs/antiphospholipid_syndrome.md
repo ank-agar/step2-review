@@ -1,4 +1,4 @@
-## Antiphospholipid syndrome
+# Antiphospholipid syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK430980/bin/APS.jpg)
 

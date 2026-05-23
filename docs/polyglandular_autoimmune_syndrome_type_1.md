@@ -1,4 +1,4 @@
-## Polyglandular autoimmune syndrome type 1
+# Polyglandular autoimmune syndrome type 1
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f55/8591095/3d7bc7bbc929/fped-09-723532-g0001.jpg)
 

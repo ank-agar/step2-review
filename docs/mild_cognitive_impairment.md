@@ -1,4 +1,4 @@
-## Mild cognitive impairment
+# Mild cognitive impairment
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/99/Diagram_showing_the_different_forms_of_MCI.jpg)
 

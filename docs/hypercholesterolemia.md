@@ -1,4 +1,4 @@
-## Hypercholesterolemia
+# Hypercholesterolemia
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18020.jpg)
 

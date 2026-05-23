@@ -1,4 +1,4 @@
-## Spontaneous abortion
+# Spontaneous abortion
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8610.jpg)
 

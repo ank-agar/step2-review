@@ -1,4 +1,4 @@
-## Vibrio cholerae
+# Vibrio cholerae
 
 ![Image](https://cdn.rcsb.org/images/structures/1s5e_assembly-1.jpeg)
 

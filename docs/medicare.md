@@ -1,4 +1,4 @@
-## Medicare
+# Medicare
 
 ![Image](https://quickchart.io/graphviz?format=png&graph=digraph%20G%20%7B%20rankdir%3DTB%3B%20node%20%5Bshape%3Dbox%2C%20style%3D%22rounded%2Cfilled%22%2C%20fillcolor%3D%22%23eef6ff%22%2C%20color%3D%22%232b6cb0%22%2C%20fontname%3D%22Arial%22%5D%3B%20Medicare%20-%3E%20%22Original%20Medicare%22%3B%20%22Original%20Medicare%22%20-%3E%20%22Part%20A%0AHospital%20%2F%20inpatient%22%3B%20%22Original%20Medicare%22%20-%3E%20%22Part%20B%0ADoctor%20%2F%20outpatient%22%3B%20Medicare%20-%3E%20%22Part%20C%0AMedicare%20Advantage%0Aprivate%20plan%20alternative%22%3B%20Medicare%20-%3E%20%22Part%20D%0APrescription%20drugs%22%3B%20%7D)
 

@@ -1,4 +1,4 @@
-## Internuclear ophthalmoplegia
+# Internuclear ophthalmoplegia
 
 ![Image](https://upload.medbullets.com/topic/120489/images/internuclearophthalmoplegia.jpg)
 

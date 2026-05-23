@@ -1,4 +1,4 @@
-## Hereditary pancreatitis
+# Hereditary pancreatitis
 
 ![Image](https://pancreapedia.org/sites/default/files/Figure2_5.jpg)
 

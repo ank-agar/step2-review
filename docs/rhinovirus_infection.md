@@ -1,4 +1,4 @@
-## Rhinovirus infection
+# Rhinovirus infection
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Respiratory_system_complete_numbered.svg/960px-Respiratory_system_complete_numbered.svg.png)
 

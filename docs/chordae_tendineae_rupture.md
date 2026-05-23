@@ -1,4 +1,4 @@
-## Chordae tendineae rupture
+# Chordae tendineae rupture
 
 ![Image](https://anatomytool.org/sites/default/files/16795-375.jpg)
 

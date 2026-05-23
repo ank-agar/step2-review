@@ -1,4 +1,4 @@
-## Horner syndrome
+# Horner syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Oculosympathetic_pathway.jpg/960px-Oculosympathetic_pathway.jpg)
 

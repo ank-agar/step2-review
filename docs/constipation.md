@@ -1,4 +1,4 @@
-## Constipation
+# Constipation
 
 ![Image](https://www.niddk.nih.gov/media-assets/17483/N00033-H_thumbnail.jpg)
 

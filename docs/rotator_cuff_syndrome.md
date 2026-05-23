@@ -1,4 +1,4 @@
-## Rotator cuff syndrome
+# Rotator cuff syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rotator_cuff_muscles.svg/1280px-Rotator_cuff_muscles.svg.png)
 

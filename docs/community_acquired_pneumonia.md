@@ -1,4 +1,4 @@
-## Community-acquired pneumonia
+# Community-acquired pneumonia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/23/Lobar_pneumonia_illustrated.jpg)
 

@@ -1,4 +1,4 @@
-## Acquired methemoglobinemia
+# Acquired methemoglobinemia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cbaf/11254049/e1044e56e439/JFMPC-13-2499-g001.jpg)
 

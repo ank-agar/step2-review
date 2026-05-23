@@ -1,4 +1,4 @@
-## Tinea barbae
+# Tinea barbae
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/48/Schematic_representations_of_the_anatomy_of_the_hair_follicle.png)
 

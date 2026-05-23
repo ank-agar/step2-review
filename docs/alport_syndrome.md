@@ -1,4 +1,4 @@
-## Alport syndrome
+# Alport syndrome
 
 ![Image](https://sites.manchester.ac.uk/alport-hub/wp-content/uploads/sites/416/2023/03/Image_4_Diseased_Glomerulus-1024px.png)
 

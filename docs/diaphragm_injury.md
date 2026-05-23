@@ -1,4 +1,4 @@
-## Diaphragm injury
+# Diaphragm injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/70/1113_The_Diaphragm.jpg)
 

@@ -1,4 +1,4 @@
-## X-linked agammaglobulinemia
+# X-linked agammaglobulinemia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Early_B_cell_development.svg/960px-Early_B_cell_development.svg.png)
 

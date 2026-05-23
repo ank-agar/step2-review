@@ -1,4 +1,4 @@
-## Endometrial polyp
+# Endometrial polyp
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5c/Uterine_Polyps.png)
 

@@ -1,4 +1,4 @@
-## Pain disorder
+# Pain disorder
 
 ![Image](https://openbooks.lib.msu.edu/app/uploads/sites/87/2022/07/Pain-Pathway-from-Body-1024x594.jpg)
 

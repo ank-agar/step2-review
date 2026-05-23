@@ -1,4 +1,4 @@
-## Substance-induced psychotic disorder
+# Substance-induced psychotic disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d8/Dopaminergic_pathways.svg)
 

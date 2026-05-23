@@ -1,4 +1,4 @@
-## Lupus anticoagulant
+# Lupus anticoagulant
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK430980/bin/APS.jpg)
 

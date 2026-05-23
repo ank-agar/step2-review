@@ -1,4 +1,4 @@
-## HELLP syndrome
+# HELLP syndrome
 
 ![Image](https://www.medcomic.com/images/comics/preeclampsia-pathophysiology.jpg)
 

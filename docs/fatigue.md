@@ -1,4 +1,4 @@
-## Fatigue
+# Fatigue
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Muscle_Fatigue.png/960px-Muscle_Fatigue.png)
 

@@ -1,4 +1,4 @@
-## Gallstone ileus
+# Gallstone ileus
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/959b/10356181/b295370a7f4c/cureus-0015-00000042059-i03.jpg)
 

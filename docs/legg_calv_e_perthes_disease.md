@@ -1,4 +1,4 @@
-## Legg-Calve-Perthes disease
+# Legg-Calve-Perthes disease
 
 ![Image](https://orthoinfo.aaos.org/globalassets/figures/a00070f01.jpg)
 

@@ -1,4 +1,4 @@
-## Chediak-Higashi disease
+# Chediak-Higashi disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK5188/bin/chediak-higashi-Image001.jpg)
 

@@ -1,4 +1,4 @@
-## Primary sclerosing cholangitis
+# Primary sclerosing cholangitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/18/Gray1097.png)
 

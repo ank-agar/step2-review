@@ -1,4 +1,4 @@
-## Acute upper respiratory infection
+# Acute upper respiratory infection
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blausen_0766_RespiratoryEpithelium.png/330px-Blausen_0766_RespiratoryEpithelium.png)
 

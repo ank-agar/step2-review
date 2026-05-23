@@ -1,4 +1,4 @@
-## Bagassosis
+# Bagassosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/46/Alveolus_diagram.svg)
 

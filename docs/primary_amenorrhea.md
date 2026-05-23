@@ -1,4 +1,4 @@
-## Primary amenorrhea
+# Primary amenorrhea
 
 ![Image](https://www.asrm.org/globalassets/_asrm/practice-guidance/practice-guidelines/images/fig-1-current-evaluation-of-amenorrhea.jpg)
 

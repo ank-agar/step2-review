@@ -1,4 +1,4 @@
-## Coccidioidomycosis
+# Coccidioidomycosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/19/Life_cycle_of_Coccidioides.PNG)
 

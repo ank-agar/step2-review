@@ -1,4 +1,4 @@
-## Congenital adrenal hyperplasia
+# Congenital adrenal hyperplasia
 
 ![Image](https://commons.wikimedia.org/wiki/Special:Redirect/file/Steroidogenesis.svg)
 

@@ -1,4 +1,4 @@
-## Endometrial hyperplasia
+# Endometrial hyperplasia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Uterine_wall_layers.svg/960px-Uterine_wall_layers.svg.png)
 

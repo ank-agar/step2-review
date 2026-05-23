@@ -1,4 +1,4 @@
-## Friedreich ataxia
+# Friedreich ataxia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/470f/6985418/2103bc395d24/13311_2019_764_Fig2_HTML.jpg)
 

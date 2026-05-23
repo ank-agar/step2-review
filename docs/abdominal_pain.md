@@ -1,4 +1,4 @@
-## Abdominal pain
+# Abdominal pain
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19578.jpg)
 

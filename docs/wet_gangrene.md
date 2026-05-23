@@ -1,4 +1,4 @@
-## Wet gangrene
+# Wet gangrene
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/21738.jpg)
 

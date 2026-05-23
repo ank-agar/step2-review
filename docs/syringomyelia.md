@@ -1,4 +1,4 @@
-## Syringomyelia
+# Syringomyelia
 
 ![Image](https://www.dscm-ev.de/wp-content/uploads/Bild-2-255x300.jpg)
 

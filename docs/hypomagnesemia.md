@@ -1,4 +1,4 @@
-## Hypomagnesemia
+# Hypomagnesemia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f99/8685365/ae6b65932d7a/j-krcp-21-112f1.jpg)
 

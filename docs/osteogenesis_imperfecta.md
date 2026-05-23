@@ -1,4 +1,4 @@
-## Osteogenesis imperfecta
+# Osteogenesis imperfecta
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/335a/6133774/344b3c418c7a/nihms954138f3.jpg)
 

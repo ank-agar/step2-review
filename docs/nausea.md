@@ -1,4 +1,4 @@
-## Nausea
+# Nausea
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK594994/bin/ch7gastro-Image022.jpg)
 

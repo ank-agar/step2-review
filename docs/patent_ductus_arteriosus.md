@@ -1,4 +1,4 @@
-## Patent ductus arteriosus
+# Patent ductus arteriosus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a0/Blausen_0707_PatentDuctusArteriosus.png)
 

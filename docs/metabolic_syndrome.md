@@ -1,4 +1,4 @@
-## Metabolic syndrome
+# Metabolic syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8709.jpg)
 

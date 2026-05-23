@@ -1,4 +1,4 @@
-## Toxic shock syndrome
+# Toxic shock syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK587120/bin/superantigens-Image001.jpg)
 

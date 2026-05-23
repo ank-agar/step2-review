@@ -1,4 +1,4 @@
-## Carotid artery stenosis
+# Carotid artery stenosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Carotid_artery_stenosis.png/500px-Carotid_artery_stenosis.png)
 

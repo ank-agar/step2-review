@@ -1,4 +1,4 @@
-## Vasomotor symptoms of menopause
+# Vasomotor symptoms of menopause
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Symptoms_of_menopause_%28raster%29.png)
 

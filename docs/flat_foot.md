@@ -1,4 +1,4 @@
-## Flat foot
+# Flat foot
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flatfeet.svg/1280px-Flatfeet.svg.png)
 

@@ -1,4 +1,4 @@
-## Sinusitis
+# Sinusitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Paranasal_sinuses_numbers.svg/960px-Paranasal_sinuses_numbers.svg.png)
 

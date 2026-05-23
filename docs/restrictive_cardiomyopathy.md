@@ -1,4 +1,4 @@
-## Restrictive cardiomyopathy
+# Restrictive cardiomyopathy
 
 ![Image](https://www.cardionerds.com/wp-content/uploads/2020/08/GetImage-2.png)
 

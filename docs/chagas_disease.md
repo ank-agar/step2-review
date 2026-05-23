@@ -1,4 +1,4 @@
-## Chagas disease
+# Chagas disease
 
 ![Image](https://www.cdc.gov/dpdx/trypanosomiasisamerican/modules/Chagas_LifeCycle_lg.jpg)
 

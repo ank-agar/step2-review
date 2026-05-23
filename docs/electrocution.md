@@ -1,4 +1,4 @@
-## Electrocution
+# Electrocution
 
 ![Image](https://ehs.ucr.edu/sites/default/files/styles/scale_367/public/picture8.png?itok=2spXiztu)
 

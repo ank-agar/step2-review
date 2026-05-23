@@ -1,4 +1,4 @@
-## Lice
+# Lice
 
 ![Image](https://www.cdc.gov/dpdx/pediculosis/modules/Lice_LifeCycle.gif?_=01233)
 

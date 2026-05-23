@@ -1,4 +1,4 @@
-## Myofascial pain syndrome
+# Myofascial pain syndrome
 
 ![Image](https://www.drgraeme.com/img/containers/main/images/2020/Trigger-point-basics/trigger-point-positive-feedback-loop.jpg/d21fd6e9b5b3ea52fbbf1b1e86a110cc.jpg)
 

@@ -1,4 +1,4 @@
-## Solitary pulmonary nodule
+# Solitary pulmonary nodule
 
 ![Image](https://www.training.seer.cancer.gov/images/lung/lung-illustration.jpg)
 

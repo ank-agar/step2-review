@@ -1,4 +1,4 @@
-## Paraplegia
+# Paraplegia
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/6489a8e7d2faaa997d339f5739f60b4b7ac3d4c7)
 

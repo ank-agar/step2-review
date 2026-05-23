@@ -1,4 +1,4 @@
-## Leptospirosis
+# Leptospirosis
 
 ![Image](https://www.physio-pedia.com/images/d/d0/Leptospirosis_cycle.jpg)
 

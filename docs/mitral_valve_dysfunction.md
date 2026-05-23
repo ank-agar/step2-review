@@ -1,4 +1,4 @@
-## Mitral valve dysfunction
+# Mitral valve dysfunction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4e/Blausen_0645_MitralValve_RegurgitationvsStenosis.png)
 

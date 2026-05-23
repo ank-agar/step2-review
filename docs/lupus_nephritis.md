@@ -1,4 +1,4 @@
-## Lupus nephritis
+# Lupus nephritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SLE_Nephritis_Pathology_Diagram.svg/960px-SLE_Nephritis_Pathology_Diagram.svg.png)
 

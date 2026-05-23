@@ -1,4 +1,4 @@
-## Annular pancreas
+# Annular pancreas
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9063.jpg)
 

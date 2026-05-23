@@ -1,4 +1,4 @@
-## Pulmonary anthrax
+# Pulmonary anthrax
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19058.jpg)
 

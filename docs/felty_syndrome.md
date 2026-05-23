@@ -1,4 +1,4 @@
-## Felty syndrome
+# Felty syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Diagram_showing_the_position_of_the_spleen_CRUK_417.svg/500px-Diagram_showing_the_position_of_the_spleen_CRUK_417.svg.png)
 

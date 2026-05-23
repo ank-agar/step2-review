@@ -1,4 +1,4 @@
-## Osteodystrophy
+# Osteodystrophy
 
 ![Image](https://courses.washington.edu/bonephys/RODweb/ROD%20diagram.png)
 

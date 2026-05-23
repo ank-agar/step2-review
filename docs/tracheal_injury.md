@@ -1,4 +1,4 @@
-## Tracheal injury
+# Tracheal injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cross_section_of_a_trachea_and_esophagus.svg/1280px-Cross_section_of_a_trachea_and_esophagus.svg.png)
 

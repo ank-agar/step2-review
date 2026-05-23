@@ -1,4 +1,4 @@
-## Upper gastrointestinal bleeding
+# Upper gastrointestinal bleeding
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Upper_gastrointestinal_tract.svg/960px-Upper_gastrointestinal_tract.svg.png)
 

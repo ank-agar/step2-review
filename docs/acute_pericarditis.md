@@ -1,4 +1,4 @@
-## Acute pericarditis
+# Acute pericarditis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18149.jpg)
 

@@ -1,4 +1,4 @@
-## Vomiting
+# Vomiting
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MAC_TAV_0058_Tavola_parietale_Diagramma_del_meccanismo_della_tosse_e_del_vomito.jpg/960px-MAC_TAV_0058_Tavola_parietale_Diagramma_del_meccanismo_della_tosse_e_del_vomito.jpg)
 

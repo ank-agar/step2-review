@@ -1,4 +1,4 @@
-## Vulvar dysplasia
+# Vulvar dysplasia
 
 ![Image](https://anatomytool.org/sites/default/files/16795-355.jpg)
 

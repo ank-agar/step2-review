@@ -1,4 +1,4 @@
-## Coxsackievirus enteritis
+# Coxsackievirus enteritis
 
 ![Image](https://pub.mdpi-res.com/viruses/viruses-11-00460/article_deploy/html/images/viruses-11-00460-ag.png?1571563631=)
 

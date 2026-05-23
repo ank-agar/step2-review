@@ -1,4 +1,4 @@
-## Cardiogenic shock
+# Cardiogenic shock
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Simplified_scheme_of_cardiogenic_shock.png/330px-Simplified_scheme_of_cardiogenic_shock.png)
 

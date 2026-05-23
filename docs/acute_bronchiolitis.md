@@ -1,4 +1,4 @@
-## Acute bronchiolitis
+# Acute bronchiolitis
 
 ![Image](https://ddcontent.digitaldoorway.org.za/modules/medline_plus/ency/images/ency/fullsize/17098.jpg)
 

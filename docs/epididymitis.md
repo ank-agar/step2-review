@@ -1,4 +1,4 @@
-## Epididymitis
+# Epididymitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Illu_testis_1b.jpg/120px-Illu_testis_1b.jpg)
 

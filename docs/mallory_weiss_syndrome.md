@@ -1,4 +1,4 @@
-## Mallory-Weiss syndrome
+# Mallory-Weiss syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18145.jpg)
 

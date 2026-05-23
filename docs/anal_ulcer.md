@@ -1,4 +1,4 @@
-## Anal ulcer
+# Anal ulcer
 
 ![Image](https://www.niddk.nih.gov/media-assets/17882/N01012-H.jpg)
 

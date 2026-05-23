@@ -1,4 +1,4 @@
-## Bicornuate uterus
+# Bicornuate uterus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/47/Uterus_bicornis_1.png)
 

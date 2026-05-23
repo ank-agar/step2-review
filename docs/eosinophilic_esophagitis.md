@@ -1,4 +1,4 @@
-## Eosinophilic esophagitis
+# Eosinophilic esophagitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8d/Illu_esophagus.jpg)
 

@@ -1,4 +1,4 @@
-## Myotonic dystrophy
+# Myotonic dystrophy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b7/Myotonic_dystrophy_muscle_distribution.jpg)
 

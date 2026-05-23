@@ -1,4 +1,4 @@
-## Acute dystonic reaction
+# Acute dystonic reaction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Basal_ganglia_diagram.svg/330px-Basal_ganglia_diagram.svg.png)
 

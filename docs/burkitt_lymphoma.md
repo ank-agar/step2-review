@@ -1,4 +1,4 @@
-## Burkitt lymphoma
+# Burkitt lymphoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Burkitt%27s_lymphoma_illustration.jpg)
 

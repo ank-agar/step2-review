@@ -1,4 +1,4 @@
-## Histrionic personality disorder
+# Histrionic personality disorder
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK590043/bin/ch10basic-Image006.jpg)
 

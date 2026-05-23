@@ -1,4 +1,4 @@
-## Malabsorption
+# Malabsorption
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK597379/bin/Gray1061.jpg)
 

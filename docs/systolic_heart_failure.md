@@ -1,4 +1,4 @@
-## Systolic heart failure
+# Systolic heart failure
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/7a5f660d956021c3cc953db34df12905ce6e106c)
 

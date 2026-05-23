@@ -1,4 +1,4 @@
-## Paranoid personality disorder
+# Paranoid personality disorder
 
 ![Image](https://psychicare.com/wp-content/uploads/2021/06/Personality-Disorders.jpg)
 

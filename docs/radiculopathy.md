@@ -1,4 +1,4 @@
-## Radiculopathy
+# Radiculopathy
 
 ![Image](https://www.orthoinfo.org/globalassets/figures/a00332f03.jpg)
 

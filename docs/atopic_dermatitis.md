@@ -1,4 +1,4 @@
-## Atopic dermatitis
+# Atopic dermatitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Pattern_of_atopic_eczema_varies_with_age.png)
 

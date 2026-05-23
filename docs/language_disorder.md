@@ -1,4 +1,4 @@
-## Language disorder
+# Language disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Brain_-_Broca%27s_and_Wernicke%27s_area_Diagram.svg/1024px-Brain_-_Broca%27s_and_Wernicke%27s_area_Diagram.svg.png)
 

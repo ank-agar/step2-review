@@ -1,4 +1,4 @@
-## Shoulder dystocia
+# Shoulder dystocia
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773052649/Journals/Automation/AFP/2020/0715/p84-f2-jpg.jpg)
 

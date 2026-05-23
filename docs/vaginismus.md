@@ -1,4 +1,4 @@
-## Vaginismus
+# Vaginismus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f9/1116_Muscle_of_the_Female_Perineum.png)
 

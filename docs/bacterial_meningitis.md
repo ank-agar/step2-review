@@ -1,4 +1,4 @@
-## Bacterial meningitis
+# Bacterial meningitis
 
 ![Image](https://www.cdc.gov/meningococcal/media/images/Meningitis-symptoms.jpg)
 

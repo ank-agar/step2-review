@@ -1,4 +1,4 @@
-## Slipped capital femoral epiphysis
+# Slipped capital femoral epiphysis
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773064444/Journals/Automation/AFP/2017/0615/p779-f5-jpg.jpg)
 

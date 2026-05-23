@@ -1,4 +1,4 @@
-## Blast injuries
+# Blast injuries
 
 ![Image](https://blastinjuryresearch.health.mil/assets/images/icons/primary-blast.png)
 

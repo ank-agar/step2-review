@@ -1,4 +1,4 @@
-## Peripheral arterial disease
+# Peripheral arterial disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peripheral_artery_disease.svg/960px-Peripheral_artery_disease.svg.png)
 

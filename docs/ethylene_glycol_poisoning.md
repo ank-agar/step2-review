@@ -1,4 +1,4 @@
-## Ethylene glycol poisoning
+# Ethylene glycol poisoning
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK600985/bin/ch3f9.jpg)
 

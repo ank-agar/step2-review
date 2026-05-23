@@ -1,4 +1,4 @@
-## Deductibles
+# Deductibles
 
 ![Image](https://www.healthinsurance.org/wp-content/uploads/2024/11/Health-Insurance-Deductible-Infographic.webp)
 

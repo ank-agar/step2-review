@@ -1,4 +1,4 @@
-## Pure sensory neuropathy
+# Pure sensory neuropathy
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK532291/bin/DRG.jpg)
 

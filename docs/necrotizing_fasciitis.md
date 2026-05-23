@@ -1,4 +1,4 @@
-## Necrotizing fasciitis
+# Necrotizing fasciitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/36/Skin_layers.png)
 

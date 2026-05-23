@@ -1,4 +1,4 @@
-## Pyoderma gangrenosum
+# Pyoderma gangrenosum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Skin_layers.svg/960px-Skin_layers.svg.png)
 

@@ -1,4 +1,4 @@
-## Hereditary angioedema
+# Hereditary angioedema
 
 ![Image](https://www.frontiersin.org/files/Articles/952233/xml-images/falgy-03-952233-g001.webp)
 

@@ -1,4 +1,4 @@
-## Primary biliary cirrhosis
+# Primary biliary cirrhosis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2026/02/20/18/48/primary-biliary-cholangitis-3150922-004-2-8col.jpg)
 

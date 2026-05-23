@@ -1,4 +1,4 @@
-## Gout
+# Gout
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Uric_acid_in_the_knee.svg/960px-Uric_acid_in_the_knee.svg.png)
 

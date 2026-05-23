@@ -1,4 +1,4 @@
-## Roseola
+# Roseola
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17255.jpg)
 

@@ -1,4 +1,4 @@
-## Muscle calcification
+# Muscle calcification
 
 ![Image](https://pub.mdpi-res.com/ijms/ijms-26-07516/article_deploy/html/images/ijms-26-07516-ag.png?1754451560=)
 

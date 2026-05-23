@@ -1,4 +1,4 @@
-## Vulvovaginitis
+# Vulvovaginitis
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/home/images/g/y/n/gyn-vulvar-genitalia-spl-v1.gif?sc_lang=en-ca&mw=750)
 

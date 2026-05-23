@@ -1,4 +1,4 @@
-## Reactive arthritis
+# Reactive arthritis
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/reactive-arthritis-reiters-syndrome.jpg)
 

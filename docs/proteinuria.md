@@ -1,4 +1,4 @@
-## Proteinuria
+# Proteinuria
 
 ![Image](https://www.niddk.nih.gov/media-assets/24170/Albuminuria-graphic-square_English-labels_thumbnail.png)
 

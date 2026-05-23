@@ -1,4 +1,4 @@
-## Pulmonary contusion
+# Pulmonary contusion
 
 ![Image](https://www.netterimages.com/images/vpv/000/000/035/35790-0550x0475.jpg)
 

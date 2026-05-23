@@ -1,4 +1,4 @@
-## Infected pilonidal cyst
+# Infected pilonidal cyst
 
 ![Image](https://modules.oc4d.org/en-medline_plus/ency/images/ency/fullsize/9746.jpg)
 

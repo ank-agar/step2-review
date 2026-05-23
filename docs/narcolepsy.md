@@ -1,4 +1,4 @@
-## Narcolepsy
+# Narcolepsy
 
 ![Image](https://www.frontiersin.org/files/Articles/36072/xml-images/fendo-04-00018-g001.webp)
 

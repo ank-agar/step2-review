@@ -1,4 +1,4 @@
-## Nipple discharge
+# Nipple discharge
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/6a/Breast_anatomy.jpg)
 

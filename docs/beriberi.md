@@ -1,4 +1,4 @@
-## Beriberi
+# Beriberi
 
 ![Image](https://i0.wp.com/wikitropica.org/wp-content/uploads/2022/06/word-image-1612-1.png?resize=405%2C348&ssl=1)
 

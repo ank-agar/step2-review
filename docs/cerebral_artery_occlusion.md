@@ -1,4 +1,4 @@
-## Cerebral artery occlusion
+# Cerebral artery occlusion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2e/Circle_of_Willis_en.svg)
 

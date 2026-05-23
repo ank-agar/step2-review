@@ -1,4 +1,4 @@
-## Klinefelter syndrome
+# Klinefelter syndrome
 
 ![Image](https://klinefeltersyndrome.org/wp-content/uploads/2019/12/47XXY-Snapshot.jpg)
 

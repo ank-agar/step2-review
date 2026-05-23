@@ -1,4 +1,4 @@
-## Ureteral stricture
+# Ureteral stricture
 
 ![Image](https://www.niddk.nih.gov/media-assets/17823/N00858-H_thumbnail.jpg)
 

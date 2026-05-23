@@ -1,4 +1,4 @@
-## Coronavirus infection
+# Coronavirus infection
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/ce/SARS-CoV-2_infection_cycle.png)
 

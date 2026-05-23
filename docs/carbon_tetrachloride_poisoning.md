@@ -1,4 +1,4 @@
-## Carbon tetrachloride poisoning
+# Carbon tetrachloride poisoning
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK598011/bin/ch3f9.jpg)
 

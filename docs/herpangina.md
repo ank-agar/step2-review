@@ -1,4 +1,4 @@
-## Herpangina
+# Herpangina
 
 ![Image](https://web.archive.org/web/20060717044541im_/http://images.webmd.com/images/hw/media65/medical/hw/nd551248.jpg)
 

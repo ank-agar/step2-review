@@ -1,4 +1,4 @@
-## Septic abortion
+# Septic abortion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5f/Blausen_0719_PelvicInflammatoryDisease.png)
 

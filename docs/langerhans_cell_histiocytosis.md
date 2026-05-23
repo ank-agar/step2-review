@@ -1,4 +1,4 @@
-## Langerhans cell histiocytosis
+# Langerhans cell histiocytosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Langerhans_Cell_%28NIH_BioArt_285%29.svg/960px-Langerhans_Cell_%28NIH_BioArt_285%29.svg.png)
 

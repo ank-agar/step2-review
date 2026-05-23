@@ -1,4 +1,4 @@
-## Paroxysmal nocturnal hemoglobinuria
+# Paroxysmal nocturnal hemoglobinuria
 
 ![Image](https://medically.roche.com/content/dam/sh/pnh/PATHOPHYSIOLOGY_01_illustration.png)
 

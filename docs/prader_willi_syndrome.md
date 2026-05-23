@@ -1,4 +1,4 @@
-## Prader-Willi syndrome
+# Prader-Willi syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK1330/bin/pws-Image002.jpg)
 

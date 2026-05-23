@@ -1,4 +1,4 @@
-## Cryptococcus neoformans
+# Cryptococcus neoformans
 
 ![Image](https://www.frontiersin.org/files/Articles/581750/xml-images/fimmu-11-581750-g0001.webp)
 

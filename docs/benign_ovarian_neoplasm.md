@@ -1,4 +1,4 @@
-## Benign ovarian neoplasm
+# Benign ovarian neoplasm
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/04/Ovarian_Cysts.png)
 

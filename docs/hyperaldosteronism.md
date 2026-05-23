@@ -1,4 +1,4 @@
-## Hyperaldosteronism
+# Hyperaldosteronism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Renin-angiotensin-aldosterone_system.svg/1280px-Renin-angiotensin-aldosterone_system.svg.png)
 

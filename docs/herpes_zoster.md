@@ -1,4 +1,4 @@
-## Herpes zoster
+# Herpes zoster
 
 ![Image](https://www.cdc.gov/shingles/images/rash.jpg)
 

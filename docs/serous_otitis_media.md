@@ -1,4 +1,4 @@
-## Serous otitis media
+# Serous otitis media
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19324.jpg)
 

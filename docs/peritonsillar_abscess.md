@@ -1,4 +1,4 @@
-## Peritonsillar abscess
+# Peritonsillar abscess
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773063592/Journals/Automation/AFP/2017/0415/p501-f4-jpg.jpg)
 

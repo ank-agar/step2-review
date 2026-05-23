@@ -1,4 +1,4 @@
-## Subclavian steal syndrome
+# Subclavian steal syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/56/The_promixal_part_of_left_subclavian_is_blocked_on_left_side_so_no_flow_in_vertebral_and_to_left_arm-blood_from_right_vertebral_enters_left_vertebral_and_flows_back_to_supply_left_arm_2013-07-05_17-11.jpg)
 

@@ -1,4 +1,4 @@
-## Congenital varicella
+# Congenital varicella
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/85/Herpesvirus_structure.png)
 

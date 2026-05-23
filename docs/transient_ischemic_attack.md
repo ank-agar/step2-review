@@ -1,4 +1,4 @@
-## Transient ischemic attack
+# Transient ischemic attack
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8968.jpg)
 

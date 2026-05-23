@@ -1,4 +1,4 @@
-## Osteochondritis
+# Osteochondritis
 
 ![Image](https://orthoinfo.aaos.org/contentassets/1ec6884129264dc589a9a36e7834e717/a00610f01-compressor.jpg)
 

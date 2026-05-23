@@ -1,4 +1,4 @@
-## Hyperhidrosis
+# Hyperhidrosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/81/Gray940_-_sweat_gland.png)
 

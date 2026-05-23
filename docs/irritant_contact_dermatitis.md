@@ -1,4 +1,4 @@
-## Irritant contact dermatitis
+# Irritant contact dermatitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Diagram_showing_the_structure_of_the_skin_CRUK_371.svg/960px-Diagram_showing_the_structure_of_the_skin_CRUK_371.svg.png)
 

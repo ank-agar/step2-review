@@ -1,4 +1,4 @@
-## Male infertility
+# Male infertility
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/79fb628b116b4a7c8b7aa8a1a417b8e48aa2ce9a)
 

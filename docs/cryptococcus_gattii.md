@@ -1,4 +1,4 @@
-## Cryptococcus gattii
+# Cryptococcus gattii
 
 ![Image](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsyr/16/1/10.1093_femsyr_fov106/2/m_fov106fig1.jpeg?Expires=2147483647&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&Signature=XkERQSNZJcj-E8LOpP29S~s7KsKbbGsMD7XlEyRzDyqvnHjgNc8mxZRcxAZ4c~9iCk8St9XxbE~DR20sBM8rZmo2D6sDZ0icwtXzzWiOfljxVO6itdDFrTjg21oBYVkFWYW6urI9hzjHYDQlwu2F4x9OHtOAjpenpeG7tuE0m4rvJQQUX6ApoxDTmVml1ko~N1OcbKoEEABIIbS-9YEwe1osL2K2stqjze71yxwcDA90vXH2K6-aOYjzwr30rXkBZISguFYOACHR8zGG1QJsEaAiYIlnYM86FX-ejHW4BWLiE7D2F5CGN5l4HfXvDdSmH7ZJ8BPy7WMQScFf6KJS8g__)
 

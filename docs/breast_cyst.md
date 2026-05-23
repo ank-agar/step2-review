@@ -1,4 +1,4 @@
-## Breast cyst
+# Breast cyst
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/50/ds01071_hb7_breastcystthu_jpg.jpg)
 

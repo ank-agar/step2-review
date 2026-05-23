@@ -1,4 +1,4 @@
-## Renal vein thrombosis
+# Renal vein thrombosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d6/Blausen_0592_KidneyAnatomy_01.png)
 

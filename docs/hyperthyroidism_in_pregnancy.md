@@ -1,4 +1,4 @@
-## Hyperthyroidism in pregnancy
+# Hyperthyroidism in pregnancy
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/008d/6516592/8dff79d3ac97/aeb.2018.85-g001.jpg)
 

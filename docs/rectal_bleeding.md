@@ -1,4 +1,4 @@
-## Rectal bleeding
+# Rectal bleeding
 
 ![Image](https://www.niddk.nih.gov/media-assets/17502/N00052-H_thumbnail.jpg)
 

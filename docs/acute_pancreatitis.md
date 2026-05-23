@@ -1,4 +1,4 @@
-## Acute pancreatitis
+# Acute pancreatitis
 
 ![Image](https://pancreapedia.org/sites/default/files/fig3_new.jpg)
 

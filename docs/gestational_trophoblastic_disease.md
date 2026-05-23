@@ -1,4 +1,4 @@
-## Gestational trophoblastic disease
+# Gestational trophoblastic disease
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ca0c/6464061/846f7d38057f/f1000research-8-16278-g0000.jpg)
 

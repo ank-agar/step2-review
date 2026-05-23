@@ -1,4 +1,4 @@
-## Ectopic pregnancy
+# Ectopic pregnancy
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/home/images/g/y/n/gyn_ectopic-pregnancy.gif?mw=1200&sc_lang=en-us)
 

@@ -1,4 +1,4 @@
-## Moraxella catarrhalis
+# Moraxella catarrhalis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9308.jpg)
 

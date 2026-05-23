@@ -1,4 +1,4 @@
-## Spinal cord transection
+# Spinal cord transection
 
 ![Image](https://openstax.org/apps/archive/20260407.195030/resources/c202078fc82cd11d4404801b01b060647a999dbb)
 

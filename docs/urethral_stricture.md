@@ -1,4 +1,4 @@
-## Urethral stricture
+# Urethral stricture
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Male_and_female_urethra.svg/1280px-Male_and_female_urethra.svg.png)
 

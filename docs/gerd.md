@@ -1,4 +1,4 @@
-## GERD
+# GERD
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19609.jpg)
 

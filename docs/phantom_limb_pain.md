@@ -1,4 +1,4 @@
-## Phantom limb pain
+# Phantom limb pain
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sensory_Homunculus-en.svg/960px-Sensory_Homunculus-en.svg.png)
 

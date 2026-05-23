@@ -1,4 +1,4 @@
-## Hypocortisolism
+# Hypocortisolism
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HPA_axis_combined.jpg/960px-HPA_axis_combined.jpg)
 

@@ -1,4 +1,4 @@
-## Necrotizing enterocolitis
+# Necrotizing enterocolitis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4aa6/2703838/d0625ad3c8df/WJG-14-2142-g001.jpg)
 

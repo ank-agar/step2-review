@@ -1,4 +1,4 @@
-## Selective mutism
+# Selective mutism
 
 ![Image](https://selectivemutismcenter.org/wp-content/uploads/2017/03/bridge-new.jpg)
 

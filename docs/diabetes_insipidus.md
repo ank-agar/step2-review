@@ -1,4 +1,4 @@
-## Diabetes insipidus
+# Diabetes insipidus
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK537591/bin/diagn-diabet-insip-Image003.jpg)
 

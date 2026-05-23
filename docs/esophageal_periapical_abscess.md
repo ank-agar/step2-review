@@ -1,4 +1,4 @@
-## Esophageal periapical abscess
+# Esophageal periapical abscess
 
 ![Image](https://www.kenhub.com/thumbor/heH49yuSvFsmIVrFOeiQYOFPmIY%3D/fit-in/1400x0/filters%3Afill%28FFFFFF%2Ctrue%29%3Awatermark%28/images/watermark_5000_10percent.png%2C0%2C0%2C0%29%3Awatermark%28/images/logo_url.png%2C-10%2C-10%2C0%29%3Aformat%28jpeg%29/images/overview_image/292/FUx2BiX6g96m1JIrmbTg_esophagus-in-situ_en.jpg)
 

@@ -1,4 +1,4 @@
-## Cerebral edema in DKA
+# Cerebral edema in DKA
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Diabetic_Ketoacidosis_Model.svg/500px-Diabetic_Ketoacidosis_Model.svg.png)
 

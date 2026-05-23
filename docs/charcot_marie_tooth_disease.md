@@ -1,4 +1,4 @@
-## Charcot-Marie-Tooth disease
+# Charcot-Marie-Tooth disease
 
 ![Image](https://cmtrf.org/wp-content/uploads/2021/05/Myelin-sheath-1024x717.png)
 

@@ -1,4 +1,4 @@
-## Pneumomediastinum
+# Pneumomediastinum
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/08/Mediastinum_anatomy.jpg)
 

@@ -1,4 +1,4 @@
-## Salmonella
+# Salmonella
 
 ![Image](https://cdn.sciencefigures.org/svg/color/salmonella.svg)
 

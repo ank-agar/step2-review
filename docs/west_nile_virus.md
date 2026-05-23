@@ -1,4 +1,4 @@
-## West Nile virus
+# West Nile virus
 
 ![Image](https://www.cdc.gov/west-nile-virus/media/images/24_315321_west_nile_lifecycle_birds_1200x675_no_words.jpg)
 

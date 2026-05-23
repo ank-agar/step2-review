@@ -1,4 +1,4 @@
-## Zenker diverticulum
+# Zenker diverticulum
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/zenkers-diverticulum)
 

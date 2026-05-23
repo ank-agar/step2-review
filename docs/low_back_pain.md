@@ -1,4 +1,4 @@
-## Low back pain
+# Low back pain
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24514.jpg)
 

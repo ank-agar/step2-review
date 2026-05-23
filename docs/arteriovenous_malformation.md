@@ -1,4 +1,4 @@
-## Arteriovenous malformation
+# Arteriovenous malformation
 
 ![Image](https://www.uclahealth.org/sites/default/files/styles/max_width_012000_480/public/images/NofAVM.jpeg?itok=b_gnHGxd)
 

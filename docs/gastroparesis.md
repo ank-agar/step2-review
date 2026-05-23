@@ -1,4 +1,4 @@
-## Gastroparesis
+# Gastroparesis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Stomach_emptying_into_duodenum.svg/1280px-Stomach_emptying_into_duodenum.svg.png)
 

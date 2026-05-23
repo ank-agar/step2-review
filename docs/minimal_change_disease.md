@@ -1,4 +1,4 @@
-## Minimal change disease
+# Minimal change disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Minimal_Change_Disease_Pathology_Diagram.svg/960px-Minimal_Change_Disease_Pathology_Diagram.svg.png)
 

@@ -1,4 +1,4 @@
-## Spinal artery infarct
+# Spinal artery infarct
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK541083/bin/vertebra__blood__supply.jpg)
 

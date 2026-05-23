@@ -1,4 +1,4 @@
-## Hypersensitivity pneumonitis
+# Hypersensitivity pneumonitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alveolus_diagram.svg/500px-Alveolus_diagram.svg.png)
 

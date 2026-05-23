@@ -1,4 +1,4 @@
-## Sickle cell disease in pregnancy
+# Sickle cell disease in pregnancy
 
 ![Image](https://sickle.bwh.harvard.edu/sickle_rbc.gif)
 

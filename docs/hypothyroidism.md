@@ -1,4 +1,4 @@
-## Hypothyroidism
+# Hypothyroidism
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK278958/bin/physio-hypo-pit-syst-Image010.jpg)
 

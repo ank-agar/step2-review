@@ -1,4 +1,4 @@
-## Cervical spinal stenosis
+# Cervical spinal stenosis
 
 ![Image](https://www.hss.edu/globalassets/images/conditions/th-spine-stenosis-cervical.jpg)
 

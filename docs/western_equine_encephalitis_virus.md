@@ -1,4 +1,4 @@
-## Western equine encephalitis virus
+# Western equine encephalitis virus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/db/14996_lores.jpg)
 

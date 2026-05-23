@@ -1,4 +1,4 @@
-## Acanthamoeba
+# Acanthamoeba
 
 ![Image](https://www.cdc.gov/dpdx/freelivingamebic/modules/Acanthamoeba_LifeCycle_lg.jpg)
 

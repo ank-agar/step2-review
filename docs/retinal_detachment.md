@@ -1,4 +1,4 @@
-## Retinal detachment
+# Retinal detachment
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Human_eye_cross_section_detached_retina.svg/1280px-Human_eye_cross_section_detached_retina.svg.png)
 

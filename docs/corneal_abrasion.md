@@ -1,4 +1,4 @@
-## Corneal abrasion
+# Corneal abrasion
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK532960/bin/Cornea_schematic.gif)
 

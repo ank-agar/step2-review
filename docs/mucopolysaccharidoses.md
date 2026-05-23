@@ -1,4 +1,4 @@
-## Mucopolysaccharidoses
+# Mucopolysaccharidoses
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Heparan_Sulfate.svg/500px-Heparan_Sulfate.svg.png)
 

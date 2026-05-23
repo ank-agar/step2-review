@@ -1,4 +1,4 @@
-## Medullary thyroid cancer
+# Medullary thyroid cancer
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diagram_showing_the_position_of_the_thyroid_and_parathyroid_glands_CRUK_414.svg/960px-Diagram_showing_the_position_of_the_thyroid_and_parathyroid_glands_CRUK_414.svg.png)
 

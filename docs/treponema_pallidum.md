@@ -1,4 +1,4 @@
-## Treponema pallidum
+# Treponema pallidum
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/2327/2327_lores.jpg)
 

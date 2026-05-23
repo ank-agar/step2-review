@@ -1,4 +1,4 @@
-## Vulvovaginal candidiasis
+# Vulvovaginal candidiasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Clitoris_Anatomy.svg/960px-Clitoris_Anatomy.svg.png)
 

@@ -1,4 +1,4 @@
-## Amyotrophic lateral sclerosis
+# Amyotrophic lateral sclerosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/16/ALS_Affected_neurons_and_muscles.png)
 

@@ -1,4 +1,4 @@
-## Q fever
+# Q fever
 
 ![Image](https://mdpi-res.com/pathogens/pathogens-14-00589/article_deploy/html/images/pathogens-14-00589-g004-550.jpg)
 

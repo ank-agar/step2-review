@@ -1,4 +1,4 @@
-## Gastroenteritis
+# Gastroenteritis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17514/N00067-H_thumbnail.jpg)
 

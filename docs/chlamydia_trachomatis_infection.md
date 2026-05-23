@@ -1,4 +1,4 @@
-## Chlamydia trachomatis infection
+# Chlamydia trachomatis infection
 
 ![Image](https://embryology.med.unsw.edu.au/embryology/images/4/46/Chlamydia_life_cycle_cartoon.jpg)
 

@@ -1,4 +1,4 @@
-## Lipoma
+# Lipoma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9896.jpg)
 

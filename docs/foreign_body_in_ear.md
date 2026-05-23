@@ -1,4 +1,4 @@
-## Foreign body in ear
+# Foreign body in ear
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19592.jpg)
 

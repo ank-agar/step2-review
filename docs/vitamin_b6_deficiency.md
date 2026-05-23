@@ -1,4 +1,4 @@
-## Vitamin B6 deficiency
+# Vitamin B6 deficiency
 
 ![Image](https://mdpi-res.com/nutrients/nutrients-13-03229/article_deploy/html/images/nutrients-13-03229-g004.png)
 

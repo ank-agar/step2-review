@@ -1,4 +1,4 @@
-## Secondary polycythemia
+# Secondary polycythemia
 
 ![Image](https://www.niddk.nih.gov/media-assets/17879/N00810-H.jpg)
 

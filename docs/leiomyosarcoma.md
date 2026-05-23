@@ -1,4 +1,4 @@
-## Leiomyosarcoma
+# Leiomyosarcoma
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/0f9c0c0dce95ae4a54187eb26d9f0095f36e1aef)
 

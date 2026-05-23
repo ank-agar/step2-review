@@ -1,4 +1,4 @@
-## Tonsillitis
+# Tonsillitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Blausen_0860_Tonsils%26Throat_Anatomy.png)
 

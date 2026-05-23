@@ -1,4 +1,4 @@
-## Ingrown toenail
+# Ingrown toenail
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/ee/Foot_care_and_shoe_fitting-Fig14_Trimming_of_toenails_to_avoid_ingrown_toenails_left-correct_right-incorrect.png)
 

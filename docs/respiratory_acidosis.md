@@ -1,4 +1,4 @@
-## Respiratory acidosis
+# Respiratory acidosis
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260407.195030/resources/f1ea2d4362f9537dd0d0ccfeef23721768703a82)
 

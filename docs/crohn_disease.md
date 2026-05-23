@@ -1,4 +1,4 @@
-## Crohn disease
+# Crohn disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Patterns_of_Crohn%27s_Disease.svg/330px-Patterns_of_Crohn%27s_Disease.svg.png)
 

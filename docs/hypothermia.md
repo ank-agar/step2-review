@@ -1,4 +1,4 @@
-## Hypothermia
+# Hypothermia
 
 ![Image](https://publish-p181489-e1910547.adobeaemcloud.com/content/dam/grainger/gus/en/public/digital-tactics/know-how/ig/SS-KH_HypothermiaInfographic_KH-IG.jpg)
 

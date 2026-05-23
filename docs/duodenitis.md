@@ -1,4 +1,4 @@
-## Duodenitis
+# Duodenitis
 
 ![Image](https://www.medicalgraphics.de/wp-content/uploads/2023/01/duodenitis-en.jpg)
 

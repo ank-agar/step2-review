@@ -1,4 +1,4 @@
-## Seasonal affective disorder
+# Seasonal affective disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Circadian_rhythm.svg/1280px-Circadian_rhythm.svg.png)
 

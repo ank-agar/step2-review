@@ -1,4 +1,4 @@
-## Uremic syndrome
+# Uremic syndrome
 
 ![Image](https://www.niddk.nih.gov/media-assets/11236/B2-Image03-Kidney%2BNephron-FINAL.jpg)
 

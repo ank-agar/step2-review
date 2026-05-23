@@ -1,4 +1,4 @@
-## Nasopharyngitis
+# Nasopharyngitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19378.jpg)
 

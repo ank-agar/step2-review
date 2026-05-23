@@ -1,4 +1,4 @@
-## Esophageal squamous cell carcinoma
+# Esophageal squamous cell carcinoma
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24348.jpg)
 

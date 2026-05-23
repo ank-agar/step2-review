@@ -1,4 +1,4 @@
-## Lipoprotein lipase deficiency
+# Lipoprotein lipase deficiency
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK549802/bin/Lipoprotein_metabolism.jpg)
 

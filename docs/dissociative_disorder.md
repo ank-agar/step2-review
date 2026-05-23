@@ -1,4 +1,4 @@
-## Dissociative disorder
+# Dissociative disorder
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bb/5_core_components_of_Dissociative_disorders.jpg)
 

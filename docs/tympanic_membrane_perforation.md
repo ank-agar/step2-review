@@ -1,4 +1,4 @@
-## Tympanic membrane perforation
+# Tympanic membrane perforation
 
 ![Image](https://www.cmh.edu/contentassets/d7bad92588a442709f594f6f59c78bcf/tympanic-membrane-illustration.jpg)
 

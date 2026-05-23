@@ -1,4 +1,4 @@
-## Hepatitis A
+# Hepatitis A
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Liver_Diagram.svg/960px-Liver_Diagram.svg.png)
 

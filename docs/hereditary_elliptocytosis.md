@@ -1,4 +1,4 @@
-## Hereditary elliptocytosis
+# Hereditary elliptocytosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Erythrocyte_membrane_diagram.svg/960px-Erythrocyte_membrane_diagram.svg.png)
 

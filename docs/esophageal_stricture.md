@@ -1,4 +1,4 @@
-## Esophageal stricture
+# Esophageal stricture
 
 ![Image](https://www.niddk.nih.gov/media-assets/17895/N01028-H_thumbnail.jpg)
 

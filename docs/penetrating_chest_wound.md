@@ -1,4 +1,4 @@
-## Penetrating chest wound
+# Penetrating chest wound
 
 ![Image](https://passport.world.rugby/media/um4mp3o0/chapter_5_image016.jpg)
 

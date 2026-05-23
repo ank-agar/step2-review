@@ -1,4 +1,4 @@
-## Synovitis
+# Synovitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Illu_synovial_joint.jpg?utm_campaign=parser&utm_content=thumbnail_unscaled&utm_source=en.wikipedia.org)
 

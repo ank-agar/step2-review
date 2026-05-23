@@ -1,4 +1,4 @@
-## Herniated disc
+# Herniated disc
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Herniated_disk.svg/960px-Herniated_disk.svg.png)
 

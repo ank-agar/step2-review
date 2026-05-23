@@ -1,4 +1,4 @@
-## Uterine leiomyoma
+# Uterine leiomyoma
 
 ![Image](https://images.medicinenet.com/images/featured/detail-uterine-fibroids.jpg?output-quality=70&resize=350px%3A%2A)
 

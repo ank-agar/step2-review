@@ -1,4 +1,4 @@
-## Chest wall injury
+# Chest wall injury
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/39/Flail_chest_mechaincs.jpg)
 

@@ -1,4 +1,4 @@
-## Lumbar spinal stenosis
+# Lumbar spinal stenosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spinal_stenosis.svg/960px-Spinal_stenosis.svg.png)
 

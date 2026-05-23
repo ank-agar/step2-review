@@ -1,4 +1,4 @@
-## Placenta previa
+# Placenta previa
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/23/2906_Placenta_Previa-02.jpg)
 

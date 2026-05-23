@@ -1,4 +1,4 @@
-## Acute myocardial infarction
+# Acute myocardial infarction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5e/Heart_attack_diagram.png)
 

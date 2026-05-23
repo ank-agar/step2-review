@@ -1,4 +1,4 @@
-## C2 deficiency
+# C2 deficiency
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK557581/bin/Schematic__of__complement__activations.jpg)
 

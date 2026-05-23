@@ -1,4 +1,4 @@
-## Goiter
+# Goiter
 
 ![Image](https://www.niddk.nih.gov/-/media/Images/Health-Information/Endocrine-Diseases/ThyroidAnatomy_758x864.jpg)
 

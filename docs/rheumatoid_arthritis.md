@@ -1,4 +1,4 @@
-## Rheumatoid arthritis
+# Rheumatoid arthritis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0d/Rheumatoid_Arthritis_%28Swan_Neck_Deformity%29.png)
 

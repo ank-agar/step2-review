@@ -1,4 +1,4 @@
-## High-altitude sickness
+# High-altitude sickness
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/HAPEPathophys.png/640px-HAPEPathophys.png)
 

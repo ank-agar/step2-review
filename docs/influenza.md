@@ -1,4 +1,4 @@
-## Influenza
+# Influenza
 
 ![Image](https://www.cdc.gov/flu-resources/media/files/2024/07/3d-influenza-multicoror-key-pieslice-600px.jpg)
 

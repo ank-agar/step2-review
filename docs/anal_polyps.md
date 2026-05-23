@@ -1,4 +1,4 @@
-## Anal polyps
+# Anal polyps
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Diagram_showing_the_anatomy_of_the_anus_CRUK_282.svg/1280px-Diagram_showing_the_anatomy_of_the_anus_CRUK_282.svg.png)
 

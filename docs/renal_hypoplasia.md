@@ -1,4 +1,4 @@
-## Renal hypoplasia
+# Renal hypoplasia
 
 ![Image](https://archive.cdc.gov/www_cdc_gov/ncbddd/birthdefects/surveillancemanual/quick-reference-handbook/renal-agenesis-hypoplasia_html_files/Fig.-33.-Renal-agenesis-hypoplasia.jpg)
 

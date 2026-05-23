@@ -1,4 +1,4 @@
-## Sickle cell disease
+# Sickle cell disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/78/Point-Mutation-Sickle-Cell-Normal_and_Mutated-Hemoglobin.png)
 

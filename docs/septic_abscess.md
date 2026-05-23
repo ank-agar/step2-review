@@ -1,4 +1,4 @@
-## Septic abscess
+# Septic abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Blausen_0007_Abscess.png/960px-Blausen_0007_Abscess.png)
 

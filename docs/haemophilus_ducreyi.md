@@ -1,4 +1,4 @@
-## Haemophilus ducreyi
+# Haemophilus ducreyi
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ulcers%2C_fissures%2C_and_erosions.svg/960px-Ulcers%2C_fissures%2C_and_erosions.svg.png)
 

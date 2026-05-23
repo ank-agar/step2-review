@@ -1,4 +1,4 @@
-## Acute coronary syndrome
+# Acute coronary syndrome
 
 ![Image](https://cardvasc.org/wp-content/uploads/2016/09/x-plackruptur.jpg)
 

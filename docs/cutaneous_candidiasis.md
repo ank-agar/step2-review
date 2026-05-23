@@ -1,4 +1,4 @@
-## Cutaneous candidiasis
+# Cutaneous candidiasis
 
 ![Image](https://quickchart.io/graphviz?format=png&graph=digraph%20G%20%7B%20rankdir%3DLR%3B%20node%20%5Bshape%3Dbox%2Cstyle%3D%22rounded%2Cfilled%22%2Cfillcolor%3D%22%23fff7ed%22%2Cfontname%3DHelvetica%5D%3B%20%22Warm%20moist%20skin%20fold%22%20-%3E%20%22Candida%20overgrowth%22%20-%3E%20%22Red%20macerated%20rash%22%20-%3E%20%22Satellite%20pustules%22%3B%20%22Diabetes%22%20-%3E%20%22Candida%20overgrowth%22%3B%20%22Antibiotics%22%20-%3E%20%22Candida%20overgrowth%22%3B%20%22Immunosuppression%22%20-%3E%20%22Candida%20overgrowth%22%3B%20%7D)
 

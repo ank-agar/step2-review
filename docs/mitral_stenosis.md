@@ -1,4 +1,4 @@
-## Mitral stenosis
+# Mitral stenosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8a/Blausen_0648_MitralValveStenosis.png)
 

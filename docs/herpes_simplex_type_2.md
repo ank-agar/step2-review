@@ -1,4 +1,4 @@
-## Herpes simplex type 2
+# Herpes simplex type 2
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK8157/bin/ch68f1.jpg)
 

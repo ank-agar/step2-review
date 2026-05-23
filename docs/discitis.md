@@ -1,4 +1,4 @@
-## Discitis
+# Discitis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK541047/bin/Discitis.jpg)
 

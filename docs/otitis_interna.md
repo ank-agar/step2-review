@@ -1,4 +1,4 @@
-## Otitis interna
+# Otitis interna
 
 ![Image](https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/323/323606/diagram-of-labyrinthitis.jpg?h=1738&w=1155)
 

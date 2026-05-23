@@ -1,4 +1,4 @@
-## Congenital nevi
+# Congenital nevi
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blausen_0632_Melanocyte.png/960px-Blausen_0632_Melanocyte.png)
 

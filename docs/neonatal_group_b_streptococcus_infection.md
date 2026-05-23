@@ -1,4 +1,4 @@
-## Neonatal group B streptococcus infection
+# Neonatal group B streptococcus infection
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Group_B_Strep.gif/330px-Group_B_Strep.gif)
 

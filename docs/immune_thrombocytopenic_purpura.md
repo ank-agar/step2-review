@@ -1,4 +1,4 @@
-## Immune thrombocytopenic purpura
+# Immune thrombocytopenic purpura
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bfef/7920457/111b58dbf178/jcm-10-00789-g001.jpg)
 

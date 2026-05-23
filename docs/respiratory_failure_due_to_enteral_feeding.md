@@ -1,4 +1,4 @@
-## Respiratory failure due to enteral feeding
+# Respiratory failure due to enteral feeding
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Diagram_showing_the_position_of_a_nasogastric_tube_CRUK_340.svg/960px-Diagram_showing_the_position_of_a_nasogastric_tube_CRUK_340.svg.png)
 

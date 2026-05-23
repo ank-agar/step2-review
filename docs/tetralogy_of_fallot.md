@@ -1,4 +1,4 @@
-## Tetralogy of Fallot
+# Tetralogy of Fallot
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tetralogy_of_Fallot.svg/1280px-Tetralogy_of_Fallot.svg.png)
 

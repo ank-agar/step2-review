@@ -1,4 +1,4 @@
-## Complex regional pain syndrome
+# Complex regional pain syndrome
 
 ![Image](https://www.physio-pedia.com/images/9/97/CRPS.jpeg)
 

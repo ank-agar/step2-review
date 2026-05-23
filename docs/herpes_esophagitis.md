@@ -1,4 +1,4 @@
-## Herpes esophagitis
+# Herpes esophagitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Diagram_showing_the_position_of_the_oesophagus_CRUK_355.svg/960px-Diagram_showing_the_position_of_the_oesophagus_CRUK_355.svg.png)
 

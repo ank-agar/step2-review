@@ -1,4 +1,4 @@
-## Hidradenitis suppurativa
+# Hidradenitis suppurativa
 
 ![Image](https://pub.mdpi-res.com/diagnostics/diagnostics-13-00502/article_deploy/html/images/diagnostics-13-00502-g001.png)
 

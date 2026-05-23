@@ -1,4 +1,4 @@
-## Lung abscess
+# Lung abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lungs_diagram_detailed.svg/960px-Lungs_diagram_detailed.svg.png)
 

@@ -1,4 +1,4 @@
-## Diabetes mellitus type 1
+# Diabetes mellitus type 1
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK604182/bin/preventionttype1-Image001.jpg)
 

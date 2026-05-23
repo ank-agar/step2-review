@@ -1,4 +1,4 @@
-## Bartholin gland abscess
+# Bartholin gland abscess
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d6/Bartholin_cyst_svg_hariadhi.svg)
 

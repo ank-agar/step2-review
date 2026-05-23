@@ -1,4 +1,4 @@
-## Visceral leishmaniasis
+# Visceral leishmaniasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Leishmaniasis_life_cycle_diagram_en.svg/1280px-Leishmaniasis_life_cycle_diagram_en.svg.png)
 

@@ -1,4 +1,4 @@
-## Genital warts
+# Genital warts
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK321770/bin/50a.gif)
 

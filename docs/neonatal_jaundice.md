@@ -1,4 +1,4 @@
-## Neonatal jaundice
+# Neonatal jaundice
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK532930/bin/Kabir_Rotor__Syndrome.jpg)
 

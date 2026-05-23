@@ -1,4 +1,4 @@
-## Polymyalgia rheumatica
+# Polymyalgia rheumatica
 
 ![Image](https://medicinepods.com/wp-content/uploads/2024/05/GCA26PMR28229.png)
 

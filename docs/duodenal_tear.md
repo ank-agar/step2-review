@@ -1,4 +1,4 @@
-## Duodenal tear
+# Duodenal tear
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Duodenumanatomy.jpg/330px-Duodenumanatomy.jpg)
 

@@ -1,4 +1,4 @@
-## Post-term infant
+# Post-term infant
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Birth_weight_chart_2.svg/960px-Birth_weight_chart_2.svg.png)
 

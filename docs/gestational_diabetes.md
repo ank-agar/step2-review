@@ -1,4 +1,4 @@
-## Gestational diabetes
+# Gestational diabetes
 
 ![Image](https://www.niddk.nih.gov/media-assets/17793/N00763-H.jpg)
 

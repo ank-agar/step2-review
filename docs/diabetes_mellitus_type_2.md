@@ -1,4 +1,4 @@
-## Diabetes mellitus type 2
+# Diabetes mellitus type 2
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1665/bin/insulin_release.jpg)
 

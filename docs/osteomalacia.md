@@ -1,4 +1,4 @@
-## Osteomalacia
+# Osteomalacia
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK551616/bin/Vitamn__D__metabolism.jpg)
 

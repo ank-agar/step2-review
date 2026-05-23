@@ -1,4 +1,4 @@
-## Group B Streptococcus infection
+# Group B Streptococcus infection
 
 ![Image](https://www.cdc.gov/group-b-strep/media/images/StrepB.jpg)
 

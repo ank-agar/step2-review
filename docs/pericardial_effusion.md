@@ -1,4 +1,4 @@
-## Pericardial effusion
+# Pericardial effusion
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/17351-pericardial-effusion)
 

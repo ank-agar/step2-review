@@ -1,4 +1,4 @@
-## Abnormal cervical cytology
+# Abnormal cervical cytology
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17034.jpg)
 

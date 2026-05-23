@@ -1,4 +1,4 @@
-## Ovarian cyst
+# Ovarian cyst
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9725.jpg)
 

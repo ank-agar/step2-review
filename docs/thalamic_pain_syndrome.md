@@ -1,4 +1,4 @@
-## Thalamic pain syndrome
+# Thalamic pain syndrome
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK604196/bin/CPSPS__Pathways.jpg)
 

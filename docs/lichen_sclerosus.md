@@ -1,4 +1,4 @@
-## Lichen sclerosus
+# Lichen sclerosus
 
 ![Image](https://cdn.std.uw.edu/clinical-images/578/1587-web.jpg?rev=2-29)
 

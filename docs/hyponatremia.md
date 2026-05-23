@@ -1,4 +1,4 @@
-## Hyponatremia
+# Hyponatremia
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bbcd/4470176/3af0c0d1ba90/jcm-03-01163-g001.jpg)
 

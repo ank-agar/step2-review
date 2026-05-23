@@ -1,4 +1,4 @@
-## Aspergillosis
+# Aspergillosis
 
 ![Image](https://www.cdc.gov/aspergillosis/media/images/2024/04/23_342632-A_Galluzzo_Aspergillus_fumigatus_STILL_TW_no_text_03_azoles.jpg)
 

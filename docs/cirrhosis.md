@@ -1,4 +1,4 @@
-## Cirrhosis
+# Cirrhosis
 
 ![Image](https://www.niddk.nih.gov/media-assets/17884/N01013-H_thumbnail.jpg)
 

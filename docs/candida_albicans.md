@@ -1,4 +1,4 @@
-## Candida albicans
+# Candida albicans
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/201709_Candida_albicans.svg/120px-201709_Candida_albicans.svg.png)
 

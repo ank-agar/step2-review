@@ -1,4 +1,4 @@
-## Muscle wasting
+# Muscle wasting
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19477.jpg)
 

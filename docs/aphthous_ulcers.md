@@ -1,4 +1,4 @@
-## Aphthous ulcers
+# Aphthous ulcers
 
 ![Image](https://images.squarespace-cdn.com/content/v1/5ffce6804eea3e5a2fe51c71/1632884968262-DECR29WEIXTJB2XWJM8Z/Canker%2BSore%2BDiagram)
 

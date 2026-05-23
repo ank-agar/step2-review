@@ -1,4 +1,4 @@
-## Dislocation
+# Dislocation
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/98/Anterior_Dislocation.jpeg)
 

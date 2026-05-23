@@ -1,4 +1,4 @@
-## Penile cancer
+# Penile cancer
 
 ![Image](https://images.ctfassets.net/g3mey2fqpv66/01-diagram-showing-the-anatomy-of-the-penis/759266a4e313332a390235fd0408594d/01-diagram-showing-the-anatomy-of-the-penis.svg)
 

@@ -1,4 +1,4 @@
-## Primary insomnia
+# Primary insomnia
 
 ![Image](https://sleep.hms.harvard.edu/sites/default/files/assets/Insomnia%20Pictures/NeurocogTheory-9.22.21.PNG)
 

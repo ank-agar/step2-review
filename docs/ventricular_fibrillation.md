@@ -1,4 +1,4 @@
-## Ventricular fibrillation
+# Ventricular fibrillation
 
 ![Image](https://assets.mayoclinic.org/content/dam/media/en/images/2023/02/09/ventricular-fibrillation.jpg)
 

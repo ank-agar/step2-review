@@ -1,4 +1,4 @@
-## Sedative use disorder
+# Sedative use disorder
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK98135/bin/cossettef1.jpg)
 

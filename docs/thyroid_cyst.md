@@ -1,4 +1,4 @@
-## Thyroid cyst
+# Thyroid cyst
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2019/11/25/16/24/single-multinodular-nodules-thyroid-8col-3229712-001-0-web.jpg)
 

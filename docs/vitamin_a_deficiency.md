@@ -1,4 +1,4 @@
-## Vitamin A deficiency
+# Vitamin A deficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/79/Typical_location_of_Bitot%27s_spots.jpg)
 

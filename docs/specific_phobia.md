@@ -1,4 +1,4 @@
-## Specific phobia
+# Specific phobia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Amygdala-vmPFC_ciruit.png/960px-Amygdala-vmPFC_ciruit.png)
 

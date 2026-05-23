@@ -1,4 +1,4 @@
-## Mastoiditis
+# Mastoiditis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e4/Mastoid_air_cells.jpg)
 

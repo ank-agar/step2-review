@@ -1,4 +1,4 @@
-## Histoplasmosis
+# Histoplasmosis
 
 ![Image](https://www.cdc.gov/histoplasmosis/media/images/histoplasmosis-lifecycle.jpg)
 

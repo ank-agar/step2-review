@@ -1,4 +1,4 @@
-## Infantile spinal muscular atrophy
+# Infantile spinal muscular atrophy
 
 ![Image](https://www.togetherinsma.com/content/dam/commercial/specialty/sma/caregiver/en_us/images/pages/smn1-gene/spinal-muscular-atrophy.png.web.1280.1280.png)
 

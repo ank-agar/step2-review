@@ -1,4 +1,4 @@
-## Drug-induced parkinsonism
+# Drug-induced parkinsonism
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6dd1/9405702/b25bda3719e0/biomedicines-10-02010-g003.jpg)
 

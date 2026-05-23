@@ -1,4 +1,4 @@
-## Snake bites
+# Snake bites
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8928.jpg)
 

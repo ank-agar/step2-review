@@ -1,4 +1,4 @@
-## Multifocal atrial tachycardia
+# Multifocal atrial tachycardia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Multifocal_Atrial_Tachycardia.svg/1280px-Multifocal_Atrial_Tachycardia.svg.png)
 

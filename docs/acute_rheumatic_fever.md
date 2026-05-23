@@ -1,4 +1,4 @@
-## Acute rheumatic fever
+# Acute rheumatic fever
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK606315/bin/rheumaticfever-Image001.jpg)
 

@@ -1,4 +1,4 @@
-## Central sleep apnea
+# Central sleep apnea
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/53/Block_diagram_of_the_control_of_the_respiratory_system.png)
 

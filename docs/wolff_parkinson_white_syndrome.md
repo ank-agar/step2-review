@@ -1,4 +1,4 @@
-## Wolff-Parkinson-White syndrome
+# Wolff-Parkinson-White syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wpw2_%28CardioNetworks_ECGpedia%29.svg/960px-Wpw2_%28CardioNetworks_ECGpedia%29.svg.png)
 

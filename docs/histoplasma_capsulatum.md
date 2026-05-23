@@ -1,4 +1,4 @@
-## Histoplasma capsulatum
+# Histoplasma capsulatum
 
 ![Image](https://www.cdc.gov/histoplasmosis/media/images/histoplasmosis-lifecycle.jpg)
 

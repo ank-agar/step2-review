@@ -1,4 +1,4 @@
-## Osteomyelitis
+# Osteomyelitis
 
 ![Image](https://orthopaedia.com/wp-content/uploads/2023/10/3b6fc185-09ef-4d2f-ab9d-9bcc27c698f7-1658793647223.png)
 

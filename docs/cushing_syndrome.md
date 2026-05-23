@@ -1,4 +1,4 @@
-## Cushing syndrome
+# Cushing syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/dd/Cushing%27s_syndrome.png)
 

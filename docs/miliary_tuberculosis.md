@@ -1,4 +1,4 @@
-## Miliary tuberculosis
+# Miliary tuberculosis
 
 ![Image](https://vectree.fsn1.your-objectstorage.com/og/c/systemic-mycobacterial-dissemination.jpg)
 

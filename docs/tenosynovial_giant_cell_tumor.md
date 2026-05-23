@@ -1,4 +1,4 @@
-## Tenosynovial giant cell tumor
+# Tenosynovial giant cell tumor
 
 ![Image](https://www.frontiersin.org/files/Articles/820046/xml-images/fimmu-13-820046-g002.webp)
 

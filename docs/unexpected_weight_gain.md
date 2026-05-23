@@ -1,4 +1,4 @@
-## Unexpected weight gain
+# Unexpected weight gain
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/23229.jpg)
 

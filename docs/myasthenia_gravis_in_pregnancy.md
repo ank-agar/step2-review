@@ -1,4 +1,4 @@
-## Myasthenia gravis in pregnancy
+# Myasthenia gravis in pregnancy
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wikipedia_Project_Myasthenia_gravis_%285%29.svg/960px-Wikipedia_Project_Myasthenia_gravis_%285%29.svg.png)
 

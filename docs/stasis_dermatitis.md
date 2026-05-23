@@ -1,4 +1,4 @@
-## Stasis dermatitis
+# Stasis dermatitis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18094.jpg)
 

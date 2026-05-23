@@ -1,4 +1,4 @@
-## Barotrauma
+# Barotrauma
 
 ![Image](https://dan.org/wp-content/uploads/2020/06/internal_ear_diagram.png)
 

@@ -1,4 +1,4 @@
-## Pernicious anemia
+# Pernicious anemia
 
 ![Image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2569/2017/10/26164054/1000000000000471000002CFFC807641.png)
 

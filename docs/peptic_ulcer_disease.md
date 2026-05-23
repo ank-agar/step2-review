@@ -1,4 +1,4 @@
-## Peptic ulcer disease
+# Peptic ulcer disease
 
 ![Image](https://www.niddk.nih.gov/-/media/Images/Health-Information/Digestive-Diseases/Peptic-Ulcers-English-FINAL_7-18-23_1200x1040.jpg)
 

@@ -1,4 +1,4 @@
-## Rhabdomyosarcoma
+# Rhabdomyosarcoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a2/Skeletal_muscle.png)
 

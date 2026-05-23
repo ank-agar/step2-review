@@ -1,4 +1,4 @@
-## Neuroleptic malignant syndrome
+# Neuroleptic malignant syndrome
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dopamine_pathways.svg/960px-Dopamine_pathways.svg.png)
 

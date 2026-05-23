@@ -1,4 +1,4 @@
-## Schizophrenia
+# Schizophrenia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/500px-Dopaminergic_pathways.svg.png)
 

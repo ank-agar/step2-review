@@ -1,4 +1,4 @@
-## Infective myositis
+# Infective myositis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/89/Illu_muscle_structure.jpg)
 

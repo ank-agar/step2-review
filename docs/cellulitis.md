@@ -1,4 +1,4 @@
-## Cellulitis
+# Cellulitis
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/40/ds00450_im02430_r7_cellulitisthu_jpg.jpg)
 

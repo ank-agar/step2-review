@@ -1,4 +1,4 @@
-## Hereditary nonpolyposis colorectal cancer
+# Hereditary nonpolyposis colorectal cancer
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/733730.jpg)
 

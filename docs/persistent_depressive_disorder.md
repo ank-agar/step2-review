@@ -1,4 +1,4 @@
-## Persistent depressive disorder
+# Persistent depressive disorder
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/persistent-depressive-disorder-pdd)
 

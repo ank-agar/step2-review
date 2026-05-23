@@ -1,4 +1,4 @@
-## Thymoma
+# Thymoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cf/Illu_thymus.jpg)
 

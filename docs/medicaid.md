@@ -1,4 +1,4 @@
-## Medicaid
+# Medicaid
 
 ![Image](https://www.kff.org/wp-content/uploads/2012/08/jama_infographic_medicaid_400px.png)
 

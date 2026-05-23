@@ -1,4 +1,4 @@
-## Neonatal seizures
+# Neonatal seizures
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK557645/bin/Neo-seizure.jpg)
 

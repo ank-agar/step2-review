@@ -1,4 +1,4 @@
-## Renal tuberculosis
+# Renal tuberculosis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Figures_219-229._Tuberculosis_in_the_kidneys._Wellcome_L0074284.jpg/960px-Figures_219-229._Tuberculosis_in_the_kidneys._Wellcome_L0074284.jpg)
 

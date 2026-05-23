@@ -1,4 +1,4 @@
-## Pulmonary tuberculosis
+# Pulmonary tuberculosis
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/24440/24440_lores.jpg)
 

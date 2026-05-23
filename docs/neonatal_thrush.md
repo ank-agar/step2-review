@@ -1,4 +1,4 @@
-## Neonatal thrush
+# Neonatal thrush
 
 ![Image](https://assets.openstax.org/oscms-prodcms/media/original_images/c751c7ede952ee418ea3bc66673f81e97375f674.jpg)
 

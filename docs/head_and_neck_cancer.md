@@ -1,4 +1,4 @@
-## Head and neck cancer
+# Head and neck cancer
 
 ![Image](https://visualsonline.cancer.gov/retrieve.cfm?dpi=72&fileformat=jpg&imageid=13270)
 

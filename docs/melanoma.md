@@ -1,4 +1,4 @@
-## Melanoma
+# Melanoma
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/579033.jpg)
 

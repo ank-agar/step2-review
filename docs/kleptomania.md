@@ -1,4 +1,4 @@
-## Kleptomania
+# Kleptomania
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mesolimbic_pathway.svg/1280px-Mesolimbic_pathway.svg.png)
 

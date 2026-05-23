@@ -1,4 +1,4 @@
-## Gastric adenocarcinoma
+# Gastric adenocarcinoma
 
 ![Image](https://www.cancer.gov/sites/www/files/styles/cgov_article/public/cgov_image/media_image/2023-04/StomachLayers5.jpg?h=42814ab6&itok=O2NrqEHa)
 

@@ -1,4 +1,4 @@
-## Paget disease of bone
+# Paget disease of bone
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/610_Feature_Pagets_Disease.png/960px-610_Feature_Pagets_Disease.png)
 

@@ -1,4 +1,4 @@
-## Sudden infant death syndrome
+# Sudden infant death syndrome
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fe0f/6934437/49dd10481ddf/nlz062f1.jpg)
 

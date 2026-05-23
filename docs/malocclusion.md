@@ -1,4 +1,4 @@
-## Malocclusion
+# Malocclusion
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bc/Overjet-overbite.png)
 

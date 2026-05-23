@@ -1,4 +1,4 @@
-## Pharyngeal foreign body
+# Pharyngeal foreign body
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Illu_pharynx.svg/1280px-Illu_pharynx.svg.png)
 

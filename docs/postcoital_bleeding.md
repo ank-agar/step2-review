@@ -1,4 +1,4 @@
-## Postcoital bleeding
+# Postcoital bleeding
 
 ![Image](https://media.cuh.nhs.uk/images/31300_-_Diagram_of_ectropion.width-840.png)
 

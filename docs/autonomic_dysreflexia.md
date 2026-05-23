@@ -1,4 +1,4 @@
-## Autonomic dysreflexia
+# Autonomic dysreflexia
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK613069/bin/ch9nsa-Image044.jpg)
 

@@ -1,4 +1,4 @@
-## Sarcoma
+# Sarcoma
 
 ![Image](https://cdn.storymd.com/optimized/8okK0GS4o7/thumbnail.jpg)
 

@@ -1,4 +1,4 @@
-## St. Louis encephalitis virus
+# St. Louis encephalitis virus
 
 ![Image](https://www.cdc.gov/sle/media/images/SLETransmissionCycle16.9.png)
 

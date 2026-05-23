@@ -1,4 +1,4 @@
-## Adrenal adenoma
+# Adrenal adenoma
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/88/Adrenal_Gland_detail_-_English.png)
 

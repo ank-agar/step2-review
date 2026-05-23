@@ -1,4 +1,4 @@
-## Dwarfism
+# Dwarfism
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559263/bin/Achondroplasia.jpg)
 

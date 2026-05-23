@@ -1,4 +1,4 @@
-## Raynaud syndrome
+# Raynaud syndrome
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17127.jpg)
 

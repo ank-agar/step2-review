@@ -1,4 +1,4 @@
-## Pancreatic insufficiency
+# Pancreatic insufficiency
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/2424_Exocrine_and_Endocrine_Pancreas.jpg)
 

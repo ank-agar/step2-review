@@ -1,4 +1,4 @@
-## Anaphylaxis
+# Anaphylaxis
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK482124/bin/Anaphylaxis__chart.jpg)
 

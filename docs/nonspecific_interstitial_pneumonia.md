@@ -1,4 +1,4 @@
-## Nonspecific interstitial pneumonia
+# Nonspecific interstitial pneumonia
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alveolar_capillary_membrane.svg/1280px-Alveolar_capillary_membrane.svg.png)
 

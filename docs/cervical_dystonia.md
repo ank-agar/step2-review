@@ -1,4 +1,4 @@
-## Cervical dystonia
+# Cervical dystonia
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19090.jpg)
 

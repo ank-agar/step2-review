@@ -1,4 +1,4 @@
-## Melena
+# Melena
 
 ![Image](https://s3.amazonaws.com/static.wd7.us/e/ed/Upper_GI_bleeding._Adapted_from_ACG_Clinical_Guideline-_Upper_Gastrointestinal_and_Ulcer_Bleeding.png)
 

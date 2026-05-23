@@ -1,4 +1,4 @@
-## Nasal polyp
+# Nasal polyp
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/79/Depiction_of_nasal_polyps.png)
 

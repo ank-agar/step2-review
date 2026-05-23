@@ -1,4 +1,4 @@
-## Bacterial vaginosis
+# Bacterial vaginosis
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f866/4786887/9a12792d25d2/zcm0021625400001.jpg)
 

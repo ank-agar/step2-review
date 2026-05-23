@@ -1,4 +1,4 @@
-## Parotitis
+# Parotitis
 
 ![Image](https://visualsonline.cancer.gov/retrieve.cfm?dpi=72&fileformat=jpg&imageid=9435)
 

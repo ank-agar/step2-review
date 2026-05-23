@@ -1,4 +1,4 @@
-## Large cell lung carcinoma
+# Large cell lung carcinoma
 
 ![Image](https://training.seer.cancer.gov/images/lung/lung-illustration.jpg)
 

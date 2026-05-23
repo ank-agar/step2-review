@@ -1,4 +1,4 @@
-## Polyarteritis nodosa
+# Polyarteritis nodosa
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4c7f/12925990/3038c98606bf/cureus-0018-00000102178-i06.jpg)
 

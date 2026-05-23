@@ -1,4 +1,4 @@
-## Alzheimer disease
+# Alzheimer disease
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Neuropathological_features_of_Alzheimer%27s_disease.png)
 

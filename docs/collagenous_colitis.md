@@ -1,4 +1,4 @@
-## Collagenous colitis
+# Collagenous colitis
 
 ![Image](https://www.hopkinsmedicine.org/-/media/ksw-images/mechanismofinjuryincollagenouscolitis290489.jpg)
 

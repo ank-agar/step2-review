@@ -1,4 +1,4 @@
-## Tenosynovitis
+# Tenosynovitis
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK442005/bin/de__quervain__tenosynovitis.jpg)
 

@@ -1,4 +1,4 @@
-## Sick sinus syndrome
+# Sick sinus syndrome
 
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/heart-conduction-system)
 

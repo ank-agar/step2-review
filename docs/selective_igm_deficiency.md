@@ -1,4 +1,4 @@
-## Selective IgM deficiency
+# Selective IgM deficiency
 
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit6/humoral/abystructure/images/u3fig9b.jpg)
 

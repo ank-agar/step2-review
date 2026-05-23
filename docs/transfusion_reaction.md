@@ -1,4 +1,4 @@
-## Transfusion reaction
+# Transfusion reaction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3e/Main_symptoms_of_acute_hemolytic_reaction.png)
 

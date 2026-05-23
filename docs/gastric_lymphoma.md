@@ -1,4 +1,4 @@
-## Gastric lymphoma
+# Gastric lymphoma
 
 ![Image](https://www.netterimages.com/images/vpv/000/000/006/6679-0550x0475.jpg)
 

@@ -1,4 +1,4 @@
-## Systemic lupus erythematosus
+# Systemic lupus erythematosus
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Systemic_Manifestations_of_SLE.jpg/1280px-The_Systemic_Manifestations_of_SLE.jpg)
 

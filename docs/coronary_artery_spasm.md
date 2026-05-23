@@ -1,4 +1,4 @@
-## Coronary artery spasm
+# Coronary artery spasm
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/00/an01371_im04688_mcdc7_coronaryspasmthu_jpg.jpg)
 

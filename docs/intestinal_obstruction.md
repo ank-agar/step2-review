@@ -1,4 +1,4 @@
-## Intestinal obstruction
+# Intestinal obstruction
 
 ![Image](https://content.healthwise.net/resources/14.8/en-us/media/medical/hw/h9991434_002.jpg)
 

@@ -1,4 +1,4 @@
-## Tendinitis
+# Tendinitis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Extensor_tendonitis.svg/960px-Extensor_tendonitis.svg.png)
 

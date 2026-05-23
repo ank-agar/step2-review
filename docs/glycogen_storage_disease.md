@@ -1,4 +1,4 @@
-## Glycogen storage disease
+# Glycogen storage disease
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459277/bin/Glycogen__Storage2.jpg)
 

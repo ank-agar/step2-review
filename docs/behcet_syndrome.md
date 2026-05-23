@@ -1,4 +1,4 @@
-## Behcet syndrome
+# Behcet syndrome
 
 ![Image](https://behcetsuk.org/wp-content/uploads/2023/02/DiagramofSymptoms-2023-with-Logo-and-URL-874x1024.jpg)
 

@@ -1,4 +1,4 @@
-## Gastrointestinal obstruction
+# Gastrointestinal obstruction
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Digestive_system_diagram_en.svg/500px-Digestive_system_diagram_en.svg.png)
 

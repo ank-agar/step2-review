@@ -1,4 +1,4 @@
-## Tricuspid stenosis
+# Tricuspid stenosis
 
 ![Image](https://www.secondscount.org/sites/default/files/2023-05/tricuspid-valve-stenosis.svg)
 

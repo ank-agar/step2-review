@@ -1,4 +1,4 @@
-## Ehrlichia
+# Ehrlichia
 
 ![Image](https://chicago.medicine.uic.edu/pathology/wp-content/uploads/sites/18/2023/12/Ehrilichia-Figure-3.jpg)
 

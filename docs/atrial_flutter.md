@@ -1,4 +1,4 @@
-## Atrial flutter
+# Atrial flutter
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8b/Atrial_conduction_circles.png)
 

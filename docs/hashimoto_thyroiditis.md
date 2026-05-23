@@ -1,4 +1,4 @@
-## Hashimoto thyroiditis
+# Hashimoto thyroiditis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17068.jpg)
 

@@ -1,4 +1,4 @@
-## Peptic ulcer perforation
+# Peptic ulcer perforation
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19235.jpg)
 

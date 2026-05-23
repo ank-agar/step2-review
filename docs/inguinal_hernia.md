@@ -1,4 +1,4 @@
-## Inguinal hernia
+# Inguinal hernia
 
 ![Image](https://www.niddk.nih.gov/media-assets/17943/N01023-H.jpg)
 

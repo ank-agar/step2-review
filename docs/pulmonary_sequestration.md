@@ -1,4 +1,4 @@
-## Pulmonary sequestration
+# Pulmonary sequestration
 
 ![Image](https://fetus.ucsf.edu/img/IpnpCHYBzt-1082.jpeg)
 

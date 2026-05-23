@@ -1,4 +1,4 @@
-## Primary ciliary dyskinesia
+# Primary ciliary dyskinesia
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK1122/bin/pcd-Image001.jpg)
 

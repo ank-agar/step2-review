@@ -1,4 +1,4 @@
-## Diarrhea
+# Diarrhea
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bristol_stool_chart.svg/1280px-Bristol_stool_chart.svg.png)
 

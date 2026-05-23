@@ -1,4 +1,4 @@
-## Bacillus anthracis
+# Bacillus anthracis
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9092.jpg)
 

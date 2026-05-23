@@ -1,4 +1,4 @@
-## Strain
+# Strain
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calf_muscle_strain_and_tear.svg/1280px-Calf_muscle_strain_and_tear.svg.png)
 

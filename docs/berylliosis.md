@@ -1,4 +1,4 @@
-## Berylliosis
+# Berylliosis
 
 ![Image](https://med.libretexts.org/@api/deki/files/35889/4.19.svg?revision=2)
 

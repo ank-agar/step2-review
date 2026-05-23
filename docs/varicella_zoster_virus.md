@@ -1,4 +1,4 @@
-## Varicella zoster virus
+# Varicella zoster virus
 
 ![Image](https://www.cdc.gov/shingles/images/rash.jpg)
 

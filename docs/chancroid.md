@@ -1,4 +1,4 @@
-## Chancroid
+# Chancroid
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8e/Inguinal_Lymph_nodes.png)
 

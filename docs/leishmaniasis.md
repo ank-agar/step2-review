@@ -1,4 +1,4 @@
-## Leishmaniasis
+# Leishmaniasis
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Leishmaniasis_life_cycle_diagram_en.svg/960px-Leishmaniasis_life_cycle_diagram_en.svg.png)
 
