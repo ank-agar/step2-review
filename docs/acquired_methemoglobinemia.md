@@ -1,5 +1,8 @@
 # Acquired methemoglobinemia
 
+![Image](images/acquired_methemoglobinemia.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cbaf/11254049/e1044e56e439/JFMPC-13-2499-g001.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18b9/4383305/69c8960c2e16/CRIEM2015-670979.002.jpg)

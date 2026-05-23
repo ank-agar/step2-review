@@ -1,5 +1,8 @@
 # Charcot-Marie-Tooth disease
 
+![Image](images/charcot_marie_tooth_disease.jpg)
+
+
 ![Image](https://cmtrf.org/wp-content/uploads/2021/05/Myelin-sheath-1024x717.png)
 
 ![Image](https://cmtrf.org/wp-content/uploads/2021/05/Myelin-sheath-in-cmt1-1024x683.png)

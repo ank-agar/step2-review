@@ -1,5 +1,8 @@
 # Glucose-6-phosphate dehydrogenase deficiency
 
+![Image](images/glucose_6_phosphate_dehydrogenase_deficiency.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK470315/bin/G6PD_final.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f4/Pathology_of_G6PD_deficiency.png)

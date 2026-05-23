@@ -1,5 +1,8 @@
 # Patent ductus arteriosus
 
+![Image](images/patent_ductus_arteriosus.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a0/Blausen_0707_PatentDuctusArteriosus.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8c/PDA_Coil.png)

@@ -1,5 +1,9 @@
 # Crohn disease
 
+![Image](images/crohn_disease_1.jpg)
+![Image](images/crohn_disease_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Patterns_of_Crohn%27s_Disease.svg/330px-Patterns_of_Crohn%27s_Disease.svg.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19293.jpg)

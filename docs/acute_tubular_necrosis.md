@@ -1,5 +1,8 @@
 # Acute tubular necrosis
 
+![Image](images/acute_tubular_necrosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Acute_Renal_Failure.svg/1280px-Acute_Renal_Failure.svg.png)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/t/u/b/tubular_necrosis_high.jpg?sc_lang=en-us&mw=1080)

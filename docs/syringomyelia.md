@@ -1,5 +1,8 @@
 # Syringomyelia
 
+![Image](images/syringomyelia.jpg)
+
+
 ![Image](https://www.dscm-ev.de/wp-content/uploads/Bild-2-255x300.jpg)
 
 ![Image](https://www.dscm-ev.de/wp-content/uploads/Bild-3-300x267.jpg)

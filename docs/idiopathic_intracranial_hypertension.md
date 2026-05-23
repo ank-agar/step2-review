@@ -1,5 +1,8 @@
 # Idiopathic intracranial hypertension
 
+![Image](images/idiopathic_intracranial_hypertension.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK519007/bin/CerebralSF-01__x1x.jpg)
 
 ![Image](https://pmc.ncbi.nlm.nih.gov/articles/instance/3724081/bin/AIAN-16-229-g001.jpg)

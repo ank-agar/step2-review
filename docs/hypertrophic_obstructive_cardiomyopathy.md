@@ -1,5 +1,8 @@
 # Hypertrophic obstructive cardiomyopathy
 
+![Image](images/hypertrophic_obstructive_cardiomyopathy.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/af/Hypertrophic_obstructive_cardiomyopathy.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18141.jpg)

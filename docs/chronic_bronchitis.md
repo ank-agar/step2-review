@@ -1,5 +1,8 @@
 # Chronic bronchitis
 
+![Image](images/chronic_bronchitis.jpg)
+
+
 ![Image](https://med.libretexts.org/@api/deki/files/37012/1.11.svg?revision=1)
 
 ![Image](https://med.libretexts.org/@api/deki/files/37013/1.12.svg?revision=1)

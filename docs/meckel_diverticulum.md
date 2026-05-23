@@ -1,5 +1,8 @@
 # Meckel diverticulum
 
+![Image](images/meckel_diverticulum.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8766.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK545247/bin/Meckel__Diverticulum.jpg)

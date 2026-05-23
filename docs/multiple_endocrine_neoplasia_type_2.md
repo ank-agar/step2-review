@@ -1,5 +1,9 @@
 # Multiple endocrine neoplasia type 2
 
+![Image](images/multiple_endocrine_neoplasia_type_2_1.jpg)
+![Image](images/multiple_endocrine_neoplasia_type_2_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Multiple_endocrine_neoplasia.svg/960px-Multiple_endocrine_neoplasia.svg.png)
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/749985.jpg)

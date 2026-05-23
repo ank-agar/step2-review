@@ -1,5 +1,8 @@
 # Kaposi sarcoma
 
+![Image](images/kaposi_sarcoma.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d364/1800836/c3bcfe6abde2/1750-9378-2-4-1.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/14431/14431_lores.jpg)

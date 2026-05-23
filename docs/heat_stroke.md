@@ -1,5 +1,8 @@
 # Heat stroke
 
+![Image](images/heat_stroke.jpg)
+
+
 ![Image](https://www.weather.gov/images/wrn/Infographics/2022/heat-symptoms-2022-final.png)
 
 ![Image](https://www.weather.gov/images/wrn/social_media/2017/heat_symptoms.jpg)

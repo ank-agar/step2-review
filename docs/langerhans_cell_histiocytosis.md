@@ -1,5 +1,8 @@
 # Langerhans cell histiocytosis
 
+![Image](images/langerhans_cell_histiocytosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Langerhans_Cell_%28NIH_BioArt_285%29.svg/960px-Langerhans_Cell_%28NIH_BioArt_285%29.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Langerhans_cell_histiocytosis_-_Birbeck_granules.jpg/960px-Langerhans_cell_histiocytosis_-_Birbeck_granules.jpg)

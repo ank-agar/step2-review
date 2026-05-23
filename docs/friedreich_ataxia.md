@@ -1,5 +1,9 @@
 # Friedreich ataxia
 
+![Image](images/friedreich_ataxia_1.jpg)
+![Image](images/friedreich_ataxia_2.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/470f/6985418/2103bc395d24/13311_2019_764_Fig2_HTML.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/470f/6985418/b82abb713a67/13311_2019_764_Fig1_HTML.jpg)

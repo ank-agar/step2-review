@@ -1,5 +1,8 @@
 # Albinism
 
+![Image](images/albinism.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK590568/bin/oca-oa-ov-Image001.jpg)
 
 ![Image](https://eyewiki-images.s3.us-east-va.perf.cloud.ovh.us/d/d9/Melanin_Biosynthesis_pathway.JPG)

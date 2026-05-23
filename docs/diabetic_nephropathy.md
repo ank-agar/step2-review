@@ -1,5 +1,8 @@
 # Diabetic nephropathy
 
+![Image](images/diabetic_nephropathy.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad2/4296695/a92de2bf521b/jdi0006-0003-f1.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa43/5791055/5617be19d1e7/ASN.2017020192f1.jpg)

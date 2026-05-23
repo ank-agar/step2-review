@@ -1,5 +1,8 @@
 # Diabetic retinopathy
 
+![Image](images/diabetic_retinopathy.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17150.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Fundus_Proliferative_retinopathy_EDA01.JPG)

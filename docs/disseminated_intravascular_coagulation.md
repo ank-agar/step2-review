@@ -1,5 +1,8 @@
 # Disseminated intravascular coagulation
 
+![Image](images/disseminated_intravascular_coagulation.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Disseminated_intravascular_coagulation.webm/960px--Disseminated_intravascular_coagulation.webm.jpg)
 
 ![Image](https://www.netterimages.com/images/vpv/000/000/063/63860-0550x0475.jpg)

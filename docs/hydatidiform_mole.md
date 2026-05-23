@@ -1,5 +1,8 @@
 # Hydatidiform mole
 
+![Image](images/hydatidiform_mole.jpg)
+
+
 ![Image](https://www.c-med.org/journal_e/OAP/Vol99-1/990101/img/02p02.gif)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/79/Gross_anatomy_of_vesicular_mole.jpg)

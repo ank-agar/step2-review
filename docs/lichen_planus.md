@@ -1,5 +1,8 @@
 # Lichen planus
 
+![Image](images/lichen_planus.jpg)
+
+
 ![Image](https://pmc.ncbi.nlm.nih.gov/articles/instance/12701911/bin/10.1177_00220345251385966-fig4.jpg)
 
 ![Image](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0004.jpg)

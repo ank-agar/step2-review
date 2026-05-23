@@ -1,5 +1,9 @@
 # Huntington disease
 
+![Image](images/huntington_disease_1.jpg)
+![Image](images/huntington_disease_2.jpg)
+
+
 ![Image](https://www.nist.gov/sites/default/files/images/photogallery/huntington_s_disease.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1305/bin/huntington-Image001.jpg)

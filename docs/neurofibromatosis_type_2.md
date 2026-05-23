@@ -1,5 +1,8 @@
 # Neurofibromatosis type 2
 
+![Image](images/neurofibromatosis_type_2.jpg)
+
+
 ![Image](https://med.stanford.edu/brain-tumor/conditions/acoustic-neuroma/_jcr_content/main/panel_builder/panel_0/panel_builder/panel_0/panel_builder_805754/panel_0/panel_builder_179275/panel_0/panel_builder/panel_0/image.img.620.high.png/an1.png)
 
 ![Image](https://med.stanford.edu/brain-tumor/conditions/acoustic-neuroma/_jcr_content/main/panel_builder/panel_0/panel_builder/panel_0/panel_builder_805754/panel_0/panel_builder_179275/panel_1/panel_builder/panel_0/image.img.620.high.png/an2.png)

@@ -1,5 +1,8 @@
 # Sarcoma
 
+![Image](images/sarcoma.jpg)
+
+
 ![Image](https://cdn.storymd.com/optimized/8okK0GS4o7/thumbnail.jpg)
 
 ![Image](https://dermnetnz.org/assets/Uploads/pathology/e/liposarcoma-figure-1.jpg)

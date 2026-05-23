@@ -1,5 +1,8 @@
 # Myopia
 
+![Image](images/myopia.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f3/Myopia_Diagram.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e4/Eye_disease_simulation%2C_myopia.jpg)

@@ -1,5 +1,8 @@
 # Hyper IgM syndrome
 
+![Image](images/hyper_igm_syndrome.jpg)
+
+
 ![Image](https://upload.medbullets.com/topic/105012/images/bcellclassswitching.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Class_switch_recombination.png/500px-Class_switch_recombination.png)

@@ -1,5 +1,8 @@
 # Acute myeloid leukemia
 
+![Image](images/acute_myeloid_leukemia.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/69/Hematopoiesis_%28human%29_diagram.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1441.jpg)

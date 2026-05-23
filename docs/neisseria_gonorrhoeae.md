@@ -1,5 +1,8 @@
 # Neisseria gonorrhoeae
 
+![Image](images/neisseria_gonorrhoeae.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/034f/5354566/1ccd4a4d0b4e/mic-03-371-g01.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/2108/2108_lores.jpg)

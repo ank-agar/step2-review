@@ -1,5 +1,8 @@
 # Alcoholic hepatitis
 
+![Image](images/alcoholic_hepatitis.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d000/5513682/b3e6cff2a2e9/arcr-38-2-147f2.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0f03/6524956/4cc1baa66a72/nihms-1025481-f0001.jpg)

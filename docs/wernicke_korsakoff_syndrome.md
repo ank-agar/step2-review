@@ -1,5 +1,8 @@
 # Wernicke-Korsakoff syndrome
 
+![Image](images/wernicke_korsakoff_syndrome.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK537192/bin/Mammillary__Figure__1.jpg)
 
 ![Image](https://www.niaaa.nih.gov/sites/default/files/styles/large/public/NIAAA_brain_wernicke_korsakoff_images.jpg?itok=dH4MsZ-M)

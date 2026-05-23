@@ -1,5 +1,9 @@
 # Hydrocephalus
 
+![Image](images/hydrocephalus_1.jpg)
+![Image](images/hydrocephalus_2.jpg)
+
+
 ![Image](https://dbmmu5j6lxew.cloudfront.net/pe-nph-fig2.jpg)
 
 ![Image](https://dbmmu5j6lxew.cloudfront.net/pe-nph-fig1.jpg)

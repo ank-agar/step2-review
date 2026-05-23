@@ -1,5 +1,9 @@
 # Ménière disease
 
+![Image](images/m_eni_ere_disease_1.jpg)
+![Image](images/m_eni_ere_disease_2.jpg)
+
+
 ![Image](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0111039.g001&type=large)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Menieres-hearing-loss.png/500px-Menieres-hearing-loss.png)

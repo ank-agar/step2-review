@@ -1,5 +1,8 @@
 # Poliovirus
 
+![Image](images/poliovirus.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bc/Polio_spinal_diagram-en.svg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/22498/22498_lores.jpg)

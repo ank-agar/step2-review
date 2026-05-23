@@ -1,5 +1,8 @@
 # IgA deficiency
 
+![Image](images/iga_deficiency.jpg)
+
+
 ![Image](https://anatomynote.com/pictures/lymphatic-system/001/iga-immunity-diagram.jpg)
 
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit6/humoral/abystructure/images/U3fig9c.jpg)

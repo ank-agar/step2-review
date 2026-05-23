@@ -1,5 +1,8 @@
 # Hemolytic uremic syndrome
 
+![Image](images/hemolytic_uremic_syndrome.jpg)
+
+
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2018/04/fig4.png)
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/tma-figure-1-and-2.png)

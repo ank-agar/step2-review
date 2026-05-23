@@ -1,5 +1,8 @@
 # Squamous cell carcinoma
 
+![Image](images/squamous_cell_carcinoma.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9947.jpg)
 
 ![Image](https://dermnetnz.org/assets/Uploads/pathology/e/invasive-scc-fig-1.jpg)

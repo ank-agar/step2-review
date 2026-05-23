@@ -1,5 +1,8 @@
 # Ankylosing spondylitis
 
+![Image](images/ankylosing_spondylitis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/53/SI_joint.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Bamboo_spine_ankylosing_spondylitis.jpg)

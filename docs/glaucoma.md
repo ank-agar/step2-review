@@ -1,5 +1,10 @@
 # Glaucoma
 
+![Image](images/glaucoma_1.jpg)
+![Image](images/glaucoma_2.jpg)
+![Image](images/glaucoma_3.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d5/Depiction_of_vision_for_a_Glaucoma_patient.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d8/Optic_disc_topography%2C_case_1%2C_R%2C_glaucoma.png)

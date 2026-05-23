@@ -1,5 +1,9 @@
 # Guillain-Barré syndrome
 
+![Image](images/guillain_barr_e_syndrome_1.jpg)
+![Image](images/guillain_barr_e_syndrome_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/40/Guillain_Barre_Patterns.png)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/home/images/n/e/u/neu_insulating_nerve_ms.gif?mw=1080&sc_lang=en-us)

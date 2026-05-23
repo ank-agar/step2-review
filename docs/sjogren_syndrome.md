@@ -1,5 +1,9 @@
 # Sjogren syndrome
 
+![Image](images/sjogren_syndrome_1.jpg)
+![Image](images/sjogren_syndrome_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/df/Blausen_0780_SalivaryGlands.png)
 
 ![Image](https://iowaprotocols.medicine.uiowa.edu/sites/iowaprotocols.medicine.uiowa.edu/files/styles/large/public/2025-06/wysiwyg_uploads/sjogren%20lobule_0.jpg?itok=olI-X4OI)

@@ -1,5 +1,9 @@
 # Pemphigoid
 
+![Image](images/pemphigoid_1.jpg)
+![Image](images/pemphigoid_2.jpg)
+
+
 ![Image](https://mdpi-res.com/ijms/ijms-24-16786/article_deploy/html/images/ijms-24-16786-g001-550.jpg)
 
 ![Image](https://dermnetnz.org/assets/Uploads/DIF-18.jpg)

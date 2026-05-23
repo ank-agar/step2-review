@@ -1,5 +1,8 @@
 # Traumatic brain injury
 
+![Image](images/traumatic_brain_injury.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/09/Contrecoup.svg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/97/Epidural_hematoma_arrow.png)

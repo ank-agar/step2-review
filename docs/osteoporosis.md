@@ -1,5 +1,8 @@
 # Osteoporosis
 
+![Image](images/osteoporosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Osteoporosis_Effect_and_Locations.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/da/Blausen_0686_Osteoporosis_01.png)

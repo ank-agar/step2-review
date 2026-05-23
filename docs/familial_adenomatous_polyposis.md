@@ -1,5 +1,8 @@
 # Familial adenomatous polyposis
 
+![Image](images/familial_adenomatous_polyposis.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1345/bin/fap-Image001.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK538233/bin/FAP.jpg)

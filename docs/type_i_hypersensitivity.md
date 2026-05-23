@@ -1,5 +1,8 @@
 # Type I hypersensitivity
 
+![Image](images/type_i_hypersensitivity.jpg)
+
+
 ![Image](https://cwoer.ccbcmd.edu/science/microbiology/lecture/unit6/hypersensitivity/type1/images/u3fg43d.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Allergy_degranulation_processes_01.svg/960px-Allergy_degranulation_processes_01.svg.png)

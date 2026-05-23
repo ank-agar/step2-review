@@ -1,5 +1,10 @@
 # Multiple myeloma
 
+![Image](images/multiple_myeloma_1.jpg)
+![Image](images/multiple_myeloma_2.jpg)
+![Image](images/multiple_myeloma_3.jpg)
+
+
 ![Image](https://nci-media.cancer.gov/pdq/media/images/763079.jpg)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/home/images/m/u/l/multiple_myeloma_joyce_high.jpg?mw=2048&sc_lang=en-us)

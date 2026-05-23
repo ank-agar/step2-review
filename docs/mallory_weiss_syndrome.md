@@ -1,5 +1,8 @@
 # Mallory-Weiss syndrome
 
+![Image](images/mallory_weiss_syndrome.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18145.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK538190/bin/Capture__dxxcran__2025-08-31__052959.jpg)

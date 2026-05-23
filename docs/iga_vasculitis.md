@@ -1,5 +1,8 @@
 # IgA vasculitis
 
+![Image](images/iga_vasculitis.jpg)
+
+
 ![Image](https://pmc.ncbi.nlm.nih.gov/articles/instance/2874920/bin/GRP2010-597648.007.jpg)
 
 ![Image](https://dermnetnz.org/assets/Uploads/vascular/hsp1.jpg)
@@ -70,4 +73,3 @@ IgA vasculitis and IgA nephropathy both involve IgA deposition, but IgA vasculit
 * abdominal pain
 * joint pain
 * kidney involvement
-

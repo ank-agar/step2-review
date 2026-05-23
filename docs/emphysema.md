@@ -1,5 +1,8 @@
 # Emphysema
 
+![Image](images/emphysema.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17055.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alveolus_diagram.svg/1280px-Alveolus_diagram.svg.png)

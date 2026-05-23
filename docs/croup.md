@@ -1,5 +1,8 @@
 # Croup
 
+![Image](images/croup.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK431070/bin/CroupNew.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/12/Croup_steeple_sign.jpg)

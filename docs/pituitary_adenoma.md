@@ -1,5 +1,8 @@
 # Pituitary adenoma
 
+![Image](images/pituitary_adenoma.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/media-assets/17949/N01125-H_thumbnail.jpg)
 
 ![Image](https://kellogg.umich.edu/theeyeshaveit/tehi_images/visual-pathway-lesions.jpg)

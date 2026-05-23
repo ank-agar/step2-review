@@ -1,5 +1,8 @@
 # Clostridium difficile infection
 
+![Image](images/clostridium_difficile_infection.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK431054/bin/Clostridioides__difficile__Infections.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK431054/bin/Pseudomembranous_colitis_1.jpg)

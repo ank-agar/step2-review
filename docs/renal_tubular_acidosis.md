@@ -1,5 +1,10 @@
 # Renal tubular acidosis
 
+![Image](images/renal_tubular_acidosis_1.jpg)
+![Image](images/renal_tubular_acidosis_2.jpg)
+![Image](images/renal_tubular_acidosis_3.jpg)
+
+
 ![Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12325-020-01587-5/MediaObjects/12325_2020_1587_Fig3_HTML.png)
 
 ![Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12325-020-01587-5/MediaObjects/12325_2020_1587_Fig1_HTML.png)

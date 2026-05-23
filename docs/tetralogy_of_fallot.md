@@ -1,5 +1,9 @@
 # Tetralogy of Fallot
 
+![Image](images/tetralogy_of_fallot_1.jpg)
+![Image](images/tetralogy_of_fallot_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tetralogy_of_Fallot.svg/1280px-Tetralogy_of_Fallot.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/24/Tetralogy_fallot.jpg)

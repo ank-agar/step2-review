@@ -1,5 +1,9 @@
 # Acute rheumatic fever
 
+![Image](images/acute_rheumatic_fever_1.jpg)
+![Image](images/acute_rheumatic_fever_2.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK606315/bin/rheumaticfever-Image001.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18147.jpg)

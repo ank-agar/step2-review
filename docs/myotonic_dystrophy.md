@@ -1,5 +1,8 @@
 # Myotonic dystrophy
 
+![Image](images/myotonic_dystrophy.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b7/Myotonic_dystrophy_muscle_distribution.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1466/bin/myotonic-d2-Image001.jpg)

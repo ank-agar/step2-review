@@ -1,5 +1,9 @@
 # Hypocalcemia
 
+![Image](images/hypocalcemia_1.jpg)
+![Image](images/hypocalcemia_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Parathyroid_Cycle_and_Calcium_Levels.svg/1280px-Parathyroid_Cycle_and_Calcium_Levels.svg.png)
 
 ![Image](https://www.ecgstampede.com/wp-content/uploads/2022/11/prolonged-qt%402x.png)

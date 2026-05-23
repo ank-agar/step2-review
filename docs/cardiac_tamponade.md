@@ -1,5 +1,9 @@
 # Cardiac tamponade
 
+![Image](images/cardiac_tamponade_1.jpg)
+![Image](images/cardiac_tamponade_2.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18123.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Blausen_0164_CardiacTamponade_02.png)

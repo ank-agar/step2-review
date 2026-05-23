@@ -1,5 +1,8 @@
 # Beckwith-Wiedemann syndrome
 
+![Image](images/beckwith_wiedemann_syndrome.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17076.jpg)
 
 ![Image](https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fejhg.2009.106/MediaObjects/41431_2010_Article_BFejhg2009106_Fig2_HTML.jpg)

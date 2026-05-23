@@ -1,5 +1,8 @@
 # Leukocyte adhesion deficiency
 
+![Image](images/leukocyte_adhesion_deficiency.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK53380/bin/fig7.1.gif)
 
 ![Image](https://bioart.niaid.nih.gov/api/bioarts/10/files/626654)

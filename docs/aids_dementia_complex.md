@@ -1,5 +1,8 @@
 # AIDS dementia complex
 
+![Image](images/aids_dementia_complex.jpg)
+
+
 ![Image](https://nigms.nih.gov/sites/nigms/files/image-and-video-gallery/Life_of_an_AIDS_Virus_with_labels_and_stages.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/571/571_lores.jpg)

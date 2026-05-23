@@ -1,5 +1,8 @@
 # Multiple endocrine neoplasia type 1
 
+![Image](images/multiple_endocrine_neoplasia_type_1.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/media-assets/17934/N01124-H.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Multiple_endocrine_neoplasia.svg/960px-Multiple_endocrine_neoplasia.svg.png)

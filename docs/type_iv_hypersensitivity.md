@@ -1,5 +1,8 @@
 # Type IV hypersensitivity
 
+![Image](images/type_iv_hypersensitivity.jpg)
+
+
 ![Image](https://microbenotes.com/wp-content/uploads/2018/06/Type-IV-Cell-Mediated-Hypersensitivity-Mechanism-and-Examples.jpg)
 
 ![Image](https://webpath.med.utah.edu/jpeg2/IMM039.gif)

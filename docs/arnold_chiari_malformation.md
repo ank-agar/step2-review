@@ -1,5 +1,9 @@
 # Arnold-Chiari malformation
 
+![Image](images/arnold_chiari_malformation_1.jpg)
+![Image](images/arnold_chiari_malformation_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chiari2.jpg/960px-Chiari2.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MRI_of_human_brain_with_type-1_Arnold-Chiari_malformation_and_herniated_cerebellum.jpg/250px-MRI_of_human_brain_with_type-1_Arnold-Chiari_malformation_and_herniated_cerebellum.jpg)

@@ -1,5 +1,8 @@
 # Stable angina
 
+![Image](images/stable_angina.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559016/bin/Angina.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8755.jpg)

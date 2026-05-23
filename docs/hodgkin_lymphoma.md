@@ -1,5 +1,8 @@
 # Hodgkin lymphoma
 
+![Image](images/hodgkin_lymphoma.jpg)
+
+
 ![Image](https://images.ctfassets.net/g3mey2fqpv66/08-diagram-showing-the-lymph-nodes-lymphoma-most-c/6c058be13bab41817c295016cc6354d8/08-diagram-showing-the-lymph-nodes-lymphoma-most-c.svg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8e/Reed-Sternberg_lymphocyte_nci-vol-7172-300-vi.jpg)

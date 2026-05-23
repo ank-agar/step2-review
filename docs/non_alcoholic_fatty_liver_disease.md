@@ -1,5 +1,8 @@
 # Non-alcoholic fatty liver disease
 
+![Image](images/non_alcoholic_fatty_liver_disease.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/51/Non-alcoholic_fatty_liver_disease_%28NAFLD%29_spectrum.png)
 
 ![Image](https://www.niddk.nih.gov/media-assets/17508/N00058-H_thumbnail.jpg)

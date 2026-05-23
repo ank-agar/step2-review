@@ -1,5 +1,8 @@
 # Ehlers-Danlos syndrome
 
+![Image](images/ehlers_danlos_syndrome.jpg)
+
+
 ![Image](https://medlineplus.gov/images/PX00009C_PRESENTATION.jpeg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/2409.jpg)

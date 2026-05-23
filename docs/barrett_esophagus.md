@@ -1,5 +1,8 @@
 # Barrett esophagus
 
+![Image](images/barrett_esophagus.jpg)
+
+
 ![Image](https://www.medindia.net/images/common/infographics/950_400/Barretts-Esophagus.jpg)
 
 ![Image](https://www.niddk.nih.gov/media-assets/17473/N00021-H_thumbnail.jpg)
