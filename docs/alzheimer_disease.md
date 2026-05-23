@@ -1,10 +1,5 @@
 # Alzheimer disease
 
-![Image](images/alzheimer_disease_1.jpg)
-![Image](images/alzheimer_disease_2.jpg)
-![Image](images/alzheimer_disease_3.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Neuropathological_features_of_Alzheimer%27s_disease.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a5/Alzheimer%27s_disease_brain_comparison.jpg)

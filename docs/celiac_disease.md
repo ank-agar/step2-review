@@ -1,9 +1,5 @@
 # Celiac disease
 
-![Image](images/celiac_disease_1.jpg)
-![Image](images/celiac_disease_2.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/24377.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK441900/bin/CD__pathology.jpg)

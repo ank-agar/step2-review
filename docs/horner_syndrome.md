@@ -1,9 +1,5 @@
 # Horner syndrome
 
-![Image](images/horner_syndrome_1.jpg)
-![Image](images/horner_syndrome_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Oculosympathetic_pathway.jpg/960px-Oculosympathetic_pathway.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Miosis.jpg/1280px-Miosis.jpg)

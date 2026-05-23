@@ -1,8 +1,5 @@
 # Hypercalcemia
 
-![Image](images/hypercalcemia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0b/625_Calcium_Homeostasis.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f9/Parathyroid_Cycle_and_Calcium_Levels.svg)

@@ -1,8 +1,5 @@
 # Anencephaly
 
-![Image](images/anencephaly.jpg)
-
-
 ![Image](https://archive.cdc.gov/www_cdc_gov/ncbddd/birthdefects/surveillancemanual/quick-reference-handbook/neuralTubeDefects_html_files/fig1-pt2.jpg)
 
 ![Image](https://archive.cdc.gov/www_cdc_gov/ncbddd/birthdefects/surveillancemanual/quick-reference-handbook/neuralTubeDefects_html_files/fig1.jpg)

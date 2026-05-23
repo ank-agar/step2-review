@@ -1,8 +1,5 @@
 # Vitamin B12 deficiency
 
-![Image](images/vitamin_b12_deficiency.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vitamina_B12.png/1280px-Vitamina_B12.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/51/Hypersegmented_neutrophil.png)

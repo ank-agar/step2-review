@@ -1,9 +1,5 @@
 # Neurosyphilis
 
-![Image](images/neurosyphilis_1.jpg)
-![Image](images/neurosyphilis_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Spinal_cord_tracts_-_English.svg/960px-Spinal_cord_tracts_-_English.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tabes_Dorsalis.jpg/960px-Tabes_Dorsalis.jpg)

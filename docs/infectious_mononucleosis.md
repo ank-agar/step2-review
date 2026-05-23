@@ -1,9 +1,5 @@
 # Infectious mononucleosis
 
-![Image](images/infectious_mononucleosis_1.jpg)
-![Image](images/infectious_mononucleosis_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559285/bin/1075px-Main_symptoms_of_Infectious_mononucleosis.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559285/bin/Reactive__lymphocytes__b.jpg)

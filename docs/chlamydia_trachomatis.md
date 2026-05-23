@@ -1,8 +1,5 @@
 # Chlamydia trachomatis
 
-![Image](images/chlamydia_trachomatis.jpg)
-
-
 ![Image](https://www.immunology.org/sites/default/files/inline-images/Chlamydia-trachomatis-Figure-1.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chlamydae_Life_Cycle.svg/3840px-Chlamydae_Life_Cycle.svg.png)

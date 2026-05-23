@@ -1,9 +1,5 @@
 # Acute kidney injury
 
-![Image](images/acute_kidney_injury_1.jpg)
-![Image](images/acute_kidney_injury_2.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/11236/B2-Image03-Kidney%2BNephron-FINAL.jpg)
 
 ![Image](https://www.niddk.nih.gov/media-assets/17695/N00579-H.jpg)

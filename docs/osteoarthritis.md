@@ -1,9 +1,5 @@
 # Osteoarthritis
 
-![Image](images/osteoarthritis_1.jpg)
-![Image](images/osteoarthritis_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/83/Joint_with_severe_osteoathritis.png)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK570144/bin/501342_1_En_11_Fig1_HTML.jpg)

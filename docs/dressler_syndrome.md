@@ -1,8 +1,5 @@
 # Dressler syndrome
 
-![Image](images/dressler_syndrome.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18080.jpg)
 
 ![Image](https://img.grepmed.com/uploads/4917/syndrome-diagnosis-postmyocardlal-cardiology-infarctlon-original.png)

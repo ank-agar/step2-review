@@ -1,9 +1,5 @@
 # Multiple sclerosis
 
-![Image](images/multiple_sclerosis_1.jpg)
-![Image](images/multiple_sclerosis_2.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17089.jpg)
 
 ![Image](https://mediasvc.eurekalert.org/Api/v1/Multimedia/7ef36742-2983-44f9-9f50-9dcb308ee143/Rendition/low-res/Content/Public)

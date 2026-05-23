@@ -1,8 +1,5 @@
 # Erythema infectiosum
 
-![Image](images/erythema_infectiosum.jpg)
-
-
 ![Image](https://www.frontiersin.org/files/Articles/916012/fcimb-12-916012-HTML/image_m/fcimb-12-916012-g001.jpg)
 
 ![Image](https://www.cdc.gov/parvovirus-b19/media/images/2024/05/Parvovirus-B19-Slapped-Cheek-Rash.jpg)

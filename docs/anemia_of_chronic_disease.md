@@ -1,8 +1,5 @@
 # Anemia of chronic disease
 
-![Image](images/anemia_of_chronic_disease.jpg)
-
-
 ![Image](https://dm5migu4zj3pb.cloudfront.net/manuscripts/21000/21441/medium/JCI0421441.f1.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK539871/bin/Hepcidin_001.jpg)

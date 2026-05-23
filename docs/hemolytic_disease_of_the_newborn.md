@@ -1,8 +1,5 @@
 # Hemolytic disease of the newborn
 
-![Image](images/hemolytic_disease_of_the_newborn.jpg)
-
-
 ![Image](https://med.stanford.edu/newborns/professional-education/jaundice-and-phototherapy/the-coombs--test/_jcr_content/main/panel_builder/panel_0/panel_builder/panel_0/image.img.620.high.jpg/directcoombs.jpg)
 
 ![Image](https://med.stanford.edu/newborns/professional-education/jaundice-and-phototherapy/the-coombs--test/_jcr_content/main/panel_builder/panel_0/panel_builder_1154199204/panel_0/image.img.620.high.jpg/indirectcoombs.jpg)

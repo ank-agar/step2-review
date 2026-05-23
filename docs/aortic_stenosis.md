@@ -1,8 +1,5 @@
 # Aortic stenosis
 
-![Image](images/aortic_stenosis.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18075.jpg)
 
 ![Image](https://anatomytool.org/sites/default/files/27%20aortic%20valve.png)

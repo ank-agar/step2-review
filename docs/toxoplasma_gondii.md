@@ -1,8 +1,5 @@
 # Toxoplasma gondii
 
-![Image](images/toxoplasma_gondii.jpg)
-
-
 ![Image](https://www.cdc.gov/dpdx/toxoplasmosis/modules/Toxoplasma_LifeCycle_BAM1.gif)
 
 ![Image](https://www.cdc.gov/dpdx/toxoplasmosis/images/1/T_gondii_tachy.jpg)

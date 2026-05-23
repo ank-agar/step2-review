@@ -1,8 +1,5 @@
 # Hyperthyroidism
 
-![Image](images/hyperthyroidism.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/17772/N00726-H.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Causes_of_hyperthyroidism.png/250px-Causes_of_hyperthyroidism.png)

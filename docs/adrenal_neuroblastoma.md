@@ -1,8 +1,5 @@
 # Adrenal neuroblastoma
 
-![Image](images/adrenal_neuroblastoma.jpg)
-
-
 ![Image](https://nci-media.cancer.gov/pdq/media/images/756627.jpg)
 
 ![Image](https://i0.wp.com/pediatricimaging.org/wp-content/uploads/2023/02/neuroblastoma01mdneonataladrenalincidentalfindingonchestctctfirstandsecond5weekslatergrowingsag2do.jpg?fit=1100%2C1100&ssl=1)

@@ -1,8 +1,5 @@
 # Immune thrombocytopenic purpura
 
-![Image](images/immune_thrombocytopenic_purpura.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bfef/7920457/111b58dbf178/jcm-10-00789-g001.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c873/5937051/657568ecaf15/fimmu-09-00880-g001.jpg)

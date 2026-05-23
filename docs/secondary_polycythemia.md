@@ -1,8 +1,5 @@
 # Secondary polycythemia
 
-![Image](images/secondary_polycythemia.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/17879/N00810-H.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4d/1901_Composition_of_Blood.jpg)

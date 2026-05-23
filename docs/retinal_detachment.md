@@ -1,8 +1,5 @@
 # Retinal detachment
 
-![Image](images/retinal_detachment.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Human_eye_cross_section_detached_retina.svg/1280px-Human_eye_cross_section_detached_retina.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Slit_lamp_photograph_showing_retinal_detachment_in_Von_Hippel-Lindau_disease_EDA08.JPG)

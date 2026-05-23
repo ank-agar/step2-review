@@ -1,8 +1,5 @@
 # Autoimmune hepatitis
 
-![Image](images/autoimmune_hepatitis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a6/Schematic_diagram_of_the_liver_structure.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bd/Autoimmune_hepatitis_-_high_mag.jpg)

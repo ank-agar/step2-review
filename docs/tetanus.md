@@ -1,8 +1,5 @@
 # Tetanus
 
-![Image](images/tetanus.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mechanism_of_action_of_tetanospasmin.gif/500px-Mechanism_of_action_of_tetanospasmin.gif)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/20041014/b9e12f3f8918406b960fa8f84cc4c533/6372_lores.jpg)

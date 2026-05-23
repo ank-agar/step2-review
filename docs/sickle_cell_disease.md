@@ -1,10 +1,5 @@
 # Sickle cell disease
 
-![Image](images/sickle_cell_disease_1.jpg)
-![Image](images/sickle_cell_disease_2.jpg)
-![Image](images/sickle_cell_disease_3.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/78/Point-Mutation-Sickle-Cell-Normal_and_Mutated-Hemoglobin.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sickle_Cell_Anemia.svg/960px-Sickle_Cell_Anemia.svg.png)

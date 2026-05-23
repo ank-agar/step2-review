@@ -1,8 +1,5 @@
 # Cirrhosis
 
-![Image](images/cirrhosis.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/17884/N01013-H_thumbnail.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/2c/Gross_pathology_of_alcoholic_liver_cirrhosis.jpg)

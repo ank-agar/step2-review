@@ -1,8 +1,5 @@
 # Amyotrophic lateral sclerosis
 
-![Image](images/amyotrophic_lateral_sclerosis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/16/ALS_Affected_neurons_and_muscles.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/ff/Illustration_of_the_motor_neuron_tract_descending_from_primary_motor_cortex%2C_via_spinal_cord%2C_to_skeletal_muscle.jpg)

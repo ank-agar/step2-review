@@ -1,8 +1,5 @@
 # Papillary thyroid cancer
 
-![Image](images/papillary_thyroid_cancer.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/75/Thyroidgland-intl.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cytopathology_of_papillary_thyroid_carcinoma.png/250px-Cytopathology_of_papillary_thyroid_carcinoma.png)

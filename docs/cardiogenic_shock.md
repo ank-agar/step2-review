@@ -1,8 +1,5 @@
 # Cardiogenic shock
 
-![Image](images/cardiogenic_shock.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Simplified_scheme_of_cardiogenic_shock.png/330px-Simplified_scheme_of_cardiogenic_shock.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ST_elevation_myocardial_infarction_ECG.jpg/960px-ST_elevation_myocardial_infarction_ECG.jpg)

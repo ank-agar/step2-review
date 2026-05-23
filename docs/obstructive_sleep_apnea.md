@@ -1,8 +1,5 @@
 # Obstructive sleep apnea
 
-![Image](images/obstructive_sleep_apnea.jpg)
-
-
 ![Image](https://nij.ojp.gov/sites/g/files/xyckuh171/files/images/2019-07/sleep-apnea-blocked-large.jpg)
 
 ![Image](https://sleep.hms.harvard.edu/sites/default/files/assets/Apnea%20Pictures/Apnea%20Fig%202%20Obstructed%20Breathing.png)

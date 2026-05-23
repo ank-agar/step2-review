@@ -1,8 +1,5 @@
 # Holoprosencephaly
 
-![Image](images/holoprosencephaly.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK586145/bin/neuroendo-congn-hypo-Image005.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK1530/bin/hpe-overview-Image001.jpg)

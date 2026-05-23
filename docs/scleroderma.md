@@ -1,9 +1,5 @@
 # Scleroderma
 
-![Image](images/scleroderma_1.jpg)
-![Image](images/scleroderma_2.jpg)
-
-
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/crest-syndrome)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19507.jpg)

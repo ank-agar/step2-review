@@ -1,10 +1,5 @@
 # Urinary incontinence
 
-![Image](images/urinary_incontinence_1.jpg)
-![Image](images/urinary_incontinence_2.jpg)
-![Image](images/urinary_incontinence_3.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1122.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1123.jpg)

@@ -1,8 +1,5 @@
 # Upper gastrointestinal bleeding
 
-![Image](images/upper_gastrointestinal_bleeding.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Upper_gastrointestinal_tract.svg/960px-Upper_gastrointestinal_tract.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DU_2.jpg/500px-DU_2.jpg)

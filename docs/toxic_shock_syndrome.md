@@ -1,8 +1,5 @@
 # Toxic shock syndrome
 
-![Image](images/toxic_shock_syndrome.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK587120/bin/superantigens-Image001.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil///PHIL_Images/20040116/4cb40f323d524c539b29a1f91bdb0a20/5116_lores.jpg)

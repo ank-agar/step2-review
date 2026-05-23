@@ -1,8 +1,5 @@
 # Hirschsprung disease
 
-![Image](images/hirschsprung_disease.jpg)
-
-
 ![Image](https://www.nationwidechildrens.org/-/media/nch/family-resources/helping-hands/images/hhi139_photo1.png)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/h/i/r/hirschsprungs_disease_high.jpg?mw=1920&sc_lang=en-us)

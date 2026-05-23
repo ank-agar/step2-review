@@ -1,8 +1,5 @@
 # Meningococcemia
 
-![Image](images/meningococcemia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/da/Meningococcal_infection_diagram.webp)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/2884.jpg)

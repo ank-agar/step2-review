@@ -1,9 +1,5 @@
 # Diabetes mellitus type 2
 
-![Image](images/diabetes_mellitus_type_2_1.jpg)
-![Image](images/diabetes_mellitus_type_2_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1665/bin/insulin_release.jpg)
 
 ![Image](https://www.cdc.gov/diabetes/news/media/images/GettyImages1539873094.jpg)

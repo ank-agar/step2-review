@@ -1,8 +1,5 @@
 # Scurvy
 
-![Image](images/scurvy.jpg)
-
-
 ![Image](https://bio.libretexts.org/@api/deki/files/48587/hydroxyPro_Lys.svg?revision=1)
 
 ![Image](https://dermnetnz.org/assets/Uploads/systemic/scleg.jpg)

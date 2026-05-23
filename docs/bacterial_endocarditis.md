@@ -1,12 +1,5 @@
 # Bacterial endocarditis
 
-![Image](images/bacterial_endocarditis_1.jpg)
-![Image](images/bacterial_endocarditis_2.jpg)
-![Image](images/bacterial_endocarditis_3.jpg)
-![Image](images/bacterial_endocarditis_4.jpg)
-![Image](images/bacterial_endocarditis_5.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e7/Endocarditis.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/20/Vegetations_upon_the_mitral_valve_Wellcome_L0062658.jpg)

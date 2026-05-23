@@ -1,9 +1,5 @@
 # Frontotemporal dementia
 
-![Image](images/frontotemporal_dementia_1.jpg)
-![Image](images/frontotemporal_dementia_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/bf/FTD_Frontal_Temporal_Lobes_Labeled.png)
 
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/04/ds00874_im03229_bn7_frontothu_jpg.png)
@@ -93,3 +89,4 @@ HY Step 1 association:
 * FTD/Pick disease classically has Pick bodies
 * Pick bodies are tau protein aggregates
 * presents earlier than Alzheimer disease and often starts with personality/behavior change rather than memory loss
+

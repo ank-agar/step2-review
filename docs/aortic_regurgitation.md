@@ -1,8 +1,5 @@
 # Aortic regurgitation
 
-![Image](images/aortic_regurgitation.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/74/Blausen_0039_AorticRegurgitation.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e5/Dilated_aortic_root_and_aortic_regurgitation_E00237_%28CardioNetworks_ECHOpedia%29.jpg)

@@ -1,8 +1,5 @@
 # Type III hypersensitivity
 
-![Image](images/type_iii_hypersensitivity.jpg)
-
-
 ![Image](https://open.oregonstate.education/app/uploads/sites/317/2026/01/Fig.-19.7.png)
 
 ### Core idea

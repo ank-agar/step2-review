@@ -1,8 +1,5 @@
 # Testicular cancer
 
-![Image](images/testicular_cancer.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Testicle-Revised.jpg/960px-Testicle-Revised.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Seminoma_in_ultrasound.jpg/330px-Seminoma_in_ultrasound.jpg)

@@ -1,8 +1,5 @@
 # Phenylketonuria
 
-![Image](images/phenylketonuria.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Inborn_errors_of_metabolism_of_phenylalanine_and_tyrosine.svg/1280px-Inborn_errors_of_metabolism_of_phenylalanine_and_tyrosine.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/16/Phenylketonuria_testing.jpg)

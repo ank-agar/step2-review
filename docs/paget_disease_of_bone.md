@@ -1,9 +1,5 @@
 # Paget disease of bone
 
-![Image](images/paget_disease_of_bone_1.jpg)
-![Image](images/paget_disease_of_bone_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/610_Feature_Pagets_Disease.png/960px-610_Feature_Pagets_Disease.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Paget%27s_disease_of_Right_Hip_Bone.jpg/1280px-Paget%27s_disease_of_Right_Hip_Bone.jpg)

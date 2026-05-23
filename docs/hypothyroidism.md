@@ -1,10 +1,5 @@
 # Hypothyroidism
 
-![Image](images/hypothyroidism_1.jpg)
-![Image](images/hypothyroidism_2.jpg)
-![Image](images/hypothyroidism_3.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK278958/bin/physio-hypo-pit-syst-Image010.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Thyroid_system.svg/500px-Thyroid_system.svg.png)

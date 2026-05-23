@@ -1,8 +1,5 @@
 # Syncope
 
-![Image](images/syncope.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6990/11292037/9badf63dfc83/nihms-1937979-f0004.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3600/5984661/c5ea03b2c8f159a965fcc148d127afe2/nihms940947f1.jpg)

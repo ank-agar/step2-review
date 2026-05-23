@@ -1,8 +1,5 @@
 # Hereditary angioedema
 
-![Image](images/hereditary_angioedema.jpg)
-
-
 ![Image](https://www.frontiersin.org/files/Articles/952233/xml-images/falgy-03-952233-g001.webp)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/7d/Blausen_0023_Angioedema.png)

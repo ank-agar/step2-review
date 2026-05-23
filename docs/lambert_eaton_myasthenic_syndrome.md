@@ -1,8 +1,5 @@
 # Lambert-Eaton myasthenic syndrome
 
-![Image](images/lambert_eaton_myasthenic_syndrome.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Neuromuscular_junction_detailed_view.svg/1280px-Neuromuscular_junction_detailed_view.svg.png)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5529/6524763/518fbb318c68/DNND-9-27-g0001.jpg)

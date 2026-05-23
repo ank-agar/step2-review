@@ -1,8 +1,5 @@
 # Achondroplasia
 
-![Image](images/achondroplasia.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK559263/bin/Achondroplasia.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/10/Achondroplasie_10J_m.png)

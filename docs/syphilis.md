@@ -1,9 +1,5 @@
 # Syphilis
 
-![Image](images/syphilis_1.jpg)
-![Image](images/syphilis_2.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/11aa/4952975/babe834dc567/184fig1.jpg)
 
 ![Image](https://www.cdc.gov/syphilis/media/images/darkfield-1-thumb.jpg)

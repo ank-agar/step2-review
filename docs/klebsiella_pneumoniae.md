@@ -1,8 +1,5 @@
 # Klebsiella pneumoniae
 
-![Image](images/klebsiella_pneumoniae.jpg)
-
-
 ![Image](https://mdpi-res.com/ijerph/ijerph-17-06278/article_deploy/html/images/ijerph-17-06278-g001-550.jpg)
 
 ![Image](https://www.cdc.gov/klebsiella/media/images/klebsiella.jpg)

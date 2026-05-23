@@ -1,8 +1,5 @@
 # Hepatic encephalopathy
 
-![Image](images/hepatic_encephalopathy.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7935/6490455/1c3360150cd8/CLD-5-59-g001.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/afd5/8555462/d0dce80922ee/CLD-18-49-g009.jpg)

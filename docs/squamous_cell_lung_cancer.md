@@ -1,8 +1,5 @@
 # Squamous cell lung cancer
 
-![Image](images/squamous_cell_lung_cancer.jpg)
-
-
 ![Image](https://nci-media.cancer.gov/pdq/media/images/466533.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Histopathology_of_squamous-cell_carcinoma_of_the_lung.jpg/960px-Histopathology_of_squamous-cell_carcinoma_of_the_lung.jpg)

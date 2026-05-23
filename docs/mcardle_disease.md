@@ -1,8 +1,5 @@
 # McArdle disease
 
-![Image](images/mcardle_disease.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK560785/bin/McArdle.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK560785/bin/Glycogen__Storage__Disease__V__and__VII__v2.gif)

@@ -1,9 +1,5 @@
 # Spina bifida
 
-![Image](images/spina_bifida_1.jpg)
-![Image](images/spina_bifida_2.jpg)
-
-
 ![Image](https://www.cdc.gov/spina-bifida/media/images/typesofSpinabifida.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/7e/Spina-bifida.jpg)

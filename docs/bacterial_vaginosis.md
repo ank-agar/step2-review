@@ -1,8 +1,5 @@
 # Bacterial vaginosis
 
-![Image](images/bacterial_vaginosis.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f866/4786887/9a12792d25d2/zcm0021625400001.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil//PHIL_Images/3719/3719_lores.jpg)

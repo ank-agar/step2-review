@@ -1,8 +1,5 @@
 # Cerebral edema
 
-![Image](images/cerebral_edema.jpg)
-
-
 ![Image](https://pub.mdpi-res.com/ijms/ijms-22-05679/article_deploy/html/images/ijms-22-05679-g005.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Osmotherapy_updated_picture.JPG/250px-Osmotherapy_updated_picture.JPG)

@@ -1,8 +1,5 @@
 # Lewy body dementia
 
-![Image](images/lewy_body_dementia.jpg)
-
-
 ![Image](https://neurotorium.org/wp-content/uploads/xx-synuclein.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lewy_bodies_%28alpha_synuclein_inclusions%29.svg/960px-Lewy_bodies_%28alpha_synuclein_inclusions%29.svg.png)

@@ -1,8 +1,5 @@
 # Hyponatremia
 
-![Image](images/hyponatremia.jpg)
-
-
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bbcd/4470176/3af0c0d1ba90/jcm-03-01163-g001.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bbcd/4470176/4da02aba2c91/jcm-03-01163-g002.jpg)

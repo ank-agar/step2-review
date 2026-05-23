@@ -1,8 +1,5 @@
 # Congestive heart failure
 
-![Image](images/congestive_heart_failure.jpg)
-
-
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/images_265_0.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/fa/Diagram_of_the_human_heart.svg)

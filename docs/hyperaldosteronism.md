@@ -1,8 +1,5 @@
 # Hyperaldosteronism
 
-![Image](images/hyperaldosteronism.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Renin-angiotensin-aldosterone_system.svg/1280px-Renin-angiotensin-aldosterone_system.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Adrenal_Gland_detail_-_English.png/1280px-Adrenal_Gland_detail_-_English.png)

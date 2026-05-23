@@ -1,11 +1,5 @@
 # Systemic lupus erythematosus
 
-![Image](images/systemic_lupus_erythematosus_1.jpg)
-![Image](images/systemic_lupus_erythematosus_2.jpg)
-![Image](images/systemic_lupus_erythematosus_3.jpg)
-![Image](images/systemic_lupus_erythematosus_4.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_Systemic_Manifestations_of_SLE.jpg/1280px-The_Systemic_Manifestations_of_SLE.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Symptoms_of_SLE.png/960px-Symptoms_of_SLE.png)

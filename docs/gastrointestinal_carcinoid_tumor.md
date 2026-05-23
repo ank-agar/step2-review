@@ -1,9 +1,5 @@
 # Gastrointestinal carcinoid tumor
 
-![Image](images/gastrointestinal_carcinoid_tumor_1.jpg)
-![Image](images/gastrointestinal_carcinoid_tumor_2.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/18319/N01737-H.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/31/Multiple_Carcinoid_Tumors_of_the_Small_Bowel_2.jpg)

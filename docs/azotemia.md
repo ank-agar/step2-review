@@ -1,9 +1,5 @@
 # Azotemia
 
-![Image](images/azotemia_1.jpg)
-![Image](images/azotemia_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Renal_corpuscle.svg/960px-Renal_corpuscle.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Urinary_system.svg/500px-Urinary_system.svg.png)

@@ -1,9 +1,5 @@
 # Influenza
 
-![Image](images/influenza_1.jpg)
-![Image](images/influenza_2.jpg)
-
-
 ![Image](https://www.cdc.gov/flu-resources/media/files/2024/07/3d-influenza-multicoror-key-pieslice-600px.jpg)
 
 ![Image](https://www.cdc.gov/flu/media/images/2024/09/influenza-viruses-1200px.jpg)

@@ -1,8 +1,5 @@
 # Secondary amenorrhea
 
-![Image](images/secondary_amenorrhea.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hypothalamic%E2%80%93pituitary%E2%80%93ovarial_axis-La.svg/960px-Hypothalamic%E2%80%93pituitary%E2%80%93ovarial_axis-La.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hormones_estradiol%2C_progesterone%2C_LH_and_FSH_during_menstrual_cycle.svg/330px-Hormones_estradiol%2C_progesterone%2C_LH_and_FSH_during_menstrual_cycle.svg.png)

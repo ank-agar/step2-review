@@ -1,8 +1,5 @@
 # Noise-induced hearing loss
 
-![Image](images/noise_induced_hearing_loss.jpg)
-
-
 ![Image](https://www.nidcd.nih.gov/sites/default/files/styles/content_image_small/public/images/health/inner-ear-1.jpg?itok=i-Gsvwax)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Cochlea-crosssection.svg)

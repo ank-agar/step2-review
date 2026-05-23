@@ -1,8 +1,5 @@
 # Peutz-Jeghers syndrome
 
-![Image](images/peutz_jeghers_syndrome.jpg)
-
-
 ![Image](https://dermnetnz.org/assets/Uploads/Peutz-Jeghers-syndrome.jpg)
 
 ![Image](https://www.pcds.org.uk/imager/gallery/clinical/peutz-jeghers/10266/peutz-jeghers04_fee391183f15cb4d62773032fe0be92d.jpg)

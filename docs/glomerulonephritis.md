@@ -1,13 +1,5 @@
 # Glomerulonephritis
 
-![Image](images/glomerulonephritis_1.jpg)
-![Image](images/glomerulonephritis_2.jpg)
-![Image](images/glomerulonephritis_3.jpg)
-![Image](images/glomerulonephritis_4.jpg)
-![Image](images/glomerulonephritis_5.jpg)
-![Image](images/glomerulonephritis_6.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Acute_Glomerulonephritis_Pathology_Diagram.svg/960px-Acute_Glomerulonephritis_Pathology_Diagram.svg.png)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK482385/bin/Glomerulus.jpg)

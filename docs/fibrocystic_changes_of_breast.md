@@ -1,8 +1,5 @@
 # Fibrocystic changes of breast
 
-![Image](images/fibrocystic_changes_of_breast.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK615366/bin/ch18f1.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17185.jpg)

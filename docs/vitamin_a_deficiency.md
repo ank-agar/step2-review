@@ -1,8 +1,5 @@
 # Vitamin A deficiency
 
-![Image](images/vitamin_a_deficiency.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/79/Typical_location_of_Bitot%27s_spots.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4d/Bitot.jpg)

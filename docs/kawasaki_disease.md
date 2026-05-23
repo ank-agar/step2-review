@@ -1,9 +1,5 @@
 # Kawasaki disease
 
-![Image](images/kawasaki_disease_1.jpg)
-![Image](images/kawasaki_disease_2.jpg)
-
-
 ![Image](https://www.pedscases.com/sites/default/files/Kawasaki%20Disease.png)
 
 ![Image](https://kdfoundation.org/wp-content/uploads/2018/08/Untitled-design-3-2-300x300.png)

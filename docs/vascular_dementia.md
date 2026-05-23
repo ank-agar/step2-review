@@ -1,8 +1,5 @@
 # Vascular dementia
 
-![Image](images/vascular_dementia.jpg)
-
-
 ![Image](https://www.alz.org/getmedia/0bc0f2e9-35a5-4ea5-9fd4-001d01eaf017/vascular-dementia-inlineimage_2.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vascular_dementia.jpg/250px-Vascular_dementia.jpg)

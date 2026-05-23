@@ -1,8 +1,5 @@
 # Clostridial myonecrosis
 
-![Image](images/clostridial_myonecrosis.jpg)
-
-
 ![Image](https://modules.oc4d.org/en-medline_plus/ency/images/ency/fullsize/17190.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gas_Gangrene_in_XRay.jpg/250px-Gas_Gangrene_in_XRay.jpg)

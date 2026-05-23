@@ -1,8 +1,5 @@
 # Internuclear ophthalmoplegia
 
-![Image](images/internuclear_ophthalmoplegia.jpg)
-
-
 ![Image](https://upload.medbullets.com/topic/120489/images/internuclearophthalmoplegia.jpg)
 
 ![Image](https://upload.medbullets.com/topic/120489/images/mlf_injury.jpg)

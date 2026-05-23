@@ -1,8 +1,5 @@
 # Diverticulosis
 
-![Image](images/diverticulosis.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/18159/N01515-H.jpg)
 
 ![Image](https://www.niddk.nih.gov/media-assets/17487/N00037-H.jpg)

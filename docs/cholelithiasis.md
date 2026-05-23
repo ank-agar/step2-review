@@ -1,8 +1,5 @@
 # Cholelithiasis
 
-![Image](images/cholelithiasis.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/18270/N01676-H.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK459370/bin/Gallstones-01.jpg)

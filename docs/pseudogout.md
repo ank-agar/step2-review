@@ -1,8 +1,5 @@
 # Pseudogout
 
-![Image](images/pseudogout.jpg)
-
-
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/pseudogout-chondro-calcinosis-cppd)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/c/a/l/calcium-pyrophospate-crystals-mandell-sized.jpg?mw=2048&sc_lang=en-us)

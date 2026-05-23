@@ -1,8 +1,5 @@
 # Normal-pressure hydrocephalus
 
-![Image](images/normal_pressure_hydrocephalus.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/17/Brain-ventricle-anatomy-diagram.jpg)
 
 ![Image](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773147715/Journals/Automation/AFP/2004/0915/p1071-f1-jpg.jpg)

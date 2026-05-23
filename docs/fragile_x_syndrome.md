@@ -1,8 +1,5 @@
 # Fragile X syndrome
 
-![Image](images/fragile_x_syndrome.jpg)
-
-
 ![Image](https://www.frontiersin.org/files/Articles/884424/xml-images/fgene-13-884424-g001.webp)
 
 ![Image](https://embryology.med.unsw.edu.au/embryology/images/7/7d/Fragile_x_inheritance.jpg)

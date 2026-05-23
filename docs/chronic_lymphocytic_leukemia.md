@@ -1,9 +1,5 @@
 # Chronic lymphocytic leukemia
 
-![Image](images/chronic_lymphocytic_leukemia_1.jpg)
-![Image](images/chronic_lymphocytic_leukemia_2.jpg)
-
-
 ![Image](https://nci-media.cancer.gov/pdq/media/images/526538.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0d/Chronic_lymphocytic_leukemia.jpg)

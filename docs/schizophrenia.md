@@ -1,8 +1,5 @@
 # Schizophrenia
 
-![Image](images/schizophrenia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/500px-Dopaminergic_pathways.svg.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17239.jpg)

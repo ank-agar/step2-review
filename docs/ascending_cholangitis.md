@@ -1,8 +1,5 @@
 # Ascending cholangitis
 
-![Image](images/ascending_cholangitis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diagram_showing_the_position_of_the_perihilar_bile_ducts_CRUK_357.svg/330px-Diagram_showing_the_position_of_the_perihilar_bile_ducts_CRUK_357.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/09/ERCP_stone.jpg)

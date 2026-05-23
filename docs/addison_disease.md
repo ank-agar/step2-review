@@ -1,9 +1,5 @@
 # Addison disease
 
-![Image](images/addison_disease_1.jpg)
-![Image](images/addison_disease_2.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/-/media/Images/Health-Information/Featured-Images/Adrenal_Insufficency_square.jpg?h=600&hash=3D4E5EC41635CBEA8A12C05ABF6B8E48&iar=0&w=600)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/5/0/5/505-hyperpigmentation-of-addison-disease-s101-springer-high.jpg?mw=2048&sc_lang=en)

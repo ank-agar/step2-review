@@ -1,9 +1,5 @@
 # Glycogen storage disease
 
-![Image](images/glycogen_storage_disease_1.jpg)
-![Image](images/glycogen_storage_disease_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459277/bin/Glycogen__Storage2.jpg)
 
 ![Image](https://www.coriell.org/0/Images/gsdmain2.gif)

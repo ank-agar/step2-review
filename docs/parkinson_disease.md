@@ -1,10 +1,5 @@
 # Parkinson disease
 
-![Image](images/parkinson_disease_1.jpg)
-![Image](images/parkinson_disease_2.jpg)
-![Image](images/parkinson_disease_3.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Basal_ganglia_in_Parkinson%27s_disease.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19515.jpg)

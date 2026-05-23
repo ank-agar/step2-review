@@ -1,8 +1,5 @@
 # Rocky Mountain spotted fever
 
-![Image](images/rocky_mountain_spotted_fever.jpg)
-
-
 ![Image](https://www.cdc.gov/ticks/images/Rhipicephalus-sanguineus-LifeCycle.jpg)
 
 ![Image](https://www.cdc.gov/rocky-mountain-spotted-fever/media/images/earlystage285px.jpg)

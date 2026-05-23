@@ -1,9 +1,5 @@
 # Diabetic ketoacidosis
 
-![Image](images/diabetic_ketoacidosis_1.jpg)
-![Image](images/diabetic_ketoacidosis_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK279087/bin/mgmt-t1t2diab-child-Image001.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/05/Diabetic_Ketoacidosis.png)

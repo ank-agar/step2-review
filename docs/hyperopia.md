@@ -1,8 +1,5 @@
 # Hyperopia
 
-![Image](images/hyperopia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hypermetropia.svg/500px-Hypermetropia.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hyperopia-GM.svg/500px-Hyperopia-GM.svg.png)

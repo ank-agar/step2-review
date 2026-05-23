@@ -1,8 +1,5 @@
 # Coarctation of the aorta
 
-![Image](images/coarctation_of_the_aorta.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/18128.jpg)
 
 ![Image](https://www.cincinnatichildrens.org/-/media/Cincinnati-Childrens/Home/patients/child/encyclopedia/defects/coarctation-images/Coarct_01.jpg)

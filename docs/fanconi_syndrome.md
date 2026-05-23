@@ -1,8 +1,5 @@
 # Fanconi syndrome
 
-![Image](images/fanconi_syndrome.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Complex_proximal_tubule_with_acid_base.svg/960px-Complex_proximal_tubule_with_acid_base.svg.png)
 
 ![Image](https://upload.medbullets.com/topic/121712/images/nephron.jpg)

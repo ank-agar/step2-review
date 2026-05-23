@@ -1,9 +1,5 @@
 # Chediak-Higashi disease
 
-![Image](images/chediak_higashi_disease_1.jpg)
-![Image](images/chediak_higashi_disease_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK5188/bin/chediak-higashi-Image001.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/960px-Autosomal_recessive_-_en.svg.png)

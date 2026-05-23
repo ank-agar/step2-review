@@ -1,8 +1,5 @@
 # Niacin deficiency
 
-![Image](images/niacin_deficiency.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nicotinamide_highlighted_in_NAD%2B.svg/500px-Nicotinamide_highlighted_in_NAD%2B.svg.png)
 
 ![Image](https://dermnetnz.org/assets/Uploads/systemic/pellagra2.jpg)

@@ -1,8 +1,5 @@
 # Fanconi anemia
 
-![Image](images/fanconi_anemia.jpg)
-
-
 ![Image](https://www.kegg.jp/kegg/pathway/map/map03460.png)
 
 ![Image](https://medlineplus.gov/images/PX0000SO_PRESENTATION.jpeg)

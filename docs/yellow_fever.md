@@ -1,8 +1,5 @@
 # Yellow fever
 
-![Image](images/yellow_fever.jpg)
-
-
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/14997/14997_lores.jpg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/28178/28178_lores.jpg)

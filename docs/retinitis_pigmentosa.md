@@ -1,8 +1,5 @@
 # Retinitis pigmentosa
 
-![Image](images/retinitis_pigmentosa.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e8/1414_Rods_and_Cones.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/49/Fundus_of_patient_with_retinitis_pigmentosa%2C_mid_stage.jpg)

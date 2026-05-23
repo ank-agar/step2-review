@@ -1,8 +1,5 @@
 # DiGeorge syndrome
 
-![Image](images/digeorge_syndrome.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cf/Illu_thymus.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Illu_thyroid_parathyroid.jpg)

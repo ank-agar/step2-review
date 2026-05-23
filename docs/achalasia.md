@@ -1,8 +1,5 @@
 # Achalasia
 
-![Image](images/achalasia.jpg)
-
-
 ![Image](https://www.niddk.nih.gov/media-assets/17881/N01011-H.jpg)
 
 ![Image](https://www.medicalgraphics.de/wp-content/uploads/2023/01/esophageal-achalasia.jpg)

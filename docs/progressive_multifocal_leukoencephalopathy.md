@@ -1,8 +1,5 @@
 # Progressive multifocal leukoencephalopathy
 
-![Image](images/progressive_multifocal_leukoencephalopathy.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuron_with_oligodendrocyte_and_myelin_sheath-2.svg/500px-Neuron_with_oligodendrocyte_and_myelin_sheath-2.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/99/Progressive_multifocal_leukoencephalopathy_002.jpg)

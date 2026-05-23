@@ -1,10 +1,5 @@
 # Wilson disease
 
-![Image](images/wilson_disease_1.jpg)
-![Image](images/wilson_disease_2.jpg)
-![Image](images/wilson_disease_3.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK6381/bin/ch321f1.gif)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK6381/bin/ch321f4.gif)

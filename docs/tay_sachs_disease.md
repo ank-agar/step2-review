@@ -1,8 +1,5 @@
 # Tay-Sachs disease
 
-![Image](images/tay_sachs_disease.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f1/Autosomal_recessive_-_en.svg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0f/Tay-sachsUMich.jpg)

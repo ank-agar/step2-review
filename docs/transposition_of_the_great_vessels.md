@@ -1,8 +1,5 @@
 # Transposition of the great vessels
 
-![Image](images/transposition_of_the_great_vessels.jpg)
-
-
 ![Image](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/07/ds00733-mcdc7_transpositionthu_jpg.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK538434/bin/Transposition__of__the__Great__Vessels__5.jpg)

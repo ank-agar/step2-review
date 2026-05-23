@@ -1,9 +1,5 @@
 # Alport syndrome
 
-![Image](images/alport_syndrome_1.jpg)
-![Image](images/alport_syndrome_2.jpg)
-
-
 ![Image](https://sites.manchester.ac.uk/alport-hub/wp-content/uploads/sites/416/2023/03/Image_4_Diseased_Glomerulus-1024px.png)
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/alport-syndrome.jpeg)
@@ -73,3 +69,4 @@ Alport syndrome = bad type IV collagen, so the kidney filter wall falls apart, c
 ## Pearl 🔥
 
 Alport syndrome is classically **X-linked** due to COL4A5 mutation, so males are usually more severely affected.
+

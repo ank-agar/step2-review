@@ -1,8 +1,5 @@
 # Autoimmune hemolytic anemia
 
-![Image](images/autoimmune_hemolytic_anemia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Antibody_Opsonization.svg/960px-Antibody_Opsonization.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Complement_pathway.svg/1280px-Complement_pathway.svg.png)

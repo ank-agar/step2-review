@@ -1,9 +1,5 @@
 # Wolff-Parkinson-White syndrome
 
-![Image](images/wolff_parkinson_white_syndrome_1.jpg)
-![Image](images/wolff_parkinson_white_syndrome_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wpw2_%28CardioNetworks_ECGpedia%29.svg/960px-Wpw2_%28CardioNetworks_ECGpedia%29.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a5/Wolff-Parkinson-White_syndrome_12_lead_EKG.png)

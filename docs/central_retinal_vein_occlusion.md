@@ -1,8 +1,5 @@
 # Central retinal vein occlusion
 
-![Image](images/central_retinal_vein_occlusion.jpg)
-
-
 ![Image](https://www.vrsfoundation.us/media/pages/community-outreach/fact-sheets/central-retinal-vein-occlusion/0c41d7d6fa-1674244099/ocular-circulation.jpg)
 
 ![Image](https://www.vrsfoundation.us/media/pages/community-outreach/fact-sheets/central-retinal-vein-occlusion/a5e67bb191-1674244099/central-retinal-vein-occlusion.jpg)

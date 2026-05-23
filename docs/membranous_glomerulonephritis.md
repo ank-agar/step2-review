@@ -1,8 +1,5 @@
 # Membranous glomerulonephritis
 
-![Image](images/membranous_glomerulonephritis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Membranous_Nephropathy_Pathology_Diagram.svg/1920px-Membranous_Nephropathy_Pathology_Diagram.svg.png)
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/membranous-immune-complexes.png)

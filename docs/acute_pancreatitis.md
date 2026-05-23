@@ -1,8 +1,5 @@
 # Acute pancreatitis
 
-![Image](images/acute_pancreatitis.jpg)
-
-
 ![Image](https://pancreapedia.org/sites/default/files/fig3_new.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK482468/bin/medical1-01.jpg)

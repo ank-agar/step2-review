@@ -1,8 +1,5 @@
 # Lyme disease
 
-![Image](images/lyme_disease.jpg)
-
-
 ![Image](https://www.cdc.gov/lyme/images/lifecycle-small.jpg)
 
 ![Image](https://www.cdc.gov/lyme/media/images/EM-rashes.jpg)

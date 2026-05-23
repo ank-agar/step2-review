@@ -1,9 +1,5 @@
 # Appendicitis
 
-![Image](images/appendicitis_1.jpg)
-![Image](images/appendicitis_2.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19580.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/29/Anatomy-human-appendix-in-colon.png)

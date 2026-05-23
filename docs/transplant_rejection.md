@@ -1,8 +1,5 @@
 # Transplant rejection
 
-![Image](images/transplant_rejection.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK27163/bin/CH13F22.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK27163/bin/CH13F25.jpg)

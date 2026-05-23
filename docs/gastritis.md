@@ -1,8 +1,5 @@
 # Gastritis
 
-![Image](images/gastritis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/db/H_pylori_ulcer_diagram.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ulcer-causing_Bacterium_%28H.Pylori%29_Crossing_Mucus_Layer_of_Stomach_%284822021538%29.jpg)

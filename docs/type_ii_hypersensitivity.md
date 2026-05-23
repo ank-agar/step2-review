@@ -1,8 +1,5 @@
 # Type II hypersensitivity
 
-![Image](images/type_ii_hypersensitivity.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Type_II_hypersensitivity.webm/960px--Type_II_hypersensitivity.webm.jpg)
 
 ![Image](https://edge.sitecorecloud.io/mmanual-ssq1ci05/media/professional/images/h/e/m/hem_direct_coombs_test.gif?mw=1080&sc_lang=en-us)

@@ -1,8 +1,5 @@
 # Allergic contact dermatitis
 
-![Image](images/allergic_contact_dermatitis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/19/Blausen_0014_AllergicDermatitis.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/2387.jpg)

@@ -1,9 +1,5 @@
 # Septic shock
 
-![Image](images/septic_shock_1.jpg)
-![Image](images/septic_shock_2.jpg)
-
-
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/0a2bfcbb1a95197dc2fdc688096a0fa61053dccd)
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/d563af71f38ad3245d8ec54c51a1d18b361bfe8d)

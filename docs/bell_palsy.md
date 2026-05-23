@@ -1,8 +1,5 @@
 # Bell palsy
 
-![Image](images/bell_palsy.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bells_palsy_diagram.svg/330px-Bells_palsy_diagram.svg.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/9101.jpg)

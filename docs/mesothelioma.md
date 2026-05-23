@@ -1,8 +1,5 @@
 # Mesothelioma
 
-![Image](images/mesothelioma.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Diagram_of_the_lung_showing_pleural_mesothelioma_CRUK_458.svg/500px-Diagram_of_the_lung_showing_pleural_mesothelioma_CRUK_458.svg.png)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK519048/bin/pleura.jpg)

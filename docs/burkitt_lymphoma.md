@@ -1,8 +1,5 @@
 # Burkitt lymphoma
 
-![Image](images/burkitt_lymphoma.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9b/Burkitt%27s_lymphoma_illustration.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/46/Microscopic_panel_showing_intermediate-sized_atypical_lymphoid_cells_arranged_in_sheets_with_numerous_tingible-body_macrophages%2C_creating_a_starry-sky_pattern_%28H%26E%2C_%C3%97200%29.jpg)

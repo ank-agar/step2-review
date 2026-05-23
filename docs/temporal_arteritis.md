@@ -1,8 +1,5 @@
 # Temporal arteritis
 
-![Image](images/temporal_arteritis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gray508.png/250px-Gray508.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Giant_cell_arteritis_--_intermed_mag.jpg/250px-Giant_cell_arteritis_--_intermed_mag.jpg)

@@ -1,8 +1,5 @@
 # Clostridium botulinum
 
-![Image](images/clostridium_botulinum.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/35/BoNt-Schnittstellen.svg)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/09132002/00001/PHIL_2107_lores.jpg)

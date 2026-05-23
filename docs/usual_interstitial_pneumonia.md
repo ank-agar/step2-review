@@ -1,8 +1,5 @@
 # Usual interstitial pneumonia
 
-![Image](images/usual_interstitial_pneumonia.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/ce/Ipf_NIH.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/65f0/2330030/99dfa9d74228/1750-1172-3-8-2.jpg)

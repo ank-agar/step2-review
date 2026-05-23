@@ -1,8 +1,5 @@
 # Central retinal artery occlusion
 
-![Image](images/central_retinal_artery_occlusion.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Gray869.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/07/Cherry_red_spot_in_patient_with_central_retinal_artery_occlusion_%28CRAO%29.jpg)

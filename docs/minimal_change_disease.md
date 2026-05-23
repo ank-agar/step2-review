@@ -1,8 +1,5 @@
 # Minimal change disease
 
-![Image](images/minimal_change_disease.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Minimal_Change_Disease_Pathology_Diagram.svg/960px-Minimal_Change_Disease_Pathology_Diagram.svg.png)
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/minimal-change-capillary.png)

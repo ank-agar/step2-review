@@ -1,9 +1,5 @@
 # Down syndrome
 
-![Image](images/down_syndrome_1.jpg)
-![Image](images/down_syndrome_2.jpg)
-
-
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK526016/bin/Down_Syndrome_Karyotype.jpg)
 
 ![Image](https://www.cdc.gov/heart-defects/media/images/avsd.jpg)

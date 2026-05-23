@@ -1,8 +1,5 @@
 # Graves disease
 
-![Image](images/graves_disease.jpg)
-
-
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17067.jpg)
 
 ![Image](https://dm5migu4zj3pb.cloudfront.net/manuscripts/15000/15745/medium/JCI0215745.f1.jpg)

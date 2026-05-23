@@ -1,8 +1,5 @@
 # Arterial thrombosis
 
-![Image](images/arterial_thrombosis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blood_clot_diagram.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/4f/Arterial_thrombosis_causing_cyanosis.jpg)

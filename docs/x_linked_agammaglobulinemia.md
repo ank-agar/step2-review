@@ -1,9 +1,5 @@
 # X-linked agammaglobulinemia
 
-![Image](images/x_linked_agammaglobulinemia_1.jpg)
-![Image](images/x_linked_agammaglobulinemia_2.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Early_B_cell_development.svg/960px-Early_B_cell_development.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/X-linked_recessive_%28carrier_mother%29.svg/500px-X-linked_recessive_%28carrier_mother%29.svg.png)

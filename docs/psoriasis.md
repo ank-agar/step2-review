@@ -1,8 +1,5 @@
 # Psoriasis
 
-![Image](images/psoriasis.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Aberrant_interplay_of_keratinocytes_and_immune_cells_in_psoriasis.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e3/Psoriasis2010.JPG)

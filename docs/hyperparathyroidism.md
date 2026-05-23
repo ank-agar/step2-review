@@ -1,10 +1,5 @@
 # Hyperparathyroidism
 
-![Image](images/hyperparathyroidism_1.jpg)
-![Image](images/hyperparathyroidism_2.jpg)
-![Image](images/hyperparathyroidism_3.jpg)
-
-
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Michelle_Karam_Parathyroid_%282%29.svg/250px-Michelle_Karam_Parathyroid_%282%29.svg.png)
 
 ![Image](https://www.uclahealth.org/sites/default/files/styles/max_width_012000_480/public/images/parathyroid-gland.jpg?itok=YbNmND93)

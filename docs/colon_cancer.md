@@ -1,10 +1,5 @@
 # Colon cancer
 
-![Image](images/colon_cancer_1.jpg)
-![Image](images/colon_cancer_2.jpg)
-![Image](images/colon_cancer_3.jpg)
-
-
 ![Image](https://nci-media.cancer.gov/pdq/media/images/415499-750.jpg)
 
 ![Image](https://nci-media.cancer.gov/pdq/media/images/688354-750.jpg)
