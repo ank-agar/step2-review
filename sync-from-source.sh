@@ -1,22 +1,34 @@
 #!/bin/bash
-# Re-copy .md files from the source terms folder into docs/.
-# Run this whenever you regenerate content in chatgpt-content-review-2/outputs/terms.
+# Sync .md files from the source terms folder into docs/, preserving anything
+# that exists only in docs/ (stub articles, etc.). After syncing, re-apply
+# anki image references and regenerate the numbered nav.
+#
+# Safe to re-run. Does NOT delete files that exist in docs/ but not in source.
 
 set -euo pipefail
 
-SRC="$(cd "$(dirname "$0")/.." && pwd)/outputs/terms"
-DST="$(cd "$(dirname "$0")" && pwd)/docs"
+HERE="$(cd "$(dirname "$0")" && pwd)"
+SRC="$(cd "$HERE/.." && pwd)/outputs/terms"
+DST="$HERE/docs"
 
 if [ ! -d "$SRC" ]; then
   echo "Source not found: $SRC" >&2
   exit 1
 fi
 
-# Remove old term files (keep index.md)
-find "$DST" -maxdepth 1 -type f -name "*.md" ! -name "index.md" -delete
+# Copy/update source files into docs/, overwriting if they exist. Files in
+# docs/ that don't exist in source are LEFT ALONE (this preserves the stub
+# articles we create for orphan anki images).
+COUNT=0
+for f in "$SRC"/*.md; do
+  cp "$f" "$DST/"
+  COUNT=$((COUNT + 1))
+done
+echo "Synced $COUNT files from $SRC -> $DST"
 
-cp "$SRC"/*.md "$DST"/
-echo "Copied $(ls "$SRC"/*.md | wc -l | tr -d ' ') files from $SRC -> $DST"
+# Re-append anki image references (idempotent: only adds refs that aren't
+# already present in each .md).
+python3 "$HERE/apply_image_refs.py"
 
-# Regenerate the numbered nav in mkdocs.yml
-python3 "$(dirname "$0")/build_nav.py"
+# Regenerate the numbered nav in mkdocs.yml.
+python3 "$HERE/build_nav.py"

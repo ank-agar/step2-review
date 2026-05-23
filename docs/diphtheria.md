@@ -1,5 +1,8 @@
 # Diphtheria
 
+![Image](images/diphtheria_2.jpg)
+
+
 ![Image](images/diphtheria.jpg)
 
 
