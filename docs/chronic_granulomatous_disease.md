@@ -1,5 +1,9 @@
 # Chronic granulomatous disease
 
+![Image](images/chronic_granulomatous_disease_1.jpg)
+![Image](images/chronic_granulomatous_disease_2.jpg)
+
+
 ![Image](https://ars.els-cdn.com/content/image/1-s2.0-S2352304219300546-gr1.jpg)
 
 ![Image](https://ars.els-cdn.com/content/image/1-s2.0-S2352304219300546-gr2.jpg)

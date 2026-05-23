@@ -1,5 +1,9 @@
 # Delirium
 
+![Image](images/delirium_1.jpg)
+![Image](images/delirium_2.jpg)
+
+
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/2da90800932be0497e6bdab74192468912188c8a)
 
 ![Image](https://www.ncbi.nlm.nih.gov/sites/books/NBK534831/bin/Figure__1.jpg)

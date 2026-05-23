@@ -1,5 +1,8 @@
 # Pseudomembranous colitis
 
+![Image](images/pseudomembranous_colitis.jpg)
+
+
 ![Image](https://assets.mayoclinic.org/content/dam/media/en/images/2023/02/09/colon-and-rectum.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Colite_da_Clostridium_difficile.svg/960px-Colite_da_Clostridium_difficile.svg.png)

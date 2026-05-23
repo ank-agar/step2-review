@@ -1,5 +1,8 @@
 # Deep venous thrombosis
 
+![Image](images/deep_venous_thrombosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/62/Blausen_0290_DeepVeinThrombosis.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/21/Deep_vein_thrombosis_of_the_right_leg.jpg)

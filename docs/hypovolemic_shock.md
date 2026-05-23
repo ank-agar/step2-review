@@ -1,5 +1,8 @@
 # Hypovolemic shock
 
+![Image](images/hypovolemic_shock.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a2/170225_CVS_Hypovolemic_Shock_Pathophysiology_of_Disease.png?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org)
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/e08b3fa56ffe450c120fde3e7cbfe301d2fdc45b)

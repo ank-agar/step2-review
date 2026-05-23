@@ -2,14 +2,6 @@
 
 Medical terms reference. Use the search bar (top right) to find a term, or scroll the numbered sidebar to track progress.
 
-1590 entries total, in randomized order.
+1664 entries total (79 are stubs awaiting content — marked with ⭐ in the sidebar).
 
-## Not yet written (⭐)
-
-These 5 stubs are placeholders awaiting content:
-
-- Double Ureters
-- Jellyfish Stings
-- Renal Dysplasia
-- Renal Laceration
-- Urethral Diverticulum
+491 medical reference images embedded across 376 articles.

@@ -1,5 +1,8 @@
 # HIV
 
+![Image](images/hiv.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HIV_life_cycle.svg/1280px-HIV_life_cycle.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/31/Structure_of_HIV.jpg)
@@ -97,4 +100,3 @@ HIV is a lentivirus (slow retrovirus), and the Step 1 buzzword enzymes are:
 * reverse transcriptase
 * integrase
 * protease
-

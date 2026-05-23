@@ -1,5 +1,8 @@
 # Reactive arthritis
 
+![Image](images/reactive_arthritis.jpg)
+
+
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/reactive-arthritis-reiters-syndrome.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Feet-Reiters_syndrome.jpg)

@@ -1,5 +1,9 @@
 # Pyelonephritis
 
+![Image](images/pyelonephritis_1.jpg)
+![Image](images/pyelonephritis_2.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/media-assets/17823/N00858-H_thumbnail.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK459158/bin/kidney.jpg)

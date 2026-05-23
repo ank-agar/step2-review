@@ -1,5 +1,8 @@
 # Atherosclerosis
 
+![Image](images/atherosclerosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Atherosclerosis_diagram.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/d/d1/Blausen_0257_CoronaryArtery_Plaque.png)

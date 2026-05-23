@@ -1,5 +1,8 @@
 # Zollinger-Ellison syndrome
 
+![Image](images/zollinger_ellison_syndrome.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/-/media/Images/Health-Information/Digestive-Diseases/pancreas-anatomy_1586x1534.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/54/ZES_endo.jpg)

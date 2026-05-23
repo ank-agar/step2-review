@@ -1,5 +1,9 @@
 # Granulomatosis with polyangiitis
 
+![Image](images/granulomatosis_with_polyangiitis_1.jpg)
+![Image](images/granulomatosis_with_polyangiitis_2.jpg)
+
+
 ![Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/granulomatosis-polyangiitis-infographic)
 
 ![Image](https://www.hopkinsvasculitis.org/wp-content/uploads/2010/05/Urinalysis_cast_2.jpg)

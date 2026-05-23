@@ -1,5 +1,8 @@
 # Glioblastoma
 
+![Image](images/glioblastoma.jpg)
+
+
 ![Image](https://cdn.sciencefigures.org/svg/color/brain_glioblastoma_t2_perilesional_edema.svg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c1/GBM_pseudopalisading_necrosis.jpg)

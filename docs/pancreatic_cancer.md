@@ -1,5 +1,10 @@
 # Pancreatic cancer
 
+![Image](images/pancreatic_cancer_1.jpg)
+![Image](images/pancreatic_cancer_2.jpg)
+![Image](images/pancreatic_cancer_3.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/2424_Exocrine_and_Endocrine_Pancreas.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/1192.jpg)

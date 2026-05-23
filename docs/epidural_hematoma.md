@@ -1,5 +1,9 @@
 # Epidural hematoma
 
+![Image](images/epidural_hematoma_1.jpg)
+![Image](images/epidural_hematoma_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/10/Illustration_depicting_hemorrhages_by_location_within_the_different_layers_of_the_meninges_%28left_of_image%29_and_scalp_%28right_of_image%29.webp)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/07/Hematoma_Comparison.png)

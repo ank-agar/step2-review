@@ -1,5 +1,8 @@
 # Turner syndrome
 
+![Image](images/turner_syndrome.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK554621/bin/Screenshot__2025-06-12__at__6.45.12xPM.jpg)
 
 ![Image](https://cdn.picmonic.com/cloud_data/images_panel_mobile/turner-syndrome_5947_1636592162.jpg)

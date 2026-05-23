@@ -1,5 +1,8 @@
 # End-stage renal disease
 
+![Image](images/end_stage_renal_disease.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/media-assets/17562/N00152-H.jpg)
 
 ![Image](https://www.niddk.nih.gov/media-assets/11213/Hemodialysis-schematic.jpg)

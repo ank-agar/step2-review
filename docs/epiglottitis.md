@@ -1,5 +1,8 @@
 # Epiglottitis
 
+![Image](images/epiglottitis.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19595.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Drawing_and_CT_Scan_of_Normal_Epiglottis_and_Surrounding_Structures.png/330px-Drawing_and_CT_Scan_of_Normal_Epiglottis_and_Surrounding_Structures.png)

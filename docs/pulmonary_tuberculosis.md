@@ -1,5 +1,9 @@
 # Pulmonary tuberculosis
 
+![Image](images/pulmonary_tuberculosis_1.jpg)
+![Image](images/pulmonary_tuberculosis_2.jpg)
+
+
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/24440/24440_lores.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9c/Tuberculosis-x-ray-1.jpg)

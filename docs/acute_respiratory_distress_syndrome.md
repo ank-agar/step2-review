@@ -1,5 +1,8 @@
 # Acute respiratory distress syndrome
 
+![Image](images/acute_respiratory_distress_syndrome.jpg)
+
+
 ![Image](https://pressbooks.lib.vt.edu/app/uploads/sites/72/2022/05/5.2.png)
 
 ![Image](https://pressbooks.lib.vt.edu/app/uploads/sites/72/2022/05/5.6.png)

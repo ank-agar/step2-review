@@ -1,5 +1,8 @@
 # Phantom limb pain
 
+![Image](images/phantom_limb_pain.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sensory_Homunculus-en.svg/960px-Sensory_Homunculus-en.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ramachandran-mirrorbox.svg/250px-Ramachandran-mirrorbox.svg.png)

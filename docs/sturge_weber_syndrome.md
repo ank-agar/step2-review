@@ -1,5 +1,9 @@
 # Sturge-Weber syndrome
 
+![Image](images/sturge_weber_syndrome_1.jpg)
+![Image](images/sturge_weber_syndrome_2.jpg)
+
+
 ![Image](https://medlineplus.gov/images/PX0002M6_PRESENTATION.jpeg)
 
 ![Image](https://medlineplus.gov/images/PX00010C_PRESENTATION.jpeg)

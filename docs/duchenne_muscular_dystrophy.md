@@ -1,5 +1,10 @@
 # Duchenne muscular dystrophy
 
+![Image](images/duchenne_muscular_dystrophy_1.jpg)
+![Image](images/duchenne_muscular_dystrophy_2.jpg)
+![Image](images/duchenne_muscular_dystrophy_3.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dystrophin_diagram.jpg/250px-Dystrophin_diagram.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gowers%27s_sign.png/500px-Gowers%27s_sign.png)

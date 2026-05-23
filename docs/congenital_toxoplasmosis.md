@@ -1,5 +1,8 @@
 # Congenital toxoplasmosis
 
+![Image](images/congenital_toxoplasmosis.jpg)
+
+
 ![Image](https://www.cdc.gov/dpdx/toxoplasmosis/modules/Toxoplasma_LifeCycle_BAM1.gif)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17186.jpg)

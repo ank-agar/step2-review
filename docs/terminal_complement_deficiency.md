@@ -1,5 +1,8 @@
 # Terminal complement deficiency
 
+![Image](images/terminal_complement_deficiency.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/6/60/Membrane_Attack_Complex_%28Terminal_Complement_Complex_C5b-9%29.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e6/Neisseria_meningitidis_CSF_Gram_1000.jpg)

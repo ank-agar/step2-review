@@ -1,5 +1,8 @@
 # Sarcoidosis
 
+![Image](images/sarcoidosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fundamental_granuloma_types.png/1280px-Fundamental_granuloma_types.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sarcoidosis_-_Bilateral_hilar_lymphadenoathy.jpg/960px-Sarcoidosis_-_Bilateral_hilar_lymphadenoathy.jpg)

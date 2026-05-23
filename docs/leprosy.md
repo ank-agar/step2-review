@@ -1,5 +1,8 @@
 # Leprosy
 
+![Image](images/leprosy.jpg)
+
+
 ![Image](https://www.clker.com/cliparts/8/c/e/8/1513791304299107362mycobacterium-leprae-diagram.hi.png)
 
 ![Image](https://www.cdc.gov/leprosy/media/images/2025/07/HD_lesion_chest.jpg)

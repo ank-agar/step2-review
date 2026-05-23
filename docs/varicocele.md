@@ -1,5 +1,8 @@
 # Varicocele
 
+![Image](images/varicocele.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Varicocele.png/500px-Varicocele.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gray1147.png/250px-Gray1147.png)

@@ -1,5 +1,9 @@
 # Paroxysmal nocturnal hemoglobinuria
 
+![Image](images/paroxysmal_nocturnal_hemoglobinuria_1.jpg)
+![Image](images/paroxysmal_nocturnal_hemoglobinuria_2.jpg)
+
+
 ![Image](https://medically.roche.com/content/dam/sh/pnh/PATHOPHYSIOLOGY_01_illustration.png)
 
 ![Image](https://medically.roche.com/content/dam/sh/pnh/PATHOPHYSIOLOGY_02_illustration.png)

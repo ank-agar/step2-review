@@ -1,5 +1,8 @@
 # Diabetes insipidus
 
+![Image](images/diabetes_insipidus.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK537591/bin/diagn-diabet-insip-Image003.jpg)
 
 ![Image](https://www.utmb.edu/pedi_ed/CoreV2/Endocrine/physiology%20of%20hypothalamus%20and%20Posterior%20Pituitary.jpg)

@@ -1,5 +1,8 @@
 # Thrombotic thrombocytopenic purpura
 
+![Image](images/thrombotic_thrombocytopenic_purpura.jpg)
+
+
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b42e/7867179/972f74d1f63b/jcm-10-00536-g001.jpg)
 
 ![Image](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/abb2/9027164/5131262bb5fa/RTH2-6-e12708-g002.jpg)

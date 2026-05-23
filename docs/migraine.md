@@ -1,5 +1,8 @@
 # Migraine
 
+![Image](images/migraine.jpg)
+
+
 ![Image](https://neurotorium.org/wp-content/uploads/a-model-of-migraine-pathophysiology-2.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Migraine_aura.jpg)

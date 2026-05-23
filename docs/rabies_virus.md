@@ -1,5 +1,9 @@
 # Rabies virus
 
+![Image](images/rabies_virus_1.jpg)
+![Image](images/rabies_virus_2.jpg)
+
+
 ![Image](https://assets.microbeonline.com/blogs/Structure-of-Rabies-Virus.jpeg)
 
 ![Image](https://assets.microbeonline.com/blogs/Rabies-Virus-Structure-and-Pathogenesis.png)

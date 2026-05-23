@@ -1,5 +1,8 @@
 # Gastric adenocarcinoma
 
+![Image](images/gastric_adenocarcinoma.jpg)
+
+
 ![Image](https://www.cancer.gov/sites/www/files/styles/cgov_article/public/cgov_image/media_image/2023-04/StomachLayers5.jpg?h=42814ab6&itok=O2NrqEHa)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/76/Histopathology_of_gastric_adenocarcinoma_and_normal_histology.jpg)

@@ -1,5 +1,8 @@
 # Spinal muscular atrophy
 
+![Image](images/spinal_muscular_atrophy.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK22213/bin/SMA.jpg)
 
 ![Image](https://orthopaedia.com/wp-content/uploads/2023/10/d310824d-f1e9-43e3-b544-42bfc9f87346-1599087643711.png)

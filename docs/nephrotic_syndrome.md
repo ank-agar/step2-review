@@ -1,5 +1,10 @@
 # Nephrotic syndrome
 
+![Image](images/nephrotic_syndrome_1.jpg)
+![Image](images/nephrotic_syndrome_2.jpg)
+![Image](images/nephrotic_syndrome_3.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/cb/Minimal_Change_Disease_Pathology_Diagram.svg)
 
 ![Image](https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260407.195030/resources/1c093fadb62536b2a70e180aa6639b4c9d04ad1a)

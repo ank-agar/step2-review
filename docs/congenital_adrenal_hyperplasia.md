@@ -1,5 +1,8 @@
 # Congenital adrenal hyperplasia
 
+![Image](images/congenital_adrenal_hyperplasia.jpg)
+
+
 ![Image](https://commons.wikimedia.org/wiki/Special:Redirect/file/Steroidogenesis.svg)
 
 ![Image](https://commons.wikimedia.org/wiki/Special:Redirect/file/Illu_adrenal_gland.jpg)

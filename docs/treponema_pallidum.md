@@ -1,5 +1,8 @@
 # Treponema pallidum
 
+![Image](images/treponema_pallidum.jpg)
+
+
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/2327/2327_lores.jpg)
 
 ![Image](https://www.cdc.gov/syphilis/media/images/darkfield-1-thumb.jpg)

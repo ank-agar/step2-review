@@ -1,5 +1,8 @@
 # Gardner syndrome
 
+![Image](images/gardner_syndrome.jpg)
+
+
 ![Image](https://www.niddk.nih.gov/media-assets/18292/N01705-H_thumbnail.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK1345/bin/fap-Image001.jpg)

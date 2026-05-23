@@ -1,5 +1,8 @@
 # Chagas disease
 
+![Image](images/chagas_disease.jpg)
+
+
 ![Image](https://www.cdc.gov/dpdx/trypanosomiasisamerican/modules/Chagas_LifeCycle_lg.jpg)
 
 ![Image](https://www.cdc.gov/chagas/media/images/t_sanguisuga.jpg)

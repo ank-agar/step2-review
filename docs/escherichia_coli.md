@@ -1,5 +1,8 @@
 # Escherichia coli
 
+![Image](images/escherichia_coli.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Simple_diagram_of_bacterium_%28en%29.svg/1280px-Simple_diagram_of_bacterium_%28en%29.svg.png)
 
 ![Image](https://wwwn.cdc.gov/phil/PHIL_Images/10069/10069_lores.jpg)

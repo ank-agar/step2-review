@@ -1,5 +1,8 @@
 # Vitiligo
 
+![Image](images/vitiligo.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/c/c1/Layers_of_the_skin.jpg)
 
 ![Image](https://magazine.medlineplus.gov/images/uploads/main_images/is-it-vitiligo.jpg)

@@ -1,5 +1,8 @@
 # Hypertensive retinopathy
 
+![Image](images/hypertensive_retinopathy.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19530.jpg)
 
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK525980/bin/htnr.jpg)

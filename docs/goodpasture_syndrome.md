@@ -1,5 +1,9 @@
 # Goodpasture syndrome
 
+![Image](images/goodpasture_syndrome_1.jpg)
+![Image](images/goodpasture_syndrome_2.jpg)
+
+
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/anti-gbm-basement-membrane.jpeg)
 
 ![Image](https://unckidneycenter.org/wp-content/uploads/sites/413/2017/10/anti-gbm-biopsy.png)

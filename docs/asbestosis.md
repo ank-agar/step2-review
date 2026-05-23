@@ -1,5 +1,8 @@
 # Asbestosis
 
+![Image](images/asbestosis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/3/3a/Asbestos_effect.jpg)
 
 ![Image](https://archive.cdc.gov/www_atsdr_cdc_gov/csem/asbestos/biological_fate_of_asbestos_html_files/figure4.jpg)

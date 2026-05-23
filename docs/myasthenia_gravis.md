@@ -1,5 +1,8 @@
 # Myasthenia gravis
 
+![Image](images/myasthenia_gravis.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wikipedia_Project_Myasthenia_gravis_%285%29.svg/960px-Wikipedia_Project_Myasthenia_gravis_%285%29.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/57/Myasthenia_gravis_ptosis_reversal.jpg)

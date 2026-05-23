@@ -1,5 +1,10 @@
 # Brachial plexus palsy
 
+![Image](images/brachial_plexus_palsy_1.jpg)
+![Image](images/brachial_plexus_palsy_2.jpg)
+![Image](images/brachial_plexus_palsy_3.jpg)
+
+
 ![Image](https://www.ncbi.nlm.nih.gov/books/NBK482174/bin/Images-AA-US_-figure.jpg)
 
 ![Image](https://med.stanford.edu/newborns/professional-education/photo-gallery/neuro-reflexes/_jcr_content/main/panel_builder/panel_0/panel_builder/panel_0/tabs/tab_main_panel_builder_panel_0_panel_builder_panel_0_tabs_14/image.img.620.high.jpg/brachialplexus1.jpg)

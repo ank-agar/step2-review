@@ -1,5 +1,8 @@
 # Intraparenchymal hemorrhage
 
+![Image](images/intraparenchymal_hemorrhage.jpg)
+
+
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/8813.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/1/1c/Intracerebral_hemorrage_%28CT_scan%29.jpg)

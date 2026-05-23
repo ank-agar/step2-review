@@ -1,5 +1,8 @@
 # Bacteremia
 
+![Image](images/bacteremia.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/Antibiotics-11-00511-g001.jpg)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/7/7b/Blood_culture_gram_stain_of_Gram_positive_cocci.jpg)

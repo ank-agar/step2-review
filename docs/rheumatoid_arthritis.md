@@ -1,5 +1,9 @@
 # Rheumatoid arthritis
 
+![Image](images/rheumatoid_arthritis_1.jpg)
+![Image](images/rheumatoid_arthritis_2.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/0d/Rheumatoid_Arthritis_%28Swan_Neck_Deformity%29.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/8/83/Swan_neck_deformity_in_a_65_year_old_Rheumatoid_Arthritis_patient-_2014-05-27_01-49.jpg)

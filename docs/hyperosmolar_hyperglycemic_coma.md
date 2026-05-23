@@ -1,5 +1,8 @@
 # Hyperosmolar hyperglycemic coma
 
+![Image](images/hyperosmolar_hyperglycemic_coma.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hyperosmolar_hyperglycemic_state_by_hariadhi.svg/960px-Hyperosmolar_hyperglycemic_state_by_hariadhi.svg.png)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperglycemia.png/500px-Hyperglycemia.png)

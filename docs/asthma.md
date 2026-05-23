@@ -1,5 +1,9 @@
 # Asthma
 
+![Image](images/asthma_1.jpg)
+![Image](images/asthma_2.jpg)
+
+
 ![Image](https://www.nhlbi.nih.gov/sites/default/files/inline-images/NHLBI_Fig04_final02%20English.jpg)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/19375.jpg)

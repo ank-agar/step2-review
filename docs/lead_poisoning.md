@@ -1,5 +1,10 @@
 # Lead poisoning
 
+![Image](images/lead_poisoning_1.jpg)
+![Image](images/lead_poisoning_2.jpg)
+![Image](images/lead_poisoning_3.jpg)
+
+
 ![Image](https://lh6.googleusercontent.com/mOXCjrbHFUY2Gxw-A8rH28Ct3oZqw69n5m4O_3_LjyFPiId4lJf3L9yZHWGQk6btBLOX8ShXrO5L1_cuX0NkRM3fnOxMH-4yVF8Z1R86aHF3TGzPYe6e9vsPyTIVdoFCwinE9XmR)
 
 ![Image](https://imagebank.hematology.org/getimagebyid/2632?size=3)

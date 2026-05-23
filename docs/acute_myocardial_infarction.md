@@ -1,5 +1,13 @@
 # Acute myocardial infarction
 
+![Image](images/acute_myocardial_infarction_1.jpg)
+![Image](images/acute_myocardial_infarction_2.jpg)
+![Image](images/acute_myocardial_infarction_3.jpg)
+![Image](images/acute_myocardial_infarction_4.jpg)
+![Image](images/acute_myocardial_infarction_5.jpg)
+![Image](images/acute_myocardial_infarction_6.jpg)
+
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/5/5e/Heart_attack_diagram.png)
 
 ![Image](https://medlineplus.gov/ency/images/ency/fullsize/17004.jpg)
