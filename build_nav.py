@@ -12,13 +12,16 @@ Steps:
    like "AIDS"), with a star appended on stubs.
 """
 from pathlib import Path
+import random
 import re
 
 HERE = Path(__file__).parent
 DOCS = HERE / "docs"
 MKDOCS_YML = HERE / "mkdocs.yml"
+NAV_ORDER_TXT = HERE / "nav_order.txt"
 COMPLETED_TXT = HERE.parent / "terms-completed.txt"
 TODO_TXT = HERE.parent / "terms-to-do.txt"
+SHUFFLE_SEED = 42
 STUB_MARKER = "This term has not been written yet."
 STAR = " ⭐"
 
@@ -80,17 +83,53 @@ def first_heading_text(path: Path) -> str | None:
             return m.group(1).strip()
     return None
 
+def get_stable_order(current_filenames: set[str]) -> list[str]:
+    """Return a stable ordering of filenames.
+
+    On first run: shuffles all files deterministically (seed=42).
+    On subsequent runs: preserves prior position of existing files,
+    drops files no longer present, and appends newly-added files at
+    the end in a (deterministically) shuffled order. This way the
+    user's progress number for any given article stays stable across
+    syncs.
+    """
+    if NAV_ORDER_TXT.exists():
+        prior = [
+            l.strip()
+            for l in NAV_ORDER_TXT.read_text(encoding="utf-8").splitlines()
+            if l.strip()
+        ]
+    else:
+        prior = []
+
+    # Keep prior order, dropping files that no longer exist.
+    ordered = [f for f in prior if f in current_filenames]
+    new_files = sorted(current_filenames - set(ordered))
+
+    rng = random.Random(SHUFFLE_SEED if not prior else SHUFFLE_SEED + len(prior))
+    rng.shuffle(new_files)
+
+    if not prior:
+        ordered = new_files
+    else:
+        ordered.extend(new_files)
+
+    NAV_ORDER_TXT.write_text("\n".join(ordered) + "\n", encoding="utf-8")
+    return ordered
+
+
 def build_nav_lines() -> list[str]:
-    md_files = sorted(p for p in DOCS.glob("*.md") if p.name != "index.md")
+    md_files = {p.name: p for p in DOCS.glob("*.md") if p.name != "index.md"}
+    ordered_names = get_stable_order(set(md_files.keys()))
     lines = ["nav:", "  - Home: index.md"]
-    for i, p in enumerate(md_files, start=1):
+    for i, name in enumerate(ordered_names, start=1):
+        p = md_files[name]
         heading = first_heading_text(p) or titleize(p.stem)
         title = f"{i}. {heading}"
         if is_stub(p):
             title += STAR
-        # Escape any embedded double quotes
         safe = title.replace('"', '\\"')
-        lines.append(f'  - "{safe}": {p.name}')
+        lines.append(f'  - "{safe}": {name}')
     return lines
 
 def main():

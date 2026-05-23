@@ -46,1593 +46,1593 @@ extra_css:
 
 nav:
   - Home: index.md
-  - "1. Abdominal aortic aneurysm": abdominal_aortic_aneurysm.md
-  - "2. Abdominal pain": abdominal_pain.md
-  - "3. Abdominal wall defect": abdominal_wall_defect.md
-  - "4. Abdominal wall hernia": abdominal_wall_hernia.md
-  - "5. Abnormal cervical cytology": abnormal_cervical_cytology.md
-  - "6. Abnormal uterine bleeding": abnormal_uterine_bleeding.md
-  - "7. ABO incompatibility in newborn": abo_incompatibility_in_newborn.md
-  - "8. Abruptio placentae": abruptio_placentae.md
-  - "9. Absence seizure": absence_seizure.md
-  - "10. Acanthamoeba": acanthamoeba.md
-  - "11. Acanthosis nigricans": acanthosis_nigricans.md
-  - "12. Acetaminophen toxicity": acetaminophen_toxicity.md
-  - "13. Achalasia": achalasia.md
-  - "14. Achondroplasia": achondroplasia.md
-  - "15. Acne vulgaris": acne_vulgaris.md
-  - "16. Acoustic neuroma": acoustic_neuroma.md
-  - "17. Acquired methemoglobinemia": acquired_methemoglobinemia.md
-  - "18. Acromegaly": acromegaly.md
-  - "19. Acute bronchiolitis": acute_bronchiolitis.md
-  - "20. Acute bronchitis": acute_bronchitis.md
-  - "21. Acute coronary syndrome": acute_coronary_syndrome.md
-  - "22. Acute dystonia": acute_dystonia.md
-  - "23. Acute dystonic reaction": acute_dystonic_reaction.md
-  - "24. Acute fatty liver of pregnancy": acute_fatty_liver_of_pregnancy.md
-  - "25. Acute interstitial nephritis": acute_interstitial_nephritis.md
-  - "26. Acute kidney injury": acute_kidney_injury.md
-  - "27. Acute laryngitis": acute_laryngitis.md
-  - "28. Acute lymphoblastic leukemia": acute_lymphoblastic_leukemia.md
-  - "29. Acute myeloid leukemia": acute_myeloid_leukemia.md
-  - "30. Acute myocardial infarction": acute_myocardial_infarction.md
-  - "31. Acute pancreatitis": acute_pancreatitis.md
-  - "32. Acute pericarditis": acute_pericarditis.md
-  - "33. Acute respiratory distress syndrome": acute_respiratory_distress_syndrome.md
-  - "34. Acute rheumatic fever": acute_rheumatic_fever.md
-  - "35. Acute stress disorder": acute_stress_disorder.md
-  - "36. Acute tubular necrosis": acute_tubular_necrosis.md
-  - "37. Acute upper respiratory infection": acute_upper_respiratory_infection.md
-  - "38. Addison disease": addison_disease.md
-  - "39. Adenosine deaminase deficiency": adenosine_deaminase_deficiency.md
-  - "40. Adenovirus": adenovirus.md
-  - "41. Adenovirus infection": adenovirus_infection.md
-  - "42. Adhesive capsulitis": adhesive_capsulitis.md
-  - "43. Adjustment disorder": adjustment_disorder.md
-  - "44. Adolescent pregnancy": adolescent_pregnancy.md
-  - "45. Adrenal adenoma": adrenal_adenoma.md
-  - "46. Adrenal carcinoma": adrenal_carcinoma.md
-  - "47. Adrenal incidentaloma": adrenal_incidentaloma.md
-  - "48. Adrenal neuroblastoma": adrenal_neuroblastoma.md
-  - "49. Adrenoleukodystrophy": adrenoleukodystrophy.md
-  - "50. Agoraphobia": agoraphobia.md
-  - "51. Agranulocytosis": agranulocytosis.md
-  - "52. AIDS": aids.md
-  - "53. AIDS dementia complex": aids_dementia_complex.md
-  - "54. Air embolism": air_embolism.md
-  - "55. Akathisia": akathisia.md
-  - "56. Albinism": albinism.md
-  - "57. Alcohol intoxication": alcohol_intoxication.md
-  - "58. Alcohol use disorder and withdrawal": alcohol_use_disorder_and_withdrawal.md
-  - "59. Alcoholic cardiomyopathy": alcoholic_cardiomyopathy.md
-  - "60. Alcoholic fatty liver disease": alcoholic_fatty_liver_disease.md
-  - "61. Alcoholic hepatitis": alcoholic_hepatitis.md
-  - "62. Aldosteronoma": aldosteronoma.md
-  - "63. Allergic bronchopulmonary aspergillosis": allergic_bronchopulmonary_aspergillosis.md
-  - "64. Allergic contact dermatitis": allergic_contact_dermatitis.md
-  - "65. Allergic rhinitis": allergic_rhinitis.md
-  - "66. Alopecia": alopecia.md
-  - "67. Alpha-1 antitrypsin deficiency": alpha_1_antitrypsin_deficiency.md
-  - "68. Alport syndrome": alport_syndrome.md
-  - "69. Alzheimer disease": alzheimer_disease.md
-  - "70. Amaurosis fugax": amaurosis_fugax.md
-  - "71. Amblyopia": amblyopia.md
-  - "72. Amnionitis": amnionitis.md
-  - "73. Ampullary adenocarcinoma": ampullary_adenocarcinoma.md
-  - "74. Amyloidosis": amyloidosis.md
-  - "75. Amyotrophic lateral sclerosis": amyotrophic_lateral_sclerosis.md
-  - "76. Anal abscess": anal_abscess.md
-  - "77. Anal cancer": anal_cancer.md
-  - "78. Anal fissure": anal_fissure.md
-  - "79. Anal fistula": anal_fistula.md
-  - "80. Anal polyps": anal_polyps.md
-  - "81. Anal ulcer": anal_ulcer.md
-  - "82. Anaphylaxis": anaphylaxis.md
-  - "83. Anaplasma": anaplasma.md
-  - "84. Anaplasmosis": anaplasmosis.md
-  - "85. Anaplastic thyroid cancer": anaplastic_thyroid_cancer.md
-  - "86. Anasarca": anasarca.md
-  - "87. Androgen insensitivity syndrome": androgen_insensitivity_syndrome.md
-  - "88. Anemia of chronic disease": anemia_of_chronic_disease.md
-  - "89. Anemia of pregnancy": anemia_of_pregnancy.md
-  - "90. Anencephaly": anencephaly.md
-  - "91. Angiodysplasia": angiodysplasia.md
-  - "92. Angiostrongylus cantonensis": angiostrongylus_cantonensis.md
-  - "93. Anisocoria": anisocoria.md
-  - "94. Ankylosing spondylitis": ankylosing_spondylitis.md
-  - "95. Annular pancreas": annular_pancreas.md
-  - "96. Anomalous left coronary artery": anomalous_left_coronary_artery.md
-  - "97. Anovulation": anovulation.md
-  - "98. Anoxic brain injury": anoxic_brain_injury.md
-  - "99. Antepartum hemorrhage": antepartum_hemorrhage.md
-  - "100. Anthrax": anthrax.md
-  - "101. Anti-NMDA receptor encephalitis": anti_nmda_receptor_encephalitis.md
-  - "102. Antiphospholipid syndrome": antiphospholipid_syndrome.md
-  - "103. Antisocial personality disorder": antisocial_personality_disorder.md
-  - "104. Antithrombin III deficiency": antithrombin_iii_deficiency.md
-  - "105. Anuria": anuria.md
-  - "106. Aortic dissection": aortic_dissection.md
-  - "107. Aortic regurgitation": aortic_regurgitation.md
-  - "108. Aortic stenosis": aortic_stenosis.md
-  - "109. Aortoiliac occlusive disease": aortoiliac_occlusive_disease.md
-  - "110. Aphthous ulcers": aphthous_ulcers.md
-  - "111. Aplastic anemia": aplastic_anemia.md
-  - "112. Apparent life-threatening event": apparent_life_threatening_event.md
-  - "113. Appendicitis": appendicitis.md
-  - "114. Appendicitis in pregnancy": appendicitis_in_pregnancy.md
-  - "115. Arboviruses": arboviruses.md
-  - "116. Arnold-Chiari malformation": arnold_chiari_malformation.md
-  - "117. Arterial embolism": arterial_embolism.md
-  - "118. Arterial thrombosis": arterial_thrombosis.md
-  - "119. Arteriovenous fistula": arteriovenous_fistula.md
-  - "120. Arteriovenous malformation": arteriovenous_malformation.md
-  - "121. Arthralgia": arthralgia.md
-  - "122. Asbestosis": asbestosis.md
-  - "123. Ascending cholangitis": ascending_cholangitis.md
-  - "124. Ascites": ascites.md
-  - "125. Asherman syndrome": asherman_syndrome.md
-  - "126. Aspergilloma": aspergilloma.md
-  - "127. Aspergillosis": aspergillosis.md
-  - "128. Aspiration pneumonia": aspiration_pneumonia.md
-  - "129. Aspiration pneumonitis": aspiration_pneumonitis.md
-  - "130. Asthma": asthma.md
-  - "131. Asthma in pregnancy": asthma_in_pregnancy.md
-  - "132. Astigmatism": astigmatism.md
-  - "133. Astrocytoma": astrocytoma.md
-  - "134. Asymptomatic bacteriuria": asymptomatic_bacteriuria.md
-  - "135. Atelectasis": atelectasis.md
-  - "136. Atheroembolic disease": atheroembolic_disease.md
-  - "137. Atherosclerosis": atherosclerosis.md
-  - "138. Atopic dermatitis": atopic_dermatitis.md
-  - "139. Atrial fibrillation": atrial_fibrillation.md
-  - "140. Atrial flutter": atrial_flutter.md
-  - "141. Atrial septal defect": atrial_septal_defect.md
-  - "142. Atrophic vaginitis": atrophic_vaginitis.md
-  - "143. Attention-deficit/hyperactivity disorder": attention_deficit_hyperactivity_disorder.md
-  - "144. Autism spectrum disorder": autism_spectrum_disorder.md
-  - "145. Autoimmune hemolytic anemia": autoimmune_hemolytic_anemia.md
-  - "146. Autoimmune hepatitis": autoimmune_hepatitis.md
-  - "147. Autoimmune hypogonadism": autoimmune_hypogonadism.md
-  - "148. Autoimmune vasculitis": autoimmune_vasculitis.md
-  - "149. Autonomic dysreflexia": autonomic_dysreflexia.md
-  - "150. Avascular osteonecrosis": avascular_osteonecrosis.md
-  - "151. Avian influenza": avian_influenza.md
-  - "152. Avoidant personality disorder": avoidant_personality_disorder.md
-  - "153. Azotemia": azotemia.md
-  - "154. Bacillus anthracis": bacillus_anthracis.md
-  - "155. Backache": backache.md
-  - "156. Bacteremia": bacteremia.md
-  - "157. Bacterial endocarditis": bacterial_endocarditis.md
-  - "158. Bacterial meningitis": bacterial_meningitis.md
-  - "159. Bacterial vaginosis": bacterial_vaginosis.md
-  - "160. Bagassosis": bagassosis.md
-  - "161. Balanitis": balanitis.md
-  - "162. Barbiturate withdrawal": barbiturate_withdrawal.md
-  - "163. Barotrauma": barotrauma.md
-  - "164. Barrett esophagus": barrett_esophagus.md
-  - "165. Bartholin gland abscess": bartholin_gland_abscess.md
-  - "166. Basal cell carcinoma": basal_cell_carcinoma.md
-  - "167. Baylisascaris procyonis": baylisascaris_procyonis.md
-  - "168. Beckwith-Wiedemann syndrome": beckwith_wiedemann_syndrome.md
-  - "169. Bed bug bites": bed_bug_bites.md
-  - "170. Behcet syndrome": behcet_syndrome.md
-  - "171. Bell palsy": bell_palsy.md
-  - "172. Benign ovarian neoplasm": benign_ovarian_neoplasm.md
-  - "173. Benign positional vertigo": benign_positional_vertigo.md
-  - "174. Benign prostatic hyperplasia": benign_prostatic_hyperplasia.md
-  - "175. Benzodiazepine withdrawal": benzodiazepine_withdrawal.md
-  - "176. Beriberi": beriberi.md
-  - "177. Berylliosis": berylliosis.md
-  - "178. Bicornuate uterus": bicornuate_uterus.md
-  - "179. Bile duct obstruction": bile_duct_obstruction.md
-  - "180. Biliary atresia": biliary_atresia.md
-  - "181. Bipolar disorder": bipolar_disorder.md
-  - "182. Birth asphyxia": birth_asphyxia.md
-  - "183. Bladder rupture": bladder_rupture.md
-  - "184. Blast injuries": blast_injuries.md
-  - "185. Blast injury": blast_injury.md
-  - "186. Blastomyces dermatitidis": blastomyces_dermatitidis.md
-  - "187. Blastomycosis": blastomycosis.md
-  - "188. Blepharitis": blepharitis.md
-  - "189. Blind loop syndrome": blind_loop_syndrome.md
-  - "190. Body dysmorphic disorder": body_dysmorphic_disorder.md
-  - "191. Boerhaave syndrome": boerhaave_syndrome.md
-  - "192. Bone infarct": bone_infarct.md
-  - "193. Bone metastases": bone_metastases.md
-  - "194. Borderline personality disorder": borderline_personality_disorder.md
-  - "195. Borrelia burgdorferi": borrelia_burgdorferi.md
-  - "196. Botulism": botulism.md
-  - "197. Brachial plexus injury": brachial_plexus_injury.md
-  - "198. Brachial plexus palsy": brachial_plexus_palsy.md
-  - "199. Bradycardia": bradycardia.md
-  - "200. Brain death": brain_death.md
-  - "201. Brain metastasis": brain_metastasis.md
-  - "202. Breast abscess": breast_abscess.md
-  - "203. Breast cancer": breast_cancer.md
-  - "204. Breast cyst": breast_cyst.md
-  - "205. Breast hypertrophy": breast_hypertrophy.md
-  - "206. Breath-holding spells": breath_holding_spells.md
-  - "207. Breech presentation": breech_presentation.md
-  - "208. Brief psychotic disorder": brief_psychotic_disorder.md
-  - "209. Bronchial carcinoid tumor": bronchial_carcinoid_tumor.md
-  - "210. Bronchiectasis": bronchiectasis.md
-  - "211. Bronchiolitis obliterans organizing pneumonia": bronchiolitis_obliterans_organizing_pneumonia.md
-  - "212. Bronchogenic cyst": bronchogenic_cyst.md
-  - "213. Bronchopneumonia": bronchopneumonia.md
-  - "214. Bronchopulmonary dysplasia": bronchopulmonary_dysplasia.md
-  - "215. Brucella": brucella.md
-  - "216. Brucellosis": brucellosis.md
-  - "217. Bulimia nervosa": bulimia_nervosa.md
-  - "218. Burkholderia pseudomallei": burkholderia_pseudomallei.md
-  - "219. Burkitt lymphoma": burkitt_lymphoma.md
-  - "220. Bursitis": bursitis.md
-  - "221. Byssinosis": byssinosis.md
-  - "222. C1q deficiency": c1q_deficiency.md
-  - "223. C1r deficiency": c1r_deficiency.md
-  - "224. C2 deficiency": c2_deficiency.md
-  - "225. C3 deficiency": c3_deficiency.md
-  - "226. Caffeine withdrawal headache": caffeine_withdrawal_headache.md
-  - "227. California encephalitis virus": california_encephalitis_virus.md
-  - "228. Campylobacter": campylobacter.md
-  - "229. Candida albicans": candida_albicans.md
-  - "230. Candidiasis": candidiasis.md
-  - "231. Cannabis use disorder and intoxication": cannabis_use_disorder_and_intoxication.md
-  - "232. Carbon tetrachloride poisoning": carbon_tetrachloride_poisoning.md
-  - "233. Carbuncle": carbuncle.md
-  - "234. Cardiac arrest": cardiac_arrest.md
-  - "235. Cardiac metastases": cardiac_metastases.md
-  - "236. Cardiac myxoma": cardiac_myxoma.md
-  - "237. Cardiac tamponade": cardiac_tamponade.md
-  - "238. Cardiogenic pulmonary edema": cardiogenic_pulmonary_edema.md
-  - "239. Cardiogenic shock": cardiogenic_shock.md
-  - "240. Carotid artery dissection": carotid_artery_dissection.md
-  - "241. Carotid artery stenosis": carotid_artery_stenosis.md
-  - "242. Carotid sinus hypersensitivity": carotid_sinus_hypersensitivity.md
-  - "243. Carpal tunnel syndrome": carpal_tunnel_syndrome.md
-  - "244. Carpal tunnel syndrome in pregnancy": carpal_tunnel_syndrome_in_pregnancy.md
-  - "245. Cataplexy": cataplexy.md
-  - "246. Cataract": cataract.md
-  - "247. Cauda equina syndrome": cauda_equina_syndrome.md
-  - "248. Cauliflower ear": cauliflower_ear.md
-  - "249. Celiac disease": celiac_disease.md
-  - "250. Cellulitis": cellulitis.md
-  - "251. Central retinal artery occlusion": central_retinal_artery_occlusion.md
-  - "252. Central retinal vein occlusion": central_retinal_vein_occlusion.md
-  - "253. Central sleep apnea": central_sleep_apnea.md
-  - "254. Cerebral aneurysm": cerebral_aneurysm.md
-  - "255. Cerebral artery occlusion": cerebral_artery_occlusion.md
-  - "256. Cerebral edema": cerebral_edema.md
-  - "257. Cerebral edema in DKA": cerebral_edema_in_dka.md
-  - "258. Cerebral infarction": cerebral_infarction.md
-  - "259. Cerebral venous sinus thrombosis": cerebral_venous_sinus_thrombosis.md
-  - "260. Cervical cancer": cervical_cancer.md
-  - "261. Cervical dysplasia": cervical_dysplasia.md
-  - "262. Cervical dystonia": cervical_dystonia.md
-  - "263. Cervical insufficiency": cervical_insufficiency.md
-  - "264. Cervical shortening": cervical_shortening.md
-  - "265. Cervical spinal stenosis": cervical_spinal_stenosis.md
-  - "266. Cervicitis": cervicitis.md
-  - "267. Chagas disease": chagas_disease.md
-  - "268. Chalazion": chalazion.md
-  - "269. Chancroid": chancroid.md
-  - "270. Charcot-Marie-Tooth disease": charcot_marie_tooth_disease.md
-  - "271. Chediak-Higashi disease": chediak_higashi_disease.md
-  - "272. Chest pain": chest_pain.md
-  - "273. Chest wall injury": chest_wall_injury.md
-  - "274. Chickenpox": chickenpox.md
-  - "275. Chlamydia trachomatis": chlamydia_trachomatis.md
-  - "276. Chlamydia trachomatis infection": chlamydia_trachomatis_infection.md
-  - "277. Chlamydial cystitis": chlamydial_cystitis.md
-  - "278. Chlamydophila pneumoniae": chlamydophila_pneumoniae.md
-  - "279. Cholangiocarcinoma": cholangiocarcinoma.md
-  - "280. Cholecystitis": cholecystitis.md
-  - "281. Choledocholithiasis": choledocholithiasis.md
-  - "282. Cholelithiasis": cholelithiasis.md
-  - "283. Cholestasis": cholestasis.md
-  - "284. Cholesteatoma": cholesteatoma.md
-  - "285. Cholesterol embolism": cholesterol_embolism.md
-  - "286. Chondritis": chondritis.md
-  - "287. Chondromalacia": chondromalacia.md
-  - "288. Chordae tendineae rupture": chordae_tendineae_rupture.md
-  - "289. Chorioretinitis": chorioretinitis.md
-  - "290. Chronic bronchitis": chronic_bronchitis.md
-  - "291. Chronic granulomatous disease": chronic_granulomatous_disease.md
-  - "292. Chronic kidney disease": chronic_kidney_disease.md
-  - "293. Chronic lymphocytic leukemia": chronic_lymphocytic_leukemia.md
-  - "294. Chronic myeloid leukemia": chronic_myeloid_leukemia.md
-  - "295. Chronic obstructive pulmonary disease": chronic_obstructive_pulmonary_disease.md
-  - "296. Chronic pancreatitis": chronic_pancreatitis.md
-  - "297. Chronic pelvic pain syndrome": chronic_pelvic_pain_syndrome.md
-  - "298. Chronic rhinitis": chronic_rhinitis.md
-  - "299. Churg-Strauss syndrome": churg_strauss_syndrome.md
-  - "300. Chylothorax": chylothorax.md
-  - "301. Circadian rhythm sleep-wake disorder": circadian_rhythm_sleep_wake_disorder.md
-  - "302. Cirrhosis": cirrhosis.md
-  - "303. Cirrhosis in pregnancy": cirrhosis_in_pregnancy.md
-  - "304. Claudication": claudication.md
-  - "305. Cleft lip": cleft_lip.md
-  - "306. Cleft palate": cleft_palate.md
-  - "307. Clostridial myonecrosis": clostridial_myonecrosis.md
-  - "308. Clostridium botulinum": clostridium_botulinum.md
-  - "309. Clostridium difficile infection": clostridium_difficile_infection.md
-  - "310. Clostridium perfringens": clostridium_perfringens.md
-  - "311. Clostridium tetani": clostridium_tetani.md
-  - "312. Cluster headache": cluster_headache.md
-  - "313. CMV esophagitis": cmv_esophagitis.md
-  - "314. Coarctation of the aorta": coarctation_of_the_aorta.md
-  - "315. Cocaine intoxication": cocaine_intoxication.md
-  - "316. Coccidioides immitis": coccidioides_immitis.md
-  - "317. Coccidioidomycosis": coccidioidomycosis.md
-  - "318. Collagenous colitis": collagenous_colitis.md
-  - "319. Colon cancer": colon_cancer.md
-  - "320. Colon polyps": colon_polyps.md
-  - "321. Coma": coma.md
-  - "322. Community-acquired pneumonia": community_acquired_pneumonia.md
-  - "323. Compartment syndrome": compartment_syndrome.md
-  - "324. Complex regional pain syndrome": complex_regional_pain_syndrome.md
-  - "325. Concussion": concussion.md
-  - "326. Conduct disorder": conduct_disorder.md
-  - "327. Condylomata acuminata": condylomata_acuminata.md
-  - "328. Congenital adrenal hyperplasia": congenital_adrenal_hyperplasia.md
-  - "329. Congenital chlamydia": congenital_chlamydia.md
-  - "330. Congenital cytomegalovirus infection": congenital_cytomegalovirus_infection.md
-  - "331. Congenital diaphragmatic hernia": congenital_diaphragmatic_hernia.md
-  - "332. Congenital hepatitis B": congenital_hepatitis_b.md
-  - "333. Congenital HIV": congenital_hiv.md
-  - "334. Congenital hypothyroidism": congenital_hypothyroidism.md
-  - "335. Congenital methemoglobinemia": congenital_methemoglobinemia.md
-  - "336. Congenital nevi": congenital_nevi.md
-  - "337. Congenital parvovirus B19": congenital_parvovirus_b19.md
-  - "338. Congenital pulmonary cyst": congenital_pulmonary_cyst.md
-  - "339. Congenital rubella": congenital_rubella.md
-  - "340. Congenital syphilis": congenital_syphilis.md
-  - "341. Congenital toxoplasmosis": congenital_toxoplasmosis.md
-  - "342. Congenital varicella": congenital_varicella.md
-  - "343. Congestive heart failure": congestive_heart_failure.md
-  - "344. Conjunctivitis": conjunctivitis.md
-  - "345. Constipation": constipation.md
-  - "346. Constrictive pericarditis": constrictive_pericarditis.md
-  - "347. Contracture": contracture.md
-  - "348. Contusion": contusion.md
-  - "349. Conversion disorder": conversion_disorder.md
-  - "350. Copay": copay.md
-  - "351. Cor pulmonale": cor_pulmonale.md
-  - "352. Cord compression": cord_compression.md
-  - "353. Cord prolapse": cord_prolapse.md
-  - "354. Corneal abrasion": corneal_abrasion.md
-  - "355. Corneal ulcer": corneal_ulcer.md
-  - "356. Coronary artery disease": coronary_artery_disease.md
-  - "357. Coronary artery spasm": coronary_artery_spasm.md
-  - "358. Coronavirus infection": coronavirus_infection.md
-  - "359. Costochondritis": costochondritis.md
-  - "360. Cough": cough.md
-  - "361. Coxiella burnetii": coxiella_burnetii.md
-  - "362. Coxsackievirus A": coxsackievirus_a.md
-  - "363. Coxsackievirus B": coxsackievirus_b.md
-  - "364. Coxsackievirus enteritis": coxsackievirus_enteritis.md
-  - "365. Coxsackievirus infection": coxsackievirus_infection.md
-  - "366. Cranial nerve injury": cranial_nerve_injury.md
-  - "367. Craniopharyngioma": craniopharyngioma.md
-  - "368. Creutzfeldt-Jakob disease": creutzfeldt_jakob_disease.md
-  - "369. Crigler-Najjar syndrome": crigler_najjar_syndrome.md
-  - "370. Crohn disease": crohn_disease.md
-  - "371. Croup": croup.md
-  - "372. Cryptococcus gattii": cryptococcus_gattii.md
-  - "373. Cryptococcus neoformans": cryptococcus_neoformans.md
-  - "374. Cryptosporidium": cryptosporidium.md
-  - "375. Cubital tunnel syndrome": cubital_tunnel_syndrome.md
-  - "376. Cushing syndrome": cushing_syndrome.md
-  - "377. Cutaneous abscess": cutaneous_abscess.md
-  - "378. Cutaneous candidiasis": cutaneous_candidiasis.md
-  - "379. Cutaneous larva migrans": cutaneous_larva_migrans.md
-  - "380. Cutaneous leishmaniasis": cutaneous_leishmaniasis.md
-  - "381. Cutaneous T-cell lymphoma": cutaneous_t_cell_lymphoma.md
-  - "382. Cyclic neutropenia": cyclic_neutropenia.md
-  - "383. Cyclospora": cyclospora.md
-  - "384. Cyclothymic disorder": cyclothymic_disorder.md
-  - "385. Cystic fibrosis": cystic_fibrosis.md
-  - "386. Cystinuria": cystinuria.md
-  - "387. Cystitis": cystitis.md
-  - "388. Cystocele": cystocele.md
-  - "389. Cytomegalovirus": cytomegalovirus.md
-  - "390. Cytomegalovirus infection": cytomegalovirus_infection.md
-  - "391. Dacryocystitis": dacryocystitis.md
-  - "392. Decubitus ulcer": decubitus_ulcer.md
-  - "393. Deductibles": deductibles.md
-  - "394. Deep venous thrombosis": deep_venous_thrombosis.md
-  - "395. Dehydration": dehydration.md
-  - "396. Delayed puberty": delayed_puberty.md
-  - "397. Delirium": delirium.md
-  - "398. Delusional disorder": delusional_disorder.md
-  - "399. Dementia pugilistica": dementia_pugilistica.md
-  - "400. Dental abscess": dental_abscess.md
-  - "401. Dental caries": dental_caries.md
-  - "402. Dependent personality disorder": dependent_personality_disorder.md
-  - "403. Dermatitis herpetiformis": dermatitis_herpetiformis.md
-  - "404. Dermatomycoses": dermatomycoses.md
-  - "405. Dermatomyositis": dermatomyositis.md
-  - "406. Desquamative interstitial pneumonia": desquamative_interstitial_pneumonia.md
-  - "407. Developmental dysplasia of the hip": developmental_dysplasia_of_the_hip.md
-  - "408. Diabetes insipidus": diabetes_insipidus.md
-  - "409. Diabetes mellitus in pregnancy": diabetes_mellitus_in_pregnancy.md
-  - "410. Diabetes mellitus type 1": diabetes_mellitus_type_1.md
-  - "411. Diabetes mellitus type 2": diabetes_mellitus_type_2.md
-  - "412. Diabetic gastroparesis": diabetic_gastroparesis.md
-  - "413. Diabetic ketoacidosis": diabetic_ketoacidosis.md
-  - "414. Diabetic nephropathy": diabetic_nephropathy.md
-  - "415. Diabetic neuropathy": diabetic_neuropathy.md
-  - "416. Diabetic retinopathy": diabetic_retinopathy.md
-  - "417. Diaper rash": diaper_rash.md
-  - "418. Diaphragm injury": diaphragm_injury.md
-  - "419. Diarrhea": diarrhea.md
-  - "420. Diastolic heart failure": diastolic_heart_failure.md
-  - "421. DiGeorge syndrome": digeorge_syndrome.md
-  - "422. Dilated cardiomyopathy": dilated_cardiomyopathy.md
-  - "423. Disc degeneration": disc_degeneration.md
-  - "424. Discitis": discitis.md
-  - "425. Dislocated lens": dislocated_lens.md
-  - "426. Dislocation": dislocation.md
-  - "427. Disorders of sexual differentiation": disorders_of_sexual_differentiation.md
-  - "428. Disseminated intravascular coagulation": disseminated_intravascular_coagulation.md
-  - "429. Dissociative disorder": dissociative_disorder.md
-  - "430. Diverticulitis": diverticulitis.md
-  - "431. Diverticulosis": diverticulosis.md
-  - "432. Dizziness": dizziness.md
-  - "433. Double Ureters ⭐": double_ureters.md
-  - "434. Down syndrome": down_syndrome.md
-  - "435. Dressler syndrome": dressler_syndrome.md
-  - "436. Drowning": drowning.md
-  - "437. Drug-induced aseptic meningitis": drug_induced_aseptic_meningitis.md
-  - "438. Drug-induced myopathy": drug_induced_myopathy.md
-  - "439. Drug-induced parkinsonism": drug_induced_parkinsonism.md
-  - "440. Drug-induced peripheral neuropathy": drug_induced_peripheral_neuropathy.md
-  - "441. Drug-induced urinary retention": drug_induced_urinary_retention.md
-  - "442. Dry gangrene": dry_gangrene.md
-  - "443. Dubin-Johnson syndrome": dubin_johnson_syndrome.md
-  - "444. Duchenne muscular dystrophy": duchenne_muscular_dystrophy.md
-  - "445. Duodenal tear": duodenal_tear.md
-  - "446. Duodenal ulcer": duodenal_ulcer.md
-  - "447. Duodenitis": duodenitis.md
-  - "448. Dupuytren contracture": dupuytren_contracture.md
-  - "449. Dwarfism": dwarfism.md
-  - "450. Dyslexia": dyslexia.md
-  - "451. Dysmenorrhea": dysmenorrhea.md
-  - "452. Dyspareunia": dyspareunia.md
-  - "453. Dyspepsia": dyspepsia.md
-  - "454. Dysphagia": dysphagia.md
-  - "455. Dyspnea": dyspnea.md
-  - "456. Dysuria": dysuria.md
-  - "457. Eastern equine encephalitis virus": eastern_equine_encephalitis_virus.md
-  - "458. Echovirus": echovirus.md
-  - "459. Echovirus enteritis": echovirus_enteritis.md
-  - "460. Eclampsia": eclampsia.md
-  - "461. Ectopic pregnancy": ectopic_pregnancy.md
-  - "462. Edema": edema.md
-  - "463. Ehlers-Danlos syndrome": ehlers_danlos_syndrome.md
-  - "464. Ehrlichia": ehrlichia.md
-  - "465. Ehrlichiosis": ehrlichiosis.md
-  - "466. Electrocution": electrocution.md
-  - "467. Embolic stroke": embolic_stroke.md
-  - "468. Emphysema": emphysema.md
-  - "469. Empyema": empyema.md
-  - "470. EMTALA": emtala.md
-  - "471. Enchondroma": enchondroma.md
-  - "472. Encopresis": encopresis.md
-  - "473. End-stage liver disease": end_stage_liver_disease.md
-  - "474. End-stage renal disease": end_stage_renal_disease.md
-  - "475. Endocardial cushion defect": endocardial_cushion_defect.md
-  - "476. Endocervical polyp": endocervical_polyp.md
-  - "477. Endocervicitis": endocervicitis.md
-  - "478. Endometrial cancer": endometrial_cancer.md
-  - "479. Endometrial hyperplasia": endometrial_hyperplasia.md
-  - "480. Endometrial polyp": endometrial_polyp.md
-  - "481. Endometriosis": endometriosis.md
-  - "482. Endophthalmitis": endophthalmitis.md
-  - "483. Entamoeba histolytica": entamoeba_histolytica.md
-  - "484. Enterovirus": enterovirus.md
-  - "485. Enthesopathy": enthesopathy.md
-  - "486. Enuresis": enuresis.md
-  - "487. Eosinophilic esophagitis": eosinophilic_esophagitis.md
-  - "488. Eosinophilic granuloma": eosinophilic_granuloma.md
-  - "489. Epidermal cyst": epidermal_cyst.md
-  - "490. Epidermolysis bullosa": epidermolysis_bullosa.md
-  - "491. Epididymal cyst": epididymal_cyst.md
-  - "492. Epididymitis": epididymitis.md
-  - "493. Epidural hematoma": epidural_hematoma.md
-  - "494. Epiglottitis": epiglottitis.md
-  - "495. Epistaxis": epistaxis.md
-  - "496. Epstein-Barr virus": epstein_barr_virus.md
-  - "497. Erectile dysfunction": erectile_dysfunction.md
-  - "498. Erysipelas": erysipelas.md
-  - "499. Erythema infectiosum": erythema_infectiosum.md
-  - "500. Erythema multiforme": erythema_multiforme.md
-  - "501. Erythema nodosum": erythema_nodosum.md
-  - "502. Escherichia coli": escherichia_coli.md
-  - "503. Esophageal adenocarcinoma": esophageal_adenocarcinoma.md
-  - "504. Esophageal atresia": esophageal_atresia.md
-  - "505. Esophageal periapical abscess": esophageal_periapical_abscess.md
-  - "506. Esophageal squamous cell carcinoma": esophageal_squamous_cell_carcinoma.md
-  - "507. Esophageal stricture": esophageal_stricture.md
-  - "508. Esophageal varices": esophageal_varices.md
-  - "509. Essential hypertension": essential_hypertension.md
-  - "510. Essential mixed cryoglobulinemia": essential_mixed_cryoglobulinemia.md
-  - "511. Essential tremor": essential_tremor.md
-  - "512. Ethylene glycol poisoning": ethylene_glycol_poisoning.md
-  - "513. Eustachian tube dysfunction": eustachian_tube_dysfunction.md
-  - "514. Euthyroid sick syndrome": euthyroid_sick_syndrome.md
-  - "515. Fabry disease": fabry_disease.md
-  - "516. Factitious disorder imposed on another": factitious_disorder_imposed_on_another.md
-  - "517. Factor V Leiden": factor_v_leiden.md
-  - "518. Familial adenomatous polyposis": familial_adenomatous_polyposis.md
-  - "519. Familial dilated cardiomyopathy": familial_dilated_cardiomyopathy.md
-  - "520. Familial Mediterranean fever": familial_mediterranean_fever.md
-  - "521. Fanconi anemia": fanconi_anemia.md
-  - "522. Fanconi syndrome": fanconi_syndrome.md
-  - "523. Fasciitis": fasciitis.md
-  - "524. Fat embolism": fat_embolism.md
-  - "525. Fat necrosis of breast": fat_necrosis_of_breast.md
-  - "526. Fatigue": fatigue.md
-  - "527. Febrile seizure": febrile_seizure.md
-  - "528. Fecal incontinence": fecal_incontinence.md
-  - "529. Felty syndrome": felty_syndrome.md
-  - "530. Female infertility": female_infertility.md
-  - "531. Femoral hernia": femoral_hernia.md
-  - "532. Fetal alcohol syndrome": fetal_alcohol_syndrome.md
-  - "533. Fetal growth restriction": fetal_growth_restriction.md
-  - "534. Fetal macrosomia": fetal_macrosomia.md
-  - "535. Fever of unknown origin": fever_of_unknown_origin.md
-  - "536. Fibroadenoma": fibroadenoma.md
-  - "537. Fibrocystic changes of breast": fibrocystic_changes_of_breast.md
-  - "538. Fibromuscular dysplasia": fibromuscular_dysplasia.md
-  - "539. Fibromyalgia": fibromyalgia.md
-  - "540. Fibrositis": fibrositis.md
-  - "541. First-degree AV block": first_degree_av_block.md
-  - "542. Fitz-Hugh-Curtis syndrome": fitz_hugh_curtis_syndrome.md
-  - "543. Flat foot": flat_foot.md
-  - "544. Folate deficiency": folate_deficiency.md
-  - "545. Folic acid deficiency": folic_acid_deficiency.md
-  - "546. Follicular thyroid cancer": follicular_thyroid_cancer.md
-  - "547. Folliculitis": folliculitis.md
-  - "548. Foreign body in ear": foreign_body_in_ear.md
-  - "549. Foreign body in respiratory tract": foreign_body_in_respiratory_tract.md
-  - "550. Fracture": fracture.md
-  - "551. Fragile X syndrome": fragile_x_syndrome.md
-  - "552. Frailty": frailty.md
-  - "553. Francisella tularensis": francisella_tularensis.md
-  - "554. Friedreich ataxia": friedreich_ataxia.md
-  - "555. Frontotemporal dementia": frontotemporal_dementia.md
-  - "556. Frostbite": frostbite.md
-  - "557. Fungal meningitis": fungal_meningitis.md
-  - "558. Galactorrhea": galactorrhea.md
-  - "559. Gallbladder cancer": gallbladder_cancer.md
-  - "560. Gallstone ileus": gallstone_ileus.md
-  - "561. Gambling disorder": gambling_disorder.md
-  - "562. Ganglion cyst": ganglion_cyst.md
-  - "563. Gardner syndrome": gardner_syndrome.md
-  - "564. Gas exchange": gas_exchange.md
-  - "565. Gastric adenocarcinoma": gastric_adenocarcinoma.md
-  - "566. Gastric lymphoma": gastric_lymphoma.md
-  - "567. Gastric polyps": gastric_polyps.md
-  - "568. Gastric ulcer": gastric_ulcer.md
-  - "569. Gastrinoma": gastrinoma.md
-  - "570. Gastritis": gastritis.md
-  - "571. Gastroenteritis": gastroenteritis.md
-  - "572. Gastrointestinal carcinoid tumor": gastrointestinal_carcinoid_tumor.md
-  - "573. Gastrointestinal foreign body": gastrointestinal_foreign_body.md
-  - "574. Gastrointestinal obstruction": gastrointestinal_obstruction.md
-  - "575. Gastrointestinal stromal tumor": gastrointestinal_stromal_tumor.md
-  - "576. Gastroparesis": gastroparesis.md
-  - "577. Gender dysphoria": gender_dysphoria.md
-  - "578. Generalized anxiety disorder": generalized_anxiety_disorder.md
-  - "579. Generalized tonic-clonic seizure": generalized_tonic_clonic_seizure.md
-  - "580. Genital herpes": genital_herpes.md
-  - "581. Genital warts": genital_warts.md
-  - "582. Genu valgum": genu_valgum.md
-  - "583. Genu varum": genu_varum.md
-  - "584. GERD": gerd.md
-  - "585. Gestational diabetes": gestational_diabetes.md
-  - "586. Gestational hypertension": gestational_hypertension.md
-  - "587. Gestational trophoblastic disease": gestational_trophoblastic_disease.md
-  - "588. Giardia": giardia.md
-  - "589. Gigantism": gigantism.md
-  - "590. Gilbert syndrome": gilbert_syndrome.md
-  - "591. Glaucoma": glaucoma.md
-  - "592. Glioblastoma": glioblastoma.md
-  - "593. Glomerular disease due to hepatitis B": glomerular_disease_due_to_hepatitis_b.md
-  - "594. Glomerular disease due to hepatitis C": glomerular_disease_due_to_hepatitis_c.md
-  - "595. Glomerulonephritis": glomerulonephritis.md
-  - "596. Glucagonoma": glucagonoma.md
-  - "597. Glucose-6-phosphate dehydrogenase deficiency": glucose_6_phosphate_dehydrogenase_deficiency.md
-  - "598. Glycogen storage disease": glycogen_storage_disease.md
-  - "599. Goiter": goiter.md
-  - "600. Gonorrhea": gonorrhea.md
-  - "601. Goodpasture syndrome": goodpasture_syndrome.md
-  - "602. Gout": gout.md
-  - "603. Gouty arthritis": gouty_arthritis.md
-  - "604. Graft-versus-host disease": graft_versus_host_disease.md
-  - "605. Granulomatosis with polyangiitis": granulomatosis_with_polyangiitis.md
-  - "606. Granulomatous enteritis": granulomatous_enteritis.md
-  - "607. Granulomatous enterocolitis": granulomatous_enterocolitis.md
-  - "608. Granulomatous pyelonephritis": granulomatous_pyelonephritis.md
-  - "609. Graves disease": graves_disease.md
-  - "610. Group A Streptococcus": group_a_streptococcus.md
-  - "611. Group B Streptococcus infection": group_b_streptococcus_infection.md
-  - "612. Growth hormone deficiency": growth_hormone_deficiency.md
-  - "613. Guillain-Barré syndrome": guillain_barr_e_syndrome.md
-  - "614. H1N1 influenza": h1n1_influenza.md
-  - "615. Haemophilus ducreyi": haemophilus_ducreyi.md
-  - "616. Hallucinogen intoxication": hallucinogen_intoxication.md
-  - "617. Hallucinogen use disorder": hallucinogen_use_disorder.md
-  - "618. Hand-foot-and-mouth disease": hand_foot_and_mouth_disease.md
-  - "619. Hashimoto thyroiditis": hashimoto_thyroiditis.md
-  - "620. Head and neck cancer": head_and_neck_cancer.md
-  - "621. Heart failure in pregnancy": heart_failure_in_pregnancy.md
-  - "622. Heat stroke": heat_stroke.md
-  - "623. HELLP syndrome": hellp_syndrome.md
-  - "624. Hemangioma": hemangioma.md
-  - "625. Hematochezia": hematochezia.md
-  - "626. Hematuria": hematuria.md
-  - "627. Hemochromatosis": hemochromatosis.md
-  - "628. Hemolytic disease of the newborn": hemolytic_disease_of_the_newborn.md
-  - "629. Hemolytic uremic syndrome": hemolytic_uremic_syndrome.md
-  - "630. Hemophilia A": hemophilia_a.md
-  - "631. Hemophilia B": hemophilia_b.md
-  - "632. Hemoptysis": hemoptysis.md
-  - "633. Hemorrhoids": hemorrhoids.md
-  - "634. Hemothorax": hemothorax.md
-  - "635. Henoch-Schonlein purpura": henoch_schonlein_purpura.md
-  - "636. Heparin-induced thrombocytopenia": heparin_induced_thrombocytopenia.md
-  - "637. Hepatic abscess": hepatic_abscess.md
-  - "638. Hepatic encephalopathy": hepatic_encephalopathy.md
-  - "639. Hepatitis A": hepatitis_a.md
-  - "640. Hepatitis B": hepatitis_b.md
-  - "641. Hepatitis C": hepatitis_c.md
-  - "642. Hepatitis D": hepatitis_d.md
-  - "643. Hepatitis E": hepatitis_e.md
-  - "644. Hepatocellular carcinoma": hepatocellular_carcinoma.md
-  - "645. Hepatopulmonary syndrome": hepatopulmonary_syndrome.md
-  - "646. Hepatorenal syndrome": hepatorenal_syndrome.md
-  - "647. Hereditary angioedema": hereditary_angioedema.md
-  - "648. Hereditary elliptocytosis": hereditary_elliptocytosis.md
-  - "649. Hereditary nonpolyposis colorectal cancer": hereditary_nonpolyposis_colorectal_cancer.md
-  - "650. Hereditary pancreatitis": hereditary_pancreatitis.md
-  - "651. Hereditary spherocytosis": hereditary_spherocytosis.md
-  - "652. Herniated disc": herniated_disc.md
-  - "653. Heroin use disorder": heroin_use_disorder.md
-  - "654. Herpangina": herpangina.md
-  - "655. Herpes esophagitis": herpes_esophagitis.md
-  - "656. Herpes simplex type 1": herpes_simplex_type_1.md
-  - "657. Herpes simplex type 2": herpes_simplex_type_2.md
-  - "658. Herpes simplex virus": herpes_simplex_virus.md
-  - "659. Herpes simplex virus infection": herpes_simplex_virus_infection.md
-  - "660. Herpes zoster": herpes_zoster.md
-  - "661. Herpetic gingivostomatitis": herpetic_gingivostomatitis.md
-  - "662. Hiatal hernia": hiatal_hernia.md
-  - "663. Hidradenitis suppurativa": hidradenitis_suppurativa.md
-  - "664. High-altitude sickness": high_altitude_sickness.md
-  - "665. High-output heart failure": high_output_heart_failure.md
-  - "666. Hip dislocation": hip_dislocation.md
-  - "667. Hirschsprung disease": hirschsprung_disease.md
-  - "668. Hirsutism": hirsutism.md
-  - "669. Histiocytosis": histiocytosis.md
-  - "670. Histoplasma capsulatum": histoplasma_capsulatum.md
-  - "671. Histoplasmosis": histoplasmosis.md
-  - "672. Histrionic personality disorder": histrionic_personality_disorder.md
-  - "673. HIV": hiv.md
-  - "674. HIV nephropathy": hiv_nephropathy.md
-  - "675. Hodgkin lymphoma": hodgkin_lymphoma.md
-  - "676. Holoprosencephaly": holoprosencephaly.md
-  - "677. Homocysteinemia": homocysteinemia.md
-  - "678. Hordeolum": hordeolum.md
-  - "679. Horner syndrome": horner_syndrome.md
-  - "680. Horseshoe kidney": horseshoe_kidney.md
-  - "681. Hospital-acquired pneumonia": hospital_acquired_pneumonia.md
-  - "682. Human herpesvirus 8": human_herpesvirus_8.md
-  - "683. Human immunodeficiency virus": human_immunodeficiency_virus.md
-  - "684. Human papillomavirus infection": human_papillomavirus_infection.md
-  - "685. Huntington disease": huntington_disease.md
-  - "686. Hydatidiform mole": hydatidiform_mole.md
-  - "687. Hydrocele": hydrocele.md
-  - "688. Hydrocephalus": hydrocephalus.md
-  - "689. Hydronephrosis": hydronephrosis.md
-  - "690. Hymenoptera stings": hymenoptera_stings.md
-  - "691. Hyper IgM syndrome": hyper_igm_syndrome.md
-  - "692. Hyperaldosteronism": hyperaldosteronism.md
-  - "693. Hypercalcemia": hypercalcemia.md
-  - "694. Hypercalcemia of malignancy": hypercalcemia_of_malignancy.md
-  - "695. Hypercholesterolemia": hypercholesterolemia.md
-  - "696. Hyperemesis gravidarum": hyperemesis_gravidarum.md
-  - "697. Hypereosinophilic syndrome": hypereosinophilic_syndrome.md
-  - "698. Hyperhidrosis": hyperhidrosis.md
-  - "699. Hyperinsulinism": hyperinsulinism.md
-  - "700. Hyperkalemia": hyperkalemia.md
-  - "701. Hyperlipidemia": hyperlipidemia.md
-  - "702. Hypernatremia": hypernatremia.md
-  - "703. Hyperopia": hyperopia.md
-  - "704. Hyperosmolar hyperglycemic coma": hyperosmolar_hyperglycemic_coma.md
-  - "705. Hyperparathyroidism": hyperparathyroidism.md
-  - "706. Hyperphosphatemia": hyperphosphatemia.md
-  - "707. Hyperprolactinemia": hyperprolactinemia.md
-  - "708. Hypersensitivity pneumonitis": hypersensitivity_pneumonitis.md
-  - "709. Hypersplenism": hypersplenism.md
-  - "710. Hypertension in pregnancy": hypertension_in_pregnancy.md
-  - "711. Hypertensive emergency": hypertensive_emergency.md
-  - "712. Hypertensive encephalopathy": hypertensive_encephalopathy.md
-  - "713. Hypertensive heart disease": hypertensive_heart_disease.md
-  - "714. Hypertensive nephropathy": hypertensive_nephropathy.md
-  - "715. Hypertensive retinopathy": hypertensive_retinopathy.md
-  - "716. Hyperthermia": hyperthermia.md
-  - "717. Hyperthyroidism": hyperthyroidism.md
-  - "718. Hyperthyroidism in pregnancy": hyperthyroidism_in_pregnancy.md
-  - "719. Hypertriglyceridemia": hypertriglyceridemia.md
-  - "720. Hypertrophic obstructive cardiomyopathy": hypertrophic_obstructive_cardiomyopathy.md
-  - "721. Hypertrophic pulmonary osteoarthropathy": hypertrophic_pulmonary_osteoarthropathy.md
-  - "722. Hyperventilation syndrome": hyperventilation_syndrome.md
-  - "723. Hyphema": hyphema.md
-  - "724. Hypocalcemia": hypocalcemia.md
-  - "725. Hypocortisolism": hypocortisolism.md
-  - "726. Hypofibrinogenemia": hypofibrinogenemia.md
-  - "727. Hypoglycemia": hypoglycemia.md
-  - "728. Hypoglycemic shock": hypoglycemic_shock.md
-  - "729. Hypokalemia": hypokalemia.md
-  - "730. Hypokalemic periodic paralysis": hypokalemic_periodic_paralysis.md
-  - "731. Hypomagnesemia": hypomagnesemia.md
-  - "732. Hyponatremia": hyponatremia.md
-  - "733. Hypoparathyroidism": hypoparathyroidism.md
-  - "734. Hypophosphatemia": hypophosphatemia.md
-  - "735. Hypospadias": hypospadias.md
-  - "736. Hypothermia": hypothermia.md
-  - "737. Hypothyroidism": hypothyroidism.md
-  - "738. Hypothyroidism in pregnancy": hypothyroidism_in_pregnancy.md
-  - "739. Hypoventilation": hypoventilation.md
-  - "740. Hypovolemia": hypovolemia.md
-  - "741. Hypovolemic shock": hypovolemic_shock.md
-  - "742. Hypoxia": hypoxia.md
-  - "743. Ichthyosis": ichthyosis.md
-  - "744. Idiopathic intracranial hypertension": idiopathic_intracranial_hypertension.md
-  - "745. IgA deficiency": iga_deficiency.md
-  - "746. IgA nephropathy": iga_nephropathy.md
-  - "747. IgA vasculitis": iga_vasculitis.md
-  - "748. Iliac artery aneurysm": iliac_artery_aneurysm.md
-  - "749. Illness anxiety disorder": illness_anxiety_disorder.md
-  - "750. Immune reconstitution inflammatory syndrome": immune_reconstitution_inflammatory_syndrome.md
-  - "751. Immune thrombocytopenic purpura": immune_thrombocytopenic_purpura.md
-  - "752. Impacted cerumen": impacted_cerumen.md
-  - "753. Imperforate hymen": imperforate_hymen.md
-  - "754. Impetigo": impetigo.md
-  - "755. Induced abortion": induced_abortion.md
-  - "756. Infantile spinal muscular atrophy": infantile_spinal_muscular_atrophy.md
-  - "757. Infected pilonidal cyst": infected_pilonidal_cyst.md
-  - "758. Infectious mononucleosis": infectious_mononucleosis.md
-  - "759. Infective myositis": infective_myositis.md
-  - "760. Inflammatory disease of breast": inflammatory_disease_of_breast.md
-  - "761. Inflicted head trauma": inflicted_head_trauma.md
-  - "762. Influenza": influenza.md
-  - "763. Ingrown toenail": ingrown_toenail.md
-  - "764. Inguinal hernia": inguinal_hernia.md
-  - "765. Inhalant use disorder": inhalant_use_disorder.md
-  - "766. Insulinoma": insulinoma.md
-  - "767. Intellectual disability": intellectual_disability.md
-  - "768. Internuclear ophthalmoplegia": internuclear_ophthalmoplegia.md
-  - "769. Interstitial cystitis": interstitial_cystitis.md
-  - "770. Intestinal impaction": intestinal_impaction.md
-  - "771. Intestinal malrotation": intestinal_malrotation.md
-  - "772. Intestinal obstruction": intestinal_obstruction.md
-  - "773. Intracerebral hemorrhage": intracerebral_hemorrhage.md
-  - "774. Intraductal carcinoma of breast": intraductal_carcinoma_of_breast.md
-  - "775. Intraductal papilloma": intraductal_papilloma.md
-  - "776. Intrahepatic cholestasis of pregnancy": intrahepatic_cholestasis_of_pregnancy.md
-  - "777. Intraparenchymal hemorrhage": intraparenchymal_hemorrhage.md
-  - "778. Intussusception": intussusception.md
-  - "779. Iridocyclitis": iridocyclitis.md
-  - "780. Irritable bowel syndrome": irritable_bowel_syndrome.md
-  - "781. Irritant contact dermatitis": irritant_contact_dermatitis.md
-  - "782. Ischemic colitis": ischemic_colitis.md
-  - "783. Ischemic stroke": ischemic_stroke.md
-  - "784. Isospora belli": isospora_belli.md
-  - "785. Jaundice": jaundice.md
-  - "786. Jellyfish Stings ⭐": jellyfish_stings.md
-  - "787. Joint effusion": joint_effusion.md
-  - "788. Joint pain": joint_pain.md
-  - "789. Juvenile idiopathic arthritis": juvenile_idiopathic_arthritis.md
-  - "790. Juvenile laryngeal papillomatosis": juvenile_laryngeal_papillomatosis.md
-  - "791. Kaposi sarcoma": kaposi_sarcoma.md
-  - "792. Kartagener syndrome": kartagener_syndrome.md
-  - "793. Kawasaki disease": kawasaki_disease.md
-  - "794. Keloid": keloid.md
-  - "795. Keratoconjunctivitis": keratoconjunctivitis.md
-  - "796. Klebsiella pneumoniae": klebsiella_pneumoniae.md
-  - "797. Kleptomania": kleptomania.md
-  - "798. Klinefelter syndrome": klinefelter_syndrome.md
-  - "799. Kwashiorkor": kwashiorkor.md
-  - "800. Kyphoscoliosis": kyphoscoliosis.md
-  - "801. Labyrinthitis": labyrinthitis.md
-  - "802. Lactation problems": lactation_problems.md
-  - "803. Lactose intolerance": lactose_intolerance.md
-  - "804. Lambert-Eaton myasthenic syndrome": lambert_eaton_myasthenic_syndrome.md
-  - "805. Langerhans cell histiocytosis": langerhans_cell_histiocytosis.md
-  - "806. Language disorder": language_disorder.md
-  - "807. Large cell lung carcinoma": large_cell_lung_carcinoma.md
-  - "808. Laryngeal cancer": laryngeal_cancer.md
-  - "809. Laryngeal foreign body": laryngeal_foreign_body.md
-  - "810. Laryngeal obstruction": laryngeal_obstruction.md
-  - "811. Laryngomalacia": laryngomalacia.md
-  - "812. Laryngotracheitis": laryngotracheitis.md
-  - "813. Latent autoimmune diabetes in adults": latent_autoimmune_diabetes_in_adults.md
-  - "814. Lead poisoning": lead_poisoning.md
-  - "815. Left bundle branch block": left_bundle_branch_block.md
-  - "816. Left ventricular hypertrophy": left_ventricular_hypertrophy.md
-  - "817. Legg-Calve-Perthes disease": legg_calv_e_perthes_disease.md
-  - "818. Legionella": legionella.md
-  - "819. Leiomyosarcoma": leiomyosarcoma.md
-  - "820. Leishmaniasis": leishmaniasis.md
-  - "821. Lentigo": lentigo.md
-  - "822. Leprosy": leprosy.md
-  - "823. Leptospira": leptospira.md
-  - "824. Leptospira interrogans": leptospira_interrogans.md
-  - "825. Leptospirosis": leptospirosis.md
-  - "826. Leukocyte adhesion deficiency": leukocyte_adhesion_deficiency.md
-  - "827. Leukocytosis": leukocytosis.md
-  - "828. Leukopenia": leukopenia.md
-  - "829. Leukoplakia": leukoplakia.md
-  - "830. Lewy body dementia": lewy_body_dementia.md
-  - "831. Lice": lice.md
-  - "832. Lichen planus": lichen_planus.md
-  - "833. Lichen sclerosus": lichen_sclerosus.md
-  - "834. Lightning injury": lightning_injury.md
-  - "835. Limbic encephalitis": limbic_encephalitis.md
-  - "836. Lipoma": lipoma.md
-  - "837. Lipoprotein lipase deficiency": lipoprotein_lipase_deficiency.md
-  - "838. Liver failure": liver_failure.md
-  - "839. Lochia": lochia.md
-  - "840. Loeffler syndrome": loeffler_syndrome.md
-  - "841. Lofgren syndrome": lofgren_syndrome.md
-  - "842. Long QT syndrome": long_qt_syndrome.md
-  - "843. Low back pain": low_back_pain.md
-  - "844. Lower gastrointestinal bleeding": lower_gastrointestinal_bleeding.md
-  - "845. Lumbar spinal stenosis": lumbar_spinal_stenosis.md
-  - "846. Lung abscess": lung_abscess.md
-  - "847. Lung adenocarcinoma": lung_adenocarcinoma.md
-  - "848. Lupus anticoagulant": lupus_anticoagulant.md
-  - "849. Lupus nephritis": lupus_nephritis.md
-  - "850. Lyme disease": lyme_disease.md
-  - "851. Lymphedema": lymphedema.md
-  - "852. Lymphocytic choriomeningitis virus": lymphocytic_choriomeningitis_virus.md
-  - "853. Lymphocytic colitis": lymphocytic_colitis.md
-  - "854. Lymphogranuloma venereum": lymphogranuloma_venereum.md
-  - "855. Ménière disease": m_eni_ere_disease.md
-  - "856. Müllerian agenesis": m_ullerian_agenesis.md
-  - "857. Macular degeneration": macular_degeneration.md
-  - "858. Major depressive disorder": major_depressive_disorder.md
-  - "859. Malabsorption": malabsorption.md
-  - "860. Male breast cancer": male_breast_cancer.md
-  - "861. Male infertility": male_infertility.md
-  - "862. Malignant hyperthermia": malignant_hyperthermia.md
-  - "863. Malignant otitis externa": malignant_otitis_externa.md
-  - "864. Malingering": malingering.md
-  - "865. Mallory-Weiss syndrome": mallory_weiss_syndrome.md
-  - "866. Malocclusion": malocclusion.md
-  - "867. MALT lymphoma": malt_lymphoma.md
-  - "868. Mannose-binding lectin deficiency": mannose_binding_lectin_deficiency.md
-  - "869. Maple syrup urine disease": maple_syrup_urine_disease.md
-  - "870. Marasmus": marasmus.md
-  - "871. Marfan syndrome": marfan_syndrome.md
-  - "872. Mastitis": mastitis.md
-  - "873. Mastoiditis": mastoiditis.md
-  - "874. McArdle disease": mcardle_disease.md
-  - "875. MDMA intoxication": mdma_intoxication.md
-  - "876. Measles": measles.md
-  - "877. Measles virus": measles_virus.md
-  - "878. Meckel diverticulum": meckel_diverticulum.md
-  - "879. Meconium aspiration syndrome": meconium_aspiration_syndrome.md
-  - "880. Mediastinitis": mediastinitis.md
-  - "881. Medicaid": medicaid.md
-  - "882. Medicare": medicare.md
-  - "883. Medication overuse headache": medication_overuse_headache.md
-  - "884. Medullary thyroid cancer": medullary_thyroid_cancer.md
-  - "885. Medulloblastoma": medulloblastoma.md
-  - "886. Melanoma": melanoma.md
-  - "887. Melena": melena.md
-  - "888. Melioidosis": melioidosis.md
-  - "889. Membrane attack complex deficiency": membrane_attack_complex_deficiency.md
-  - "890. Membranous glomerulonephritis": membranous_glomerulonephritis.md
-  - "891. Meningioma": meningioma.md
-  - "892. Meningococcemia": meningococcemia.md
-  - "893. Menorrhagia": menorrhagia.md
-  - "894. Mesenteric ischemia": mesenteric_ischemia.md
-  - "895. Mesothelioma": mesothelioma.md
-  - "896. Metabolic acidosis": metabolic_acidosis.md
-  - "897. Metabolic alkalosis": metabolic_alkalosis.md
-  - "898. Metabolic bone disease": metabolic_bone_disease.md
-  - "899. Metabolic encephalopathy": metabolic_encephalopathy.md
-  - "900. Metabolic syndrome": metabolic_syndrome.md
-  - "901. Methamphetamine use disorder": methamphetamine_use_disorder.md
-  - "902. Methanol poisoning": methanol_poisoning.md
-  - "903. Microcephaly": microcephaly.md
-  - "904. Microscopic colitis": microscopic_colitis.md
-  - "905. Migraine": migraine.md
-  - "906. Mild cognitive impairment": mild_cognitive_impairment.md
-  - "907. Miliary tuberculosis": miliary_tuberculosis.md
-  - "908. Miller Fisher syndrome": miller_fisher_syndrome.md
-  - "909. Minimal change disease": minimal_change_disease.md
-  - "910. Miosis": miosis.md
-  - "911. Mirizzi syndrome": mirizzi_syndrome.md
-  - "912. Missed abortion": missed_abortion.md
-  - "913. Mitochondrial myopathy": mitochondrial_myopathy.md
-  - "914. Mitral regurgitation": mitral_regurgitation.md
-  - "915. Mitral stenosis": mitral_stenosis.md
-  - "916. Mitral valve dysfunction": mitral_valve_dysfunction.md
-  - "917. Mitral valve prolapse": mitral_valve_prolapse.md
-  - "918. Mittelschmerz": mittelschmerz.md
-  - "919. Mixed acid-base disturbance": mixed_acid_base_disturbance.md
-  - "920. Mixed connective tissue disease": mixed_connective_tissue_disease.md
-  - "921. Molluscum contagiosum": molluscum_contagiosum.md
-  - "922. Monoclonal gammopathy of undetermined significance": monoclonal_gammopathy_of_undetermined_significance.md
-  - "923. Mononeuritis": mononeuritis.md
-  - "924. Moraxella catarrhalis": moraxella_catarrhalis.md
-  - "925. Morning sickness": morning_sickness.md
-  - "926. Motion sickness": motion_sickness.md
-  - "927. MRSA": mrsa.md
-  - "928. MRSA skin infection": mrsa_skin_infection.md
-  - "929. MSSA": mssa.md
-  - "930. MSSA skin infection": mssa_skin_infection.md
-  - "931. Mucopolysaccharidoses": mucopolysaccharidoses.md
-  - "932. Multifocal atrial tachycardia": multifocal_atrial_tachycardia.md
-  - "933. Multiorgan dysfunction syndrome": multiorgan_dysfunction_syndrome.md
-  - "934. Multiple endocrine neoplasia type 1": multiple_endocrine_neoplasia_type_1.md
-  - "935. Multiple endocrine neoplasia type 2": multiple_endocrine_neoplasia_type_2.md
-  - "936. Multiple gestation": multiple_gestation.md
-  - "937. Multiple myeloma": multiple_myeloma.md
-  - "938. Multiple sclerosis": multiple_sclerosis.md
-  - "939. Mumps": mumps.md
-  - "940. Mumps virus": mumps_virus.md
-  - "941. Muscle calcification": muscle_calcification.md
-  - "942. Muscle wasting": muscle_wasting.md
-  - "943. MUTYH-associated polyposis": mutyh_associated_polyposis.md
-  - "944. Myasthenia gravis": myasthenia_gravis.md
-  - "945. Myasthenia gravis in pregnancy": myasthenia_gravis_in_pregnancy.md
-  - "946. Mycoplasma pneumoniae": mycoplasma_pneumoniae.md
-  - "947. Mycosis fungoides": mycosis_fungoides.md
-  - "948. Mydriasis": mydriasis.md
-  - "949. Myelodysplastic syndrome": myelodysplastic_syndrome.md
-  - "950. Myelofibrosis": myelofibrosis.md
-  - "951. Myocardial contusion": myocardial_contusion.md
-  - "952. Myocardial rupture": myocardial_rupture.md
-  - "953. Myocarditis": myocarditis.md
-  - "954. Myofascial pain syndrome": myofascial_pain_syndrome.md
-  - "955. Myopia": myopia.md
-  - "956. Myositis": myositis.md
-  - "957. Myotonic dystrophy": myotonic_dystrophy.md
-  - "958. Naegleria fowleri": naegleria_fowleri.md
-  - "959. Narcissistic personality disorder": narcissistic_personality_disorder.md
-  - "960. Narcolepsy": narcolepsy.md
-  - "961. Nasal foreign body": nasal_foreign_body.md
-  - "962. Nasal polyp": nasal_polyp.md
-  - "963. Nasal septal perforation": nasal_septal_perforation.md
-  - "964. Nasopharyngitis": nasopharyngitis.md
-  - "965. Nausea": nausea.md
-  - "966. Necrotizing enterocolitis": necrotizing_enterocolitis.md
-  - "967. Necrotizing fasciitis": necrotizing_fasciitis.md
-  - "968. Neisseria gonorrhoeae": neisseria_gonorrhoeae.md
-  - "969. Neonatal abstinence syndrome": neonatal_abstinence_syndrome.md
-  - "970. Neonatal acne": neonatal_acne.md
-  - "971. Neonatal conjunctivitis": neonatal_conjunctivitis.md
-  - "972. Neonatal feeding problems": neonatal_feeding_problems.md
-  - "973. Neonatal group B streptococcus infection": neonatal_group_b_streptococcus_infection.md
-  - "974. Neonatal herpes simplex": neonatal_herpes_simplex.md
-  - "975. Neonatal hypocalcemia": neonatal_hypocalcemia.md
-  - "976. Neonatal hypoglycemia": neonatal_hypoglycemia.md
-  - "977. Neonatal jaundice": neonatal_jaundice.md
-  - "978. Neonatal respiratory distress syndrome": neonatal_respiratory_distress_syndrome.md
-  - "979. Neonatal seizures": neonatal_seizures.md
-  - "980. Neonatal tetanus": neonatal_tetanus.md
-  - "981. Neonatal thrush": neonatal_thrush.md
-  - "982. Nephrogenic systemic fibrosis": nephrogenic_systemic_fibrosis.md
-  - "983. Nephrolithiasis": nephrolithiasis.md
-  - "984. Nephrosclerosis": nephrosclerosis.md
-  - "985. Nephrotic syndrome": nephrotic_syndrome.md
-  - "986. Neural tube defects": neural_tube_defects.md
-  - "987. Neurofibromatosis": neurofibromatosis.md
-  - "988. Neurofibromatosis type 2": neurofibromatosis_type_2.md
-  - "989. Neurogenic bladder": neurogenic_bladder.md
-  - "990. Neurogenic shock": neurogenic_shock.md
-  - "991. Neuroleptic malignant syndrome": neuroleptic_malignant_syndrome.md
-  - "992. Neurosyphilis": neurosyphilis.md
-  - "993. Neutropenia": neutropenia.md
-  - "994. Niacin deficiency": niacin_deficiency.md
-  - "995. Night blindness": night_blindness.md
-  - "996. Nipple discharge": nipple_discharge.md
-  - "997. Nitrogen narcosis": nitrogen_narcosis.md
-  - "998. Noise-induced hearing loss": noise_induced_hearing_loss.md
-  - "999. Non-alcoholic fatty liver disease": non_alcoholic_fatty_liver_disease.md
-  - "1000. Non-Hodgkin lymphoma": non_hodgkin_lymphoma.md
-  - "1001. Nonaccidental trauma": nonaccidental_trauma.md
-  - "1002. Nonbacterial thrombotic endocarditis": nonbacterial_thrombotic_endocarditis.md
-  - "1003. Nongonococcal urethritis": nongonococcal_urethritis.md
-  - "1004. Nonspecific interstitial pneumonia": nonspecific_interstitial_pneumonia.md
-  - "1005. Normal grief": normal_grief.md
-  - "1006. Normal-pressure hydrocephalus": normal_pressure_hydrocephalus.md
-  - "1007. Nystagmus": nystagmus.md
-  - "1008. Obesity": obesity.md
-  - "1009. Obesity hypoventilation syndrome": obesity_hypoventilation_syndrome.md
-  - "1010. Obesity in pregnancy": obesity_in_pregnancy.md
-  - "1011. Obsessive-compulsive disorder": obsessive_compulsive_disorder.md
-  - "1012. Obsessive-compulsive personality disorder": obsessive_compulsive_personality_disorder.md
-  - "1013. Obstructive sleep apnea": obstructive_sleep_apnea.md
-  - "1014. Obstructive uropathy": obstructive_uropathy.md
-  - "1015. Ocular melanoma": ocular_melanoma.md
-  - "1016. Oligohydramnios": oligohydramnios.md
-  - "1017. Oliguria": oliguria.md
-  - "1018. Onychomycosis": onychomycosis.md
-  - "1019. Oophoritis": oophoritis.md
-  - "1020. Ophthalmia neonatorum": ophthalmia_neonatorum.md
-  - "1021. Opioid intoxication": opioid_intoxication.md
-  - "1022. Opioid use disorder and withdrawal": opioid_use_disorder_and_withdrawal.md
-  - "1023. Oppositional defiant disorder": oppositional_defiant_disorder.md
-  - "1024. Optic neuritis": optic_neuritis.md
-  - "1025. Oral cancer": oral_cancer.md
-  - "1026. Oral cavity cancer": oral_cavity_cancer.md
-  - "1027. Oral thrush": oral_thrush.md
-  - "1028. Orbital fracture": orbital_fracture.md
-  - "1029. Orchitis": orchitis.md
-  - "1030. Orgasmic dysfunction": orgasmic_dysfunction.md
-  - "1031. Orthostatic hypotension": orthostatic_hypotension.md
-  - "1032. Osgood-Schlatter disease": osgood_schlatter_disease.md
-  - "1033. Osteoarthritis": osteoarthritis.md
-  - "1034. Osteochondritis": osteochondritis.md
-  - "1035. Osteochondritis dissecans": osteochondritis_dissecans.md
-  - "1036. Osteodystrophy": osteodystrophy.md
-  - "1037. Osteogenesis imperfecta": osteogenesis_imperfecta.md
-  - "1038. Osteoid osteoma": osteoid_osteoma.md
-  - "1039. Osteomalacia": osteomalacia.md
-  - "1040. Osteomyelitis": osteomyelitis.md
-  - "1041. Osteopenia": osteopenia.md
-  - "1042. Osteoporosis": osteoporosis.md
-  - "1043. Osteosarcoma": osteosarcoma.md
-  - "1044. Otitis externa": otitis_externa.md
-  - "1045. Otitis interna": otitis_interna.md
-  - "1046. Otitis media": otitis_media.md
-  - "1047. Otosclerosis": otosclerosis.md
-  - "1048. Ovarian cancer": ovarian_cancer.md
-  - "1049. Ovarian cyst": ovarian_cyst.md
-  - "1050. Ovarian torsion": ovarian_torsion.md
-  - "1051. Paget disease of bone": paget_disease_of_bone.md
-  - "1052. Paget disease of breast": paget_disease_of_breast.md
-  - "1053. Pain disorder": pain_disorder.md
-  - "1054. Palpitations": palpitations.md
-  - "1055. Pancreatic cancer": pancreatic_cancer.md
-  - "1056. Pancreatic duct obstruction": pancreatic_duct_obstruction.md
-  - "1057. Pancreatic insufficiency": pancreatic_insufficiency.md
-  - "1058. Pancreatic pseudocyst": pancreatic_pseudocyst.md
-  - "1059. Pancreatitis in pregnancy": pancreatitis_in_pregnancy.md
-  - "1060. Pancreatic neuroendocrine tumors": pancretic_neuroendocrine_tumors.md
-  - "1061. Pancytopenia": pancytopenia.md
-  - "1062. Panhypopituitarism": panhypopituitarism.md
-  - "1063. Panic disorder": panic_disorder.md
-  - "1064. Papillary muscle rupture": papillary_muscle_rupture.md
-  - "1065. Papillary necrosis": papillary_necrosis.md
-  - "1066. Papillary thyroid cancer": papillary_thyroid_cancer.md
-  - "1067. Papilledema": papilledema.md
-  - "1068. Parainfluenza": parainfluenza.md
-  - "1069. Paralytic ileus": paralytic_ileus.md
-  - "1070. Paraneoplastic cerebellar degeneration": paraneoplastic_cerebellar_degeneration.md
-  - "1071. Paranoid personality disorder": paranoid_personality_disorder.md
-  - "1072. Paraplegia": paraplegia.md
-  - "1073. Parkinson disease": parkinson_disease.md
-  - "1074. Parkinson disease dementia": parkinson_disease_dementia.md
-  - "1075. Parotitis": parotitis.md
-  - "1076. Paroxysmal nocturnal hemoglobinuria": paroxysmal_nocturnal_hemoglobinuria.md
-  - "1077. Paroxysmal supraventricular tachycardia": paroxysmal_supraventricular_tachycardia.md
-  - "1078. Partial seizure": partial_seizure.md
-  - "1079. Parvovirus": parvovirus.md
-  - "1080. Parvovirus B19 infection": parvovirus_b19_infection.md
-  - "1081. Patent ductus arteriosus": patent_ductus_arteriosus.md
-  - "1082. Patent foramen ovale": patent_foramen_ovale.md
-  - "1083. Pathologic fracture": pathologic_fracture.md
-  - "1084. PCP intoxication": pcp_intoxication.md
-  - "1085. Pelvic cellulitis": pelvic_cellulitis.md
-  - "1086. Pelvic inflammatory disease": pelvic_inflammatory_disease.md
-  - "1087. Pelvic organ prolapse": pelvic_organ_prolapse.md
-  - "1088. Pelvic pain": pelvic_pain.md
-  - "1089. Pemphigoid": pemphigoid.md
-  - "1090. Pemphigus": pemphigus.md
-  - "1091. Penetrating chest wound": penetrating_chest_wound.md
-  - "1092. Penile cancer": penile_cancer.md
-  - "1093. Peptic ulcer disease": peptic_ulcer_disease.md
-  - "1094. Peptic ulcer perforation": peptic_ulcer_perforation.md
-  - "1095. Pericardial effusion": pericardial_effusion.md
-  - "1096. Perimenopause": perimenopause.md
-  - "1097. Perinephric abscess": perinephric_abscess.md
-  - "1098. Periorbital cellulitis": periorbital_cellulitis.md
-  - "1099. Peripartum cardiomyopathy": peripartum_cardiomyopathy.md
-  - "1100. Peripheral arterial disease": peripheral_arterial_disease.md
-  - "1101. Peritoneal cancer": peritoneal_cancer.md
-  - "1102. Peritonitis": peritonitis.md
-  - "1103. Peritonsillar abscess": peritonsillar_abscess.md
-  - "1104. Pernicious anemia": pernicious_anemia.md
-  - "1105. Perniosis": perniosis.md
-  - "1106. Peroneal tunnel syndrome": peroneal_tunnel_syndrome.md
-  - "1107. Persistent complex bereavement disorder": persistent_complex_bereavement_disorder.md
-  - "1108. Persistent depressive disorder": persistent_depressive_disorder.md
-  - "1109. Pertussis": pertussis.md
-  - "1110. Peutz-Jeghers syndrome": peutz_jeghers_syndrome.md
-  - "1111. Peyronie disease": peyronie_disease.md
-  - "1112. Phantom limb pain": phantom_limb_pain.md
-  - "1113. Pharyngeal cancer": pharyngeal_cancer.md
-  - "1114. Pharyngeal foreign body": pharyngeal_foreign_body.md
-  - "1115. Pharyngeal obstruction": pharyngeal_obstruction.md
-  - "1116. Pharyngitis": pharyngitis.md
-  - "1117. Phenylketonuria": phenylketonuria.md
-  - "1118. Pheochromocytoma": pheochromocytoma.md
-  - "1119. Phimosis": phimosis.md
-  - "1120. Phocomelia": phocomelia.md
-  - "1121. Phyllodes tumor": phyllodes_tumor.md
-  - "1122. Pigmented nevi": pigmented_nevi.md
-  - "1123. Pill esophagitis": pill_esophagitis.md
-  - "1124. Pituitary adenoma": pituitary_adenoma.md
-  - "1125. Pituitary apoplexy": pituitary_apoplexy.md
-  - "1126. Pityriasis rosea": pityriasis_rosea.md
-  - "1127. Placenta accreta": placenta_accreta.md
-  - "1128. Placenta previa": placenta_previa.md
-  - "1129. Pleural effusion": pleural_effusion.md
-  - "1130. Pleuritis": pleuritis.md
-  - "1131. Pneumoconiosis": pneumoconiosis.md
-  - "1132. Pneumocystis jirovecii pneumonia": pneumocystis_jirovecii_pneumonia.md
-  - "1133. Pneumomediastinum": pneumomediastinum.md
-  - "1134. Pneumothorax": pneumothorax.md
-  - "1135. Poison ivy and oak dermatitis": poison_ivy_and_oak_dermatitis.md
-  - "1136. Poliovirus": poliovirus.md
-  - "1137. Polyangiitis": polyangiitis.md
-  - "1138. Polyarteritis nodosa": polyarteritis_nodosa.md
-  - "1139. Polycystic ovary syndrome": polycystic_ovary_syndrome.md
-  - "1140. Polycythemia": polycythemia.md
-  - "1141. Polycythemia vera": polycythemia_vera.md
-  - "1142. Polyglandular autoimmune syndrome type 1": polyglandular_autoimmune_syndrome_type_1.md
-  - "1143. Polyhydramnios": polyhydramnios.md
-  - "1144. Polymyalgia rheumatica": polymyalgia_rheumatica.md
-  - "1145. Polymyositis": polymyositis.md
-  - "1146. Polysubstance use disorder": polysubstance_use_disorder.md
-  - "1147. Porphyria": porphyria.md
-  - "1148. Portal hypertension": portal_hypertension.md
-  - "1149. Post-term infant": post_term_infant.md
-  - "1150. Post-traumatic stress disorder": post_traumatic_stress_disorder.md
-  - "1151. Postcoital bleeding": postcoital_bleeding.md
-  - "1152. Postconcussion syndrome": postconcussion_syndrome.md
-  - "1153. Postdates labor": postdates_labor.md
-  - "1154. Posterior reversible encephalopathy syndrome": posterior_reversible_encephalopathy_syndrome.md
-  - "1155. Posterior urethral valves": posterior_urethral_valves.md
-  - "1156. Postherpetic neuralgia": postherpetic_neuralgia.md
-  - "1157. Postmenopausal bleeding": postmenopausal_bleeding.md
-  - "1158. Postpartum blues": postpartum_blues.md
-  - "1159. Postpartum cardiomyopathy": postpartum_cardiomyopathy.md
-  - "1160. Postpartum depression": postpartum_depression.md
-  - "1161. Postpartum hemorrhage": postpartum_hemorrhage.md
-  - "1162. Postpartum sepsis": postpartum_sepsis.md
-  - "1163. Poststreptococcal glomerulonephritis": poststreptococcal_glomerulonephritis.md
-  - "1164. Postsurgical adhesions": postsurgical_adhesions.md
-  - "1165. Prader-Willi syndrome": prader_willi_syndrome.md
-  - "1166. Precocious puberty": precocious_puberty.md
-  - "1167. Preeclampsia": preeclampsia.md
-  - "1168. Premature atrial contractions": premature_atrial_contractions.md
-  - "1169. Premature ejaculation": premature_ejaculation.md
-  - "1170. Premature ovarian failure": premature_ovarian_failure.md
-  - "1171. Premature rupture of membranes": premature_rupture_of_membranes.md
-  - "1172. Premature separation of placenta": premature_separation_of_placenta.md
-  - "1173. Premature ventricular contractions": premature_ventricular_contractions.md
-  - "1174. Prematurity": prematurity.md
-  - "1175. Premenstrual dysphoric disorder": premenstrual_dysphoric_disorder.md
-  - "1176. Premenstrual syndrome": premenstrual_syndrome.md
-  - "1177. Prenatal radiation exposure": prenatal_radiation_exposure.md
-  - "1178. Presbyopia": presbyopia.md
-  - "1179. Preterm labor": preterm_labor.md
-  - "1180. Priapism": priapism.md
-  - "1181. Primary amenorrhea": primary_amenorrhea.md
-  - "1182. Primary biliary cirrhosis": primary_biliary_cirrhosis.md
-  - "1183. Primary ciliary dyskinesia": primary_ciliary_dyskinesia.md
-  - "1184. Primary CNS lymphoma": primary_cns_lymphoma.md
-  - "1185. Primary hypogonadism": primary_hypogonadism.md
-  - "1186. Primary insomnia": primary_insomnia.md
-  - "1187. Primary sclerosing cholangitis": primary_sclerosing_cholangitis.md
-  - "1188. Proctitis": proctitis.md
-  - "1189. Progressive multifocal leukoencephalopathy": progressive_multifocal_leukoencephalopathy.md
-  - "1190. Progressive supranuclear palsy": progressive_supranuclear_palsy.md
-  - "1191. Prolactinoma": prolactinoma.md
-  - "1192. Prolonged pregnancy": prolonged_pregnancy.md
-  - "1193. Prostate cancer": prostate_cancer.md
-  - "1194. Prostatitis": prostatitis.md
-  - "1195. Protein C deficiency": protein_c_deficiency.md
-  - "1196. Protein-calorie malnutrition": protein_calorie_malnutrition.md
-  - "1197. Protein S deficiency": protein_s_deficiency.md
-  - "1198. Proteinuria": proteinuria.md
-  - "1199. Prothrombin G20210A mutation": prothrombin_g20210a_mutation.md
-  - "1200. Pruritus": pruritus.md
-  - "1201. Pseudogout": pseudogout.md
-  - "1202. Pseudomembranous colitis": pseudomembranous_colitis.md
-  - "1203. Pseudomonas aeruginosa": pseudomonas_aeruginosa.md
-  - "1204. Psoriasis": psoriasis.md
-  - "1205. Psoriatic arthritis": psoriatic_arthritis.md
-  - "1206. Psychogenic nonepileptic seizures": psychogenic_nonepileptic_seizures.md
-  - "1207. Psychosexual dysfunction": psychosexual_dysfunction.md
-  - "1208. Pterygium": pterygium.md
-  - "1209. Ptosis": ptosis.md
-  - "1210. Pulmonary anthrax": pulmonary_anthrax.md
-  - "1211. Pulmonary arteriovenous fistula": pulmonary_arteriovenous_fistula.md
-  - "1212. Pulmonary contusion": pulmonary_contusion.md
-  - "1213. Pulmonary edema": pulmonary_edema.md
-  - "1214. Pulmonary embolism": pulmonary_embolism.md
-  - "1215. Pulmonary hypertension": pulmonary_hypertension.md
-  - "1216. Pulmonary metastases": pulmonary_metastases.md
-  - "1217. Pulmonary sequestration": pulmonary_sequestration.md
-  - "1218. Pulmonary tuberculosis": pulmonary_tuberculosis.md
-  - "1219. Pulmonic regurgitation": pulmonic_regurgitation.md
-  - "1220. Pulmonic stenosis": pulmonic_stenosis.md
-  - "1221. Pure sensory neuropathy": pure_sensory_neuropathy.md
-  - "1222. Pyelonephritis": pyelonephritis.md
-  - "1223. Pyloric stenosis": pyloric_stenosis.md
-  - "1224. Pyoderma gangrenosum": pyoderma_gangrenosum.md
-  - "1225. Pyonephrosis": pyonephrosis.md
-  - "1226. Pyridoxine deficiency": pyridoxine_deficiency.md
-  - "1227. Pyruvate kinase deficiency": pyruvate_kinase_deficiency.md
-  - "1228. Q fever": q_fever.md
-  - "1229. Quadriplegia": quadriplegia.md
-  - "1230. Rabies virus": rabies_virus.md
-  - "1231. Radiculopathy": radiculopathy.md
-  - "1232. Ramsay-Hunt syndrome": ramsay_hunt_syndrome.md
-  - "1233. Raynaud disease": raynaud_disease.md
-  - "1234. Raynaud syndrome": raynaud_syndrome.md
-  - "1235. Reactive arthritis": reactive_arthritis.md
-  - "1236. Reactive attachment disorder": reactive_attachment_disorder.md
-  - "1237. Rectal abscess": rectal_abscess.md
-  - "1238. Rectal bleeding": rectal_bleeding.md
-  - "1239. Rectal cancer": rectal_cancer.md
-  - "1240. Rectal polyps": rectal_polyps.md
-  - "1241. Rectal prolapse": rectal_prolapse.md
-  - "1242. Rectocele": rectocele.md
-  - "1243. REM sleep behavior disorder": rem_sleep_behavior_disorder.md
-  - "1244. Renal abscess": renal_abscess.md
-  - "1245. Renal agenesis": renal_agenesis.md
-  - "1246. Renal artery stenosis": renal_artery_stenosis.md
-  - "1247. Renal cell carcinoma": renal_cell_carcinoma.md
-  - "1248. Renal Dysplasia ⭐": renal_dysplasia.md
-  - "1249. Renal hypoplasia": renal_hypoplasia.md
-  - "1250. Renal infarction": renal_infarction.md
-  - "1251. Renal insufficiency": renal_insufficiency.md
-  - "1252. Renal Laceration ⭐": renal_laceration.md
-  - "1253. Renal tuberculosis": renal_tuberculosis.md
-  - "1254. Renal tubular acidosis": renal_tubular_acidosis.md
-  - "1255. Renal vascular injury": renal_vascular_injury.md
-  - "1256. Renal vein thrombosis": renal_vein_thrombosis.md
-  - "1257. Respiratory acidosis": respiratory_acidosis.md
-  - "1258. Respiratory alkalosis": respiratory_alkalosis.md
-  - "1259. Respiratory failure due to enteral feeding": respiratory_failure_due_to_enteral_feeding.md
-  - "1260. Respiratory syncytial virus": respiratory_syncytial_virus.md
-  - "1261. Restless legs syndrome": restless_legs_syndrome.md
-  - "1262. Restrictive cardiomyopathy": restrictive_cardiomyopathy.md
-  - "1263. Retained placenta": retained_placenta.md
-  - "1264. Retinal detachment": retinal_detachment.md
-  - "1265. Retinal hemorrhage": retinal_hemorrhage.md
-  - "1266. Retinitis pigmentosa": retinitis_pigmentosa.md
-  - "1267. Retinoblastoma": retinoblastoma.md
-  - "1268. Retinopathy of prematurity": retinopathy_of_prematurity.md
-  - "1269. Rett syndrome": rett_syndrome.md
-  - "1270. Rh isoimmunization": rh_isoimmunization.md
-  - "1271. Rhabdomyolysis": rhabdomyolysis.md
-  - "1272. Rhabdomyosarcoma": rhabdomyosarcoma.md
-  - "1273. Rheumatic heart disease": rheumatic_heart_disease.md
-  - "1274. Rheumatoid arthritis": rheumatoid_arthritis.md
-  - "1275. Rhinovirus infection": rhinovirus_infection.md
-  - "1276. Rickets": rickets.md
-  - "1277. Rickettsia rickettsii": rickettsia_rickettsii.md
-  - "1278. Right bundle branch block": right_bundle_branch_block.md
-  - "1279. Right ventricular hypertrophy": right_ventricular_hypertrophy.md
-  - "1280. Rocky Mountain spotted fever": rocky_mountain_spotted_fever.md
-  - "1281. Rosacea": rosacea.md
-  - "1282. Roseola": roseola.md
-  - "1283. Rotator cuff syndrome": rotator_cuff_syndrome.md
-  - "1284. Rotavirus enteritis": rotavirus_enteritis.md
-  - "1285. Rotor syndrome": rotor_syndrome.md
-  - "1286. Rubella": rubella.md
-  - "1287. Rumination": rumination.md
-  - "1288. Salicylate poisoning": salicylate_poisoning.md
-  - "1289. Salmonella": salmonella.md
-  - "1290. Salpingitis": salpingitis.md
-  - "1291. Sarcoidosis": sarcoidosis.md
-  - "1292. Sarcoma": sarcoma.md
-  - "1293. Scabies": scabies.md
-  - "1294. Scarlet fever": scarlet_fever.md
-  - "1295. Schistosomiasis": schistosomiasis.md
-  - "1296. Schizoaffective disorder": schizoaffective_disorder.md
-  - "1297. Schizoid personality disorder": schizoid_personality_disorder.md
-  - "1298. Schizophrenia": schizophrenia.md
-  - "1299. Scleroderma": scleroderma.md
-  - "1300. Scoliosis": scoliosis.md
-  - "1301. Scorpion bites": scorpion_bites.md
-  - "1302. Scurvy": scurvy.md
-  - "1303. Seasonal affective disorder": seasonal_affective_disorder.md
-  - "1304. Seborrheic dermatitis": seborrheic_dermatitis.md
-  - "1305. Second-degree AV block": second_degree_av_block.md
-  - "1306. Secondary adrenal insufficiency": secondary_adrenal_insufficiency.md
-  - "1307. Secondary amenorrhea": secondary_amenorrhea.md
-  - "1308. Secondary enuresis": secondary_enuresis.md
-  - "1309. Secondary hypertension": secondary_hypertension.md
-  - "1310. Secondary hyperthyroidism": secondary_hyperthyroidism.md
-  - "1311. Secondary hypogonadism": secondary_hypogonadism.md
-  - "1312. Secondary hypothyroidism": secondary_hypothyroidism.md
-  - "1313. Secondary polycythemia": secondary_polycythemia.md
-  - "1314. Sedative use disorder": sedative_use_disorder.md
-  - "1315. Seizure disorders in pregnancy": seizure_disorders_in_pregnancy.md
-  - "1316. Selective IgA deficiency": selective_iga_deficiency.md
-  - "1317. Selective IgE deficiency": selective_ige_deficiency.md
-  - "1318. Selective IgM deficiency": selective_igm_deficiency.md
-  - "1319. Selective mutism": selective_mutism.md
-  - "1320. Separation anxiety disorder": separation_anxiety_disorder.md
-  - "1321. Sepsis": sepsis.md
-  - "1322. Septic abortion": septic_abortion.md
-  - "1323. Septic abscess": septic_abscess.md
-  - "1324. Septic arthritis": septic_arthritis.md
-  - "1325. Septic shock": septic_shock.md
-  - "1326. Serotonin syndrome": serotonin_syndrome.md
-  - "1327. Serous otitis media": serous_otitis_media.md
-  - "1328. Serum sickness": serum_sickness.md
-  - "1329. Severe combined immunodeficiency": severe_combined_immunodeficiency.md
-  - "1330. Sheehan syndrome": sheehan_syndrome.md
-  - "1331. Shigella": shigella.md
-  - "1332. Short bowel syndrome": short_bowel_syndrome.md
-  - "1333. Short cervix": short_cervix.md
-  - "1334. Short stature": short_stature.md
-  - "1335. Shoulder dystocia": shoulder_dystocia.md
-  - "1336. SIADH": siadh.md
-  - "1337. Sialadenitis": sialadenitis.md
-  - "1338. Sialolithiasis": sialolithiasis.md
-  - "1339. Sick sinus syndrome": sick_sinus_syndrome.md
-  - "1340. Sickle cell disease": sickle_cell_disease.md
-  - "1341. Sickle cell disease in pregnancy": sickle_cell_disease_in_pregnancy.md
-  - "1342. Sideroblastic anemia": sideroblastic_anemia.md
-  - "1343. Silicosis": silicosis.md
-  - "1344. Silo-filler's lung": silo_filler_s_lung.md
-  - "1345. Sinus barotrauma": sinus_barotrauma.md
-  - "1346. Sinusitis": sinusitis.md
-  - "1347. Sjogren syndrome": sjogren_syndrome.md
-  - "1348. Sleep terror disorder": sleep_terror_disorder.md
-  - "1349. Sleepwalking": sleepwalking.md
-  - "1350. Slipped capital femoral epiphysis": slipped_capital_femoral_epiphysis.md
-  - "1351. Small cell lung cancer": small_cell_lung_cancer.md
-  - "1352. Small intestine cancer": small_intestine_cancer.md
-  - "1353. Small intestine polyps": small_intestine_polyps.md
-  - "1354. Smoke inhalation": smoke_inhalation.md
-  - "1355. Snake bites": snake_bites.md
-  - "1356. Social phobia": social_phobia.md
-  - "1357. Solitary pulmonary nodule": solitary_pulmonary_nodule.md
-  - "1358. Somatostatinoma": somatostatinoma.md
-  - "1359. Specific phobia": specific_phobia.md
-  - "1360. Speech sound disorder": speech_sound_disorder.md
-  - "1361. Spermatocele": spermatocele.md
-  - "1362. Spider bites": spider_bites.md
-  - "1363. Spina bifida": spina_bifida.md
-  - "1364. Spinal artery infarct": spinal_artery_infarct.md
-  - "1365. Spinal cord compression": spinal_cord_compression.md
-  - "1366. Spinal cord transection": spinal_cord_transection.md
-  - "1367. Spinal muscular atrophy": spinal_muscular_atrophy.md
-  - "1368. Splenic abscess": splenic_abscess.md
-  - "1369. Splenic infarct": splenic_infarct.md
-  - "1370. Splenic rupture": splenic_rupture.md
-  - "1371. Spondylolisthesis": spondylolisthesis.md
-  - "1372. Spondylosis": spondylosis.md
-  - "1373. Spontaneous abortion": spontaneous_abortion.md
-  - "1374. Sprain": sprain.md
-  - "1375. Squamous cell carcinoma": squamous_cell_carcinoma.md
-  - "1376. Squamous cell lung cancer": squamous_cell_lung_cancer.md
-  - "1377. St. Louis encephalitis virus": st_louis_encephalitis_virus.md
-  - "1378. Stable angina": stable_angina.md
-  - "1379. Staphylococcal scalded skin syndrome": staphylococcal_scalded_skin_syndrome.md
-  - "1380. Stasis dermatitis": stasis_dermatitis.md
-  - "1381. Stasis ulcer": stasis_ulcer.md
-  - "1382. Stevens-Johnson syndrome": stevens_johnson_syndrome.md
-  - "1383. Stillbirth": stillbirth.md
-  - "1384. Stimulant use disorder": stimulant_use_disorder.md
-  - "1385. Strabismus": strabismus.md
-  - "1386. Strain": strain.md
-  - "1387. Streptococcal pharyngitis": streptococcal_pharyngitis.md
-  - "1388. Strongyloides stercoralis": strongyloides_stercoralis.md
-  - "1389. Sturge-Weber syndrome": sturge_weber_syndrome.md
-  - "1390. Subarachnoid hemorrhage": subarachnoid_hemorrhage.md
-  - "1391. Subclavian steal syndrome": subclavian_steal_syndrome.md
-  - "1392. Subconjunctival hemorrhage": subconjunctival_hemorrhage.md
-  - "1393. Subdural hematoma": subdural_hematoma.md
-  - "1394. Subhepatic abscess": subhepatic_abscess.md
-  - "1395. Subphrenic abscess": subphrenic_abscess.md
-  - "1396. Substance-induced psychotic disorder": substance_induced_psychotic_disorder.md
-  - "1397. Sudden infant death syndrome": sudden_infant_death_syndrome.md
-  - "1398. Suicidal ideation": suicidal_ideation.md
-  - "1399. Suppurative otitis media": suppurative_otitis_media.md
-  - "1400. Supraspinatus syndrome": supraspinatus_syndrome.md
-  - "1401. Syncope": syncope.md
-  - "1402. Synovitis": synovitis.md
-  - "1403. Syphilis": syphilis.md
-  - "1404. Syringomyelia": syringomyelia.md
-  - "1405. Systemic inflammatory response syndrome": systemic_inflammatory_response_syndrome.md
-  - "1406. Systemic lupus erythematosus": systemic_lupus_erythematosus.md
-  - "1407. Systolic heart failure": systolic_heart_failure.md
-  - "1408. T-cell lymphoma": t_cell_lymphoma.md
-  - "1409. Tachycardia-induced cardiomyopathy": tachycardia_induced_cardiomyopathy.md
-  - "1410. Taenia": taenia.md
-  - "1411. Takayasu arteritis": takayasu_arteritis.md
-  - "1412. Takotsubo cardiomyopathy": takotsubo_cardiomyopathy.md
-  - "1413. Tardive dyskinesia": tardive_dyskinesia.md
-  - "1414. Tarsal tunnel syndrome": tarsal_tunnel_syndrome.md
-  - "1415. Tay-Sachs disease": tay_sachs_disease.md
-  - "1416. Temporal arteritis": temporal_arteritis.md
-  - "1417. Temporomandibular joint disorders": temporomandibular_joint_disorders.md
-  - "1418. Tendinitis": tendinitis.md
-  - "1419. Tenosynovial giant cell tumor": tenosynovial_giant_cell_tumor.md
-  - "1420. Tenosynovitis": tenosynovitis.md
-  - "1421. Tension headache": tension_headache.md
-  - "1422. Terminal complement deficiency": terminal_complement_deficiency.md
-  - "1423. Testicular cancer": testicular_cancer.md
-  - "1424. Testicular torsion": testicular_torsion.md
-  - "1425. Tetanus": tetanus.md
-  - "1426. Tetralogy of Fallot": tetralogy_of_fallot.md
-  - "1427. Thalamic pain syndrome": thalamic_pain_syndrome.md
-  - "1428. Thalassemia": thalassemia.md
-  - "1429. Thalassemia in pregnancy": thalassemia_in_pregnancy.md
-  - "1430. Thermal injury": thermal_injury.md
-  - "1431. Thiamine deficiency": thiamine_deficiency.md
-  - "1432. Thin basement membrane disease": thin_basement_membrane_disease.md
-  - "1433. Third-degree AV block": third_degree_av_block.md
-  - "1434. Third-trimester bleeding": third_trimester_bleeding.md
-  - "1435. Thoracic aortic aneurysm": thoracic_aortic_aneurysm.md
-  - "1436. Threatened abortion": threatened_abortion.md
-  - "1437. Thromboangiitis obliterans": thromboangiitis_obliterans.md
-  - "1438. Thrombocytopenia": thrombocytopenia.md
-  - "1439. Thrombophlebitis": thrombophlebitis.md
-  - "1440. Thrombotic thrombocytopenic purpura": thrombotic_thrombocytopenic_purpura.md
-  - "1441. Thymoma": thymoma.md
-  - "1442. Thyroid cyst": thyroid_cyst.md
-  - "1443. Thyroid nodule": thyroid_nodule.md
-  - "1444. Thyroid storm": thyroid_storm.md
-  - "1445. Thyrotoxicosis": thyrotoxicosis.md
-  - "1446. Tinea barbae": tinea_barbae.md
-  - "1447. Tinea capitis": tinea_capitis.md
-  - "1448. Tinea corporis": tinea_corporis.md
-  - "1449. Tinnitus": tinnitus.md
-  - "1450. Tobacco use disorder and withdrawal": tobacco_use_disorder_and_withdrawal.md
-  - "1451. Tonsillitis": tonsillitis.md
-  - "1452. Torsades de pointes": torsades_de_pointes.md
-  - "1453. Torticollis": torticollis.md
-  - "1454. Tourette syndrome": tourette_syndrome.md
-  - "1455. Toxic epidermal necrolysis": toxic_epidermal_necrolysis.md
-  - "1456. Toxic megacolon": toxic_megacolon.md
-  - "1457. Toxic shock syndrome": toxic_shock_syndrome.md
-  - "1458. Toxoplasma gondii": toxoplasma_gondii.md
-  - "1459. Toxoplasmosis": toxoplasmosis.md
-  - "1460. Tracheal cancer": tracheal_cancer.md
-  - "1461. Tracheal foreign body": tracheal_foreign_body.md
-  - "1462. Tracheal injury": tracheal_injury.md
-  - "1463. Tracheal stenosis": tracheal_stenosis.md
-  - "1464. Tracheitis": tracheitis.md
-  - "1465. Tracheoesophageal fistula": tracheoesophageal_fistula.md
-  - "1466. Tracheomalacia": tracheomalacia.md
-  - "1467. Transfusion reaction": transfusion_reaction.md
-  - "1468. Transfusion-related acute lung injury": transfusion_related_acute_lung_injury.md
-  - "1469. Transient ischemic attack": transient_ischemic_attack.md
-  - "1470. Transplant rejection": transplant_rejection.md
-  - "1471. Transposition of the great vessels": transposition_of_the_great_vessels.md
-  - "1472. Transverse myelitis": transverse_myelitis.md
-  - "1473. Trauma in pregnancy": trauma_in_pregnancy.md
-  - "1474. Traumatic aortic dissection": traumatic_aortic_dissection.md
-  - "1475. Traumatic brain injury": traumatic_brain_injury.md
-  - "1476. Traumatic intracranial hemorrhage": traumatic_intracranial_hemorrhage.md
-  - "1477. Traveler's diarrhea": traveler_s_diarrhea.md
-  - "1478. Treponema pallidum": treponema_pallidum.md
-  - "1479. Trichomonas vaginalis": trichomonas_vaginalis.md
-  - "1480. Trichomoniasis": trichomoniasis.md
-  - "1481. Trichotillomania": trichotillomania.md
-  - "1482. Tricuspid regurgitation": tricuspid_regurgitation.md
-  - "1483. Tricuspid stenosis": tricuspid_stenosis.md
-  - "1484. Trigeminal neuralgia": trigeminal_neuralgia.md
-  - "1485. Trypanosomiasis": trypanosomiasis.md
-  - "1486. Tuberculous spondylitis": tuberculous_spondylitis.md
-  - "1487. Tuberous sclerosis": tuberous_sclerosis.md
-  - "1488. Tularemia": tularemia.md
-  - "1489. Tumor lysis syndrome": tumor_lysis_syndrome.md
-  - "1490. Turcot syndrome": turcot_syndrome.md
-  - "1491. Turner syndrome": turner_syndrome.md
-  - "1492. Tympanic membrane perforation": tympanic_membrane_perforation.md
-  - "1493. Type I hypersensitivity": type_i_hypersensitivity.md
-  - "1494. Type II hypersensitivity": type_ii_hypersensitivity.md
-  - "1495. Type III hypersensitivity": type_iii_hypersensitivity.md
-  - "1496. Type IV hypersensitivity": type_iv_hypersensitivity.md
-  - "1497. Ulcerative colitis": ulcerative_colitis.md
-  - "1498. Umbilical hernia": umbilical_hernia.md
-  - "1499. Undescended testicle": undescended_testicle.md
-  - "1500. Unexpected weight gain": unexpected_weight_gain.md
-  - "1501. Unexpected weight loss": unexpected_weight_loss.md
-  - "1502. Unstable angina": unstable_angina.md
-  - "1503. Upper gastrointestinal bleeding": upper_gastrointestinal_bleeding.md
-  - "1504. Urea cycle disorders": urea_cycle_disorders.md
-  - "1505. Uremic syndrome": uremic_syndrome.md
-  - "1506. Ureteral calculi": ureteral_calculi.md
-  - "1507. Ureteral laceration": ureteral_laceration.md
-  - "1508. Ureteral stricture": ureteral_stricture.md
-  - "1509. Urethral Diverticulum ⭐": urethral_diverticulum.md
-  - "1510. Urethral stricture": urethral_stricture.md
-  - "1511. Urethritis": urethritis.md
-  - "1512. Urethrocele": urethrocele.md
-  - "1513. Urinary bladder cancer": urinary_bladder_cancer.md
-  - "1514. Urinary incontinence": urinary_incontinence.md
-  - "1515. Urticaria": urticaria.md
-  - "1516. Usual interstitial pneumonia": usual_interstitial_pneumonia.md
-  - "1517. Uterine atony": uterine_atony.md
-  - "1518. Uterine inversion": uterine_inversion.md
-  - "1519. Uterine leiomyoma": uterine_leiomyoma.md
-  - "1520. Uterine prolapse": uterine_prolapse.md
-  - "1521. Uterovaginal prolapse": uterovaginal_prolapse.md
-  - "1522. Uterus didelphys": uterus_didelphys.md
-  - "1523. Uveitis": uveitis.md
-  - "1524. V/Q mismatch": v_q_mismatch.md
-  - "1525. VACTERL association": vacterl_association.md
-  - "1526. Vaginismus": vaginismus.md
-  - "1527. Vaginitis": vaginitis.md
-  - "1528. Valvular heart disease in pregnancy": valvular_heart_disease_in_pregnancy.md
-  - "1529. Varicella zoster virus": varicella_zoster_virus.md
-  - "1530. Varicella-zoster virus infection": varicella_zoster_virus_infection.md
-  - "1531. Varicocele": varicocele.md
-  - "1532. Varicose veins": varicose_veins.md
-  - "1533. Vascular dementia": vascular_dementia.md
-  - "1534. Vasomotor symptoms of menopause": vasomotor_symptoms_of_menopause.md
-  - "1535. Venous insufficiency": venous_insufficiency.md
-  - "1536. Venous thromboembolism": venous_thromboembolism.md
-  - "1537. Ventilator-associated pneumonia": ventilator_associated_pneumonia.md
-  - "1538. Ventricular fibrillation": ventricular_fibrillation.md
-  - "1539. Ventricular free wall rupture": ventricular_free_wall_rupture.md
-  - "1540. Ventricular septal defect": ventricular_septal_defect.md
-  - "1541. Ventricular tachycardia": ventricular_tachycardia.md
-  - "1542. Verruca vulgaris": verruca_vulgaris.md
-  - "1543. Vertebral artery dissection": vertebral_artery_dissection.md
-  - "1544. Vertigo": vertigo.md
-  - "1545. Vesicoureteral reflux": vesicoureteral_reflux.md
-  - "1546. Vestibular neuritis": vestibular_neuritis.md
-  - "1547. Vibrio cholerae": vibrio_cholerae.md
-  - "1548. Viral cardiomyopathy": viral_cardiomyopathy.md
-  - "1549. Viral encephalitis": viral_encephalitis.md
-  - "1550. Viral meningitis": viral_meningitis.md
-  - "1551. Virilization": virilization.md
-  - "1552. Visceral leishmaniasis": visceral_leishmaniasis.md
-  - "1553. Vitamin A deficiency": vitamin_a_deficiency.md
-  - "1554. Vitamin A toxicity": vitamin_a_toxicity.md
-  - "1555. Vitamin B12 deficiency": vitamin_b12_deficiency.md
-  - "1556. Vitamin B1 deficiency": vitamin_b1_deficiency.md
-  - "1557. Vitamin B3 deficiency": vitamin_b3_deficiency.md
-  - "1558. Vitamin B6 deficiency": vitamin_b6_deficiency.md
-  - "1559. Vitamin B9 deficiency": vitamin_b9_deficiency.md
-  - "1560. Vitamin C deficiency": vitamin_c_deficiency.md
-  - "1561. Vitamin D deficiency": vitamin_d_deficiency.md
-  - "1562. Vitamin E deficiency": vitamin_e_deficiency.md
-  - "1563. Vitamin K deficiency": vitamin_k_deficiency.md
-  - "1564. Vitiligo": vitiligo.md
-  - "1565. Vocal cord polyp": vocal_cord_polyp.md
-  - "1566. Volume overload": volume_overload.md
-  - "1567. Volvulus": volvulus.md
-  - "1568. Vomiting": vomiting.md
-  - "1569. von Hippel-Lindau disease": von_hippel_lindau_disease.md
-  - "1570. von Willebrand disease": von_willebrand_disease.md
-  - "1571. Vulvar cancer": vulvar_cancer.md
-  - "1572. Vulvar dysplasia": vulvar_dysplasia.md
-  - "1573. Vulvovaginal candidiasis": vulvovaginal_candidiasis.md
-  - "1574. Vulvovaginitis": vulvovaginitis.md
-  - "1575. Waldenstrom macroglobulinemia": waldenstrom_macroglobulinemia.md
-  - "1576. Wernicke-Korsakoff syndrome": wernicke_korsakoff_syndrome.md
-  - "1577. West Nile virus": west_nile_virus.md
-  - "1578. Western equine encephalitis virus": western_equine_encephalitis_virus.md
-  - "1579. Wet gangrene": wet_gangrene.md
-  - "1580. Wide complex tachycardia": wide_complex_tachycardia.md
-  - "1581. Wilms tumor": wilms_tumor.md
-  - "1582. Wilson disease": wilson_disease.md
-  - "1583. Wiskott-Aldrich syndrome": wiskott_aldrich_syndrome.md
-  - "1584. Wolff-Parkinson-White syndrome": wolff_parkinson_white_syndrome.md
-  - "1585. X-linked agammaglobulinemia": x_linked_agammaglobulinemia.md
-  - "1586. Xanthoma": xanthoma.md
-  - "1587. Yellow fever": yellow_fever.md
-  - "1588. Yersinia enterocolitica": yersinia_enterocolitica.md
-  - "1589. Zenker diverticulum": zenker_diverticulum.md
-  - "1590. Zollinger-Ellison syndrome": zollinger_ellison_syndrome.md
+  - "1. Varicocele": varicocele.md
+  - "2. Hypoglycemia": hypoglycemia.md
+  - "3. Tetanus": tetanus.md
+  - "4. Seborrheic dermatitis": seborrheic_dermatitis.md
+  - "5. Gardner syndrome": gardner_syndrome.md
+  - "6. Hydronephrosis": hydronephrosis.md
+  - "7. Naegleria fowleri": naegleria_fowleri.md
+  - "8. Neonatal respiratory distress syndrome": neonatal_respiratory_distress_syndrome.md
+  - "9. Premature rupture of membranes": premature_rupture_of_membranes.md
+  - "10. Stasis dermatitis": stasis_dermatitis.md
+  - "11. Phimosis": phimosis.md
+  - "12. Urethrocele": urethrocele.md
+  - "13. Ischemic stroke": ischemic_stroke.md
+  - "14. Antepartum hemorrhage": antepartum_hemorrhage.md
+  - "15. West Nile virus": west_nile_virus.md
+  - "16. Pancreatic cancer": pancreatic_cancer.md
+  - "17. Vitamin A deficiency": vitamin_a_deficiency.md
+  - "18. Bagassosis": bagassosis.md
+  - "19. Q fever": q_fever.md
+  - "20. Benzodiazepine withdrawal": benzodiazepine_withdrawal.md
+  - "21. Oral cancer": oral_cancer.md
+  - "22. Pemphigoid": pemphigoid.md
+  - "23. Ichthyosis": ichthyosis.md
+  - "24. Cervical cancer": cervical_cancer.md
+  - "25. MDMA intoxication": mdma_intoxication.md
+  - "26. Traumatic brain injury": traumatic_brain_injury.md
+  - "27. Gastrointestinal foreign body": gastrointestinal_foreign_body.md
+  - "28. Renal vein thrombosis": renal_vein_thrombosis.md
+  - "29. Alzheimer disease": alzheimer_disease.md
+  - "30. Hemolytic uremic syndrome": hemolytic_uremic_syndrome.md
+  - "31. Intestinal impaction": intestinal_impaction.md
+  - "32. Nephrogenic systemic fibrosis": nephrogenic_systemic_fibrosis.md
+  - "33. Hyperkalemia": hyperkalemia.md
+  - "34. Low back pain": low_back_pain.md
+  - "35. Meningococcemia": meningococcemia.md
+  - "36. Lyme disease": lyme_disease.md
+  - "37. Pulmonary hypertension": pulmonary_hypertension.md
+  - "38. Postherpetic neuralgia": postherpetic_neuralgia.md
+  - "39. Alcohol use disorder and withdrawal": alcohol_use_disorder_and_withdrawal.md
+  - "40. Ophthalmia neonatorum": ophthalmia_neonatorum.md
+  - "41. Gonorrhea": gonorrhea.md
+  - "42. Acute interstitial nephritis": acute_interstitial_nephritis.md
+  - "43. Wolff-Parkinson-White syndrome": wolff_parkinson_white_syndrome.md
+  - "44. Bladder rupture": bladder_rupture.md
+  - "45. Optic neuritis": optic_neuritis.md
+  - "46. Gambling disorder": gambling_disorder.md
+  - "47. Dermatitis herpetiformis": dermatitis_herpetiformis.md
+  - "48. Leukocyte adhesion deficiency": leukocyte_adhesion_deficiency.md
+  - "49. Ganglion cyst": ganglion_cyst.md
+  - "50. Hodgkin lymphoma": hodgkin_lymphoma.md
+  - "51. Perinephric abscess": perinephric_abscess.md
+  - "52. Polyglandular autoimmune syndrome type 1": polyglandular_autoimmune_syndrome_type_1.md
+  - "53. Breath-holding spells": breath_holding_spells.md
+  - "54. Acanthamoeba": acanthamoeba.md
+  - "55. Brief psychotic disorder": brief_psychotic_disorder.md
+  - "56. Polymyalgia rheumatica": polymyalgia_rheumatica.md
+  - "57. Guillain-Barré syndrome": guillain_barr_e_syndrome.md
+  - "58. Immune thrombocytopenic purpura": immune_thrombocytopenic_purpura.md
+  - "59. Folic acid deficiency": folic_acid_deficiency.md
+  - "60. Infantile spinal muscular atrophy": infantile_spinal_muscular_atrophy.md
+  - "61. Crigler-Najjar syndrome": crigler_najjar_syndrome.md
+  - "62. Chorioretinitis": chorioretinitis.md
+  - "63. Carpal tunnel syndrome in pregnancy": carpal_tunnel_syndrome_in_pregnancy.md
+  - "64. Rhabdomyolysis": rhabdomyolysis.md
+  - "65. Acute stress disorder": acute_stress_disorder.md
+  - "66. Birth asphyxia": birth_asphyxia.md
+  - "67. Androgen insensitivity syndrome": androgen_insensitivity_syndrome.md
+  - "68. Delirium": delirium.md
+  - "69. Disc degeneration": disc_degeneration.md
+  - "70. Dermatomyositis": dermatomyositis.md
+  - "71. Anthrax": anthrax.md
+  - "72. Cutaneous larva migrans": cutaneous_larva_migrans.md
+  - "73. Penile cancer": penile_cancer.md
+  - "74. Craniopharyngioma": craniopharyngioma.md
+  - "75. Gestational trophoblastic disease": gestational_trophoblastic_disease.md
+  - "76. Pneumomediastinum": pneumomediastinum.md
+  - "77. Hepatorenal syndrome": hepatorenal_syndrome.md
+  - "78. Felty syndrome": felty_syndrome.md
+  - "79. Chronic granulomatous disease": chronic_granulomatous_disease.md
+  - "80. Postpartum depression": postpartum_depression.md
+  - "81. Retained placenta": retained_placenta.md
+  - "82. Labyrinthitis": labyrinthitis.md
+  - "83. Prostate cancer": prostate_cancer.md
+  - "84. Pseudogout": pseudogout.md
+  - "85. Acute upper respiratory infection": acute_upper_respiratory_infection.md
+  - "86. Paraneoplastic cerebellar degeneration": paraneoplastic_cerebellar_degeneration.md
+  - "87. Pulmonary contusion": pulmonary_contusion.md
+  - "88. Gastric adenocarcinoma": gastric_adenocarcinoma.md
+  - "89. Adrenal carcinoma": adrenal_carcinoma.md
+  - "90. Premature atrial contractions": premature_atrial_contractions.md
+  - "91. Third-degree AV block": third_degree_av_block.md
+  - "92. Aspergillosis": aspergillosis.md
+  - "93. Liver failure": liver_failure.md
+  - "94. Anti-NMDA receptor encephalitis": anti_nmda_receptor_encephalitis.md
+  - "95. Atopic dermatitis": atopic_dermatitis.md
+  - "96. Atherosclerosis": atherosclerosis.md
+  - "97. Klebsiella pneumoniae": klebsiella_pneumoniae.md
+  - "98. Clostridium botulinum": clostridium_botulinum.md
+  - "99. Second-degree AV block": second_degree_av_block.md
+  - "100. Apparent life-threatening event": apparent_life_threatening_event.md
+  - "101. Mitral valve dysfunction": mitral_valve_dysfunction.md
+  - "102. Rickettsia rickettsii": rickettsia_rickettsii.md
+  - "103. Premature ejaculation": premature_ejaculation.md
+  - "104. Ovarian cyst": ovarian_cyst.md
+  - "105. HIV nephropathy": hiv_nephropathy.md
+  - "106. Vascular dementia": vascular_dementia.md
+  - "107. Neisseria gonorrhoeae": neisseria_gonorrhoeae.md
+  - "108. Laryngeal cancer": laryngeal_cancer.md
+  - "109. Glioblastoma": glioblastoma.md
+  - "110. Histrionic personality disorder": histrionic_personality_disorder.md
+  - "111. Cervicitis": cervicitis.md
+  - "112. Adrenal neuroblastoma": adrenal_neuroblastoma.md
+  - "113. Scleroderma": scleroderma.md
+  - "114. Fracture": fracture.md
+  - "115. Myopia": myopia.md
+  - "116. Brucellosis": brucellosis.md
+  - "117. Cystocele": cystocele.md
+  - "118. Nonbacterial thrombotic endocarditis": nonbacterial_thrombotic_endocarditis.md
+  - "119. Keratoconjunctivitis": keratoconjunctivitis.md
+  - "120. Brain death": brain_death.md
+  - "121. Diabetes mellitus type 1": diabetes_mellitus_type_1.md
+  - "122. Chronic rhinitis": chronic_rhinitis.md
+  - "123. Hypernatremia": hypernatremia.md
+  - "124. Spider bites": spider_bites.md
+  - "125. Renal hypoplasia": renal_hypoplasia.md
+  - "126. Cryptosporidium": cryptosporidium.md
+  - "127. Seizure disorders in pregnancy": seizure_disorders_in_pregnancy.md
+  - "128. Subconjunctival hemorrhage": subconjunctival_hemorrhage.md
+  - "129. Astrocytoma": astrocytoma.md
+  - "130. Specific phobia": specific_phobia.md
+  - "131. Blast injury": blast_injury.md
+  - "132. Histoplasma capsulatum": histoplasma_capsulatum.md
+  - "133. Thalassemia": thalassemia.md
+  - "134. Ventricular tachycardia": ventricular_tachycardia.md
+  - "135. Parainfluenza": parainfluenza.md
+  - "136. Peritoneal cancer": peritoneal_cancer.md
+  - "137. Irritant contact dermatitis": irritant_contact_dermatitis.md
+  - "138. Generalized tonic-clonic seizure": generalized_tonic_clonic_seizure.md
+  - "139. Herniated disc": herniated_disc.md
+  - "140. Paroxysmal nocturnal hemoglobinuria": paroxysmal_nocturnal_hemoglobinuria.md
+  - "141. Benign positional vertigo": benign_positional_vertigo.md
+  - "142. Dressler syndrome": dressler_syndrome.md
+  - "143. Parotitis": parotitis.md
+  - "144. Hereditary nonpolyposis colorectal cancer": hereditary_nonpolyposis_colorectal_cancer.md
+  - "145. Hypokalemic periodic paralysis": hypokalemic_periodic_paralysis.md
+  - "146. Factitious disorder imposed on another": factitious_disorder_imposed_on_another.md
+  - "147. Cubital tunnel syndrome": cubital_tunnel_syndrome.md
+  - "148. Ptosis": ptosis.md
+  - "149. Respiratory alkalosis": respiratory_alkalosis.md
+  - "150. Aphthous ulcers": aphthous_ulcers.md
+  - "151. Lupus anticoagulant": lupus_anticoagulant.md
+  - "152. Eosinophilic esophagitis": eosinophilic_esophagitis.md
+  - "153. Hidradenitis suppurativa": hidradenitis_suppurativa.md
+  - "154. Sedative use disorder": sedative_use_disorder.md
+  - "155. Endocardial cushion defect": endocardial_cushion_defect.md
+  - "156. Polyarteritis nodosa": polyarteritis_nodosa.md
+  - "157. Asymptomatic bacteriuria": asymptomatic_bacteriuria.md
+  - "158. Obstructive uropathy": obstructive_uropathy.md
+  - "159. Melena": melena.md
+  - "160. Pituitary adenoma": pituitary_adenoma.md
+  - "161. Cutaneous abscess": cutaneous_abscess.md
+  - "162. Chronic myeloid leukemia": chronic_myeloid_leukemia.md
+  - "163. Palpitations": palpitations.md
+  - "164. Hyperphosphatemia": hyperphosphatemia.md
+  - "165. Infectious mononucleosis": infectious_mononucleosis.md
+  - "166. Ehlers-Danlos syndrome": ehlers_danlos_syndrome.md
+  - "167. Trigeminal neuralgia": trigeminal_neuralgia.md
+  - "168. Diastolic heart failure": diastolic_heart_failure.md
+  - "169. Pulmonary embolism": pulmonary_embolism.md
+  - "170. Stasis ulcer": stasis_ulcer.md
+  - "171. Opioid intoxication": opioid_intoxication.md
+  - "172. Medicare": medicare.md
+  - "173. Usual interstitial pneumonia": usual_interstitial_pneumonia.md
+  - "174. Vitamin B12 deficiency": vitamin_b12_deficiency.md
+  - "175. Lung abscess": lung_abscess.md
+  - "176. Cervical shortening": cervical_shortening.md
+  - "177. Lentigo": lentigo.md
+  - "178. Granulomatosis with polyangiitis": granulomatosis_with_polyangiitis.md
+  - "179. Reactive attachment disorder": reactive_attachment_disorder.md
+  - "180. Glycogen storage disease": glycogen_storage_disease.md
+  - "181. Renal vascular injury": renal_vascular_injury.md
+  - "182. Peroneal tunnel syndrome": peroneal_tunnel_syndrome.md
+  - "183. Trypanosomiasis": trypanosomiasis.md
+  - "184. Rh isoimmunization": rh_isoimmunization.md
+  - "185. Hyperosmolar hyperglycemic coma": hyperosmolar_hyperglycemic_coma.md
+  - "186. Dependent personality disorder": dependent_personality_disorder.md
+  - "187. Adrenal adenoma": adrenal_adenoma.md
+  - "188. Ehrlichia": ehrlichia.md
+  - "189. Multiple sclerosis": multiple_sclerosis.md
+  - "190. Sprain": sprain.md
+  - "191. Mirizzi syndrome": mirizzi_syndrome.md
+  - "192. Partial seizure": partial_seizure.md
+  - "193. Patent foramen ovale": patent_foramen_ovale.md
+  - "194. Hyperventilation syndrome": hyperventilation_syndrome.md
+  - "195. Phyllodes tumor": phyllodes_tumor.md
+  - "196. Missed abortion": missed_abortion.md
+  - "197. Nephrolithiasis": nephrolithiasis.md
+  - "198. Papilledema": papilledema.md
+  - "199. Gestational hypertension": gestational_hypertension.md
+  - "200. Microcephaly": microcephaly.md
+  - "201. Obesity hypoventilation syndrome": obesity_hypoventilation_syndrome.md
+  - "202. Hypertension in pregnancy": hypertension_in_pregnancy.md
+  - "203. Tenosynovitis": tenosynovitis.md
+  - "204. Fragile X syndrome": fragile_x_syndrome.md
+  - "205. Autoimmune hemolytic anemia": autoimmune_hemolytic_anemia.md
+  - "206. Metabolic syndrome": metabolic_syndrome.md
+  - "207. Hemangioma": hemangioma.md
+  - "208. Allergic bronchopulmonary aspergillosis": allergic_bronchopulmonary_aspergillosis.md
+  - "209. Pancytopenia": pancytopenia.md
+  - "210. Septic shock": septic_shock.md
+  - "211. Maple syrup urine disease": maple_syrup_urine_disease.md
+  - "212. Abnormal uterine bleeding": abnormal_uterine_bleeding.md
+  - "213. Selective mutism": selective_mutism.md
+  - "214. Uterine inversion": uterine_inversion.md
+  - "215. Thalamic pain syndrome": thalamic_pain_syndrome.md
+  - "216. Cord compression": cord_compression.md
+  - "217. Panhypopituitarism": panhypopituitarism.md
+  - "218. Moraxella catarrhalis": moraxella_catarrhalis.md
+  - "219. Hyphema": hyphema.md
+  - "220. VACTERL association": vacterl_association.md
+  - "221. Cough": cough.md
+  - "222. Persistent complex bereavement disorder": persistent_complex_bereavement_disorder.md
+  - "223. Pulmonary edema": pulmonary_edema.md
+  - "224. Congenital cytomegalovirus infection": congenital_cytomegalovirus_infection.md
+  - "225. Entamoeba histolytica": entamoeba_histolytica.md
+  - "226. Acoustic neuroma": acoustic_neuroma.md
+  - "227. Angiostrongylus cantonensis": angiostrongylus_cantonensis.md
+  - "228. Basal cell carcinoma": basal_cell_carcinoma.md
+  - "229. Hyperthyroidism in pregnancy": hyperthyroidism_in_pregnancy.md
+  - "230. Torsades de pointes": torsades_de_pointes.md
+  - "231. Subclavian steal syndrome": subclavian_steal_syndrome.md
+  - "232. Quadriplegia": quadriplegia.md
+  - "233. Sheehan syndrome": sheehan_syndrome.md
+  - "234. Otitis interna": otitis_interna.md
+  - "235. Alcoholic hepatitis": alcoholic_hepatitis.md
+  - "236. Immune reconstitution inflammatory syndrome": immune_reconstitution_inflammatory_syndrome.md
+  - "237. Polyangiitis": polyangiitis.md
+  - "238. Fatigue": fatigue.md
+  - "239. Pancreatic pseudocyst": pancreatic_pseudocyst.md
+  - "240. Neonatal thrush": neonatal_thrush.md
+  - "241. Absence seizure": absence_seizure.md
+  - "242. Proctitis": proctitis.md
+  - "243. Tinea capitis": tinea_capitis.md
+  - "244. Sjogren syndrome": sjogren_syndrome.md
+  - "245. Glucose-6-phosphate dehydrogenase deficiency": glucose_6_phosphate_dehydrogenase_deficiency.md
+  - "246. Speech sound disorder": speech_sound_disorder.md
+  - "247. Bronchopulmonary dysplasia": bronchopulmonary_dysplasia.md
+  - "248. Congestive heart failure": congestive_heart_failure.md
+  - "249. Hyperinsulinism": hyperinsulinism.md
+  - "250. Aortic regurgitation": aortic_regurgitation.md
+  - "251. Coxsackievirus infection": coxsackievirus_infection.md
+  - "252. Upper gastrointestinal bleeding": upper_gastrointestinal_bleeding.md
+  - "253. Hemochromatosis": hemochromatosis.md
+  - "254. Tracheal stenosis": tracheal_stenosis.md
+  - "255. Lewy body dementia": lewy_body_dementia.md
+  - "256. Brucella": brucella.md
+  - "257. Ingrown toenail": ingrown_toenail.md
+  - "258. Nasal septal perforation": nasal_septal_perforation.md
+  - "259. Urticaria": urticaria.md
+  - "260. Amaurosis fugax": amaurosis_fugax.md
+  - "261. Gastrointestinal stromal tumor": gastrointestinal_stromal_tumor.md
+  - "262. Strabismus": strabismus.md
+  - "263. Rectal cancer": rectal_cancer.md
+  - "264. Central sleep apnea": central_sleep_apnea.md
+  - "265. Human herpesvirus 8": human_herpesvirus_8.md
+  - "266. Parkinson disease dementia": parkinson_disease_dementia.md
+  - "267. Ventricular septal defect": ventricular_septal_defect.md
+  - "268. Familial adenomatous polyposis": familial_adenomatous_polyposis.md
+  - "269. Alcoholic fatty liver disease": alcoholic_fatty_liver_disease.md
+  - "270. Lipoma": lipoma.md
+  - "271. Major depressive disorder": major_depressive_disorder.md
+  - "272. Venous thromboembolism": venous_thromboembolism.md
+  - "273. Acute respiratory distress syndrome": acute_respiratory_distress_syndrome.md
+  - "274. Appendicitis in pregnancy": appendicitis_in_pregnancy.md
+  - "275. Cystitis": cystitis.md
+  - "276. Posterior urethral valves": posterior_urethral_valves.md
+  - "277. Carotid sinus hypersensitivity": carotid_sinus_hypersensitivity.md
+  - "278. Fat necrosis of breast": fat_necrosis_of_breast.md
+  - "279. Fungal meningitis": fungal_meningitis.md
+  - "280. Boerhaave syndrome": boerhaave_syndrome.md
+  - "281. Cyclothymic disorder": cyclothymic_disorder.md
+  - "282. Foreign body in ear": foreign_body_in_ear.md
+  - "283. Testicular torsion": testicular_torsion.md
+  - "284. Meconium aspiration syndrome": meconium_aspiration_syndrome.md
+  - "285. Niacin deficiency": niacin_deficiency.md
+  - "286. Lambert-Eaton myasthenic syndrome": lambert_eaton_myasthenic_syndrome.md
+  - "287. Dry gangrene": dry_gangrene.md
+  - "288. Myelofibrosis": myelofibrosis.md
+  - "289. Cryptococcus neoformans": cryptococcus_neoformans.md
+  - "290. Hashimoto thyroiditis": hashimoto_thyroiditis.md
+  - "291. Clostridial myonecrosis": clostridial_myonecrosis.md
+  - "292. Renal tuberculosis": renal_tuberculosis.md
+  - "293. Parkinson disease": parkinson_disease.md
+  - "294. Arnold-Chiari malformation": arnold_chiari_malformation.md
+  - "295. Histoplasmosis": histoplasmosis.md
+  - "296. Duodenal tear": duodenal_tear.md
+  - "297. Hemorrhoids": hemorrhoids.md
+  - "298. Alcoholic cardiomyopathy": alcoholic_cardiomyopathy.md
+  - "299. Viral cardiomyopathy": viral_cardiomyopathy.md
+  - "300. Mitochondrial myopathy": mitochondrial_myopathy.md
+  - "301. Intellectual disability": intellectual_disability.md
+  - "302. Spinal artery infarct": spinal_artery_infarct.md
+  - "303. Anaplastic thyroid cancer": anaplastic_thyroid_cancer.md
+  - "304. Lice": lice.md
+  - "305. Varicella-zoster virus infection": varicella_zoster_virus_infection.md
+  - "306. Dehydration": dehydration.md
+  - "307. Blepharitis": blepharitis.md
+  - "308. Latent autoimmune diabetes in adults": latent_autoimmune_diabetes_in_adults.md
+  - "309. Coccidioides immitis": coccidioides_immitis.md
+  - "310. Vaginitis": vaginitis.md
+  - "311. Disseminated intravascular coagulation": disseminated_intravascular_coagulation.md
+  - "312. Herpes simplex type 1": herpes_simplex_type_1.md
+  - "313. Rotor syndrome": rotor_syndrome.md
+  - "314. Kaposi sarcoma": kaposi_sarcoma.md
+  - "315. Gallbladder cancer": gallbladder_cancer.md
+  - "316. Alport syndrome": alport_syndrome.md
+  - "317. Paget disease of bone": paget_disease_of_bone.md
+  - "318. Neurofibromatosis type 2": neurofibromatosis_type_2.md
+  - "319. Inflammatory disease of breast": inflammatory_disease_of_breast.md
+  - "320. Polyhydramnios": polyhydramnios.md
+  - "321. Bacterial vaginosis": bacterial_vaginosis.md
+  - "322. Vitamin D deficiency": vitamin_d_deficiency.md
+  - "323. Squamous cell carcinoma": squamous_cell_carcinoma.md
+  - "324. Agoraphobia": agoraphobia.md
+  - "325. Community-acquired pneumonia": community_acquired_pneumonia.md
+  - "326. Pathologic fracture": pathologic_fracture.md
+  - "327. Spondylolisthesis": spondylolisthesis.md
+  - "328. Renal infarction": renal_infarction.md
+  - "329. Anoxic brain injury": anoxic_brain_injury.md
+  - "330. Rett syndrome": rett_syndrome.md
+  - "331. Appendicitis": appendicitis.md
+  - "332. Somatostatinoma": somatostatinoma.md
+  - "333. Congenital parvovirus B19": congenital_parvovirus_b19.md
+  - "334. Hemolytic disease of the newborn": hemolytic_disease_of_the_newborn.md
+  - "335. Unexpected weight loss": unexpected_weight_loss.md
+  - "336. Epididymitis": epididymitis.md
+  - "337. Clostridium tetani": clostridium_tetani.md
+  - "338. Acute kidney injury": acute_kidney_injury.md
+  - "339. Fanconi anemia": fanconi_anemia.md
+  - "340. Frontotemporal dementia": frontotemporal_dementia.md
+  - "341. Pyloric stenosis": pyloric_stenosis.md
+  - "342. Thiamine deficiency": thiamine_deficiency.md
+  - "343. Langerhans cell histiocytosis": langerhans_cell_histiocytosis.md
+  - "344. Otitis media": otitis_media.md
+  - "345. St. Louis encephalitis virus": st_louis_encephalitis_virus.md
+  - "346. Avoidant personality disorder": avoidant_personality_disorder.md
+  - "347. Hypertensive encephalopathy": hypertensive_encephalopathy.md
+  - "348. Neonatal feeding problems": neonatal_feeding_problems.md
+  - "349. Enuresis": enuresis.md
+  - "350. Cystinuria": cystinuria.md
+  - "351. Holoprosencephaly": holoprosencephaly.md
+  - "352. Human immunodeficiency virus": human_immunodeficiency_virus.md
+  - "353. Measles virus": measles_virus.md
+  - "354. Language disorder": language_disorder.md
+  - "355. Herpes simplex type 2": herpes_simplex_type_2.md
+  - "356. Obesity": obesity.md
+  - "357. Rectal polyps": rectal_polyps.md
+  - "358. Aspiration pneumonitis": aspiration_pneumonitis.md
+  - "359. Corneal abrasion": corneal_abrasion.md
+  - "360. Jaundice": jaundice.md
+  - "361. Ovarian torsion": ovarian_torsion.md
+  - "362. Tricuspid stenosis": tricuspid_stenosis.md
+  - "363. Gastrointestinal obstruction": gastrointestinal_obstruction.md
+  - "364. Erythema infectiosum": erythema_infectiosum.md
+  - "365. Premenstrual dysphoric disorder": premenstrual_dysphoric_disorder.md
+  - "366. Pelvic inflammatory disease": pelvic_inflammatory_disease.md
+  - "367. Anal ulcer": anal_ulcer.md
+  - "368. Fecal incontinence": fecal_incontinence.md
+  - "369. Contracture": contracture.md
+  - "370. Genital warts": genital_warts.md
+  - "371. Cardiogenic shock": cardiogenic_shock.md
+  - "372. Salpingitis": salpingitis.md
+  - "373. Loeffler syndrome": loeffler_syndrome.md
+  - "374. Secondary hypothyroidism": secondary_hypothyroidism.md
+  - "375. Cardiac myxoma": cardiac_myxoma.md
+  - "376. Tularemia": tularemia.md
+  - "377. Portal hypertension": portal_hypertension.md
+  - "378. Secondary adrenal insufficiency": secondary_adrenal_insufficiency.md
+  - "379. Prematurity": prematurity.md
+  - "380. Postcoital bleeding": postcoital_bleeding.md
+  - "381. Intraductal papilloma": intraductal_papilloma.md
+  - "382. Stillbirth": stillbirth.md
+  - "383. Hypospadias": hypospadias.md
+  - "384. Decubitus ulcer": decubitus_ulcer.md
+  - "385. Roseola": roseola.md
+  - "386. Fetal macrosomia": fetal_macrosomia.md
+  - "387. Inguinal hernia": inguinal_hernia.md
+  - "388. Laryngotracheitis": laryngotracheitis.md
+  - "389. Anencephaly": anencephaly.md
+  - "390. Shoulder dystocia": shoulder_dystocia.md
+  - "391. Anisocoria": anisocoria.md
+  - "392. Leukoplakia": leukoplakia.md
+  - "393. Postsurgical adhesions": postsurgical_adhesions.md
+  - "394. Hyperhidrosis": hyperhidrosis.md
+  - "395. Pyonephrosis": pyonephrosis.md
+  - "396. Aspergilloma": aspergilloma.md
+  - "397. Amyotrophic lateral sclerosis": amyotrophic_lateral_sclerosis.md
+  - "398. Byssinosis": byssinosis.md
+  - "399. Sideroblastic anemia": sideroblastic_anemia.md
+  - "400. Pyoderma gangrenosum": pyoderma_gangrenosum.md
+  - "401. Rabies virus": rabies_virus.md
+  - "402. Acute myeloid leukemia": acute_myeloid_leukemia.md
+  - "403. Baylisascaris procyonis": baylisascaris_procyonis.md
+  - "404. Third-trimester bleeding": third_trimester_bleeding.md
+  - "405. Tracheal foreign body": tracheal_foreign_body.md
+  - "406. Bacillus anthracis": bacillus_anthracis.md
+  - "407. Peptic ulcer disease": peptic_ulcer_disease.md
+  - "408. Rumination": rumination.md
+  - "409. Campylobacter": campylobacter.md
+  - "410. Dyspnea": dyspnea.md
+  - "411. Type I hypersensitivity": type_i_hypersensitivity.md
+  - "412. Concussion": concussion.md
+  - "413. Metabolic alkalosis": metabolic_alkalosis.md
+  - "414. Pancreatitis in pregnancy": pancreatitis_in_pregnancy.md
+  - "415. Prenatal radiation exposure": prenatal_radiation_exposure.md
+  - "416. Induced abortion": induced_abortion.md
+  - "417. Cyclospora": cyclospora.md
+  - "418. Left bundle branch block": left_bundle_branch_block.md
+  - "419. Autoimmune vasculitis": autoimmune_vasculitis.md
+  - "420. Umbilical hernia": umbilical_hernia.md
+  - "421. Macular degeneration": macular_degeneration.md
+  - "422. Fetal growth restriction": fetal_growth_restriction.md
+  - "423. Acute tubular necrosis": acute_tubular_necrosis.md
+  - "424. Postpartum cardiomyopathy": postpartum_cardiomyopathy.md
+  - "425. Henoch-Schonlein purpura": henoch_schonlein_purpura.md
+  - "426. Hypoventilation": hypoventilation.md
+  - "427. Fat embolism": fat_embolism.md
+  - "428. Lung adenocarcinoma": lung_adenocarcinoma.md
+  - "429. Postdates labor": postdates_labor.md
+  - "430. Coma": coma.md
+  - "431. Myasthenia gravis": myasthenia_gravis.md
+  - "432. Borrelia burgdorferi": borrelia_burgdorferi.md
+  - "433. Euthyroid sick syndrome": euthyroid_sick_syndrome.md
+  - "434. Mittelschmerz": mittelschmerz.md
+  - "435. Bed bug bites": bed_bug_bites.md
+  - "436. Malingering": malingering.md
+  - "437. Joint pain": joint_pain.md
+  - "438. Schizoaffective disorder": schizoaffective_disorder.md
+  - "439. Corneal ulcer": corneal_ulcer.md
+  - "440. Systemic inflammatory response syndrome": systemic_inflammatory_response_syndrome.md
+  - "441. Paralytic ileus": paralytic_ileus.md
+  - "442. Treponema pallidum": treponema_pallidum.md
+  - "443. Dental caries": dental_caries.md
+  - "444. Oligohydramnios": oligohydramnios.md
+  - "445. Adenosine deaminase deficiency": adenosine_deaminase_deficiency.md
+  - "446. Oophoritis": oophoritis.md
+  - "447. Orbital fracture": orbital_fracture.md
+  - "448. Eclampsia": eclampsia.md
+  - "449. Vestibular neuritis": vestibular_neuritis.md
+  - "450. Mastoiditis": mastoiditis.md
+  - "451. Hyperthermia": hyperthermia.md
+  - "452. Progressive supranuclear palsy": progressive_supranuclear_palsy.md
+  - "453. Epidural hematoma": epidural_hematoma.md
+  - "454. Charcot-Marie-Tooth disease": charcot_marie_tooth_disease.md
+  - "455. Inflicted head trauma": inflicted_head_trauma.md
+  - "456. Narcolepsy": narcolepsy.md
+  - "457. Traveler's diarrhea": traveler_s_diarrhea.md
+  - "458. Vulvar cancer": vulvar_cancer.md
+  - "459. Splenic abscess": splenic_abscess.md
+  - "460. Hyper IgM syndrome": hyper_igm_syndrome.md
+  - "461. Pulmonary metastases": pulmonary_metastases.md
+  - "462. Paraplegia": paraplegia.md
+  - "463. Hypothyroidism": hypothyroidism.md
+  - "464. Slipped capital femoral epiphysis": slipped_capital_femoral_epiphysis.md
+  - "465. Acute bronchiolitis": acute_bronchiolitis.md
+  - "466. Menorrhagia": menorrhagia.md
+  - "467. Minimal change disease": minimal_change_disease.md
+  - "468. Urethral stricture": urethral_stricture.md
+  - "469. DiGeorge syndrome": digeorge_syndrome.md
+  - "470. Desquamative interstitial pneumonia": desquamative_interstitial_pneumonia.md
+  - "471. Congenital syphilis": congenital_syphilis.md
+  - "472. Hypophosphatemia": hypophosphatemia.md
+  - "473. Familial Mediterranean fever": familial_mediterranean_fever.md
+  - "474. Diabetic retinopathy": diabetic_retinopathy.md
+  - "475. Fasciitis": fasciitis.md
+  - "476. Coxsackievirus A": coxsackievirus_a.md
+  - "477. Carpal tunnel syndrome": carpal_tunnel_syndrome.md
+  - "478. Cyclic neutropenia": cyclic_neutropenia.md
+  - "479. Prothrombin G20210A mutation": prothrombin_g20210a_mutation.md
+  - "480. Acute dystonic reaction": acute_dystonic_reaction.md
+  - "481. Poststreptococcal glomerulonephritis": poststreptococcal_glomerulonephritis.md
+  - "482. Delusional disorder": delusional_disorder.md
+  - "483. Limbic encephalitis": limbic_encephalitis.md
+  - "484. Right bundle branch block": right_bundle_branch_block.md
+  - "485. Ureteral stricture": ureteral_stricture.md
+  - "486. Oliguria": oliguria.md
+  - "487. Hyponatremia": hyponatremia.md
+  - "488. Coronavirus infection": coronavirus_infection.md
+  - "489. Tobacco use disorder and withdrawal": tobacco_use_disorder_and_withdrawal.md
+  - "490. Myelodysplastic syndrome": myelodysplastic_syndrome.md
+  - "491. Lofgren syndrome": lofgren_syndrome.md
+  - "492. Subarachnoid hemorrhage": subarachnoid_hemorrhage.md
+  - "493. Cardiac arrest": cardiac_arrest.md
+  - "494. Short cervix": short_cervix.md
+  - "495. Nasal polyp": nasal_polyp.md
+  - "496. Dacryocystitis": dacryocystitis.md
+  - "497. Factor V Leiden": factor_v_leiden.md
+  - "498. Bell palsy": bell_palsy.md
+  - "499. Berylliosis": berylliosis.md
+  - "500. Orchitis": orchitis.md
+  - "501. Glomerulonephritis": glomerulonephritis.md
+  - "502. Tetralogy of Fallot": tetralogy_of_fallot.md
+  - "503. Trichotillomania": trichotillomania.md
+  - "504. Leptospira interrogans": leptospira_interrogans.md
+  - "505. Central retinal artery occlusion": central_retinal_artery_occlusion.md
+  - "506. Gastroparesis": gastroparesis.md
+  - "507. Chronic pelvic pain syndrome": chronic_pelvic_pain_syndrome.md
+  - "508. Circadian rhythm sleep-wake disorder": circadian_rhythm_sleep_wake_disorder.md
+  - "509. Dissociative disorder": dissociative_disorder.md
+  - "510. Herpes simplex virus": herpes_simplex_virus.md
+  - "511. Cryptococcus gattii": cryptococcus_gattii.md
+  - "512. Paroxysmal supraventricular tachycardia": paroxysmal_supraventricular_tachycardia.md
+  - "513. Progressive multifocal leukoencephalopathy": progressive_multifocal_leukoencephalopathy.md
+  - "514. Onychomycosis": onychomycosis.md
+  - "515. Sepsis": sepsis.md
+  - "516. Non-Hodgkin lymphoma": non_hodgkin_lymphoma.md
+  - "517. Tympanic membrane perforation": tympanic_membrane_perforation.md
+  - "518. Amnionitis": amnionitis.md
+  - "519. Respiratory syncytial virus": respiratory_syncytial_virus.md
+  - "520. Intraductal carcinoma of breast": intraductal_carcinoma_of_breast.md
+  - "521. Normal-pressure hydrocephalus": normal_pressure_hydrocephalus.md
+  - "522. Reactive arthritis": reactive_arthritis.md
+  - "523. Emphysema": emphysema.md
+  - "524. Impetigo": impetigo.md
+  - "525. Enterovirus": enterovirus.md
+  - "526. Epistaxis": epistaxis.md
+  - "527. Schizoid personality disorder": schizoid_personality_disorder.md
+  - "528. Serous otitis media": serous_otitis_media.md
+  - "529. Pertussis": pertussis.md
+  - "530. Hepatitis B": hepatitis_b.md
+  - "531. Rocky Mountain spotted fever": rocky_mountain_spotted_fever.md
+  - "532. Bacterial meningitis": bacterial_meningitis.md
+  - "533. Smoke inhalation": smoke_inhalation.md
+  - "534. Neurogenic bladder": neurogenic_bladder.md
+  - "535. Vibrio cholerae": vibrio_cholerae.md
+  - "536. Rotavirus enteritis": rotavirus_enteritis.md
+  - "537. Wilson disease": wilson_disease.md
+  - "538. Non-alcoholic fatty liver disease": non_alcoholic_fatty_liver_disease.md
+  - "539. Nephrotic syndrome": nephrotic_syndrome.md
+  - "540. Visceral leishmaniasis": visceral_leishmaniasis.md
+  - "541. Barotrauma": barotrauma.md
+  - "542. Osteochondritis": osteochondritis.md
+  - "543. Juvenile laryngeal papillomatosis": juvenile_laryngeal_papillomatosis.md
+  - "544. Rhinovirus infection": rhinovirus_infection.md
+  - "545. Erectile dysfunction": erectile_dysfunction.md
+  - "546. Pemphigus": pemphigus.md
+  - "547. Chronic obstructive pulmonary disease": chronic_obstructive_pulmonary_disease.md
+  - "548. Atelectasis": atelectasis.md
+  - "549. Tracheal cancer": tracheal_cancer.md
+  - "550. Bronchial carcinoid tumor": bronchial_carcinoid_tumor.md
+  - "551. Spina bifida": spina_bifida.md
+  - "552. Gigantism": gigantism.md
+  - "553. Pericardial effusion": pericardial_effusion.md
+  - "554. Leptospira": leptospira.md
+  - "555. Oral thrush": oral_thrush.md
+  - "556. Bone metastases": bone_metastases.md
+  - "557. Mastitis": mastitis.md
+  - "558. Discitis": discitis.md
+  - "559. End-stage renal disease": end_stage_renal_disease.md
+  - "560. Rotator cuff syndrome": rotator_cuff_syndrome.md
+  - "561. Syringomyelia": syringomyelia.md
+  - "562. Febrile seizure": febrile_seizure.md
+  - "563. Diabetic nephropathy": diabetic_nephropathy.md
+  - "564. Subphrenic abscess": subphrenic_abscess.md
+  - "565. Congenital hepatitis B": congenital_hepatitis_b.md
+  - "566. Hyperaldosteronism": hyperaldosteronism.md
+  - "567. Valvular heart disease in pregnancy": valvular_heart_disease_in_pregnancy.md
+  - "568. Seasonal affective disorder": seasonal_affective_disorder.md
+  - "569. Nasal foreign body": nasal_foreign_body.md
+  - "570. Addison disease": addison_disease.md
+  - "571. Suicidal ideation": suicidal_ideation.md
+  - "572. Hydrocephalus": hydrocephalus.md
+  - "573. Perimenopause": perimenopause.md
+  - "574. Spinal cord transection": spinal_cord_transection.md
+  - "575. Dilated cardiomyopathy": dilated_cardiomyopathy.md
+  - "576. Sarcoma": sarcoma.md
+  - "577. Retinal detachment": retinal_detachment.md
+  - "578. Aortic stenosis": aortic_stenosis.md
+  - "579. Congenital chlamydia": congenital_chlamydia.md
+  - "580. Congenital varicella": congenital_varicella.md
+  - "581. Staphylococcal scalded skin syndrome": staphylococcal_scalded_skin_syndrome.md
+  - "582. Pelvic cellulitis": pelvic_cellulitis.md
+  - "583. Glomerular disease due to hepatitis C": glomerular_disease_due_to_hepatitis_c.md
+  - "584. Neurofibromatosis": neurofibromatosis.md
+  - "585. Papillary thyroid cancer": papillary_thyroid_cancer.md
+  - "586. Large cell lung carcinoma": large_cell_lung_carcinoma.md
+  - "587. Blastomyces dermatitidis": blastomyces_dermatitidis.md
+  - "588. Renal cell carcinoma": renal_cell_carcinoma.md
+  - "589. Dyspepsia": dyspepsia.md
+  - "590. Fetal alcohol syndrome": fetal_alcohol_syndrome.md
+  - "591. Herpes esophagitis": herpes_esophagitis.md
+  - "592. Biliary atresia": biliary_atresia.md
+  - "593. Metabolic acidosis": metabolic_acidosis.md
+  - "594. Kawasaki disease": kawasaki_disease.md
+  - "595. Wernicke-Korsakoff syndrome": wernicke_korsakoff_syndrome.md
+  - "596. Acute dystonia": acute_dystonia.md
+  - "597. Myasthenia gravis in pregnancy": myasthenia_gravis_in_pregnancy.md
+  - "598. Thin basement membrane disease": thin_basement_membrane_disease.md
+  - "599. Uterus didelphys": uterus_didelphys.md
+  - "600. Malignant otitis externa": malignant_otitis_externa.md
+  - "601. Cerebral edema in DKA": cerebral_edema_in_dka.md
+  - "602. Lactose intolerance": lactose_intolerance.md
+  - "603. Dubin-Johnson syndrome": dubin_johnson_syndrome.md
+  - "604. Adenovirus infection": adenovirus_infection.md
+  - "605. Obesity in pregnancy": obesity_in_pregnancy.md
+  - "606. Osteosarcoma": osteosarcoma.md
+  - "607. Tracheitis": tracheitis.md
+  - "608. Microscopic colitis": microscopic_colitis.md
+  - "609. Eustachian tube dysfunction": eustachian_tube_dysfunction.md
+  - "610. Ocular melanoma": ocular_melanoma.md
+  - "611. Diabetic ketoacidosis": diabetic_ketoacidosis.md
+  - "612. Multiple endocrine neoplasia type 1": multiple_endocrine_neoplasia_type_1.md
+  - "613. Endometrial polyp": endometrial_polyp.md
+  - "614. Aspiration pneumonia": aspiration_pneumonia.md
+  - "615. Toxic epidermal necrolysis": toxic_epidermal_necrolysis.md
+  - "616. Membrane attack complex deficiency": membrane_attack_complex_deficiency.md
+  - "617. Herpetic gingivostomatitis": herpetic_gingivostomatitis.md
+  - "618. Group A Streptococcus": group_a_streptococcus.md
+  - "619. Cocaine intoxication": cocaine_intoxication.md
+  - "620. Mycoplasma pneumoniae": mycoplasma_pneumoniae.md
+  - "621. Mucopolysaccharidoses": mucopolysaccharidoses.md
+  - "622. Premenstrual syndrome": premenstrual_syndrome.md
+  - "623. Sleep terror disorder": sleep_terror_disorder.md
+  - "624. Chest wall injury": chest_wall_injury.md
+  - "625. Postconcussion syndrome": postconcussion_syndrome.md
+  - "626. Cannabis use disorder and intoxication": cannabis_use_disorder_and_intoxication.md
+  - "627. Psoriasis": psoriasis.md
+  - "628. Marasmus": marasmus.md
+  - "629. IgA deficiency": iga_deficiency.md
+  - "630. Breast cancer": breast_cancer.md
+  - "631. Nongonococcal urethritis": nongonococcal_urethritis.md
+  - "632. Heroin use disorder": heroin_use_disorder.md
+  - "633. Carotid artery dissection": carotid_artery_dissection.md
+  - "634. Ampullary adenocarcinoma": ampullary_adenocarcinoma.md
+  - "635. Hypovolemia": hypovolemia.md
+  - "636. Hypertrophic pulmonary osteoarthropathy": hypertrophic_pulmonary_osteoarthropathy.md
+  - "637. Chronic pancreatitis": chronic_pancreatitis.md
+  - "638. Cardiogenic pulmonary edema": cardiogenic_pulmonary_edema.md
+  - "639. Acute rheumatic fever": acute_rheumatic_fever.md
+  - "640. Churg-Strauss syndrome": churg_strauss_syndrome.md
+  - "641. Osteoarthritis": osteoarthritis.md
+  - "642. Graves disease": graves_disease.md
+  - "643. Lead poisoning": lead_poisoning.md
+  - "644. Renal abscess": renal_abscess.md
+  - "645. Abdominal wall defect": abdominal_wall_defect.md
+  - "646. Scarlet fever": scarlet_fever.md
+  - "647. Anal cancer": anal_cancer.md
+  - "648. Gastric lymphoma": gastric_lymphoma.md
+  - "649. Bicornuate uterus": bicornuate_uterus.md
+  - "650. Respiratory acidosis": respiratory_acidosis.md
+  - "651. Balanitis": balanitis.md
+  - "652. Secondary amenorrhea": secondary_amenorrhea.md
+  - "653. Sickle cell disease in pregnancy": sickle_cell_disease_in_pregnancy.md
+  - "654. Molluscum contagiosum": molluscum_contagiosum.md
+  - "655. Hepatitis C": hepatitis_c.md
+  - "656. Pulmonary arteriovenous fistula": pulmonary_arteriovenous_fistula.md
+  - "657. Antiphospholipid syndrome": antiphospholipid_syndrome.md
+  - "658. Laryngeal obstruction": laryngeal_obstruction.md
+  - "659. Vulvovaginal candidiasis": vulvovaginal_candidiasis.md
+  - "660. Panic disorder": panic_disorder.md
+  - "661. Genu varum": genu_varum.md
+  - "662. CMV esophagitis": cmv_esophagitis.md
+  - "663. Drug-induced peripheral neuropathy": drug_induced_peripheral_neuropathy.md
+  - "664. Gouty arthritis": gouty_arthritis.md
+  - "665. Cleft lip": cleft_lip.md
+  - "666. Dysphagia": dysphagia.md
+  - "667. Kwashiorkor": kwashiorkor.md
+  - "668. Neonatal seizures": neonatal_seizures.md
+  - "669. Fibroadenoma": fibroadenoma.md
+  - "670. Carbon tetrachloride poisoning": carbon_tetrachloride_poisoning.md
+  - "671. Ulcerative colitis": ulcerative_colitis.md
+  - "672. Mitral valve prolapse": mitral_valve_prolapse.md
+  - "673. Neonatal conjunctivitis": neonatal_conjunctivitis.md
+  - "674. Disorders of sexual differentiation": disorders_of_sexual_differentiation.md
+  - "675. Primary CNS lymphoma": primary_cns_lymphoma.md
+  - "676. Asbestosis": asbestosis.md
+  - "677. Cerebral artery occlusion": cerebral_artery_occlusion.md
+  - "678. Mesothelioma": mesothelioma.md
+  - "679. Cluster headache": cluster_headache.md
+  - "680. Gender dysphoria": gender_dysphoria.md
+  - "681. Azotemia": azotemia.md
+  - "682. Bacteremia": bacteremia.md
+  - "683. Volvulus": volvulus.md
+  - "684. Traumatic aortic dissection": traumatic_aortic_dissection.md
+  - "685. Glaucoma": glaucoma.md
+  - "686. Anal abscess": anal_abscess.md
+  - "687. Esophageal atresia": esophageal_atresia.md
+  - "688. Diabetes mellitus type 2": diabetes_mellitus_type_2.md
+  - "689. Alpha-1 antitrypsin deficiency": alpha_1_antitrypsin_deficiency.md
+  - "690. Retinitis pigmentosa": retinitis_pigmentosa.md
+  - "691. Epidermolysis bullosa": epidermolysis_bullosa.md
+  - "692. Miosis": miosis.md
+  - "693. AIDS dementia complex": aids_dementia_complex.md
+  - "694. Blind loop syndrome": blind_loop_syndrome.md
+  - "695. Thrombotic thrombocytopenic purpura": thrombotic_thrombocytopenic_purpura.md
+  - "696. Solitary pulmonary nodule": solitary_pulmonary_nodule.md
+  - "697. Substance-induced psychotic disorder": substance_induced_psychotic_disorder.md
+  - "698. Endometriosis": endometriosis.md
+  - "699. Chronic kidney disease": chronic_kidney_disease.md
+  - "700. Parvovirus B19 infection": parvovirus_b19_infection.md
+  - "701. Leukopenia": leukopenia.md
+  - "702. Aortic dissection": aortic_dissection.md
+  - "703. Influenza": influenza.md
+  - "704. Herpangina": herpangina.md
+  - "705. Normal grief": normal_grief.md
+  - "706. Chylothorax": chylothorax.md
+  - "707. Urethritis": urethritis.md
+  - "708. Albinism": albinism.md
+  - "709. Adrenal incidentaloma": adrenal_incidentaloma.md
+  - "710. Choledocholithiasis": choledocholithiasis.md
+  - "711. Melanoma": melanoma.md
+  - "712. Transfusion-related acute lung injury": transfusion_related_acute_lung_injury.md
+  - "713. Social phobia": social_phobia.md
+  - "714. Clostridium perfringens": clostridium_perfringens.md
+  - "715. Blast injuries": blast_injuries.md
+  - "716. Crohn disease": crohn_disease.md
+  - "717. Carbuncle": carbuncle.md
+  - "718. Premature ventricular contractions": premature_ventricular_contractions.md
+  - "719. Short bowel syndrome": short_bowel_syndrome.md
+  - "720. Takotsubo cardiomyopathy": takotsubo_cardiomyopathy.md
+  - "721. Chronic bronchitis": chronic_bronchitis.md
+  - "722. Tarsal tunnel syndrome": tarsal_tunnel_syndrome.md
+  - "723. Fibromuscular dysplasia": fibromuscular_dysplasia.md
+  - "724. Graft-versus-host disease": graft_versus_host_disease.md
+  - "725. Tourette syndrome": tourette_syndrome.md
+  - "726. Laryngeal foreign body": laryngeal_foreign_body.md
+  - "727. Postpartum hemorrhage": postpartum_hemorrhage.md
+  - "728. Brachial plexus injury": brachial_plexus_injury.md
+  - "729. Prostatitis": prostatitis.md
+  - "730. Hyperprolactinemia": hyperprolactinemia.md
+  - "731. Trichomonas vaginalis": trichomonas_vaginalis.md
+  - "732. Ascending cholangitis": ascending_cholangitis.md
+  - "733. Restless legs syndrome": restless_legs_syndrome.md
+  - "734. Brachial plexus palsy": brachial_plexus_palsy.md
+  - "735. Unstable angina": unstable_angina.md
+  - "736. Nystagmus": nystagmus.md
+  - "737. Streptococcal pharyngitis": streptococcal_pharyngitis.md
+  - "738. Nausea": nausea.md
+  - "739. Chlamydophila pneumoniae": chlamydophila_pneumoniae.md
+  - "740. Ehrlichiosis": ehrlichiosis.md
+  - "741. Pleural effusion": pleural_effusion.md
+  - "742. Neonatal hypocalcemia": neonatal_hypocalcemia.md
+  - "743. Noise-induced hearing loss": noise_induced_hearing_loss.md
+  - "744. Xanthoma": xanthoma.md
+  - "745. Trauma in pregnancy": trauma_in_pregnancy.md
+  - "746. Cord prolapse": cord_prolapse.md
+  - "747. Phocomelia": phocomelia.md
+  - "748. Prolonged pregnancy": prolonged_pregnancy.md
+  - "749. Medulloblastoma": medulloblastoma.md
+  - "750. Vaginismus": vaginismus.md
+  - "751. Glucagonoma": glucagonoma.md
+  - "752. Horseshoe kidney": horseshoe_kidney.md
+  - "753. Tachycardia-induced cardiomyopathy": tachycardia_induced_cardiomyopathy.md
+  - "754. Klinefelter syndrome": klinefelter_syndrome.md
+  - "755. Hypersplenism": hypersplenism.md
+  - "756. Zollinger-Ellison syndrome": zollinger_ellison_syndrome.md
+  - "757. California encephalitis virus": california_encephalitis_virus.md
+  - "758. Splenic infarct": splenic_infarct.md
+  - "759. Anomalous left coronary artery": anomalous_left_coronary_artery.md
+  - "760. Acromegaly": acromegaly.md
+  - "761. Echovirus enteritis": echovirus_enteritis.md
+  - "762. Esophageal adenocarcinoma": esophageal_adenocarcinoma.md
+  - "763. Hypokalemia": hypokalemia.md
+  - "764. Hiatal hernia": hiatal_hernia.md
+  - "765. Sinusitis": sinusitis.md
+  - "766. Neurosyphilis": neurosyphilis.md
+  - "767. Cauda equina syndrome": cauda_equina_syndrome.md
+  - "768. Gastrinoma": gastrinoma.md
+  - "769. V/Q mismatch": v_q_mismatch.md
+  - "770. Pruritus": pruritus.md
+  - "771. Hypothyroidism in pregnancy": hypothyroidism_in_pregnancy.md
+  - "772. Spinal muscular atrophy": spinal_muscular_atrophy.md
+  - "773. Anemia of chronic disease": anemia_of_chronic_disease.md
+  - "774. Botulism": botulism.md
+  - "775. Female infertility": female_infertility.md
+  - "776. Acanthosis nigricans": acanthosis_nigricans.md
+  - "777. Urinary incontinence": urinary_incontinence.md
+  - "778. Cholestasis": cholestasis.md
+  - "779. Hypertriglyceridemia": hypertriglyceridemia.md
+  - "780. Group B Streptococcus infection": group_b_streptococcus_infection.md
+  - "781. Chondromalacia": chondromalacia.md
+  - "782. Conversion disorder": conversion_disorder.md
+  - "783. Cervical spinal stenosis": cervical_spinal_stenosis.md
+  - "784. Coxsackievirus enteritis": coxsackievirus_enteritis.md
+  - "785. Temporal arteritis": temporal_arteritis.md
+  - "786. Urea cycle disorders": urea_cycle_disorders.md
+  - "787. Motion sickness": motion_sickness.md
+  - "788. Postmenopausal bleeding": postmenopausal_bleeding.md
+  - "789. Tenosynovial giant cell tumor": tenosynovial_giant_cell_tumor.md
+  - "790. Myofascial pain syndrome": myofascial_pain_syndrome.md
+  - "791. von Hippel-Lindau disease": von_hippel_lindau_disease.md
+  - "792. Obsessive-compulsive personality disorder": obsessive_compulsive_personality_disorder.md
+  - "793. Myocardial contusion": myocardial_contusion.md
+  - "794. Hematochezia": hematochezia.md
+  - "795. Pulmonic stenosis": pulmonic_stenosis.md
+  - "796. Endocervical polyp": endocervical_polyp.md
+  - "797. Interstitial cystitis": interstitial_cystitis.md
+  - "798. Cellulitis": cellulitis.md
+  - "799. Edema": edema.md
+  - "800. Tracheoesophageal fistula": tracheoesophageal_fistula.md
+  - "801. Ventricular fibrillation": ventricular_fibrillation.md
+  - "802. Central retinal vein occlusion": central_retinal_vein_occlusion.md
+  - "803. Renal tubular acidosis": renal_tubular_acidosis.md
+  - "804. Chlamydia trachomatis": chlamydia_trachomatis.md
+  - "805. Lymphogranuloma venereum": lymphogranuloma_venereum.md
+  - "806. Illness anxiety disorder": illness_anxiety_disorder.md
+  - "807. Myositis": myositis.md
+  - "808. Mediastinitis": mediastinitis.md
+  - "809. Epstein-Barr virus": epstein_barr_virus.md
+  - "810. Keloid": keloid.md
+  - "811. Necrotizing fasciitis": necrotizing_fasciitis.md
+  - "812. Hemophilia B": hemophilia_b.md
+  - "813. Chlamydial cystitis": chlamydial_cystitis.md
+  - "814. Hirschsprung disease": hirschsprung_disease.md
+  - "815. Pigmented nevi": pigmented_nevi.md
+  - "816. Impacted cerumen": impacted_cerumen.md
+  - "817. Bipolar disorder": bipolar_disorder.md
+  - "818. Right ventricular hypertrophy": right_ventricular_hypertrophy.md
+  - "819. MRSA skin infection": mrsa_skin_infection.md
+  - "820. Subdural hematoma": subdural_hematoma.md
+  - "821. Enchondroma": enchondroma.md
+  - "822. Hereditary spherocytosis": hereditary_spherocytosis.md
+  - "823. Croup": croup.md
+  - "824. Duchenne muscular dystrophy": duchenne_muscular_dystrophy.md
+  - "825. Aortoiliac occlusive disease": aortoiliac_occlusive_disease.md
+  - "826. Pancreatic insufficiency": pancreatic_insufficiency.md
+  - "827. Neuroleptic malignant syndrome": neuroleptic_malignant_syndrome.md
+  - "828. Achalasia": achalasia.md
+  - "829. Copay": copay.md
+  - "830. Synovitis": synovitis.md
+  - "831. Familial dilated cardiomyopathy": familial_dilated_cardiomyopathy.md
+  - "832. Metabolic encephalopathy": metabolic_encephalopathy.md
+  - "833. Cutaneous leishmaniasis": cutaneous_leishmaniasis.md
+  - "834. Hordeolum": hordeolum.md
+  - "835. Terminal complement deficiency": terminal_complement_deficiency.md
+  - "836. Follicular thyroid cancer": follicular_thyroid_cancer.md
+  - "837. Coronary artery disease": coronary_artery_disease.md
+  - "838. Adjustment disorder": adjustment_disorder.md
+  - "839. Lactation problems": lactation_problems.md
+  - "840. Genital herpes": genital_herpes.md
+  - "841. Left ventricular hypertrophy": left_ventricular_hypertrophy.md
+  - "842. Ascites": ascites.md
+  - "843. Strongyloides stercoralis": strongyloides_stercoralis.md
+  - "844. Rectal bleeding": rectal_bleeding.md
+  - "845. Hyperlipidemia": hyperlipidemia.md
+  - "846. Clostridium difficile infection": clostridium_difficile_infection.md
+  - "847. Kartagener syndrome": kartagener_syndrome.md
+  - "848. Hypertensive nephropathy": hypertensive_nephropathy.md
+  - "849. Protein C deficiency": protein_c_deficiency.md
+  - "850. Osteoid osteoma": osteoid_osteoma.md
+  - "851. Periorbital cellulitis": periorbital_cellulitis.md
+  - "852. Lymphedema": lymphedema.md
+  - "853. Pharyngitis": pharyngitis.md
+  - "854. Multiple gestation": multiple_gestation.md
+  - "855. Anal fissure": anal_fissure.md
+  - "856. Breast cyst": breast_cyst.md
+  - "857. Precocious puberty": precocious_puberty.md
+  - "858. Developmental dysplasia of the hip": developmental_dysplasia_of_the_hip.md
+  - "859. Cystic fibrosis": cystic_fibrosis.md
+  - "860. Hypercalcemia of malignancy": hypercalcemia_of_malignancy.md
+  - "861. Neonatal tetanus": neonatal_tetanus.md
+  - "862. Colon polyps": colon_polyps.md
+  - "863. Acute laryngitis": acute_laryngitis.md
+  - "864. Yellow fever": yellow_fever.md
+  - "865. Serotonin syndrome": serotonin_syndrome.md
+  - "866. Spermatocele": spermatocele.md
+  - "867. Renal insufficiency": renal_insufficiency.md
+  - "868. Lochia": lochia.md
+  - "869. Kleptomania": kleptomania.md
+  - "870. Spondylosis": spondylosis.md
+  - "871. Verruca vulgaris": verruca_vulgaris.md
+  - "872. Neonatal hypoglycemia": neonatal_hypoglycemia.md
+  - "873. Heat stroke": heat_stroke.md
+  - "874. Heart failure in pregnancy": heart_failure_in_pregnancy.md
+  - "875. Benign ovarian neoplasm": benign_ovarian_neoplasm.md
+  - "876. Cutaneous candidiasis": cutaneous_candidiasis.md
+  - "877. Jellyfish Stings ⭐": jellyfish_stings.md
+  - "878. Wide complex tachycardia": wide_complex_tachycardia.md
+  - "879. Polycythemia": polycythemia.md
+  - "880. Wet gangrene": wet_gangrene.md
+  - "881. Separation anxiety disorder": separation_anxiety_disorder.md
+  - "882. Tuberculous spondylitis": tuberculous_spondylitis.md
+  - "883. Rheumatic heart disease": rheumatic_heart_disease.md
+  - "884. Hydatidiform mole": hydatidiform_mole.md
+  - "885. Takayasu arteritis": takayasu_arteritis.md
+  - "886. Asthma": asthma.md
+  - "887. Opioid use disorder and withdrawal": opioid_use_disorder_and_withdrawal.md
+  - "888. Nonspecific interstitial pneumonia": nonspecific_interstitial_pneumonia.md
+  - "889. Hepatic abscess": hepatic_abscess.md
+  - "890. Nephrosclerosis": nephrosclerosis.md
+  - "891. Vitamin C deficiency": vitamin_c_deficiency.md
+  - "892. Radiculopathy": radiculopathy.md
+  - "893. Cerebral aneurysm": cerebral_aneurysm.md
+  - "894. Acute pericarditis": acute_pericarditis.md
+  - "895. Intracerebral hemorrhage": intracerebral_hemorrhage.md
+  - "896. Adhesive capsulitis": adhesive_capsulitis.md
+  - "897. Hirsutism": hirsutism.md
+  - "898. Salmonella": salmonella.md
+  - "899. Amblyopia": amblyopia.md
+  - "900. Hip dislocation": hip_dislocation.md
+  - "901. Priapism": priapism.md
+  - "902. Costochondritis": costochondritis.md
+  - "903. Air embolism": air_embolism.md
+  - "904. Turner syndrome": turner_syndrome.md
+  - "905. Internuclear ophthalmoplegia": internuclear_ophthalmoplegia.md
+  - "906. Sick sinus syndrome": sick_sinus_syndrome.md
+  - "907. Papillary muscle rupture": papillary_muscle_rupture.md
+  - "908. Anaplasmosis": anaplasmosis.md
+  - "909. Ménière disease": m_eni_ere_disease.md
+  - "910. Cerebral venous sinus thrombosis": cerebral_venous_sinus_thrombosis.md
+  - "911. Pseudomembranous colitis": pseudomembranous_colitis.md
+  - "912. Lymphocytic choriomeningitis virus": lymphocytic_choriomeningitis_virus.md
+  - "913. Intestinal malrotation": intestinal_malrotation.md
+  - "914. Cholesterol embolism": cholesterol_embolism.md
+  - "915. Mononeuritis": mononeuritis.md
+  - "916. Methamphetamine use disorder": methamphetamine_use_disorder.md
+  - "917. Irritable bowel syndrome": irritable_bowel_syndrome.md
+  - "918. Constrictive pericarditis": constrictive_pericarditis.md
+  - "919. Type IV hypersensitivity": type_iv_hypersensitivity.md
+  - "920. Electrocution": electrocution.md
+  - "921. Bulimia nervosa": bulimia_nervosa.md
+  - "922. Congenital nevi": congenital_nevi.md
+  - "923. Tay-Sachs disease": tay_sachs_disease.md
+  - "924. Chagas disease": chagas_disease.md
+  - "925. Yersinia enterocolitica": yersinia_enterocolitica.md
+  - "926. Tonsillitis": tonsillitis.md
+  - "927. End-stage liver disease": end_stage_liver_disease.md
+  - "928. Melioidosis": melioidosis.md
+  - "929. Small cell lung cancer": small_cell_lung_cancer.md
+  - "930. Transverse myelitis": transverse_myelitis.md
+  - "931. Herpes simplex virus infection": herpes_simplex_virus_infection.md
+  - "932. Sickle cell disease": sickle_cell_disease.md
+  - "933. Vomiting": vomiting.md
+  - "934. Pituitary apoplexy": pituitary_apoplexy.md
+  - "935. Pseudomonas aeruginosa": pseudomonas_aeruginosa.md
+  - "936. Granulomatous enterocolitis": granulomatous_enterocolitis.md
+  - "937. Tracheal injury": tracheal_injury.md
+  - "938. Urinary bladder cancer": urinary_bladder_cancer.md
+  - "939. Acute lymphoblastic leukemia": acute_lymphoblastic_leukemia.md
+  - "940. Primary biliary cirrhosis": primary_biliary_cirrhosis.md
+  - "941. Hepatic encephalopathy": hepatic_encephalopathy.md
+  - "942. Thyroid cyst": thyroid_cyst.md
+  - "943. Muscle wasting": muscle_wasting.md
+  - "944. Endometrial hyperplasia": endometrial_hyperplasia.md
+  - "945. Male infertility": male_infertility.md
+  - "946. Behcet syndrome": behcet_syndrome.md
+  - "947. Toxic megacolon": toxic_megacolon.md
+  - "948. Diabetic neuropathy": diabetic_neuropathy.md
+  - "949. Ureteral calculi": ureteral_calculi.md
+  - "950. Hyperemesis gravidarum": hyperemesis_gravidarum.md
+  - "951. Huntington disease": huntington_disease.md
+  - "952. Constipation": constipation.md
+  - "953. Neurogenic shock": neurogenic_shock.md
+  - "954. Acute myocardial infarction": acute_myocardial_infarction.md
+  - "955. Sialadenitis": sialadenitis.md
+  - "956. Duodenitis": duodenitis.md
+  - "957. Cholecystitis": cholecystitis.md
+  - "958. Tinnitus": tinnitus.md
+  - "959. Pulmonary sequestration": pulmonary_sequestration.md
+  - "960. Caffeine withdrawal headache": caffeine_withdrawal_headache.md
+  - "961. Vitamin B6 deficiency": vitamin_b6_deficiency.md
+  - "962. Hand-foot-and-mouth disease": hand_foot_and_mouth_disease.md
+  - "963. Leishmaniasis": leishmaniasis.md
+  - "964. Gallstone ileus": gallstone_ileus.md
+  - "965. Imperforate hymen": imperforate_hymen.md
+  - "966. T-cell lymphoma": t_cell_lymphoma.md
+  - "967. Frailty": frailty.md
+  - "968. Ureteral laceration": ureteral_laceration.md
+  - "969. Müllerian agenesis": m_ullerian_agenesis.md
+  - "970. Orthostatic hypotension": orthostatic_hypotension.md
+  - "971. Osgood-Schlatter disease": osgood_schlatter_disease.md
+  - "972. Dental abscess": dental_abscess.md
+  - "973. Intestinal obstruction": intestinal_obstruction.md
+  - "974. Presbyopia": presbyopia.md
+  - "975. Osteoporosis": osteoporosis.md
+  - "976. Necrotizing enterocolitis": necrotizing_enterocolitis.md
+  - "977. Tension headache": tension_headache.md
+  - "978. Rectocele": rectocele.md
+  - "979. Peutz-Jeghers syndrome": peutz_jeghers_syndrome.md
+  - "980. Gilbert syndrome": gilbert_syndrome.md
+  - "981. Polysubstance use disorder": polysubstance_use_disorder.md
+  - "982. Methanol poisoning": methanol_poisoning.md
+  - "983. Toxoplasmosis": toxoplasmosis.md
+  - "984. Acute coronary syndrome": acute_coronary_syndrome.md
+  - "985. Hypertensive heart disease": hypertensive_heart_disease.md
+  - "986. SIADH": siadh.md
+  - "987. Goiter": goiter.md
+  - "988. Rickets": rickets.md
+  - "989. MRSA": mrsa.md
+  - "990. Paget disease of breast": paget_disease_of_breast.md
+  - "991. Parvovirus": parvovirus.md
+  - "992. Lymphocytic colitis": lymphocytic_colitis.md
+  - "993. Bronchogenic cyst": bronchogenic_cyst.md
+  - "994. Allergic contact dermatitis": allergic_contact_dermatitis.md
+  - "995. Dislocation": dislocation.md
+  - "996. Endometrial cancer": endometrial_cancer.md
+  - "997. Frostbite": frostbite.md
+  - "998. Stevens-Johnson syndrome": stevens_johnson_syndrome.md
+  - "999. Diaphragm injury": diaphragm_injury.md
+  - "1000. Dislocated lens": dislocated_lens.md
+  - "1001. Tricuspid regurgitation": tricuspid_regurgitation.md
+  - "1002. Vitamin B3 deficiency": vitamin_b3_deficiency.md
+  - "1003. Hypocalcemia": hypocalcemia.md
+  - "1004. Bacterial endocarditis": bacterial_endocarditis.md
+  - "1005. Hypertensive emergency": hypertensive_emergency.md
+  - "1006. Retinopathy of prematurity": retinopathy_of_prematurity.md
+  - "1007. Phantom limb pain": phantom_limb_pain.md
+  - "1008. Preterm labor": preterm_labor.md
+  - "1009. Sturge-Weber syndrome": sturge_weber_syndrome.md
+  - "1010. Anaplasma": anaplasma.md
+  - "1011. Friedreich ataxia": friedreich_ataxia.md
+  - "1012. Mitral stenosis": mitral_stenosis.md
+  - "1013. Tinea barbae": tinea_barbae.md
+  - "1014. Conjunctivitis": conjunctivitis.md
+  - "1015. Cholangiocarcinoma": cholangiocarcinoma.md
+  - "1016. Carotid artery stenosis": carotid_artery_stenosis.md
+  - "1017. Vitiligo": vitiligo.md
+  - "1018. Hypomagnesemia": hypomagnesemia.md
+  - "1019. Polymyositis": polymyositis.md
+  - "1020. Dysmenorrhea": dysmenorrhea.md
+  - "1021. Cholelithiasis": cholelithiasis.md
+  - "1022. Cataplexy": cataplexy.md
+  - "1023. Hepatitis D": hepatitis_d.md
+  - "1024. Neutropenia": neutropenia.md
+  - "1025. Gastric ulcer": gastric_ulcer.md
+  - "1026. Esophageal stricture": esophageal_stricture.md
+  - "1027. Femoral hernia": femoral_hernia.md
+  - "1028. Monoclonal gammopathy of undetermined significance": monoclonal_gammopathy_of_undetermined_significance.md
+  - "1029. Neonatal group B streptococcus infection": neonatal_group_b_streptococcus_infection.md
+  - "1030. Conduct disorder": conduct_disorder.md
+  - "1031. Mitral regurgitation": mitral_regurgitation.md
+  - "1032. McArdle disease": mcardle_disease.md
+  - "1033. Miliary tuberculosis": miliary_tuberculosis.md
+  - "1034. Hereditary pancreatitis": hereditary_pancreatitis.md
+  - "1035. Retinal hemorrhage": retinal_hemorrhage.md
+  - "1036. Chickenpox": chickenpox.md
+  - "1037. Multiple endocrine neoplasia type 2": multiple_endocrine_neoplasia_type_2.md
+  - "1038. Celiac disease": celiac_disease.md
+  - "1039. Essential tremor": essential_tremor.md
+  - "1040. Rhabdomyosarcoma": rhabdomyosarcoma.md
+  - "1041. Myocardial rupture": myocardial_rupture.md
+  - "1042. Coxiella burnetii": coxiella_burnetii.md
+  - "1043. Dwarfism": dwarfism.md
+  - "1044. Marfan syndrome": marfan_syndrome.md
+  - "1045. Burkitt lymphoma": burkitt_lymphoma.md
+  - "1046. Acetaminophen toxicity": acetaminophen_toxicity.md
+  - "1047. Cirrhosis in pregnancy": cirrhosis_in_pregnancy.md
+  - "1048. Erythema multiforme": erythema_multiforme.md
+  - "1049. Placenta accreta": placenta_accreta.md
+  - "1050. Obstructive sleep apnea": obstructive_sleep_apnea.md
+  - "1051. Joint effusion": joint_effusion.md
+  - "1052. Dementia pugilistica": dementia_pugilistica.md
+  - "1053. Lupus nephritis": lupus_nephritis.md
+  - "1054. Multiorgan dysfunction syndrome": multiorgan_dysfunction_syndrome.md
+  - "1055. Avascular osteonecrosis": avascular_osteonecrosis.md
+  - "1056. Stimulant use disorder": stimulant_use_disorder.md
+  - "1057. Ventilator-associated pneumonia": ventilator_associated_pneumonia.md
+  - "1058. Annular pancreas": annular_pancreas.md
+  - "1059. Ramsay-Hunt syndrome": ramsay_hunt_syndrome.md
+  - "1060. Cirrhosis": cirrhosis.md
+  - "1061. Tumor lysis syndrome": tumor_lysis_syndrome.md
+  - "1062. Spinal cord compression": spinal_cord_compression.md
+  - "1063. Heparin-induced thrombocytopenia": heparin_induced_thrombocytopenia.md
+  - "1064. Respiratory failure due to enteral feeding": respiratory_failure_due_to_enteral_feeding.md
+  - "1065. Undescended testicle": undescended_testicle.md
+  - "1066. Hydrocele": hydrocele.md
+  - "1067. Pancreatic duct obstruction": pancreatic_duct_obstruction.md
+  - "1068. Genu valgum": genu_valgum.md
+  - "1069. Benign prostatic hyperplasia": benign_prostatic_hyperplasia.md
+  - "1070. Contusion": contusion.md
+  - "1071. Neonatal acne": neonatal_acne.md
+  - "1072. Otosclerosis": otosclerosis.md
+  - "1073. Schistosomiasis": schistosomiasis.md
+  - "1074. Mild cognitive impairment": mild_cognitive_impairment.md
+  - "1075. Primary hypogonadism": primary_hypogonadism.md
+  - "1076. Myocarditis": myocarditis.md
+  - "1077. Herpes zoster": herpes_zoster.md
+  - "1078. Premature separation of placenta": premature_separation_of_placenta.md
+  - "1079. Prader-Willi syndrome": prader_willi_syndrome.md
+  - "1080. Giardia": giardia.md
+  - "1081. HELLP syndrome": hellp_syndrome.md
+  - "1082. Abdominal aortic aneurysm": abdominal_aortic_aneurysm.md
+  - "1083. Lichen planus": lichen_planus.md
+  - "1084. Hallucinogen use disorder": hallucinogen_use_disorder.md
+  - "1085. Coronary artery spasm": coronary_artery_spasm.md
+  - "1086. Sarcoidosis": sarcoidosis.md
+  - "1087. Malignant hyperthermia": malignant_hyperthermia.md
+  - "1088. Selective IgM deficiency": selective_igm_deficiency.md
+  - "1089. Cervical dysplasia": cervical_dysplasia.md
+  - "1090. Granulomatous enteritis": granulomatous_enteritis.md
+  - "1091. Septic abortion": septic_abortion.md
+  - "1092. Histiocytosis": histiocytosis.md
+  - "1093. Lipoprotein lipase deficiency": lipoprotein_lipase_deficiency.md
+  - "1094. Hemothorax": hemothorax.md
+  - "1095. Osteomalacia": osteomalacia.md
+  - "1096. Hallucinogen intoxication": hallucinogen_intoxication.md
+  - "1097. Vasomotor symptoms of menopause": vasomotor_symptoms_of_menopause.md
+  - "1098. Pharyngeal obstruction": pharyngeal_obstruction.md
+  - "1099. Sleepwalking": sleepwalking.md
+  - "1100. Autism spectrum disorder": autism_spectrum_disorder.md
+  - "1101. Medullary thyroid cancer": medullary_thyroid_cancer.md
+  - "1102. IgA nephropathy": iga_nephropathy.md
+  - "1103. Dermatomycoses": dermatomycoses.md
+  - "1104. Peritonsillar abscess": peritonsillar_abscess.md
+  - "1105. Papillary necrosis": papillary_necrosis.md
+  - "1106. Abdominal wall hernia": abdominal_wall_hernia.md
+  - "1107. Pharyngeal foreign body": pharyngeal_foreign_body.md
+  - "1108. Prolactinoma": prolactinoma.md
+  - "1109. Fanconi syndrome": fanconi_syndrome.md
+  - "1110. Transient ischemic attack": transient_ischemic_attack.md
+  - "1111. Thymoma": thymoma.md
+  - "1112. Pill esophagitis": pill_esophagitis.md
+  - "1113. Ovarian cancer": ovarian_cancer.md
+  - "1114. Mesenteric ischemia": mesenteric_ischemia.md
+  - "1115. Rheumatoid arthritis": rheumatoid_arthritis.md
+  - "1116. Hypersensitivity pneumonitis": hypersensitivity_pneumonitis.md
+  - "1117. Membranous glomerulonephritis": membranous_glomerulonephritis.md
+  - "1118. C1r deficiency": c1r_deficiency.md
+  - "1119. Anal fistula": anal_fistula.md
+  - "1120. Pyridoxine deficiency": pyridoxine_deficiency.md
+  - "1121. Tendinitis": tendinitis.md
+  - "1122. Renal agenesis": renal_agenesis.md
+  - "1123. Pterygium": pterygium.md
+  - "1124. Alcohol intoxication": alcohol_intoxication.md
+  - "1125. Horner syndrome": horner_syndrome.md
+  - "1126. Selective IgA deficiency": selective_iga_deficiency.md
+  - "1127. Leiomyosarcoma": leiomyosarcoma.md
+  - "1128. Torticollis": torticollis.md
+  - "1129. Hypertrophic obstructive cardiomyopathy": hypertrophic_obstructive_cardiomyopathy.md
+  - "1130. Gastrointestinal carcinoid tumor": gastrointestinal_carcinoid_tumor.md
+  - "1131. Uveitis": uveitis.md
+  - "1132. Turcot syndrome": turcot_syndrome.md
+  - "1133. HIV": hiv.md
+  - "1134. Legg-Calve-Perthes disease": legg_calv_e_perthes_disease.md
+  - "1135. Delayed puberty": delayed_puberty.md
+  - "1136. Adrenoleukodystrophy": adrenoleukodystrophy.md
+  - "1137. Eastern equine encephalitis virus": eastern_equine_encephalitis_virus.md
+  - "1138. Uterine prolapse": uterine_prolapse.md
+  - "1139. Hematuria": hematuria.md
+  - "1140. Hyperthyroidism": hyperthyroidism.md
+  - "1141. MUTYH-associated polyposis": mutyh_associated_polyposis.md
+  - "1142. Diabetes mellitus in pregnancy": diabetes_mellitus_in_pregnancy.md
+  - "1143. Dysuria": dysuria.md
+  - "1144. Nasopharyngitis": nasopharyngitis.md
+  - "1145. Anal polyps": anal_polyps.md
+  - "1146. Isospora belli": isospora_belli.md
+  - "1147. C1q deficiency": c1q_deficiency.md
+  - "1148. Vitamin A toxicity": vitamin_a_toxicity.md
+  - "1149. Thalassemia in pregnancy": thalassemia_in_pregnancy.md
+  - "1150. Essential hypertension": essential_hypertension.md
+  - "1151. Lower gastrointestinal bleeding": lower_gastrointestinal_bleeding.md
+  - "1152. Hospital-acquired pneumonia": hospital_acquired_pneumonia.md
+  - "1153. Creutzfeldt-Jakob disease": creutzfeldt_jakob_disease.md
+  - "1154. Agranulocytosis": agranulocytosis.md
+  - "1155. Lumbar spinal stenosis": lumbar_spinal_stenosis.md
+  - "1156. Coxsackievirus B": coxsackievirus_b.md
+  - "1157. Congenital HIV": congenital_hiv.md
+  - "1158. Scoliosis": scoliosis.md
+  - "1159. Coccidioidomycosis": coccidioidomycosis.md
+  - "1160. Schizophrenia": schizophrenia.md
+  - "1161. Porphyria": porphyria.md
+  - "1162. Hypocortisolism": hypocortisolism.md
+  - "1163. Bronchiolitis obliterans organizing pneumonia": bronchiolitis_obliterans_organizing_pneumonia.md
+  - "1164. Tardive dyskinesia": tardive_dyskinesia.md
+  - "1165. Diverticulosis": diverticulosis.md
+  - "1166. Hypoparathyroidism": hypoparathyroidism.md
+  - "1167. Renal Laceration ⭐": renal_laceration.md
+  - "1168. IgA vasculitis": iga_vasculitis.md
+  - "1169. Hemoptysis": hemoptysis.md
+  - "1170. Anasarca": anasarca.md
+  - "1171. Cervical dystonia": cervical_dystonia.md
+  - "1172. Medicaid": medicaid.md
+  - "1173. Claudication": claudication.md
+  - "1174. Pneumocystis jirovecii pneumonia": pneumocystis_jirovecii_pneumonia.md
+  - "1175. Thrombophlebitis": thrombophlebitis.md
+  - "1176. Amyloidosis": amyloidosis.md
+  - "1177. Pheochromocytoma": pheochromocytoma.md
+  - "1178. Cleft palate": cleft_palate.md
+  - "1179. Secondary enuresis": secondary_enuresis.md
+  - "1180. Suppurative otitis media": suppurative_otitis_media.md
+  - "1181. Raynaud syndrome": raynaud_syndrome.md
+  - "1182. Post-term infant": post_term_infant.md
+  - "1183. Measles": measles.md
+  - "1184. Pleuritis": pleuritis.md
+  - "1185. Migraine": migraine.md
+  - "1186. Systolic heart failure": systolic_heart_failure.md
+  - "1187. Fibrocystic changes of breast": fibrocystic_changes_of_breast.md
+  - "1188. Chalazion": chalazion.md
+  - "1189. Human papillomavirus infection": human_papillomavirus_infection.md
+  - "1190. Abruptio placentae": abruptio_placentae.md
+  - "1191. Angiodysplasia": angiodysplasia.md
+  - "1192. Gastric polyps": gastric_polyps.md
+  - "1193. Severe combined immunodeficiency": severe_combined_immunodeficiency.md
+  - "1194. Vesicoureteral reflux": vesicoureteral_reflux.md
+  - "1195. Anuria": anuria.md
+  - "1196. Threatened abortion": threatened_abortion.md
+  - "1197. Syncope": syncope.md
+  - "1198. Osteodystrophy": osteodystrophy.md
+  - "1199. First-degree AV block": first_degree_av_block.md
+  - "1200. Diaper rash": diaper_rash.md
+  - "1201. Hyperopia": hyperopia.md
+  - "1202. Dizziness": dizziness.md
+  - "1203. Generalized anxiety disorder": generalized_anxiety_disorder.md
+  - "1204. Galactorrhea": galactorrhea.md
+  - "1205. Viral encephalitis": viral_encephalitis.md
+  - "1206. Thoracic aortic aneurysm": thoracic_aortic_aneurysm.md
+  - "1207. Bursitis": bursitis.md
+  - "1208. Cardiac tamponade": cardiac_tamponade.md
+  - "1209. Ventricular free wall rupture": ventricular_free_wall_rupture.md
+  - "1210. Chlamydia trachomatis infection": chlamydia_trachomatis_infection.md
+  - "1211. Bronchopneumonia": bronchopneumonia.md
+  - "1212. H1N1 influenza": h1n1_influenza.md
+  - "1213. Poliovirus": poliovirus.md
+  - "1214. Acquired methemoglobinemia": acquired_methemoglobinemia.md
+  - "1215. Vitamin E deficiency": vitamin_e_deficiency.md
+  - "1216. Head and neck cancer": head_and_neck_cancer.md
+  - "1217. Pharyngeal cancer": pharyngeal_cancer.md
+  - "1218. Splenic rupture": splenic_rupture.md
+  - "1219. Testicular cancer": testicular_cancer.md
+  - "1220. GERD": gerd.md
+  - "1221. Infected pilonidal cyst": infected_pilonidal_cyst.md
+  - "1222. Erythema nodosum": erythema_nodosum.md
+  - "1223. Restrictive cardiomyopathy": restrictive_cardiomyopathy.md
+  - "1224. Hypertensive retinopathy": hypertensive_retinopathy.md
+  - "1225. Chest pain": chest_pain.md
+  - "1226. Rectal prolapse": rectal_prolapse.md
+  - "1227. Osteogenesis imperfecta": osteogenesis_imperfecta.md
+  - "1228. Drug-induced aseptic meningitis": drug_induced_aseptic_meningitis.md
+  - "1229. Peritonitis": peritonitis.md
+  - "1230. Avian influenza": avian_influenza.md
+  - "1231. Breast hypertrophy": breast_hypertrophy.md
+  - "1232. Posterior reversible encephalopathy syndrome": posterior_reversible_encephalopathy_syndrome.md
+  - "1233. Mumps": mumps.md
+  - "1234. Acute bronchitis": acute_bronchitis.md
+  - "1235. Autonomic dysreflexia": autonomic_dysreflexia.md
+  - "1236. Renal artery stenosis": renal_artery_stenosis.md
+  - "1237. Multiple myeloma": multiple_myeloma.md
+  - "1238. Haemophilus ducreyi": haemophilus_ducreyi.md
+  - "1239. Chancroid": chancroid.md
+  - "1240. Transplant rejection": transplant_rejection.md
+  - "1241. Varicella zoster virus": varicella_zoster_virus.md
+  - "1242. Epidermal cyst": epidermal_cyst.md
+  - "1243. Hepatocellular carcinoma": hepatocellular_carcinoma.md
+  - "1244. Diarrhea": diarrhea.md
+  - "1245. Fever of unknown origin": fever_of_unknown_origin.md
+  - "1246. Hereditary elliptocytosis": hereditary_elliptocytosis.md
+  - "1247. Paranoid personality disorder": paranoid_personality_disorder.md
+  - "1248. Postpartum blues": postpartum_blues.md
+  - "1249. Toxoplasma gondii": toxoplasma_gondii.md
+  - "1250. Malabsorption": malabsorption.md
+  - "1251. Beckwith-Wiedemann syndrome": beckwith_wiedemann_syndrome.md
+  - "1252. Anaphylaxis": anaphylaxis.md
+  - "1253. Pulmonary tuberculosis": pulmonary_tuberculosis.md
+  - "1254. Primary insomnia": primary_insomnia.md
+  - "1255. Esophageal periapical abscess": esophageal_periapical_abscess.md
+  - "1256. Preeclampsia": preeclampsia.md
+  - "1257. Cataract": cataract.md
+  - "1258. Leukocytosis": leukocytosis.md
+  - "1259. Endophthalmitis": endophthalmitis.md
+  - "1260. Atrial flutter": atrial_flutter.md
+  - "1261. Pulmonic regurgitation": pulmonic_regurgitation.md
+  - "1262. Atrial septal defect": atrial_septal_defect.md
+  - "1263. Cutaneous T-cell lymphoma": cutaneous_t_cell_lymphoma.md
+  - "1264. Bartholin gland abscess": bartholin_gland_abscess.md
+  - "1265. Osteopenia": osteopenia.md
+  - "1266. Arterial embolism": arterial_embolism.md
+  - "1267. Compartment syndrome": compartment_syndrome.md
+  - "1268. Pelvic pain": pelvic_pain.md
+  - "1269. Orgasmic dysfunction": orgasmic_dysfunction.md
+  - "1270. Neonatal jaundice": neonatal_jaundice.md
+  - "1271. Protein S deficiency": protein_s_deficiency.md
+  - "1272. Antisocial personality disorder": antisocial_personality_disorder.md
+  - "1273. Arterial thrombosis": arterial_thrombosis.md
+  - "1274. Hepatitis E": hepatitis_e.md
+  - "1275. Septic abscess": septic_abscess.md
+  - "1276. Peyronie disease": peyronie_disease.md
+  - "1277. Primary sclerosing cholangitis": primary_sclerosing_cholangitis.md
+  - "1278. Arteriovenous malformation": arteriovenous_malformation.md
+  - "1279. Duodenal ulcer": duodenal_ulcer.md
+  - "1280. Granulomatous pyelonephritis": granulomatous_pyelonephritis.md
+  - "1281. Cytomegalovirus": cytomegalovirus.md
+  - "1282. Collagenous colitis": collagenous_colitis.md
+  - "1283. Nitrogen narcosis": nitrogen_narcosis.md
+  - "1284. Polycystic ovary syndrome": polycystic_ovary_syndrome.md
+  - "1285. Stable angina": stable_angina.md
+  - "1286. Gestational diabetes": gestational_diabetes.md
+  - "1287. Multifocal atrial tachycardia": multifocal_atrial_tachycardia.md
+  - "1288. Folate deficiency": folate_deficiency.md
+  - "1289. Kyphoscoliosis": kyphoscoliosis.md
+  - "1290. Abnormal cervical cytology": abnormal_cervical_cytology.md
+  - "1291. Intraparenchymal hemorrhage": intraparenchymal_hemorrhage.md
+  - "1292. Congenital pulmonary cyst": congenital_pulmonary_cyst.md
+  - "1293. Small intestine polyps": small_intestine_polyps.md
+  - "1294. Trichomoniasis": trichomoniasis.md
+  - "1295. Drug-induced myopathy": drug_induced_myopathy.md
+  - "1296. Neural tube defects": neural_tube_defects.md
+  - "1297. Silo-filler's lung": silo_filler_s_lung.md
+  - "1298. Lichen sclerosus": lichen_sclerosus.md
+  - "1299. Congenital toxoplasmosis": congenital_toxoplasmosis.md
+  - "1300. Enthesopathy": enthesopathy.md
+  - "1301. Vulvar dysplasia": vulvar_dysplasia.md
+  - "1302. Acute pancreatitis": acute_pancreatitis.md
+  - "1303. Persistent depressive disorder": persistent_depressive_disorder.md
+  - "1304. Antithrombin III deficiency": antithrombin_iii_deficiency.md
+  - "1305. Brain metastasis": brain_metastasis.md
+  - "1306. Placenta previa": placenta_previa.md
+  - "1307. Miller Fisher syndrome": miller_fisher_syndrome.md
+  - "1308. Backache": backache.md
+  - "1309. Ethylene glycol poisoning": ethylene_glycol_poisoning.md
+  - "1310. Mydriasis": mydriasis.md
+  - "1311. Sinus barotrauma": sinus_barotrauma.md
+  - "1312. Cushing syndrome": cushing_syndrome.md
+  - "1313. Thyroid storm": thyroid_storm.md
+  - "1314. Chordae tendineae rupture": chordae_tendineae_rupture.md
+  - "1315. Mixed acid-base disturbance": mixed_acid_base_disturbance.md
+  - "1316. Venous insufficiency": venous_insufficiency.md
+  - "1317. Short stature": short_stature.md
+  - "1318. Deductibles": deductibles.md
+  - "1319. Essential mixed cryoglobulinemia": essential_mixed_cryoglobulinemia.md
+  - "1320. C2 deficiency": c2_deficiency.md
+  - "1321. Hypercholesterolemia": hypercholesterolemia.md
+  - "1322. Leptospirosis": leptospirosis.md
+  - "1323. Asherman syndrome": asherman_syndrome.md
+  - "1324. Breast abscess": breast_abscess.md
+  - "1325. Septic arthritis": septic_arthritis.md
+  - "1326. Aplastic anemia": aplastic_anemia.md
+  - "1327. Myotonic dystrophy": myotonic_dystrophy.md
+  - "1328. Long QT syndrome": long_qt_syndrome.md
+  - "1329. Mannose-binding lectin deficiency": mannose_binding_lectin_deficiency.md
+  - "1330. Hypofibrinogenemia": hypofibrinogenemia.md
+  - "1331. Medication overuse headache": medication_overuse_headache.md
+  - "1332. Vertebral artery dissection": vertebral_artery_dissection.md
+  - "1333. Borderline personality disorder": borderline_personality_disorder.md
+  - "1334. Cytomegalovirus infection": cytomegalovirus_infection.md
+  - "1335. Lightning injury": lightning_injury.md
+  - "1336. Sialolithiasis": sialolithiasis.md
+  - "1337. Erysipelas": erysipelas.md
+  - "1338. Neonatal abstinence syndrome": neonatal_abstinence_syndrome.md
+  - "1339. Primary amenorrhea": primary_amenorrhea.md
+  - "1340. Premature ovarian failure": premature_ovarian_failure.md
+  - "1341. Chediak-Higashi disease": chediak_higashi_disease.md
+  - "1342. Squamous cell lung cancer": squamous_cell_lung_cancer.md
+  - "1343. Drug-induced parkinsonism": drug_induced_parkinsonism.md
+  - "1344. Night blindness": night_blindness.md
+  - "1345. Gastroenteritis": gastroenteritis.md
+  - "1346. Eosinophilic granuloma": eosinophilic_granuloma.md
+  - "1347. Pain disorder": pain_disorder.md
+  - "1348. Uterovaginal prolapse": uterovaginal_prolapse.md
+  - "1349. Homocysteinemia": homocysteinemia.md
+  - "1350. Allergic rhinitis": allergic_rhinitis.md
+  - "1351. Atrial fibrillation": atrial_fibrillation.md
+  - "1352. Empyema": empyema.md
+  - "1353. Arthralgia": arthralgia.md
+  - "1354. Scabies": scabies.md
+  - "1355. Autoimmune hepatitis": autoimmune_hepatitis.md
+  - "1356. Acne vulgaris": acne_vulgaris.md
+  - "1357. Vitamin B9 deficiency": vitamin_b9_deficiency.md
+  - "1358. Psychogenic nonepileptic seizures": psychogenic_nonepileptic_seizures.md
+  - "1359. Encopresis": encopresis.md
+  - "1360. Poison ivy and oak dermatitis": poison_ivy_and_oak_dermatitis.md
+  - "1361. Psoriatic arthritis": psoriatic_arthritis.md
+  - "1362. Adolescent pregnancy": adolescent_pregnancy.md
+  - "1363. Hypercalcemia": hypercalcemia.md
+  - "1364. Astigmatism": astigmatism.md
+  - "1365. Ectopic pregnancy": ectopic_pregnancy.md
+  - "1366. Esophageal varices": esophageal_varices.md
+  - "1367. Cauliflower ear": cauliflower_ear.md
+  - "1368. Morning sickness": morning_sickness.md
+  - "1369. Pancreatic neuroendocrine tumors": pancretic_neuroendocrine_tumors.md
+  - "1370. Metabolic bone disease": metabolic_bone_disease.md
+  - "1371. Inhalant use disorder": inhalant_use_disorder.md
+  - "1372. Vitamin K deficiency": vitamin_k_deficiency.md
+  - "1373. Toxic shock syndrome": toxic_shock_syndrome.md
+  - "1374. Hepatitis A": hepatitis_a.md
+  - "1375. Diabetic gastroparesis": diabetic_gastroparesis.md
+  - "1376. Systemic lupus erythematosus": systemic_lupus_erythematosus.md
+  - "1377. Down syndrome": down_syndrome.md
+  - "1378. MALT lymphoma": malt_lymphoma.md
+  - "1379. REM sleep behavior disorder": rem_sleep_behavior_disorder.md
+  - "1380. Patent ductus arteriosus": patent_ductus_arteriosus.md
+  - "1381. Tracheomalacia": tracheomalacia.md
+  - "1382. Congenital rubella": congenital_rubella.md
+  - "1383. Pityriasis rosea": pityriasis_rosea.md
+  - "1384. Neonatal herpes simplex": neonatal_herpes_simplex.md
+  - "1385. Small intestine cancer": small_intestine_cancer.md
+  - "1386. Cervical insufficiency": cervical_insufficiency.md
+  - "1387. Cerebral infarction": cerebral_infarction.md
+  - "1388. Penetrating chest wound": penetrating_chest_wound.md
+  - "1389. Atrophic vaginitis": atrophic_vaginitis.md
+  - "1390. Nipple discharge": nipple_discharge.md
+  - "1391. Beriberi": beriberi.md
+  - "1392. Varicose veins": varicose_veins.md
+  - "1393. Traumatic intracranial hemorrhage": traumatic_intracranial_hemorrhage.md
+  - "1394. Epiglottitis": epiglottitis.md
+  - "1395. Arteriovenous fistula": arteriovenous_fistula.md
+  - "1396. Epididymal cyst": epididymal_cyst.md
+  - "1397. Hemophilia A": hemophilia_a.md
+  - "1398. Idiopathic intracranial hypertension": idiopathic_intracranial_hypertension.md
+  - "1399. Candidiasis": candidiasis.md
+  - "1400. Adenovirus": adenovirus.md
+  - "1401. Nonaccidental trauma": nonaccidental_trauma.md
+  - "1402. High-altitude sickness": high_altitude_sickness.md
+  - "1403. Pyruvate kinase deficiency": pyruvate_kinase_deficiency.md
+  - "1404. Abdominal pain": abdominal_pain.md
+  - "1405. Pelvic organ prolapse": pelvic_organ_prolapse.md
+  - "1406. Perniosis": perniosis.md
+  - "1407. Congenital diaphragmatic hernia": congenital_diaphragmatic_hernia.md
+  - "1408. Insulinoma": insulinoma.md
+  - "1409. Tinea corporis": tinea_corporis.md
+  - "1410. Vocal cord polyp": vocal_cord_polyp.md
+  - "1411. Unexpected weight gain": unexpected_weight_gain.md
+  - "1412. Temporomandibular joint disorders": temporomandibular_joint_disorders.md
+  - "1413. Secondary hypertension": secondary_hypertension.md
+  - "1414. Growth hormone deficiency": growth_hormone_deficiency.md
+  - "1415. Rosacea": rosacea.md
+  - "1416. Burkholderia pseudomallei": burkholderia_pseudomallei.md
+  - "1417. Osteomyelitis": osteomyelitis.md
+  - "1418. Cranial nerve injury": cranial_nerve_injury.md
+  - "1419. Oral cavity cancer": oral_cavity_cancer.md
+  - "1420. Fibrositis": fibrositis.md
+  - "1421. ABO incompatibility in newborn": abo_incompatibility_in_newborn.md
+  - "1422. MSSA skin infection": mssa_skin_infection.md
+  - "1423. Complex regional pain syndrome": complex_regional_pain_syndrome.md
+  - "1424. Meningioma": meningioma.md
+  - "1425. Gout": gout.md
+  - "1426. Zenker diverticulum": zenker_diverticulum.md
+  - "1427. Virilization": virilization.md
+  - "1428. Secondary polycythemia": secondary_polycythemia.md
+  - "1429. Uremic syndrome": uremic_syndrome.md
+  - "1430. Peripheral arterial disease": peripheral_arterial_disease.md
+  - "1431. Sudden infant death syndrome": sudden_infant_death_syndrome.md
+  - "1432. Cardiac metastases": cardiac_metastases.md
+  - "1433. Thyrotoxicosis": thyrotoxicosis.md
+  - "1434. Acute fatty liver of pregnancy": acute_fatty_liver_of_pregnancy.md
+  - "1435. Pneumothorax": pneumothorax.md
+  - "1436. Fabry disease": fabry_disease.md
+  - "1437. PCP intoxication": pcp_intoxication.md
+  - "1438. Narcissistic personality disorder": narcissistic_personality_disorder.md
+  - "1439. Pure sensory neuropathy": pure_sensory_neuropathy.md
+  - "1440. Ischemic colitis": ischemic_colitis.md
+  - "1441. Juvenile idiopathic arthritis": juvenile_idiopathic_arthritis.md
+  - "1442. Asthma in pregnancy": asthma_in_pregnancy.md
+  - "1443. Pyelonephritis": pyelonephritis.md
+  - "1444. Waldenstrom macroglobulinemia": waldenstrom_macroglobulinemia.md
+  - "1445. Subhepatic abscess": subhepatic_abscess.md
+  - "1446. Congenital adrenal hyperplasia": congenital_adrenal_hyperplasia.md
+  - "1447. Rubella": rubella.md
+  - "1448. Coarctation of the aorta": coarctation_of_the_aorta.md
+  - "1449. C3 deficiency": c3_deficiency.md
+  - "1450. Anovulation": anovulation.md
+  - "1451. Blastomycosis": blastomycosis.md
+  - "1452. Obsessive-compulsive disorder": obsessive_compulsive_disorder.md
+  - "1453. Otitis externa": otitis_externa.md
+  - "1454. Cholesteatoma": cholesteatoma.md
+  - "1455. Tuberous sclerosis": tuberous_sclerosis.md
+  - "1456. Hypoxia": hypoxia.md
+  - "1457. Legionella": legionella.md
+  - "1458. Protein-calorie malnutrition": protein_calorie_malnutrition.md
+  - "1459. Meckel diverticulum": meckel_diverticulum.md
+  - "1460. Proteinuria": proteinuria.md
+  - "1461. Fibromyalgia": fibromyalgia.md
+  - "1462. Pernicious anemia": pernicious_anemia.md
+  - "1463. Volume overload": volume_overload.md
+  - "1464. Esophageal squamous cell carcinoma": esophageal_squamous_cell_carcinoma.md
+  - "1465. Wiskott-Aldrich syndrome": wiskott_aldrich_syndrome.md
+  - "1466. Flat foot": flat_foot.md
+  - "1467. Chronic lymphocytic leukemia": chronic_lymphocytic_leukemia.md
+  - "1468. Mumps virus": mumps_virus.md
+  - "1469. Selective IgE deficiency": selective_ige_deficiency.md
+  - "1470. Laryngomalacia": laryngomalacia.md
+  - "1471. Oppositional defiant disorder": oppositional_defiant_disorder.md
+  - "1472. Silicosis": silicosis.md
+  - "1473. Drowning": drowning.md
+  - "1474. Hepatopulmonary syndrome": hepatopulmonary_syndrome.md
+  - "1475. Transposition of the great vessels": transposition_of_the_great_vessels.md
+  - "1476. Postpartum sepsis": postpartum_sepsis.md
+  - "1477. Double Ureters ⭐": double_ureters.md
+  - "1478. Atheroembolic disease": atheroembolic_disease.md
+  - "1479. Foreign body in respiratory tract": foreign_body_in_respiratory_tract.md
+  - "1480. Leprosy": leprosy.md
+  - "1481. Hereditary angioedema": hereditary_angioedema.md
+  - "1482. Vulvovaginitis": vulvovaginitis.md
+  - "1483. EMTALA": emtala.md
+  - "1484. Arboviruses": arboviruses.md
+  - "1485. High-output heart failure": high_output_heart_failure.md
+  - "1486. Syphilis": syphilis.md
+  - "1487. Dyslexia": dyslexia.md
+  - "1488. Polycythemia vera": polycythemia_vera.md
+  - "1489. Taenia": taenia.md
+  - "1490. Secondary hypogonadism": secondary_hypogonadism.md
+  - "1491. Francisella tularensis": francisella_tularensis.md
+  - "1492. Intussusception": intussusception.md
+  - "1493. Mycosis fungoides": mycosis_fungoides.md
+  - "1494. Congenital methemoglobinemia": congenital_methemoglobinemia.md
+  - "1495. X-linked agammaglobulinemia": x_linked_agammaglobulinemia.md
+  - "1496. Type II hypersensitivity": type_ii_hypersensitivity.md
+  - "1497. Peptic ulcer perforation": peptic_ulcer_perforation.md
+  - "1498. Cor pulmonale": cor_pulmonale.md
+  - "1499. Scorpion bites": scorpion_bites.md
+  - "1500. Renal Dysplasia ⭐": renal_dysplasia.md
+  - "1501. Autoimmune hypogonadism": autoimmune_hypogonadism.md
+  - "1502. Serum sickness": serum_sickness.md
+  - "1503. Supraspinatus syndrome": supraspinatus_syndrome.md
+  - "1504. Thrombocytopenia": thrombocytopenia.md
+  - "1505. Folliculitis": folliculitis.md
+  - "1506. Spontaneous abortion": spontaneous_abortion.md
+  - "1507. Diverticulitis": diverticulitis.md
+  - "1508. Hypoglycemic shock": hypoglycemic_shock.md
+  - "1509. Infective myositis": infective_myositis.md
+  - "1510. Congenital hypothyroidism": congenital_hypothyroidism.md
+  - "1511. Iliac artery aneurysm": iliac_artery_aneurysm.md
+  - "1512. Scurvy": scurvy.md
+  - "1513. MSSA": mssa.md
+  - "1514. Viral meningitis": viral_meningitis.md
+  - "1515. Vertigo": vertigo.md
+  - "1516. Breech presentation": breech_presentation.md
+  - "1517. von Willebrand disease": von_willebrand_disease.md
+  - "1518. Barrett esophagus": barrett_esophagus.md
+  - "1519. Glomerular disease due to hepatitis B": glomerular_disease_due_to_hepatitis_b.md
+  - "1520. Embolic stroke": embolic_stroke.md
+  - "1521. Snake bites": snake_bites.md
+  - "1522. Ankylosing spondylitis": ankylosing_spondylitis.md
+  - "1523. Attention-deficit/hyperactivity disorder": attention_deficit_hyperactivity_disorder.md
+  - "1524. Thyroid nodule": thyroid_nodule.md
+  - "1525. Deep venous thrombosis": deep_venous_thrombosis.md
+  - "1526. Primary ciliary dyskinesia": primary_ciliary_dyskinesia.md
+  - "1527. Hypovolemic shock": hypovolemic_shock.md
+  - "1528. Retinoblastoma": retinoblastoma.md
+  - "1529. Salicylate poisoning": salicylate_poisoning.md
+  - "1530. Goodpasture syndrome": goodpasture_syndrome.md
+  - "1531. Pneumoconiosis": pneumoconiosis.md
+  - "1532. Barbiturate withdrawal": barbiturate_withdrawal.md
+  - "1533. Intrahepatic cholestasis of pregnancy": intrahepatic_cholestasis_of_pregnancy.md
+  - "1534. Cerebral edema": cerebral_edema.md
+  - "1535. Peripartum cardiomyopathy": peripartum_cardiomyopathy.md
+  - "1536. Muscle calcification": muscle_calcification.md
+  - "1537. Type III hypersensitivity": type_iii_hypersensitivity.md
+  - "1538. Anemia of pregnancy": anemia_of_pregnancy.md
+  - "1539. Fitz-Hugh-Curtis syndrome": fitz_hugh_curtis_syndrome.md
+  - "1540. Rectal abscess": rectal_abscess.md
+  - "1541. Hyperparathyroidism": hyperparathyroidism.md
+  - "1542. Hypothermia": hypothermia.md
+  - "1543. Bradycardia": bradycardia.md
+  - "1544. Iridocyclitis": iridocyclitis.md
+  - "1545. Body dysmorphic disorder": body_dysmorphic_disorder.md
+  - "1546. Wilms tumor": wilms_tumor.md
+  - "1547. Hymenoptera stings": hymenoptera_stings.md
+  - "1548. Drug-induced urinary retention": drug_induced_urinary_retention.md
+  - "1549. Colon cancer": colon_cancer.md
+  - "1550. Vitamin B1 deficiency": vitamin_b1_deficiency.md
+  - "1551. Hypereosinophilic syndrome": hypereosinophilic_syndrome.md
+  - "1552. Malocclusion": malocclusion.md
+  - "1553. Thermal injury": thermal_injury.md
+  - "1554. Condylomata acuminata": condylomata_acuminata.md
+  - "1555. Achondroplasia": achondroplasia.md
+  - "1556. Gastritis": gastritis.md
+  - "1557. Psychosexual dysfunction": psychosexual_dysfunction.md
+  - "1558. Mixed connective tissue disease": mixed_connective_tissue_disease.md
+  - "1559. Dyspareunia": dyspareunia.md
+  - "1560. Male breast cancer": male_breast_cancer.md
+  - "1561. Western equine encephalitis virus": western_equine_encephalitis_virus.md
+  - "1562. Thromboangiitis obliterans": thromboangiitis_obliterans.md
+  - "1563. Shigella": shigella.md
+  - "1564. Transfusion reaction": transfusion_reaction.md
+  - "1565. Diabetes insipidus": diabetes_insipidus.md
+  - "1566. Post-traumatic stress disorder": post_traumatic_stress_disorder.md
+  - "1567. Akathisia": akathisia.md
+  - "1568. Raynaud disease": raynaud_disease.md
+  - "1569. Osteochondritis dissecans": osteochondritis_dissecans.md
+  - "1570. Endocervicitis": endocervicitis.md
+  - "1571. Dupuytren contracture": dupuytren_contracture.md
+  - "1572. Bone infarct": bone_infarct.md
+  - "1573. Aldosteronoma": aldosteronoma.md
+  - "1574. Alopecia": alopecia.md
+  - "1575. Mallory-Weiss syndrome": mallory_weiss_syndrome.md
+  - "1576. Pulmonary anthrax": pulmonary_anthrax.md
+  - "1577. Bile duct obstruction": bile_duct_obstruction.md
+  - "1578. Phenylketonuria": phenylketonuria.md
+  - "1579. Uterine atony": uterine_atony.md
+  - "1580. Strain": strain.md
+  - "1581. Bronchiectasis": bronchiectasis.md
+  - "1582. Urethral Diverticulum ⭐": urethral_diverticulum.md
+  - "1583. Chondritis": chondritis.md
+  - "1584. Echovirus": echovirus.md
+  - "1585. Escherichia coli": escherichia_coli.md
+  - "1586. Gas exchange": gas_exchange.md
+  - "1587. Uterine leiomyoma": uterine_leiomyoma.md
+  - "1588. AIDS": aids.md
+  - "1589. Candida albicans": candida_albicans.md
+  - "1590. Secondary hyperthyroidism": secondary_hyperthyroidism.md
