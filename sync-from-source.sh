@@ -17,3 +17,6 @@ find "$DST" -maxdepth 1 -type f -name "*.md" ! -name "index.md" -delete
 
 cp "$SRC"/*.md "$DST"/
 echo "Copied $(ls "$SRC"/*.md | wc -l | tr -d ' ') files from $SRC -> $DST"
+
+# Regenerate the numbered nav in mkdocs.yml
+python3 "$(dirname "$0")/build_nav.py"

@@ -1,0 +1,69 @@
+/* Make the prev/next page-nav buttons large and tap-friendly. */
+.md-footer__inner {
+  padding: 1.5rem 0.8rem;
+  gap: 0.75rem;
+}
+
+.md-footer__link {
+  padding: 1.25rem 1rem;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 0.04);
+  transition: background-color 0.15s ease, transform 0.05s ease;
+  min-height: 4.5rem;
+  align-items: center;
+}
+
+.md-footer__link:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+  opacity: 1;
+}
+
+.md-footer__link:active {
+  transform: scale(0.98);
+}
+
+.md-footer__link--next {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.md-footer__link--next:hover {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+.md-footer__direction {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+.md-footer__title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Dark mode tweaks */
+[data-md-color-scheme="slate"] .md-footer__link {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-md-color-scheme="slate"] .md-footer__link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="slate"] .md-footer__link--next {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+
+[data-md-color-scheme="slate"] .md-footer__link--next:hover {
+  background-color: rgba(255, 255, 255, 0.14);
+}
+
+/* On mobile keep them roomy */
+@media (max-width: 600px) {
+  .md-footer__link {
+    padding: 1.5rem 1rem;
+    min-height: 5rem;
+  }
+  .md-footer__title {
+    font-size: 1.05rem;
+  }
+}
